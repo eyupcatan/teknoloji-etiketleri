@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "checks": [
+    "all 12 time chunks complete",
+    ">=500 nodes each",
+    "CSV weights = GraphML weights",
+    "node inventory including isolates preserved"
+  ],
+  "summary": [
+    {
+      "year": 2015,
+      "questions": 18922,
+      "nodes": 7693,
+      "edges": 37771,
+      "density": 0.0012765959747970056,
+      "components": 144,
+      "isolates": 108,
+      "duplicates": 0,
+      "invalid": 0,
+      "raw_pages": 196
+    },
+    {
+      "year": 2025,
+      "questions": 2070,
+      "nodes": 2478,
+      "edges": 6815,
+      "density": 0.002220590856379091,
+      "components": 112,
+      "isolates": 41,
+      "duplicates": 0,
+      "invalid": 0,
+      "raw_pages": 26
+    }
+  ]
+}
