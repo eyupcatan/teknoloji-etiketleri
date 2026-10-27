@@ -1,0 +1,259 @@
+{
+  "retrieved_at": "2026-10-26T19:04:44.622110+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420502400&todate=1420523999&sort=creation&order=asc&pagesize=100&page=10&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420502400,
+    "todate": 1420523999,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 10,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "android",
+          "android-service",
+          "background-service"
+        ],
+        "creation_date": 1420523702,
+        "question_id": 27792856,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792856/sending-sms-in-background"
+      },
+      {
+        "tags": [
+          "android",
+          "c++"
+        ],
+        "creation_date": 1420523703,
+        "question_id": 27792857,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792857/android-no-rule-to-make-target"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420523714,
+        "question_id": 27792859,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792859/how-to-display-sub-folder-name-using-php"
+      },
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "tomcat",
+          "gwt",
+          "myeclipse"
+        ],
+        "creation_date": 1420523717,
+        "question_id": 27792860,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792860/how-to-debug-gwt-projects-in-myeclipse"
+      },
+      {
+        "tags": [
+          "python",
+          "sublimetext",
+          "sublime-text-plugin"
+        ],
+        "creation_date": 1420523732,
+        "question_id": 27792862,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792862/use-sublime-text-api-open-file-but-path-is-not-correct"
+      },
+      {
+        "tags": [
+          "environment-variables",
+          "python-3.4",
+          "django-1.7",
+          "django-oscar"
+        ],
+        "creation_date": 1420523760,
+        "question_id": 27792865,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792865/python-3-4-django-1-7-oscar-configuration"
+      },
+      {
+        "tags": [
+          "c#",
+          "powerpoint",
+          "office-interop",
+          "cursor-position"
+        ],
+        "creation_date": 1420523778,
+        "question_id": 27792869,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792869/how-to-insert-text-into-the-cursor-position-in-a-powepoint-shapes-textrange"
+      },
+      {
+        "tags": [
+          "c#",
+          "c++",
+          "c",
+          "embedded",
+          "led"
+        ],
+        "creation_date": 1420523800,
+        "question_id": 27792871,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792871/regarding-logical-equation-on-my-c-programming"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "pdo",
+          "mamp"
+        ],
+        "creation_date": 1420523857,
+        "question_id": 27792878,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792878/why-doesnt-php-see-mamps-mysql-pdo-driver"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420523874,
+        "question_id": 27792884,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792884/how-do-i-add-a-textview-ontop-of-a-picture"
+      },
+      {
+        "tags": [
+          "matlab",
+          "computer-vision",
+          "vlfeat"
+        ],
+        "creation_date": 1420523879,
+        "question_id": 27792885,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792885/error-using-vl-gmm-attempt-to-execute-script-as-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "angularjs",
+          "forms"
+        ],
+        "creation_date": 1420523888,
+        "question_id": 27792887,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792887/stop-posting-html-tags-in-form-using-angularjs"
+      },
+      {
+        "tags": [
+          "javascript",
+          "asp.net"
+        ],
+        "creation_date": 1420523909,
+        "question_id": 27792893,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792893/javascript-to-open-new-asp-net-website-page-aspx-and-pass-a-value-to-its-textb"
+      },
+      {
+        "tags": [
+          "node.js",
+          "session",
+          "cookies",
+          "passport.js"
+        ],
+        "creation_date": 1420523910,
+        "question_id": 27792894,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792894/node-express-difference-between-req-cookies-and-req-session-cookie"
+      },
+      {
+        "tags": [
+          "sql",
+          "oracle-database",
+          "view",
+          "subquery",
+          "self-join"
+        ],
+        "creation_date": 1420523956,
+        "question_id": 27792903,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27792903/optimize-self-join"
+      },
+      {
+        "tags": [
+          "javascript",
+          "animation",
+          "three.js",
+          "3dsmax"
+        ],
+        "creation_date": 1420523973,
+        "question_id": 27792909,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792909/exporting-3dsmax-file-with-animations-to-threejs"
+      },
+      {
+        "tags": [
+          "c#",
+          "selenium",
+          "selenium-webdriver",
+          "webdriver",
+          "ui-automation"
+        ],
+        "creation_date": 1420523975,
+        "question_id": 27792910,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792910/element-isdisplayed-false-but-isenabled-true"
+      },
+      {
+        "tags": [
+          "sql-server-2012",
+          "migrating"
+        ],
+        "creation_date": 1420523988,
+        "question_id": 27792913,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792913/date-issue-after-migrating-to-sql-server-2012"
+      },
+      {
+        "tags": [
+          "ios",
+          "apache-flex",
+          "flash-builder"
+        ],
+        "creation_date": 1420523989,
+        "question_id": 27792914,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792914/flex-mobile-ios-adhoc-displays-black-screen-after-launch"
+      },
+      {
+        "tags": [
+          "android",
+          "seekbar"
+        ],
+        "creation_date": 1420523995,
+        "question_id": 27792916,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792916/android-custom-alert-dialog-mediaplayer-seekbar"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "flash"
+        ],
+        "creation_date": 1420523998,
+        "question_id": 27792919,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27792919/modify-http-request"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 262
+  }
+}

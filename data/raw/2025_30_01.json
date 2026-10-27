@@ -1,0 +1,1138 @@
+{
+  "retrieved_at": "2026-10-26T19:03:29.834803+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736229600&todate=1736251199&sort=creation&order=asc&pagesize=100&page=1&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736229600,
+    "todate": 1736251199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 1,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "flutter"
+        ],
+        "creation_date": 1736229974,
+        "question_id": 79335021,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335021/black-screen-using-flame-flutter"
+      },
+      {
+        "tags": [
+          "php",
+          "datetime",
+          "timezone"
+        ],
+        "creation_date": 1736230356,
+        "question_id": 79335030,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335030/wrong-time-returned-for-greenland-kazakhstan"
+      },
+      {
+        "tags": [
+          "search",
+          "indexing",
+          "search-engine"
+        ],
+        "creation_date": 1736230445,
+        "question_id": 79335032,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335032/how-do-you-index-a-shorten-url"
+      },
+      {
+        "tags": [
+          "typescript",
+          "postgresql",
+          "typeorm"
+        ],
+        "creation_date": 1736230632,
+        "question_id": 79335040,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335040/typeorm-unable-to-retrieve-joined-column"
+      },
+      {
+        "tags": [
+          "python",
+          "string",
+          "sed"
+        ],
+        "creation_date": 1736231085,
+        "question_id": 79335053,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335053/replace-substring-if-key-is-found-in-another-file"
+      },
+      {
+        "tags": [
+          "karate"
+        ],
+        "creation_date": 1736231466,
+        "question_id": 79335067,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335067/karate-config-running-multiples-times-before-each-scenarios"
+      },
+      {
+        "tags": [
+          "swift",
+          "flutter",
+          "icloud",
+          "flutter-platform-channel"
+        ],
+        "creation_date": 1736232315,
+        "question_id": 79335085,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335085/considerations-for-icloud-drive-icloud-support-in-flutter-apps"
+      },
+      {
+        "tags": [
+          "android-media3",
+          "exoplayer-media-item"
+        ],
+        "creation_date": 1736232334,
+        "question_id": 79335086,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335086/how-to-get-preview-with-effect-of-one-frame-in-media3-android"
+      },
+      {
+        "tags": [
+          "python",
+          "database",
+          "postgresql",
+          "sqlalchemy",
+          "fastapi"
+        ],
+        "creation_date": 1736232744,
+        "question_id": 79335098,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335098/how-to-dynamically-create-tables-based-on-user-ids-in-sqlalchemy-with-asyncsessi"
+      },
+      {
+        "tags": [
+          "javascript",
+          "firebase",
+          "vue.js",
+          "express",
+          "google-cloud-run"
+        ],
+        "creation_date": 1736232941,
+        "question_id": 79335103,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335103/vue-js-3-firebase-how-to-call-cloud-run-function-2nd-gen-firebase-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "mysql",
+          "node.js"
+        ],
+        "creation_date": 1736232944,
+        "question_id": 79335104,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335104/when-fetched-date-is-shows-as-one-day-behind-the-db-has-correct-data-stored"
+      },
+      {
+        "tags": [
+          "django",
+          "oauth-2.0",
+          "gmail"
+        ],
+        "creation_date": 1736233061,
+        "question_id": 79335107,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335107/gmail-with-oauth-rejects-my-token-password"
+      },
+      {
+        "tags": [
+          "angular",
+          "typescript",
+          "typescript-generics"
+        ],
+        "creation_date": 1736233140,
+        "question_id": 79335110,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335110/how-to-create-an-object-based-on-a-type-and-return-for-each-key-just-the-string"
+      },
+      {
+        "tags": [
+          "weka",
+          "rweka"
+        ],
+        "creation_date": 1736233469,
+        "question_id": 79335121,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335121/value-of-i-parameter-iterations-in-logistic-model-tree-lmt-classifier"
+      },
+      {
+        "tags": [
+          "c++",
+          "boost",
+          "boost-spirit-qi"
+        ],
+        "creation_date": 1736233475,
+        "question_id": 79335122,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335122/boostqi-rule-with-double-howto-parse-a-signed-int8"
+      },
+      {
+        "tags": [
+          "linux",
+          "delphi",
+          "webkit",
+          "firemonkey",
+          "twebbrowser"
+        ],
+        "creation_date": 1736233608,
+        "question_id": 79335129,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335129/delphi-firemonkey-fmx-linux-using-twebbrowser-on-linux"
+      },
+      {
+        "tags": [
+          "sql",
+          "postgresql",
+          "jsonb",
+          "supabase-database"
+        ],
+        "creation_date": 1736233781,
+        "question_id": 79335137,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335137/update-separate-table-columns-from-nested-jsonb-attributes"
+      },
+      {
+        "tags": [
+          "azure-cosmosdb"
+        ],
+        "creation_date": 1736233937,
+        "question_id": 79335139,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335139/passing-session-token-for-querying-multiple-items-in-cosmosdb"
+      },
+      {
+        "tags": [
+          "php",
+          "symfony"
+        ],
+        "creation_date": 1736234004,
+        "question_id": 79335141,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335141/bazinga-js-translation-files-not-found-in-production"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "angular",
+          "ng-bootstrap",
+          "angular-bootstrap"
+        ],
+        "creation_date": 1736234527,
+        "question_id": 79335155,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335155/how-to-make-the-bottom-of-a-ngbmodal-to-be-transparent-so-that-content-beneath-i"
+      },
+      {
+        "tags": [
+          "python",
+          "selenium-webdriver",
+          "cookies",
+          "google-sso"
+        ],
+        "creation_date": 1736234668,
+        "question_id": 79335164,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335164/how-can-i-set-a-cookie-using-selenium-on-a-site-before-accessing-it"
+      },
+      {
+        "tags": [
+          "modelica",
+          "openmodelica"
+        ],
+        "creation_date": 1736234674,
+        "question_id": 79335165,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335165/why-does-the-msl-linear-valve-stop-working-around-650-bars"
+      },
+      {
+        "tags": [
+          "wordpress",
+          "elementor",
+          "wordpress-rest-api"
+        ],
+        "creation_date": 1736234739,
+        "question_id": 79335168,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335168/elementor-pro-and-advanced-ajax-product-filters-conflict"
+      },
+      {
+        "tags": [
+          "google-sheets",
+          "google-sheets-formula"
+        ],
+        "creation_date": 1736234976,
+        "question_id": 79335170,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335170/add-column-after-importrange"
+      },
+      {
+        "tags": [
+          "python",
+          "scipy",
+          "data-analysis",
+          "curve-fitting"
+        ],
+        "creation_date": 1736235034,
+        "question_id": 79335173,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335173/good-r2-score-but-huge-parameter-uncertainty"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "next.js",
+          "aws-amplify",
+          "next-auth"
+        ],
+        "creation_date": 1736235171,
+        "question_id": 79335179,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335179/how-to-resolve-the-application-error-a-server-side-exception-has-occurred-whi"
+      },
+      {
+        "tags": [
+          "python",
+          "scipy",
+          "scipy-optimize"
+        ],
+        "creation_date": 1736235195,
+        "question_id": 79335180,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335180/why-is-curve-fit-giving-me-different-results-in-different-computers"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "filter",
+          "frontend",
+          "umbraco"
+        ],
+        "creation_date": 1736235356,
+        "question_id": 79335188,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335188/how-to-dynamically-render-images-based-on-button-clicks-in-umbraco-v13"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "spring-boot-maven-plugin"
+        ],
+        "creation_date": 1736235465,
+        "question_id": 79335195,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335195/how-to-exclude-a-dependency-along-with-its-transitive-dependencies-with-spring-b"
+      },
+      {
+        "tags": [
+          "html",
+          "gmail",
+          "structured-data"
+        ],
+        "creation_date": 1736235596,
+        "question_id": 79335199,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335199/looking-for-guidelines-for-creating-gmail-summary-cards-for-order-emails"
+      },
+      {
+        "tags": [
+          "auth0"
+        ],
+        "creation_date": 1736235910,
+        "question_id": 79335208,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335208/handling-logins-from-blocked-users-via-auth0"
+      },
+      {
+        "tags": [
+          "simics",
+          "dml-lang"
+        ],
+        "creation_date": 1736236191,
+        "question_id": 79335216,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335216/is-it-feasible-to-run-dml-compiler-dmlc-without-relying-on-a-simics-project"
+      },
+      {
+        "tags": [
+          "powerbi",
+          "business-intelligence",
+          "powerbi-datasource",
+          "power-bi-report-server",
+          "microsoft-fabric"
+        ],
+        "creation_date": 1736236324,
+        "question_id": 79335220,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335220/need-to-create-semantic-layer-connected-with-direct-database-through-rest-api-of"
+      },
+      {
+        "tags": [
+          "javascript",
+          "lazy-loading"
+        ],
+        "creation_date": 1736236403,
+        "question_id": 79335222,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335222/how-to-use-queryselectorall-instead-of-other-methods-in-targeting-multiple-eleme"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "oauth-2.0",
+          "gmail-api",
+          "email-attachments",
+          "google-workspace"
+        ],
+        "creation_date": 1736236483,
+        "question_id": 79335228,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335228/how-can-i-add-sending-emails-in-my-webapp"
+      },
+      {
+        "tags": [
+          "angular",
+          "angular-signals"
+        ],
+        "creation_date": 1736236985,
+        "question_id": 79335245,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335245/angular-signals-ignore-fast-value-changes"
+      },
+      {
+        "tags": [
+          "chatbot",
+          "large-language-model",
+          "crewai"
+        ],
+        "creation_date": 1736236997,
+        "question_id": 79335247,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335247/slow-response-time-in-cricket-specific-chatbot-using-crewai"
+      },
+      {
+        "tags": [
+          "apache-kafka",
+          "kafka-consumer-api",
+          "kafka-producer-api",
+          "confluent-schema-registry",
+          "confluent-kafka-go"
+        ],
+        "creation_date": 1736237015,
+        "question_id": 79335248,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335248/kafka-schema-registry-go-protobuf-broker-broker-failed-to-validate-record"
+      },
+      {
+        "tags": [
+          "ios",
+          "flutter",
+          "firebase-cloud-messaging",
+          "apple-push-notifications"
+        ],
+        "creation_date": 1736237061,
+        "question_id": 79335250,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335250/remove-delivered-notification-on-ios"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot"
+        ],
+        "creation_date": 1736237078,
+        "question_id": 79335251,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335251/i-want-to-specify-a-different-charset-for-one-controllers-response-all-other-co"
+      },
+      {
+        "tags": [
+          "flutter",
+          "firebase",
+          "dart",
+          "cross-platform",
+          "native"
+        ],
+        "creation_date": 1736237162,
+        "question_id": 79335255,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335255/error-couldnt-find-constructor-textstyle-is-not-allowing-me-to-run-flutter-a"
+      },
+      {
+        "tags": [
+          "node.js",
+          "npm",
+          "webpack",
+          "webpack-5"
+        ],
+        "creation_date": 1736237234,
+        "question_id": 79335257,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335257/referenceerror-exports-is-not-defined-after-update-to-node-22-12-from-node-22"
+      },
+      {
+        "tags": [
+          "javascript",
+          "broadcast"
+        ],
+        "creation_date": 1736237304,
+        "question_id": 79335264,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335264/communicating-between-two-domains-with-postmessage"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-logic-apps",
+          "scheduler"
+        ],
+        "creation_date": 1736237600,
+        "question_id": 79335275,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335275/azure-logic-app-scheduler-is-delayed-but-needs-to-run-on-a-certain-time"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "integration-testing",
+          "spring-kafka",
+          "embedded-kafka"
+        ],
+        "creation_date": 1736237641,
+        "question_id": 79335277,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335277/timeout-because-of-missing-topic-when-run-spring-boot-test-with-embeddedkafka"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "keycloak",
+          "keycloak-rest-api"
+        ],
+        "creation_date": 1736237692,
+        "question_id": 79335281,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335281/how-to-define-custom-user-attributes-in-keycloak-26s-realm-user-profile-via-the"
+      },
+      {
+        "tags": [
+          "python",
+          "airflow",
+          "directed-acyclic-graphs",
+          "raise",
+          "airflow-taskflow"
+        ],
+        "creation_date": 1736237815,
+        "question_id": 79335286,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335286/how-to-make-a-dag-fail-when-we-are-raising-exception-in-our-python-code"
+      },
+      {
+        "tags": [
+          "mysql",
+          "deadlock"
+        ],
+        "creation_date": 1736237904,
+        "question_id": 79335291,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335291/dead-lock-found-when-multiple-column-lock-data-when-runing-select-from-perform"
+      },
+      {
+        "tags": [
+          "xaml",
+          "winui-3",
+          "winui",
+          "windows-app-sdk"
+        ],
+        "creation_date": 1736237963,
+        "question_id": 79335294,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335294/titlebar-white-with-mica-in-winui-3"
+      },
+      {
+        "tags": [
+          "azure",
+          "powershell",
+          "azure-devops",
+          "azure-pipelines",
+          "azure-pipelines-yaml"
+        ],
+        "creation_date": 1736238110,
+        "question_id": 79335299,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335299/azure-template-with-a-script-cant-find-the-script-when-the-template-is-used-in"
+      },
+      {
+        "tags": [
+          "r",
+          "shiny",
+          "shinyauthr"
+        ],
+        "creation_date": 1736238115,
+        "question_id": 79335300,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335300/how-to-use-renderui-and-uioutput-to-conditionally-render-shinyauthr-loginui"
+      },
+      {
+        "tags": [
+          "autodesk-forge",
+          "autodesk",
+          "autodesk-bim360"
+        ],
+        "creation_date": 1736238176,
+        "question_id": 79335303,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335303/how-to-add-an-acc-bim360-project-user-from-api"
+      },
+      {
+        "tags": [
+          "powershell",
+          "vs-code",
+          "vscode-debugger"
+        ],
+        "creation_date": 1736238503,
+        "question_id": 79335322,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335322/vscode-with-powershell-debugging-running-as-administrator"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart"
+        ],
+        "creation_date": 1736238677,
+        "question_id": 79335330,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335330/solution-to-recover-from-stuck-page-when-using-navigator-2-0"
+      },
+      {
+        "tags": [
+          "android",
+          "android-jetpack-compose",
+          "android-jetpack"
+        ],
+        "creation_date": 1736238686,
+        "question_id": 79335332,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335332/image-content-scale-not-working-in-compose"
+      },
+      {
+        "tags": [
+          "pipeline",
+          "workspace",
+          "tekton"
+        ],
+        "creation_date": 1736238775,
+        "question_id": 79335340,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335340/how-to-specify-a-workspace-name-as-a-parameter-when-creating-a-tekton-trigger"
+      },
+      {
+        "tags": [
+          "c++",
+          "templates"
+        ],
+        "creation_date": 1736238953,
+        "question_id": 79335344,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335344/avoid-having-to-prefix-usage-of-templated-method-with-the-template-keyword"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba"
+        ],
+        "creation_date": 1736239049,
+        "question_id": 79335346,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335346/the-macro-takes-very-long-time-to-apply-on-a-table"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "msbuild",
+          "csproj"
+        ],
+        "creation_date": 1736239137,
+        "question_id": 79335349,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335349/reuse-the-directory-build-props-but-add-windows"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "swift-concurrency",
+          "sendable"
+        ],
+        "creation_date": 1736239281,
+        "question_id": 79335356,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335356/what-is-the-point-of-sendable-protocol-in-swift"
+      },
+      {
+        "tags": [
+          "android",
+          "ril"
+        ],
+        "creation_date": 1736239376,
+        "question_id": 79335361,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335361/how-do-i-confirm-the-reference-ril-version"
+      },
+      {
+        "tags": [
+          "clojure",
+          "lazy-evaluation",
+          "datomic"
+        ],
+        "creation_date": 1736239432,
+        "question_id": 79335364,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335364/using-lazy-seq-with-datomic-query-results-is-this-the-right-approach"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "razor",
+          "duende-identity-server",
+          "fast-endpoints"
+        ],
+        "creation_date": 1736239504,
+        "question_id": 79335366,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335366/razor-pages-should-only-listenen-to-specific-route"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "react-three-fiber",
+          "react-three-drei",
+          "orbitcontrols"
+        ],
+        "creation_date": 1736239601,
+        "question_id": 79335369,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335369/react-three-fiber-and-react-three-drei-orbitcontrols-error"
+      },
+      {
+        "tags": [
+          "c",
+          "gcc",
+          "linker",
+          "linker-errors"
+        ],
+        "creation_date": 1736239669,
+        "question_id": 79335371,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335371/version-depending-gcc-build-error-multiple-definition-of-g-common"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-boot",
+          "spring-mvc"
+        ],
+        "creation_date": 1736239758,
+        "question_id": 79335375,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335375/failed-to-load-applicationcontext-caused-by-org-springframework-beans-factory-u"
+      },
+      {
+        "tags": [
+          "mysql",
+          "subquery"
+        ],
+        "creation_date": 1736240017,
+        "question_id": 79335381,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335381/am-i-able-to-use-this-subquery-to-solve-this-sql-problem-without-having-to-use-g"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "windows",
+          "iis",
+          "webserver",
+          "quarkus"
+        ],
+        "creation_date": 1736240393,
+        "question_id": 79335392,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335392/running-quarkus-native-image-api-with-iis-as-a-reverse-proxy-alongside-asp-net-c"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1736240403,
+        "question_id": 79335394,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335394/how-to-rewrite-this-query-to-only-use-left-joins"
+      },
+      {
+        "tags": [
+          "node.js",
+          "concurrency",
+          "atomic",
+          "race-condition",
+          "termux"
+        ],
+        "creation_date": 1736240404,
+        "question_id": 79335395,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335395/cross-platform-syncronization-of-node-js-processes"
+      },
+      {
+        "tags": [
+          "visual-studio",
+          "keyboard-shortcuts"
+        ],
+        "creation_date": 1736240681,
+        "question_id": 79335402,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335402/ctrlc-was-pressed-waiting-for-second-key-of-chord-visual-studio-2022"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1736240771,
+        "question_id": 79335404,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335404/why-doesnt-github-actions-see-the-resource-file-in-the-assets-folder"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "t-sql"
+        ],
+        "creation_date": 1736240798,
+        "question_id": 79335406,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335406/case-sensitive-like-comparison-with-multiple-needleshaystacks"
+      },
+      {
+        "tags": [
+          "r",
+          "multithreading",
+          "foreach",
+          "gam"
+        ],
+        "creation_date": 1736240903,
+        "question_id": 79335412,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335412/pause-and-resume-gam-processing-in-r-with-multithreading-using-foreach"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-boot",
+          "jpa"
+        ],
+        "creation_date": 1736240912,
+        "question_id": 79335413,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335413/how-do-i-assign-the-foreign-key-column-in-my-database-after-importing-the-data"
+      },
+      {
+        "tags": [
+          "r",
+          "azure",
+          "package-development"
+        ],
+        "creation_date": 1736240970,
+        "question_id": 79335420,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335420/add-r-package-dependency-of-remote-repository-azure"
+      },
+      {
+        "tags": [
+          "sql",
+          "ms-access"
+        ],
+        "creation_date": 1736241488,
+        "question_id": 79335435,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335435/define-where-clause-parameters"
+      },
+      {
+        "tags": [
+          "python",
+          "postgresql",
+          "unit-testing",
+          "sqlalchemy",
+          "pytest"
+        ],
+        "creation_date": 1736241614,
+        "question_id": 79335441,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335441/how-can-i-test-a-sqlalchemy-engine-connection-to-an-external-database-in-pytest"
+      },
+      {
+        "tags": [
+          "laravel",
+          "localization"
+        ],
+        "creation_date": 1736241682,
+        "question_id": 79335445,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335445/laravel-localization-for-more-complex-content-with-html"
+      },
+      {
+        "tags": [
+          "python",
+          "pip",
+          "virtualenv",
+          "python-venv"
+        ],
+        "creation_date": 1736241900,
+        "question_id": 79335455,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335455/pip-install-r-requirements-txt-not-working-properly"
+      },
+      {
+        "tags": [
+          "spring",
+          "spring-boot",
+          "kotlin",
+          "file-upload",
+          "minio"
+        ],
+        "creation_date": 1736241901,
+        "question_id": 79335456,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335456/spring-not-allowing-file-upload-application-octet-not-supported"
+      },
+      {
+        "tags": [
+          "spring-authorization-server"
+        ],
+        "creation_date": 1736241913,
+        "question_id": 79335457,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335457/spring-authorization-server-in-high-availability-mode"
+      },
+      {
+        "tags": [
+          "numpy"
+        ],
+        "creation_date": 1736242108,
+        "question_id": 79335463,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335463/how-to-get-the-numpy-array-i-want"
+      },
+      {
+        "tags": [
+          "python",
+          "json",
+          "recursion"
+        ],
+        "creation_date": 1736242205,
+        "question_id": 79335471,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335471/python-recursion-getting-called-twice"
+      },
+      {
+        "tags": [
+          "c++",
+          "multithreading",
+          "queue",
+          "lock-free"
+        ],
+        "creation_date": 1736242270,
+        "question_id": 79335474,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335474/the-issue-mentioned-in-the-push-function-of-a-lock-free-queue-in-c-concurrenc"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "spring-events"
+        ],
+        "creation_date": 1736242383,
+        "question_id": 79335479,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335479/spring-boot-events-can-exceptions-thrown-by-listeners-be-handled"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "azure-keyvault",
+          "azure-durable-functions",
+          "delegatinghandler"
+        ],
+        "creation_date": 1736242579,
+        "question_id": 79335485,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335485/use-of-httpclient-with-a-delegatinghandler-in-azure-durable-orchestrations"
+      },
+      {
+        "tags": [
+          "node.js",
+          "pm2"
+        ],
+        "creation_date": 1736242636,
+        "question_id": 79335488,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335488/batch-processing-not-working-in-pm2-health"
+      },
+      {
+        "tags": [
+          "react-native",
+          "expo",
+          "twilio",
+          "twilio-video"
+        ],
+        "creation_date": 1736242698,
+        "question_id": 79335492,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335492/react-native-twilio-video-webrtc-with-expo-sdk-52-android-build-error"
+      },
+      {
+        "tags": [
+          "telegram",
+          "telegram-bot"
+        ],
+        "creation_date": 1736242834,
+        "question_id": 79335494,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335494/telegram-bot-api-telegramerror-400-bad-request-message-to-be-replied-not-fou"
+      },
+      {
+        "tags": [
+          "go",
+          "yaml"
+        ],
+        "creation_date": 1736242853,
+        "question_id": 79335496,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335496/dynamically-parse-yaml-object-to-one-of-the-corresponding-struct-type-in-go"
+      },
+      {
+        "tags": [
+          "c#",
+          "visual-studio"
+        ],
+        "creation_date": 1736242884,
+        "question_id": 79335498,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335498/how-do-i-package-a-class-in-a-class-library-to-a-dll"
+      },
+      {
+        "tags": [
+          "android",
+          "flutter",
+          "dart",
+          "riverpod",
+          "appwrite"
+        ],
+        "creation_date": 1736242891,
+        "question_id": 79335499,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335499/asyncerrorusererror-null-check-operator-used-on-a-null-value-stacktrace"
+      },
+      {
+        "tags": [
+          "mobile",
+          "adb",
+          "x86-64"
+        ],
+        "creation_date": 1736242934,
+        "question_id": 79335501,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335501/android-frida-server-script-executing-is-taking-too-long-not-progressing"
+      },
+      {
+        "tags": [
+          "css",
+          "background",
+          "gradient"
+        ],
+        "creation_date": 1736243069,
+        "question_id": 79335506,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335506/how-can-i-put-a-gradient-in-a-text-of-a-button-with-css-without-affecting-the-ba"
+      },
+      {
+        "tags": [
+          "dataframe",
+          "datatable",
+          "sum",
+          "organization"
+        ],
+        "creation_date": 1736243073,
+        "question_id": 79335507,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335507/sum-up-and-convert-a-dataframe"
+      },
+      {
+        "tags": [
+          "java",
+          "jpa",
+          "embeddable"
+        ],
+        "creation_date": 1736243182,
+        "question_id": 79335511,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335511/how-to-establish-a-many-to-onrelationship-between-two-classes-with-different-emb"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "dbeaver"
+        ],
+        "creation_date": 1736243201,
+        "question_id": 79335513,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335513/error-fix-dbeaver-driver-error-maven-artifactorg-postgresqlpostgresqlrele"
+      },
+      {
+        "tags": [
+          "php",
+          "laravel",
+          "laravel-filament"
+        ],
+        "creation_date": 1736243211,
+        "question_id": 79335514,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335514/issue-installing-filament-3-2-for-laravel-11"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart",
+          "package",
+          "table-calendar"
+        ],
+        "creation_date": 1736243226,
+        "question_id": 79335515,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335515/how-to-use-simpleswipeconfig-and-apply-custom-physics-for-faster-page-swiping-in"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 288
+  }
+}

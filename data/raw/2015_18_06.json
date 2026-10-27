@@ -1,0 +1,1115 @@
+{
+  "retrieved_at": "2026-10-26T19:06:29.607152+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420567200&todate=1420588799&sort=creation&order=asc&pagesize=100&page=6&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420567200,
+    "todate": 1420588799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 6,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "node.js",
+          "mongoose",
+          "populate"
+        ],
+        "creation_date": 1420573267,
+        "question_id": 27805971,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805971/what-it-means-by-populate-in-mongoose"
+      },
+      {
+        "tags": [
+          "c++",
+          "winapi",
+          "mfc",
+          "directx",
+          "hotkeys"
+        ],
+        "creation_date": 1420573280,
+        "question_id": 27805974,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805974/how-to-make-windows-hot-keys-work-in-direct-x-environments"
+      },
+      {
+        "tags": [
+          "ansible"
+        ],
+        "creation_date": 1420573289,
+        "question_id": 27805976,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805976/resolve-dictionary-key-or-parameter-variable-in-ansible"
+      },
+      {
+        "tags": [
+          "couchdb",
+          "pouchdb",
+          "emit"
+        ],
+        "creation_date": 1420573302,
+        "question_id": 27805980,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805980/map-function-with-multiple-keys"
+      },
+      {
+        "tags": [
+          "iphone",
+          "macos",
+          "cocoa",
+          "battery"
+        ],
+        "creation_date": 1420573321,
+        "question_id": 27805987,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805987/iphone-battery-percentage-on-os-x-cocoa-like-itunes"
+      },
+      {
+        "tags": [
+          "matlab",
+          "c++11",
+          "mex",
+          "g++4.8"
+        ],
+        "creation_date": 1420573325,
+        "question_id": 27805991,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805991/using-c11-in-mex-with-g-4-8-in-linux"
+      },
+      {
+        "tags": [
+          "android",
+          "android-layout"
+        ],
+        "creation_date": 1420573326,
+        "question_id": 27805992,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805992/make-viewgroup-covered-by-the-keyboard"
+      },
+      {
+        "tags": [
+          "linux",
+          "process",
+          "scheduling",
+          "proc",
+          "ps"
+        ],
+        "creation_date": 1420573363,
+        "question_id": 27805997,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805997/execute-process-for-n-cpu-cycles"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "sql-server-ce",
+          "windows-ce"
+        ],
+        "creation_date": 1420573365,
+        "question_id": 27805998,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805998/visual-basic-application-returning-a-550-error"
+      },
+      {
+        "tags": [
+          "grails",
+          "groovy",
+          "quartz-scheduler"
+        ],
+        "creation_date": 1420573368,
+        "question_id": 27806000,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806000/running-jobs-with-a-non-periodic-cron-expression-groovy"
+      },
+      {
+        "tags": [
+          "android",
+          "touch",
+          "popupwindow",
+          "dismiss"
+        ],
+        "creation_date": 1420573368,
+        "question_id": 27805999,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805999/popupwindow-control"
+      },
+      {
+        "tags": [
+          "solr",
+          "solrj"
+        ],
+        "creation_date": 1420573372,
+        "question_id": 27806002,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806002/how-to-upload-pdf-and-update-field-within-one-request-in-solr"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "canvas"
+        ],
+        "creation_date": 1420573384,
+        "question_id": 27806005,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806005/capture-what-is-under-my-canvas-as-part-of-the-image"
+      },
+      {
+        "tags": [
+          "antivirus",
+          "gridgain"
+        ],
+        "creation_date": 1420573437,
+        "question_id": 27806014,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806014/gridgain-download-from-maven-repository-blocked-by-avast-av"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420573439,
+        "question_id": 27806015,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806015/can-i-have-an-img-fill-a-fluid-square-box"
+      },
+      {
+        "tags": [
+          "algorithm",
+          "puzzle",
+          "heuristics",
+          "tiling"
+        ],
+        "creation_date": 1420573451,
+        "question_id": 27806017,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27806017/tiling-algorithm"
+      },
+      {
+        "tags": [
+          "android",
+          "android-layout",
+          "android-listview"
+        ],
+        "creation_date": 1420573454,
+        "question_id": 27806018,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806018/adjust-listview-along-with-expandable-edittext-in-chat-app"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "windows"
+        ],
+        "creation_date": 1420573456,
+        "question_id": 27806019,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806019/extract-text-from-a-running-programs-window-title-without-process-mainwindowtit"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "jquery-mobile"
+        ],
+        "creation_date": 1420573472,
+        "question_id": 27806025,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806025/css-wont-apply-after-dynamically-adding-nested-div"
+      },
+      {
+        "tags": [
+          "sql-server"
+        ],
+        "creation_date": 1420573485,
+        "question_id": 27806033,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806033/excluding-certain-aspects-in-sql"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "vim",
+          "mysqli"
+        ],
+        "creation_date": 1420573497,
+        "question_id": 27806037,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806037/vim-mysqli-functions-with-phpcomplete"
+      },
+      {
+        "tags": [
+          "google-analytics",
+          "google-analytics-api"
+        ],
+        "creation_date": 1420573499,
+        "question_id": 27806039,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806039/google-analytics-query-for-rank-change"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "rack"
+        ],
+        "creation_date": 1420573501,
+        "question_id": 27806040,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806040/rackmockrequest-response-of-deadlock-recursive-locking"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "pivot"
+        ],
+        "creation_date": 1420573513,
+        "question_id": 27806047,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806047/sql-pivot-query-without-aggregation-or-max"
+      },
+      {
+        "tags": [
+          "opengl",
+          "glsl",
+          "compute-shader"
+        ],
+        "creation_date": 1420573530,
+        "question_id": 27806051,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806051/run-compute-shader-on-cpus-simd"
+      },
+      {
+        "tags": [
+          "asp.net-mvc",
+          "asp.net-mvc-4",
+          "asp.net-mvc-routing",
+          "url-routing"
+        ],
+        "creation_date": 1420573534,
+        "question_id": 27806052,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806052/shorten-url-in-mvc-to-action-parameter"
+      },
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "math"
+        ],
+        "creation_date": 1420573547,
+        "question_id": 27806053,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806053/instance-methods-complex-numbers"
+      },
+      {
+        "tags": [
+          "php",
+          "arrays",
+          "laravel"
+        ],
+        "creation_date": 1420573552,
+        "question_id": 27806057,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806057/php-laravel-test-query-result"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "rake",
+          "rails-migrations"
+        ],
+        "creation_date": 1420573606,
+        "question_id": 27806065,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806065/rake-dbmigrate-does-nothing-even-on-reset"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "rack"
+        ],
+        "creation_date": 1420573608,
+        "question_id": 27806066,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806066/rails-rack-default-network-timeout-value"
+      },
+      {
+        "tags": [
+          "java",
+          "json",
+          "jaxb",
+          "moxy"
+        ],
+        "creation_date": 1420573614,
+        "question_id": 27806069,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806069/stackoverflow-error-while-creating-jaxbcontext-using-moxy-in-jboss"
+      },
+      {
+        "tags": [
+          "linux",
+          "centos",
+          "grub"
+        ],
+        "creation_date": 1420573621,
+        "question_id": 27806070,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806070/centos-7-emergency-mode-infinite-error"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420573621,
+        "question_id": 27806071,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806071/can-i-apply-css-to-a-divs-background-image"
+      },
+      {
+        "tags": [
+          "c++",
+          "sfml"
+        ],
+        "creation_date": 1420573649,
+        "question_id": 27806077,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806077/sfml-drawing-centered-text"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css",
+          "grid"
+        ],
+        "creation_date": 1420573654,
+        "question_id": 27806078,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806078/force-tiles-to-take-all-the-available-space"
+      },
+      {
+        "tags": [
+          "jquery",
+          "css",
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420573654,
+        "question_id": 27806079,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806079/center-of-the-window-in-bootstrap3"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "asp.net-mvc",
+          "entity-framework",
+          "entity-framework-6"
+        ],
+        "creation_date": 1420573661,
+        "question_id": 27806082,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806082/web-api-service-layer-ef6-without-repository-pattern"
+      },
+      {
+        "tags": [
+          "windows",
+          "batch-file",
+          "rename"
+        ],
+        "creation_date": 1420573676,
+        "question_id": 27806085,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806085/renaming-a-batch-file-and-keeping-part-of-the-filename"
+      },
+      {
+        "tags": [
+          "cors",
+          "asp.net-web-api2"
+        ],
+        "creation_date": 1420573677,
+        "question_id": 27806086,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806086/asp-net-web-api-handling-origin-not-allowed-message"
+      },
+      {
+        "tags": [
+          "gulp"
+        ],
+        "creation_date": 1420573703,
+        "question_id": 27806092,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806092/check-if-runsequence-fail"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "variables"
+        ],
+        "creation_date": 1420573707,
+        "question_id": 27806093,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806093/how-do-i-pass-a-var-text-into-a-php-var"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "cordova"
+        ],
+        "creation_date": 1420573712,
+        "question_id": 27806095,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806095/what-happens-if-a-write-to-localstorage-is-canceled"
+      },
+      {
+        "tags": [
+          "twitter-bootstrap",
+          "frontend"
+        ],
+        "creation_date": 1420573715,
+        "question_id": 27806096,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806096/why-does-bootstrap-divide-the-viewport-into-12-columns"
+      },
+      {
+        "tags": [
+          "jquery",
+          "select",
+          "radio-button"
+        ],
+        "creation_date": 1420573719,
+        "question_id": 27806098,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806098/how-to-pre-select-a-radio-button-in-jquery"
+      },
+      {
+        "tags": [
+          "xaml",
+          "windows-phone-7"
+        ],
+        "creation_date": 1420573721,
+        "question_id": 27806101,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806101/how-to-create-emailto-hyperlink-in-windows-phone"
+      },
+      {
+        "tags": [
+          "testing",
+          "load",
+          "jmeter",
+          "loadrunner",
+          "grinder"
+        ],
+        "creation_date": 1420573726,
+        "question_id": 27806102,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806102/migrating-from-loadrunner-the-grinder-to-jmeter-where-are-the-scripts"
+      },
+      {
+        "tags": [
+          "core-data",
+          "swift",
+          "ios8",
+          "nspredicate"
+        ],
+        "creation_date": 1420573732,
+        "question_id": 27806103,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806103/using-predicates-to-search-within-results"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf",
+          "image"
+        ],
+        "creation_date": 1420573741,
+        "question_id": 27806104,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806104/binding-image-source-to-system-drawing-image-not-displaying"
+      },
+      {
+        "tags": [
+          "java",
+          "mysql",
+          "gwt"
+        ],
+        "creation_date": 1420573745,
+        "question_id": 27806105,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806105/my-database-class-is-too-big-poor-coding-how-can-i-make-this-better"
+      },
+      {
+        "tags": [
+          "angularjs"
+        ],
+        "creation_date": 1420573757,
+        "question_id": 27806108,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806108/angular-unit-tests-for-module-run-method"
+      },
+      {
+        "tags": [
+          "css",
+          "internet-explorer",
+          "internet-explorer-9"
+        ],
+        "creation_date": 1420573766,
+        "question_id": 27806112,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806112/ie9-miscalculates-min-height-on-dom-update-with-overflow-set"
+      },
+      {
+        "tags": [
+          "ios",
+          "unity-game-engine"
+        ],
+        "creation_date": 1420573766,
+        "question_id": 27806113,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806113/saving-and-loading-game-data-not-working"
+      },
+      {
+        "tags": [
+          "rascal"
+        ],
+        "creation_date": 1420573776,
+        "question_id": 27806116,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806116/output-truncated-in-rascal-commandline-repl"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "cordova"
+        ],
+        "creation_date": 1420573786,
+        "question_id": 27806121,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806121/using-ngcordova-with-cordova-app"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "post"
+        ],
+        "creation_date": 1420573787,
+        "question_id": 27806122,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806122/pass-post-over-to-two-pages"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "sql",
+          "select",
+          "subquery"
+        ],
+        "creation_date": 1420573798,
+        "question_id": 27806127,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806127/select-all-comments-with-all-posts-php-mysql"
+      },
+      {
+        "tags": [
+          "c#",
+          "automapper"
+        ],
+        "creation_date": 1420573799,
+        "question_id": 27806128,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806128/any-suggestion-to-drive-automapper-mapping-through-user-defined-configuration"
+      },
+      {
+        "tags": [
+          "javascript",
+          "svg",
+          "d3.js",
+          "chess"
+        ],
+        "creation_date": 1420573818,
+        "question_id": 27806132,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806132/how-to-draw-a-chess-board-in-d3"
+      },
+      {
+        "tags": [
+          "bash",
+          "vim",
+          "vi",
+          "prompt"
+        ],
+        "creation_date": 1420573842,
+        "question_id": 27806138,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806138/vim-script-leaves-characters-in-stdin"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "indexeddb",
+          "web-storage"
+        ],
+        "creation_date": 1420573857,
+        "question_id": 27806141,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806141/indexeddb-cant-pass-variable-after-onsuccess-when-opening-database"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css",
+          "drop-down-menu"
+        ],
+        "creation_date": 1420573866,
+        "question_id": 27806145,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806145/dynamic-drop-down-menu-appearing-in-relation-to-browser-windows-width"
+      },
+      {
+        "tags": [
+          "sql",
+          "postgresql",
+          "database-design"
+        ],
+        "creation_date": 1420573895,
+        "question_id": 27806149,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806149/conditionally-linking-postgres-rows-to-data-in-various-other-tables"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "database",
+          "postgresql"
+        ],
+        "creation_date": 1420573907,
+        "question_id": 27806152,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806152/export-postgres-table-based-on-rails-relation"
+      },
+      {
+        "tags": [
+          "ssis"
+        ],
+        "creation_date": 1420573924,
+        "question_id": 27806153,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806153/sql-server-len-gives-unexpected-results"
+      },
+      {
+        "tags": [
+          "android",
+          "authentication",
+          "wifi",
+          ".netrc"
+        ],
+        "creation_date": 1420573927,
+        "question_id": 27806155,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806155/use-netrc-for-corp-wifi-password"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420573940,
+        "question_id": 27806157,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806157/drawing-dots-and-boxes-using-for-loop-and-matrix"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "fonts"
+        ],
+        "creation_date": 1420574008,
+        "question_id": 27806173,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806173/resizing-scaling-fonts-in-inner-container"
+      },
+      {
+        "tags": [
+          "google-app-engine",
+          "google-openid"
+        ],
+        "creation_date": 1420574021,
+        "question_id": 27806174,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806174/what-about-the-users-python-api"
+      },
+      {
+        "tags": [
+          "jquery",
+          "ajax",
+          "asp.net-mvc",
+          "asp.net-mvc-4",
+          "onclick"
+        ],
+        "creation_date": 1420574046,
+        "question_id": 27806182,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806182/getting-multiple-textboxes-values-in-jquery-mvc"
+      },
+      {
+        "tags": [
+          "mysql",
+          "search",
+          "joomla"
+        ],
+        "creation_date": 1420574059,
+        "question_id": 27806184,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806184/mysql-search-two-fields-and-prioritize-results-with-matches-on-one-of-the-fields"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420574081,
+        "question_id": 27806192,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806192/replace-html-content-and-revert-on-hover"
+      },
+      {
+        "tags": [
+          "javascript",
+          "ruby",
+          "arrays"
+        ],
+        "creation_date": 1420574100,
+        "question_id": 27806195,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806195/how-to-turn-this-ruby-string-into-a-normal-array"
+      },
+      {
+        "tags": [
+          "javascript",
+          "mongodb",
+          "meteor",
+          "momentjs"
+        ],
+        "creation_date": 1420574134,
+        "question_id": 27806202,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806202/meteor-how-to-add-and-query-dates-in-mongodb-with-momentjs"
+      },
+      {
+        "tags": [
+          "algorithm",
+          "math",
+          "time-complexity"
+        ],
+        "creation_date": 1420574135,
+        "question_id": 27806203,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27806203/what-is-the-complexity-of-an-arithmetic-progression"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "uisearchdisplaycontroller"
+        ],
+        "creation_date": 1420574157,
+        "question_id": 27806204,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806204/ios-search-view-controller-glitch"
+      },
+      {
+        "tags": [
+          "javascript",
+          "facebook",
+          "meteor",
+          "iron-router"
+        ],
+        "creation_date": 1420574163,
+        "question_id": 27806206,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806206/facebook-button-does-not-work-with-iron-router"
+      },
+      {
+        "tags": [
+          "ms-word",
+          "docx"
+        ],
+        "creation_date": 1420574174,
+        "question_id": 27806208,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806208/can-i-convert-docx-word-documents-using-the-docx-net-library"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420574177,
+        "question_id": 27806211,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806211/javascript-error-with-my-code"
+      },
+      {
+        "tags": [
+          "c++",
+          "opengl",
+          "visual-studio-2012"
+        ],
+        "creation_date": 1420574181,
+        "question_id": 27806213,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806213/error-c2664-auxdibimageloadw-cannot-convert-parameter-1-from-lpstr-to-lp"
+      },
+      {
+        "tags": [
+          "nginx",
+          "php-5.4",
+          "zend-server"
+        ],
+        "creation_date": 1420574198,
+        "question_id": 27806216,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806216/unable-to-install-zend-server-6-1-on-centos-6-5-wtih-php-5-4-and-nginx"
+      },
+      {
+        "tags": [
+          "c++",
+          "arrays",
+          "pointers",
+          "notation"
+        ],
+        "creation_date": 1420574199,
+        "question_id": 27806217,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806217/inserting-numbers-to-an-array-using-pointer-notation-c"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "xml"
+        ],
+        "creation_date": 1420574226,
+        "question_id": 27806222,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806222/how-to-display-styled-print-out-of-xml-on-website"
+      },
+      {
+        "tags": [
+          "android",
+          "facebook"
+        ],
+        "creation_date": 1420574228,
+        "question_id": 27806225,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806225/nothing-happens-after-facebook-login-requests-is-authenticated"
+      },
+      {
+        "tags": [
+          "ios",
+          "webkit",
+          "css-transitions"
+        ],
+        "creation_date": 1420574241,
+        "question_id": 27806229,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806229/css-max-height-transition-double-animation-bug-in-webkit"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "linker"
+        ],
+        "creation_date": 1420574255,
+        "question_id": 27806234,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806234/xcode-6-test-target-mach-o-linker-error"
+      },
+      {
+        "tags": [
+          "regex",
+          "go"
+        ],
+        "creation_date": 1420574260,
+        "question_id": 27806236,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806236/match-proceeding-word-without-look-ahead-in-go"
+      },
+      {
+        "tags": [
+          "mockito",
+          "powermock"
+        ],
+        "creation_date": 1420574275,
+        "question_id": 27806238,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806238/powermockito-not-obeying-when-thenreturn"
+      },
+      {
+        "tags": [
+          "php",
+          ".htaccess",
+          "mod-rewrite"
+        ],
+        "creation_date": 1420574277,
+        "question_id": 27806239,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806239/htaccess-re-direct-issues"
+      },
+      {
+        "tags": [
+          "sql",
+          "oracle-database",
+          "join"
+        ],
+        "creation_date": 1420574296,
+        "question_id": 27806242,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806242/fast-refresh-materialized-view-with-primary-key-based-log"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "parameters",
+          "filter",
+          "report",
+          "reportviewer"
+        ],
+        "creation_date": 1420574306,
+        "question_id": 27806245,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806245/vb-net-report-viewer-parameters"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "ng-class"
+        ],
+        "creation_date": 1420574314,
+        "question_id": 27806249,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806249/how-to-toggle-ng-class-in-angularjs"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "arrays",
+          "json",
+          "dom"
+        ],
+        "creation_date": 1420574326,
+        "question_id": 27806252,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806252/how-can-i-put-json-data-into-a-jquery-javascript-array-for-later-use"
+      },
+      {
+        "tags": [
+          "r",
+          "data.table"
+        ],
+        "creation_date": 1420574334,
+        "question_id": 27806255,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806255/a-bug-for-setcolorder-function-in-data-table"
+      },
+      {
+        "tags": [
+          "javascript",
+          "regex"
+        ],
+        "creation_date": 1420574346,
+        "question_id": 27806256,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806256/regular-expression-match-over-multiple-lines"
+      },
+      {
+        "tags": [
+          "php",
+          "laravel",
+          "laravel-4",
+          "laravel-routing"
+        ],
+        "creation_date": 1420574359,
+        "question_id": 27806257,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806257/laravel-rename-routing-resource-path-names"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "meteor"
+        ],
+        "creation_date": 1420574368,
+        "question_id": 27806260,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806260/automatically-update-lastmodified-attribute-in-mongodb-document-on-change-mete"
+      },
+      {
+        "tags": [
+          "ruby",
+          "oh-my-zsh",
+          "chruby"
+        ],
+        "creation_date": 1420574369,
+        "question_id": 27806261,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806261/upgraded-to-yosemite-and-now-ruby-libraries-are-breaking"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "mysqli"
+        ],
+        "creation_date": 1420574378,
+        "question_id": 27806264,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806264/are-mysqli-functions-the-same-as-mysql"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420574402,
+        "question_id": 27806268,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806268/automatically-scroll-to-bottom-of-div"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "scala",
+          "akka",
+          "casbah"
+        ],
+        "creation_date": 1420574413,
+        "question_id": 27806271,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27806271/how-to-insert-into-mongodb-from-actor-using-casbah"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 219
+  }
+}

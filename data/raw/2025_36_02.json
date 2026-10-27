@@ -1,0 +1,1115 @@
+{
+  "retrieved_at": "2026-10-26T19:03:41.816122+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736251200&todate=1736272799&sort=creation&order=asc&pagesize=100&page=2&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736251200,
+    "todate": 1736272799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 2,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "c"
+        ],
+        "creation_date": 1736260818,
+        "question_id": 79336369,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336369/while-loop-repeat-the-output-string"
+      },
+      {
+        "tags": [
+          "instagram",
+          "facebook-webhooks"
+        ],
+        "creation_date": 1736261143,
+        "question_id": 79336385,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336385/how-to-get-the-original-reel-url-from-instagram-webhook-response"
+      },
+      {
+        "tags": [
+          "azure",
+          "jwt",
+          "access-token"
+        ],
+        "creation_date": 1736261222,
+        "question_id": 79336389,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336389/azure-generation-token-invalid-signature"
+      },
+      {
+        "tags": [
+          "netlify",
+          "netlify-function"
+        ],
+        "creation_date": 1736261234,
+        "question_id": 79336391,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336391/netlify-functions-high-invocations"
+      },
+      {
+        "tags": [
+          "ag-grid"
+        ],
+        "creation_date": 1736261455,
+        "question_id": 79336402,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336402/very-slow-initial-load-ag-grid"
+      },
+      {
+        "tags": [
+          "svelte",
+          "svelte-5"
+        ],
+        "creation_date": 1736261669,
+        "question_id": 79336413,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336413/nested-reactive-state-passed-as-a-property"
+      },
+      {
+        "tags": [
+          "python",
+          "c",
+          "shared-memory"
+        ],
+        "creation_date": 1736261792,
+        "question_id": 79336417,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336417/why-is-my-shared-memory-reading-zeroes-on-macos"
+      },
+      {
+        "tags": [
+          "celery",
+          "posthog"
+        ],
+        "creation_date": 1736261858,
+        "question_id": 79336419,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336419/how-to-debug-celery-in-pycharm"
+      },
+      {
+        "tags": [
+          "python",
+          "xero-api"
+        ],
+        "creation_date": 1736261863,
+        "question_id": 79336420,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336420/unable-to-construct-a-duedate-string-for-the-invoice-api-call"
+      },
+      {
+        "tags": [
+          "python",
+          "dataframe",
+          "user-defined-functions",
+          "python-polars"
+        ],
+        "creation_date": 1736262157,
+        "question_id": 79336434,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336434/python-polars-pass-named-row-to-pl-dataframe-map-rows"
+      },
+      {
+        "tags": [
+          "powershell"
+        ],
+        "creation_date": 1736262157,
+        "question_id": 79336435,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336435/display-the-real-error-location-when-using-write-error-inside-a-powershell-scrip"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas",
+          "web-scraping",
+          "beautifulsoup"
+        ],
+        "creation_date": 1736262355,
+        "question_id": 79336443,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336443/python-beautifulsoup-scraping-yield-data"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "apache-kafka-streams",
+          "confluent-cloud"
+        ],
+        "creation_date": 1736262416,
+        "question_id": 79336448,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336448/kafka-streams-partition-assigner-not-using-all-available-clients"
+      },
+      {
+        "tags": [
+          "websocket",
+          "cloudflare",
+          "worker"
+        ],
+        "creation_date": 1736262847,
+        "question_id": 79336461,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336461/trying-to-use-websocket-hibernation-api"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf",
+          "mvvm",
+          "datagrid",
+          "relaycommand"
+        ],
+        "creation_date": 1736262917,
+        "question_id": 79336462,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336462/wpf-checkbox-in-datagrid-not-firing-relaycommand-in-the-viewmodel"
+      },
+      {
+        "tags": [
+          "assembly",
+          "x86",
+          "nasm",
+          "bootloader",
+          "osdev"
+        ],
+        "creation_date": 1736262950,
+        "question_id": 79336464,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336464/qemu-emulator-flickers-when-entering-protected-mode-for-custom-bootloader"
+      },
+      {
+        "tags": [
+          "css",
+          "svelte",
+          "sveltekit",
+          "postcss",
+          "svelte-5"
+        ],
+        "creation_date": 1736263038,
+        "question_id": 79336469,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336469/normalizing-css-globally"
+      },
+      {
+        "tags": [
+          "trace",
+          "perfetto"
+        ],
+        "creation_date": 1736263071,
+        "question_id": 79336471,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336471/can-i-draw-arrows-between-arrows-in-chrome-trace"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1736263080,
+        "question_id": 79336472,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336472/do-i-need-partition-or-distinct-to-avoid-a-primary-key-constraint-violation"
+      },
+      {
+        "tags": [
+          "sql",
+          "postgresql",
+          "performance",
+          "optimization"
+        ],
+        "creation_date": 1736263158,
+        "question_id": 79336476,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336476/improving-performance-of-large-table-inserts-in-postgresql"
+      },
+      {
+        "tags": [
+          "python-3.x",
+          "kubernetes",
+          "google-cloud-storage",
+          "airflow",
+          "google-kubernetes-engine"
+        ],
+        "creation_date": 1736263161,
+        "question_id": 79336477,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336477/mount-the-directory-from-gcs-cloud-bucket-dynamically-in-the-dag-by-fetching-the"
+      },
+      {
+        "tags": [
+          "swift",
+          "uicollectionview",
+          "uicollectionviewcell",
+          "reuseidentifier",
+          "uicollectionviewdiffabledatasource"
+        ],
+        "creation_date": 1736263173,
+        "question_id": 79336480,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336480/do-i-need-a-uicollectionview-cellregistration-for-every-individual-contentconf"
+      },
+      {
+        "tags": [
+          "powerbi",
+          "dax"
+        ],
+        "creation_date": 1736263210,
+        "question_id": 79336486,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336486/how-would-you-get-category-share-across-time-in-pbi"
+      },
+      {
+        "tags": [
+          "orm",
+          "prisma",
+          "freebsd"
+        ],
+        "creation_date": 1736263267,
+        "question_id": 79336491,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336491/cant-configure-prisma-engine-on-freebsd-v14"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "console",
+          "cancellation-token",
+          "graceful-shutdown"
+        ],
+        "creation_date": 1736263303,
+        "question_id": 79336495,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336495/how-to-correctly-handle-ctrl-c-or-sigint-in-an-asp-net-core-console-application"
+      },
+      {
+        "tags": [
+          "google-play",
+          "android-permissions"
+        ],
+        "creation_date": 1736263318,
+        "question_id": 79336497,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336497/how-to-resolve-playstore-warning-for-images-videos-files"
+      },
+      {
+        "tags": [
+          "multithreading",
+          "delphi"
+        ],
+        "creation_date": 1736263705,
+        "question_id": 79336514,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336514/how-to-stop-other-threads-execution-in-delphi-when-an-exception-is-raised-in-one"
+      },
+      {
+        "tags": [
+          "pyspark",
+          "amazon-emr",
+          "drop-duplicates"
+        ],
+        "creation_date": 1736263819,
+        "question_id": 79336519,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336519/pyspark-drop-duplicates-unexpectedly-increases-count"
+      },
+      {
+        "tags": [
+          "c++",
+          "natvis"
+        ],
+        "creation_date": 1736263904,
+        "question_id": 79336524,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336524/is-there-a-way-to-access-static-constexpr-arrays-in-natvis"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "amazon-s3",
+          "amazon-iam",
+          "aws-iam-policy"
+        ],
+        "creation_date": 1736263921,
+        "question_id": 79336526,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336526/creating-presigned-s3-urls-is-allowed-despite-ip-restriction-in-iam-policy"
+      },
+      {
+        "tags": [
+          "opencl",
+          "opencl-queues"
+        ],
+        "creation_date": 1736263971,
+        "question_id": 79336529,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336529/in-opencl-can-we-obtain-the-default-queue-for-a-device-in-a-context"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "automatic-ref-counting"
+        ],
+        "creation_date": 1736264002,
+        "question_id": 79336530,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336530/reference-counting-an-uninitialized-object"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "spring-data-jpa",
+          "spring-data"
+        ],
+        "creation_date": 1736264038,
+        "question_id": 79336531,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336531/deleteall-after-spring-boot-3-4-update-creates-transientobjectexception"
+      },
+      {
+        "tags": [
+          "java",
+          "amazon-web-services",
+          "gitlab-ci",
+          "testcontainers",
+          "localstack"
+        ],
+        "creation_date": 1736264068,
+        "question_id": 79336533,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336533/integration-testing-on-sqs-and-dynamodb-with-localstack-and-testcontainers-runs"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "memory",
+          "out-of-memory",
+          "large-files"
+        ],
+        "creation_date": 1736264093,
+        "question_id": 79336536,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336536/loading-and-processing-large-file-120mb-in-memory-throws-oom-when-ram-is-still"
+      },
+      {
+        "tags": [
+          "c",
+          "math"
+        ],
+        "creation_date": 1736264419,
+        "question_id": 79336554,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336554/fast-exponential-implementation-in-c-based-on-2nd-degree-polynomial"
+      },
+      {
+        "tags": [
+          "python",
+          "fastapi",
+          "google-cloud-pubsub"
+        ],
+        "creation_date": 1736264459,
+        "question_id": 79336555,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336555/gcp-pub-sub-order-key-property-not-working"
+      },
+      {
+        "tags": [
+          "javascript",
+          "matter.js",
+          "bounce",
+          "phaser-framework"
+        ],
+        "creation_date": 1736264541,
+        "question_id": 79336558,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336558/how-to-disable-bounce"
+      },
+      {
+        "tags": [
+          "r",
+          "ggplot2",
+          "phylogeny",
+          "ggtree"
+        ],
+        "creation_date": 1736264626,
+        "question_id": 79336562,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336562/ggtree-and-deeptime-customisation-help-in-r-creating-range-bars-and-grey-guide"
+      },
+      {
+        "tags": [
+          "angular",
+          "server-side-rendering",
+          "static-site-generation"
+        ],
+        "creation_date": 1736264659,
+        "question_id": 79336564,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336564/angular-19-prerendered-page-with-dynamic-components-in-it"
+      },
+      {
+        "tags": [
+          "rabbitmq",
+          "rabbitmq-stomp"
+        ],
+        "creation_date": 1736264998,
+        "question_id": 79336573,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336573/rabbitmq-stomp-plugin-with-spring-stomp-drains-memory"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "psql",
+          "postgresql-16"
+        ],
+        "creation_date": 1736265027,
+        "question_id": 79336574,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336574/what-does-plus-means-next-to-enum-elements"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "vue.js",
+          "unit-testing",
+          "vuejs3"
+        ],
+        "creation_date": 1736265217,
+        "question_id": 79336586,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336586/vue-component-not-rendering-while-i-am-trying-to-mount-the-component-for-unit-te"
+      },
+      {
+        "tags": [
+          "r",
+          "dplyr"
+        ],
+        "creation_date": 1736265434,
+        "question_id": 79336592,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336592/backward-and-forward-projections"
+      },
+      {
+        "tags": [
+          "python",
+          "flask",
+          "uwsgi",
+          "dockerpy"
+        ],
+        "creation_date": 1736265472,
+        "question_id": 79336594,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336594/uwsgi-with-https-getting-socket-option-missing"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "flash",
+          "emulation"
+        ],
+        "creation_date": 1736265670,
+        "question_id": 79336603,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336603/get-flash-title-with-js"
+      },
+      {
+        "tags": [
+          "python",
+          "mocking",
+          "python-unittest",
+          "pyfakefs"
+        ],
+        "creation_date": 1736265681,
+        "question_id": 79336604,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336604/failed-creating-mock-folders-with-pyfakefs"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1736265695,
+        "question_id": 79336605,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336605/how-to-update-values-of-primary-key-across-entire-database"
+      },
+      {
+        "tags": [
+          "sql",
+          "google-cloud-platform",
+          "google-bigquery"
+        ],
+        "creation_date": 1736265981,
+        "question_id": 79336616,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336616/bigquery-multiple-date-formats-in-single-column"
+      },
+      {
+        "tags": [
+          "android",
+          "android-jetpack-compose",
+          "android-scrollview"
+        ],
+        "creation_date": 1736266159,
+        "question_id": 79336622,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336622/how-to-implement-a-scrolling-behavior-in-jetpack-compose-similar-to-youtubes-ch"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "rabbitmq",
+          "spring-rabbit"
+        ],
+        "creation_date": 1736266297,
+        "question_id": 79336627,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336627/rabbit-mq-adding-header-property-to-each-message-automatically"
+      },
+      {
+        "tags": [
+          "swift",
+          "animation",
+          "swiftui",
+          "tvos"
+        ],
+        "creation_date": 1736266327,
+        "question_id": 79336629,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336629/how-can-i-animate-the-scrolling-of-a-swiftui-text-view-based-upon-a-focusstate"
+      },
+      {
+        "tags": [
+          "c#",
+          "printing",
+          "devexpress",
+          "xtrareport"
+        ],
+        "creation_date": 1736266331,
+        "question_id": 79336630,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336630/unusual-problem-printing-xtrareport-through-networkstream"
+      },
+      {
+        "tags": [
+          "django",
+          "django-orm"
+        ],
+        "creation_date": 1736266348,
+        "question_id": 79336633,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336633/annotate-multiple-values-as-jsonobject-parse-datetime"
+      },
+      {
+        "tags": [
+          "vs-code"
+        ],
+        "creation_date": 1736266512,
+        "question_id": 79336640,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336640/show-two-markdown-and-two-preview-tabs-in-vscode"
+      },
+      {
+        "tags": [
+          "c",
+          "assembly",
+          "arm",
+          "arm64",
+          "neon"
+        ],
+        "creation_date": 1736266523,
+        "question_id": 79336641,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336641/how-do-i-cast-a-vector-to-a-float64-t-to-check-a-simd-compare-for-all-zero"
+      },
+      {
+        "tags": [
+          "javascript",
+          "browser",
+          "fetch-api",
+          "chromium"
+        ],
+        "creation_date": 1736266634,
+        "question_id": 79336647,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336647/how-to-extract-fetch-headers-without-awaiting-a-request-in-the-browser-console"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "pyspark"
+        ],
+        "creation_date": 1736266637,
+        "question_id": 79336648,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336648/pyspark-keep-objectid-type-for-id-when-read-write-to-mongodb"
+      },
+      {
+        "tags": [
+          "iis",
+          "blazor-server-side"
+        ],
+        "creation_date": 1736266907,
+        "question_id": 79336665,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336665/blazor-server-webapp-net-8-on-iis-connect-timeout-expired-pooled-connectio"
+      },
+      {
+        "tags": [
+          "php",
+          "google-cloud-platform",
+          "single-sign-on"
+        ],
+        "creation_date": 1736266941,
+        "question_id": 79336670,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336670/sso-google-failed-to-retrieve-verification-certificates"
+      },
+      {
+        "tags": [
+          "java",
+          "hibernate",
+          "jpa"
+        ],
+        "creation_date": 1736266958,
+        "question_id": 79336672,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336672/optimistic-locking-with-manytoone-jpa-relationship-when-parent-has-no-version"
+      },
+      {
+        "tags": [
+          "groovy",
+          "spock"
+        ],
+        "creation_date": 1736267214,
+        "question_id": 79336687,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336687/dynamically-append-value-to-spock-test-method-name-based-on-method-annotation"
+      },
+      {
+        "tags": [
+          "c++",
+          "c",
+          "glibc",
+          "dynamic-linking"
+        ],
+        "creation_date": 1736267361,
+        "question_id": 79336698,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336698/how-does-shared-library-sharing-work-for-linux-systems-with-different-toolchai"
+      },
+      {
+        "tags": [
+          "c",
+          "clang",
+          "webassembly"
+        ],
+        "creation_date": 1736267384,
+        "question_id": 79336699,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336699/simplest-possible-memory-management-in-c-webassembly-program-how-to"
+      },
+      {
+        "tags": [
+          "google-chrome-devtools"
+        ],
+        "creation_date": 1736267447,
+        "question_id": 79336702,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336702/chrome-inspector-stylesheet-adding-strange-characters-i-automatically"
+      },
+      {
+        "tags": [
+          "rust",
+          "reqwest"
+        ],
+        "creation_date": 1736267482,
+        "question_id": 79336704,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336704/optionheadername-to-headername"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "creation_date": 1736267487,
+        "question_id": 79336705,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336705/integer-arrays-in-a-structure-inside-a-class"
+      },
+      {
+        "tags": [
+          "statistics",
+          "random-forest",
+          "qgis",
+          "optuna"
+        ],
+        "creation_date": 1736267527,
+        "question_id": 79336707,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336707/whitebox-workflow-random-forest-regression-fit-hyperparameter-tuning"
+      },
+      {
+        "tags": [
+          "imagej"
+        ],
+        "creation_date": 1736267566,
+        "question_id": 79336709,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336709/imagej-angle-measurement-tool-get-the-lengths-of-the-two-lines"
+      },
+      {
+        "tags": [
+          "c++",
+          "systemd",
+          "dbus",
+          "sdbus-c++"
+        ],
+        "creation_date": 1736267685,
+        "question_id": 79336714,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336714/d-bus-client-not-receiving-signal-events-in-the-system-bus"
+      },
+      {
+        "tags": [
+          "angular"
+        ],
+        "creation_date": 1736267698,
+        "question_id": 79336718,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336718/angular-17-app-hangs-on-loading-splash-screen-after-sitting-idle"
+      },
+      {
+        "tags": [
+          "android",
+          "firebase",
+          "kotlin",
+          "google-cloud-firestore"
+        ],
+        "creation_date": 1736267738,
+        "question_id": 79336719,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336719/google-sign-in-activity-result-is-canceled"
+      },
+      {
+        "tags": [
+          "node.js",
+          "firebase",
+          "google-cloud-firestore",
+          "firebase-admin"
+        ],
+        "creation_date": 1736267783,
+        "question_id": 79336721,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336721/where-does-firebase-admin-sdk-firestore-pick-up-its-project-id-from-if-not-sp"
+      },
+      {
+        "tags": [
+          "azure",
+          "chatbot",
+          "azure-openai",
+          "teams-toolkit",
+          "gpt4all"
+        ],
+        "creation_date": 1736267888,
+        "question_id": 79336726,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336726/azure-openai-gpt-4-chatbot-in-teams-unable-to-enable-streaming-messages"
+      },
+      {
+        "tags": [
+          "python",
+          "date",
+          "mocking",
+          "pytest",
+          "python-unittest"
+        ],
+        "creation_date": 1736268092,
+        "question_id": 79336731,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336731/mock-date-today-but-leave-other-date-methods-alone"
+      },
+      {
+        "tags": [
+          "c#",
+          "multithreading",
+          "waithandle"
+        ],
+        "creation_date": 1736268277,
+        "question_id": 79336737,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336737/how-does-disposing-a-waithandle-not-cause-an-infinite-loop"
+      },
+      {
+        "tags": [
+          "wso2-api-manager"
+        ],
+        "creation_date": 1736268281,
+        "question_id": 79336739,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336739/wso2-api-manager"
+      },
+      {
+        "tags": [
+          "php",
+          "web3php"
+        ],
+        "creation_date": 1736268329,
+        "question_id": 79336740,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336740/why-do-i-get-error-sending-transaction-unmarshal-transaction-failed-when-usin"
+      },
+      {
+        "tags": [
+          "c++",
+          "gcc",
+          "g++"
+        ],
+        "creation_date": 1736268422,
+        "question_id": 79336741,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336741/does-a-compiler-flag-exists-to-warn-if-multiple-files-with-the-same-name-for-an"
+      },
+      {
+        "tags": [
+          "angular"
+        ],
+        "creation_date": 1736268778,
+        "question_id": 79336751,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336751/linkedsignal-typed-returning-error-due-to-being-undefined"
+      },
+      {
+        "tags": [
+          "javascript",
+          "bootstrap-5"
+        ],
+        "creation_date": 1736268987,
+        "question_id": 79336761,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336761/make-bootsrrap-accordion-wait-for-work-complition-before-expand"
+      },
+      {
+        "tags": [
+          "android",
+          "flutter",
+          "kotlin",
+          "android-activity"
+        ],
+        "creation_date": 1736269078,
+        "question_id": 79336766,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336766/activity-transaction-in-kotlin"
+      },
+      {
+        "tags": [
+          "android",
+          ".net-core",
+          "visual-studio-2022",
+          "uno-platform"
+        ],
+        "creation_date": 1736269098,
+        "question_id": 79336769,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336769/what-is-loaded-by-runtime-in-the-visual-studio-modules-window-and-how-does-on"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "css-animations"
+        ],
+        "creation_date": 1736269157,
+        "question_id": 79336772,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336772/creating-marquee-type-of-design-and-animation-in-html-css"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1736269181,
+        "question_id": 79336774,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336774/python-3-how-to-make-a-sorted-list-for-an-rpg-inventory"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-layout"
+        ],
+        "creation_date": 1736269211,
+        "question_id": 79336776,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336776/android-xml-how-to-give-ellipses-to-two-lines-in-one-textfield"
+      },
+      {
+        "tags": [
+          "c++"
+        ],
+        "creation_date": 1736269215,
+        "question_id": 79336777,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336777/is-there-a-proper-way-to-make-a-span-block-section-into-a-matrix-4x4"
+      },
+      {
+        "tags": [
+          "shopware6"
+        ],
+        "creation_date": 1736269338,
+        "question_id": 79336782,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336782/shopware-6-5-6-6-grand-child-theme-overwriting-sw-text-color-changes-to-color"
+      },
+      {
+        "tags": [
+          "css",
+          "reactjs",
+          "responsive-design",
+          "swiper.js",
+          "react-swiper"
+        ],
+        "creation_date": 1736269340,
+        "question_id": 79336783,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336783/issue-with-swiper-jsbreakpoints-in-react-for-different-screen-sizes"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1736269528,
+        "question_id": 79336789,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336789/make-sure-to-set-the-decoder-start-token-id-attribute-of-the-models-configurati"
+      },
+      {
+        "tags": [
+          "codeblocks"
+        ],
+        "creation_date": 1736269567,
+        "question_id": 79336791,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336791/how-to-fix-the-entry-point-problem-on-codeblocks"
+      },
+      {
+        "tags": [
+          "python",
+          "python-polars"
+        ],
+        "creation_date": 1736269571,
+        "question_id": 79336792,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336792/python-polars-cross-field-calculation-of-struct-columns"
+      },
+      {
+        "tags": [
+          "r",
+          "gis",
+          "polygon",
+          "raster",
+          "terra"
+        ],
+        "creation_date": 1736269578,
+        "question_id": 79336793,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336793/merging-diagonal-touching-polygons-from-raster-using-terra"
+      },
+      {
+        "tags": [
+          "command-line-interface",
+          "databricks"
+        ],
+        "creation_date": 1736269591,
+        "question_id": 79336796,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336796/filter-flag-in-databricks-cli-unclear"
+      },
+      {
+        "tags": [
+          "postman",
+          "bearer-token"
+        ],
+        "creation_date": 1736269679,
+        "question_id": 79336797,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336797/what-is-the-problem-with-postman-handling-authorization-bearer-token-as-a-variab"
+      },
+      {
+        "tags": [
+          "ios",
+          "flutter",
+          "xcode"
+        ],
+        "creation_date": 1736269729,
+        "question_id": 79336800,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336800/failed-to-build-ios-app-command-compilec-failed-with-a-nonzero-exit-code-in-f"
+      },
+      {
+        "tags": [
+          "email",
+          "google-cloud-platform",
+          "spf",
+          "dmarc",
+          "microsoft365-defender"
+        ],
+        "creation_date": 1736269743,
+        "question_id": 79336801,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336801/5-7-57-client-not-authenticated-to-send-mail-google-to-o365"
+      },
+      {
+        "tags": [
+          "c++",
+          "c++20",
+          "c++-concepts"
+        ],
+        "creation_date": 1736269823,
+        "question_id": 79336804,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336804/can-a-concept-be-checked-against-stdvariant-and-stdvectorstdvariant"
+      },
+      {
+        "tags": [
+          "ruby",
+          "flutter",
+          "dart",
+          "cocoapods",
+          "homebrew"
+        ],
+        "creation_date": 1736270097,
+        "question_id": 79336812,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336812/brew-install-ruby-gets-stuck-at-patching-macbook-flutter-setup"
+      },
+      {
+        "tags": [
+          "javascript",
+          "typescript",
+          "jsx",
+          "solid-js"
+        ],
+        "creation_date": 1736270133,
+        "question_id": 79336813,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336813/pass-component-and-add-style-to-it-with-solidjs-and-typescript"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 285
+  }
+}

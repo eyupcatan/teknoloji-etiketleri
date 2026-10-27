@@ -1,0 +1,1118 @@
+{
+  "retrieved_at": "2026-10-26T19:10:58.977896+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420675200&todate=1420696799&sort=creation&order=asc&pagesize=100&page=4&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420675200,
+    "todate": 1420696799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 4,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "javascript",
+          "css"
+        ],
+        "creation_date": 1420681675,
+        "question_id": 27831729,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831729/remove-css-property-with-pure-js-failed"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "clone"
+        ],
+        "creation_date": 1420681722,
+        "question_id": 27831733,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831733/how-to-update-original-this-when-cloning-with-extend"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "arm",
+          "cross-compiling",
+          "glibc"
+        ],
+        "creation_date": 1420681727,
+        "question_id": 27831735,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831735/cross-compile-glibc-for-arm-got-undefined-reference-to-some-unwind-functions"
+      },
+      {
+        "tags": [
+          "python",
+          "locking",
+          "subprocess"
+        ],
+        "creation_date": 1420681783,
+        "question_id": 27831740,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831740/why-isnt-the-file-lock-released-on-close-if-i-launch-a-process-while-the-file"
+      },
+      {
+        "tags": [
+          "web",
+          "lotus-domino",
+          "lotus"
+        ],
+        "creation_date": 1420681869,
+        "question_id": 27831748,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831748/dblookup-not-working"
+      },
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "apache-poi"
+        ],
+        "creation_date": 1420681878,
+        "question_id": 27831749,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831749/trying-to-set-arabic-sentence-in-word-using-apache-poi"
+      },
+      {
+        "tags": [
+          "javascript",
+          "meteor",
+          "handlebars.js",
+          "meteor-blaze"
+        ],
+        "creation_date": 1420681882,
+        "question_id": 27831751,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831751/meteorjs-simple-reusable-template-with-route-specific-data-contexts-using-iron"
+      },
+      {
+        "tags": [
+          "selenium",
+          "selenium-webdriver"
+        ],
+        "creation_date": 1420681930,
+        "question_id": 27831757,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831757/does-selenium-implicit-wait-always-take-the-entire-wait-time-or-can-it-finish-so"
+      },
+      {
+        "tags": [
+          "php",
+          "class",
+          "url-shortener",
+          "goo.gl"
+        ],
+        "creation_date": 1420681947,
+        "question_id": 27831758,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831758/php-goo-gl-url-shortener-in-mysql-fetch-array"
+      },
+      {
+        "tags": [
+          "c#",
+          "signalr",
+          "owin",
+          "katana"
+        ],
+        "creation_date": 1420681988,
+        "question_id": 27831761,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831761/basic-authentication-redirects-to-login-page-instead-of-returning-an-auth-challe"
+      },
+      {
+        "tags": [
+          "android",
+          "launcher",
+          "homescreen"
+        ],
+        "creation_date": 1420682030,
+        "question_id": 27831768,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831768/set-first-screen-as-current-item-on-launcher-when-user-presses-home"
+      },
+      {
+        "tags": [
+          "android",
+          "eclipse",
+          "parse-platform"
+        ],
+        "creation_date": 1420682036,
+        "question_id": 27831769,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831769/implementing-parse-push-notification"
+      },
+      {
+        "tags": [
+          "java",
+          "unit-testing",
+          "maven",
+          "classloader",
+          "surefire"
+        ],
+        "creation_date": 1420682039,
+        "question_id": 27831770,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831770/patching-a-classpath-when-running-surefire-tests"
+      },
+      {
+        "tags": [
+          "ms-access",
+          "vba",
+          "ms-access-2010"
+        ],
+        "creation_date": 1420682044,
+        "question_id": 27831771,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27831771/how-do-i-make-a-subform-controlled-by-report-which-is-controlled-by-a-query-up"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "ajax"
+        ],
+        "creation_date": 1420682066,
+        "question_id": 27831772,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831772/possible-to-make-ajax-call-for-2-links-with-one-function"
+      },
+      {
+        "tags": [
+          "rest",
+          "asp.net-web-api2"
+        ],
+        "creation_date": 1420682075,
+        "question_id": 27831775,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831775/rest-handling-a-route-name-for-this-scenario"
+      },
+      {
+        "tags": [
+          "eclipse",
+          "editor",
+          "square-bracket"
+        ],
+        "creation_date": 1420682086,
+        "question_id": 27831777,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27831777/latest-eclipse-luna-square-brackets-are-not-working-in-editors-german-keyboard"
+      },
+      {
+        "tags": [
+          "java",
+          "performance",
+          "memory",
+          "garbage-collection",
+          "benchmarking"
+        ],
+        "creation_date": 1420682110,
+        "question_id": 27831778,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27831778/how-to-really-benchmark-the-memory-usage-of-a-java-application"
+      },
+      {
+        "tags": [
+          "drools"
+        ],
+        "creation_date": 1420682162,
+        "question_id": 27831782,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831782/rule-cannot-get-activated-after-certen-number-of-hit"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "xcode",
+          "image"
+        ],
+        "creation_date": 1420682170,
+        "question_id": 27831785,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831785/asset-catalog-compile-error-tddistiller-instance-can-only-be-distilled-only-on"
+      },
+      {
+        "tags": [
+          "wordpress"
+        ],
+        "creation_date": 1420682172,
+        "question_id": 27831786,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831786/wordpress-slider-occasionally-breaks"
+      },
+      {
+        "tags": [
+          "xslt",
+          "xslt-1.0",
+          "xslt-2.0",
+          "xslt-grouping",
+          "exslt"
+        ],
+        "creation_date": 1420682205,
+        "question_id": 27831789,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831789/how-to-fetch-data-from-one-xml-group-of-elements-and-feed-onto-another-xml-group"
+      },
+      {
+        "tags": [
+          "javascript",
+          "google-chrome",
+          "xslt"
+        ],
+        "creation_date": 1420682227,
+        "question_id": 27831795,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831795/chrome-39-xsltprocessor-returns-null-if-input-is-in-html-namespace-and-attribute"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "plpgsql",
+          "dynamic-sql",
+          "create-table"
+        ],
+        "creation_date": 1420682228,
+        "question_id": 27831796,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831796/saving-the-output-of-a-dynamic-query-that-uses-refcursor-into-a-table"
+      },
+      {
+        "tags": [
+          "python",
+          "scipy"
+        ],
+        "creation_date": 1420682237,
+        "question_id": 27831798,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831798/rule-of-thumb-for-calculating-cosine-similarity-on-large-vectors"
+      },
+      {
+        "tags": [
+          "python",
+          "arrays",
+          "replace",
+          "julia"
+        ],
+        "creation_date": 1420682312,
+        "question_id": 27831803,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831803/julia-replacing-a-number-with-a-string-in-an-array"
+      },
+      {
+        "tags": [
+          "mysql",
+          "database",
+          "constraints",
+          "unique"
+        ],
+        "creation_date": 1420682323,
+        "question_id": 27831804,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831804/mysql-unique-with-exemption"
+      },
+      {
+        "tags": [
+          "c++",
+          "qt",
+          "drag"
+        ],
+        "creation_date": 1420682342,
+        "question_id": 27831806,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831806/why-is-qdropeventacceptproposedaction-necessary-in-drag-and-drop-events"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420682356,
+        "question_id": 27831807,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831807/web-page-certain-image-appears-when-i-run-locally-but-disappears-when-displaye"
+      },
+      {
+        "tags": [
+          "ant",
+          "ivy"
+        ],
+        "creation_date": 1420682376,
+        "question_id": 27831808,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831808/excluding-jars-in-ivy-using-wild-card-pattern"
+      },
+      {
+        "tags": [
+          "php",
+          "model-view-controller",
+          "structure"
+        ],
+        "creation_date": 1420682394,
+        "question_id": 27831810,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831810/php-mvc-is-this-the-right-structure"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420682418,
+        "question_id": 27831811,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831811/bufferedreader-cant-read-all-json-data"
+      },
+      {
+        "tags": [
+          "android",
+          "layout-inflater"
+        ],
+        "creation_date": 1420682429,
+        "question_id": 27831813,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831813/could-inflated-layout-access-parent-variables"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "core-animation"
+        ],
+        "creation_date": 1420682464,
+        "question_id": 27831821,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831821/cakeyframeanimation-for-blinking-caret"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-mvc"
+        ],
+        "creation_date": 1420682476,
+        "question_id": 27831823,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831823/how-do-i-parse-this-date-string-in-c"
+      },
+      {
+        "tags": [
+          "python",
+          "class",
+          "attributes"
+        ],
+        "creation_date": 1420682484,
+        "question_id": 27831826,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831826/why-change-classs-attributes-result-in-different-consequences"
+      },
+      {
+        "tags": [
+          "variables",
+          "netlogo"
+        ],
+        "creation_date": 1420682519,
+        "question_id": 27831828,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831828/how-to-set-variables-such-as-probabilities-to-turtles-one-at-a-time-locally-in-n"
+      },
+      {
+        "tags": [
+          "weka"
+        ],
+        "creation_date": 1420682534,
+        "question_id": 27831830,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831830/j48-classification-using-weka"
+      },
+      {
+        "tags": [
+          "python",
+          "list",
+          "append"
+        ],
+        "creation_date": 1420682539,
+        "question_id": 27831831,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831831/append-multiple-results-from-one-list-to-another"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "crash",
+          "sleep"
+        ],
+        "creation_date": 1420682542,
+        "question_id": 27831832,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831832/java-application-crashed-on-thread-sleep-method"
+      },
+      {
+        "tags": [
+          "css",
+          "google-chrome-devtools"
+        ],
+        "creation_date": 1420682617,
+        "question_id": 27831839,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831839/meaning-of-outlined-boxes-in-chrome-timeline"
+      },
+      {
+        "tags": [
+          "r",
+          "crosstab"
+        ],
+        "creation_date": 1420682658,
+        "question_id": 27831845,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831845/how-to-identify-rows-that-belong-to-a-cell-in-a-table-r"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "ionic-framework"
+        ],
+        "creation_date": 1420682695,
+        "question_id": 27831848,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831848/ionic-angularjs-ion-slide-box-with-ng-repeat-not-updating"
+      },
+      {
+        "tags": [
+          "ruby",
+          "string"
+        ],
+        "creation_date": 1420682738,
+        "question_id": 27831854,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831854/why-does-ruby-automatically-combine-strings"
+      },
+      {
+        "tags": [
+          "java",
+          "null",
+          "linked-list",
+          "head"
+        ],
+        "creation_date": 1420682777,
+        "question_id": 27831857,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831857/what-happens-to-the-initial-null-value-set-to-head-of-linked-list"
+      },
+      {
+        "tags": [
+          "regex",
+          "regex-lookarounds"
+        ],
+        "creation_date": 1420682781,
+        "question_id": 27831858,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831858/regex-to-match-the-value-optionally-enclosed-by-double-quotes"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "hash",
+          "frozenset"
+        ],
+        "creation_date": 1420682791,
+        "question_id": 27831860,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831860/should-instances-of-a-frozenset-subclass-be-hashable-in-python-3"
+      },
+      {
+        "tags": [
+          "selenium-webdriver"
+        ],
+        "creation_date": 1420682846,
+        "question_id": 27831865,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831865/what-is-selenium-webdrivers-default-implicit-wait-value"
+      },
+      {
+        "tags": [
+          "sqlite"
+        ],
+        "creation_date": 1420682862,
+        "question_id": 27831867,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831867/sum-identical-entries-and-corresponding-integers-from-a-different-column"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "cocoa-touch"
+        ],
+        "creation_date": 1420682863,
+        "question_id": 27831868,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831868/cgcolorgetcomponents-always-returns-0-cgcolor-black"
+      },
+      {
+        "tags": [
+          "php",
+          "ajax",
+          "json",
+          "joomla"
+        ],
+        "creation_date": 1420682873,
+        "question_id": 27831871,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831871/how-to-return-value-from-ajax"
+      },
+      {
+        "tags": [
+          "mesos",
+          "mesosphere"
+        ],
+        "creation_date": 1420682882,
+        "question_id": 27831872,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831872/how-to-check-mesos-master"
+      },
+      {
+        "tags": [
+          "bash"
+        ],
+        "creation_date": 1420682912,
+        "question_id": 27831876,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831876/grep-tries-to-read-from-a-file-instead-of-through-pipe-when-passing-function-arg"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "uiview",
+          "uiviewcontroller",
+          "storyboard"
+        ],
+        "creation_date": 1420682942,
+        "question_id": 27831880,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831880/uiview-inheritance-for-multiple-uiview-in-ios"
+      },
+      {
+        "tags": [
+          "android",
+          "android-fragments",
+          "calendar",
+          "android-viewpager",
+          "pagerslidingtabstrip"
+        ],
+        "creation_date": 1420682999,
+        "question_id": 27831891,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831891/how-to-get-viewpager-working-with-dates"
+      },
+      {
+        "tags": [
+          "android",
+          "automated-tests",
+          "functional-testing",
+          "calabash-android"
+        ],
+        "creation_date": 1420683004,
+        "question_id": 27831892,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831892/calabash-android-inject-events-permission-runtimeerror-when-executing-press-b"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "form-for",
+          "turbolinks"
+        ],
+        "creation_date": 1420683019,
+        "question_id": 27831893,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831893/form-for-form-in-ruby-doesnt-work-when-the-page-loads"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "mysql"
+        ],
+        "creation_date": 1420683083,
+        "question_id": 27831899,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831899/1-tablehtml-view-from-2-tabledatabase"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420683084,
+        "question_id": 27831900,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831900/innerhtml-function-in-javascript-not-working"
+      },
+      {
+        "tags": [
+          "java",
+          "apache",
+          "noclassdeffounderror"
+        ],
+        "creation_date": 1420683142,
+        "question_id": 27831907,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831907/java-lang-noclassdeffounderror-org-apache-commons-io-fileutils"
+      },
+      {
+        "tags": [
+          "haskell",
+          "parsec",
+          "arithmetic-expressions",
+          "mathematical-expressions"
+        ],
+        "creation_date": 1420683176,
+        "question_id": 27831910,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831910/parsec-haskell-formatting-parse-errors"
+      },
+      {
+        "tags": [
+          "sql",
+          "excel"
+        ],
+        "creation_date": 1420683235,
+        "question_id": 27831914,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831914/how-do-i-query-an-excel-table-to-show-the-amount-of-duplicate-values-in-a-column"
+      },
+      {
+        "tags": [
+          "java",
+          "mouseevent"
+        ],
+        "creation_date": 1420683273,
+        "question_id": 27831917,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831917/how-can-i-implement-the-mouse-pressed-method-into-a-animated-game-without-creati"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css"
+        ],
+        "creation_date": 1420683284,
+        "question_id": 27831919,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831919/remove-class-name-using-pure-js"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1420683330,
+        "question_id": 27831923,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831923/python-random-number-generator-with-mean-and-standard-deviation"
+      },
+      {
+        "tags": [
+          "php",
+          "arrays",
+          "variables",
+          "soap"
+        ],
+        "creation_date": 1420683391,
+        "question_id": 27831928,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831928/sort-a-multi-dimendional-php-variable"
+      },
+      {
+        "tags": [
+          "python",
+          "pip",
+          "docker",
+          "fig",
+          "requirements.txt"
+        ],
+        "creation_date": 1420683394,
+        "question_id": 27831929,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831929/do-i-always-need-to-rebuild-docker-in-order-to-install-new-pip-packages"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "validation",
+          "input",
+          "telerik"
+        ],
+        "creation_date": 1420683399,
+        "question_id": 27831930,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831930/how-to-validate-teleriks-radspineditor-when-the-value-of-the-input-change"
+      },
+      {
+        "tags": [
+          "python-2.7"
+        ],
+        "creation_date": 1420683436,
+        "question_id": 27831934,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831934/converting-integers-for-loop-in-python-loop-ignores-function-value"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "mongodb",
+          "database"
+        ],
+        "creation_date": 1420683451,
+        "question_id": 27831936,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831936/limit-1-1ms-limit-1-150ms-mongo-melt-down"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "parse-platform"
+        ],
+        "creation_date": 1420683471,
+        "question_id": 27831940,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831940/parse-query-where-key-contains-any-object-in-array"
+      },
+      {
+        "tags": [
+          "datomic"
+        ],
+        "creation_date": 1420683477,
+        "question_id": 27831941,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831941/what-does-datomic-do-when-adding-same-value-to-the-same-attribute"
+      },
+      {
+        "tags": [
+          "closures",
+          "rust"
+        ],
+        "creation_date": 1420683513,
+        "question_id": 27831944,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27831944/how-do-i-store-a-closure-in-a-struct-in-rust"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "closures"
+        ],
+        "creation_date": 1420683523,
+        "question_id": 27831945,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831945/how-can-i-gain-access-to-a-javascript-variable-from-within-a-return-function"
+      },
+      {
+        "tags": [
+          "ios",
+          "iphone",
+          "lldb",
+          "arm64"
+        ],
+        "creation_date": 1420683531,
+        "question_id": 27831946,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831946/in-the-iphone-arm64-calling-convention-what-is-in-register-x1"
+      },
+      {
+        "tags": [
+          "php",
+          "cakephp"
+        ],
+        "creation_date": 1420683532,
+        "question_id": 27831947,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831947/router-cakephp-pointing-to-same-action"
+      },
+      {
+        "tags": [
+          "c++",
+          "winsock"
+        ],
+        "creation_date": 1420683563,
+        "question_id": 27831950,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831950/winsock-upload-file-to-remote-server"
+      },
+      {
+        "tags": [
+          "mfc"
+        ],
+        "creation_date": 1420683572,
+        "question_id": 27831951,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831951/wrong-display-depending-on-displayed-bitmap-size"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "eclipse",
+          "android-layout",
+          "android-intent"
+        ],
+        "creation_date": 1420683594,
+        "question_id": 27831954,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831954/cannot-launch-an-activity-on-touching-anywhere-in-main-activity"
+      },
+      {
+        "tags": [
+          "java",
+          "matlab",
+          "fft",
+          "division",
+          "polynomials"
+        ],
+        "creation_date": 1420683613,
+        "question_id": 27831957,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831957/fft-division-complex-java"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "sockets"
+        ],
+        "creation_date": 1420683635,
+        "question_id": 27831960,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831960/adding-a-user-inputted-host-to-a-socket-while-using-a-singleton-for-the-socket"
+      },
+      {
+        "tags": [
+          "bash",
+          "solr",
+          "init.d"
+        ],
+        "creation_date": 1420683641,
+        "question_id": 27831961,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831961/run-solr-like-daemon"
+      },
+      {
+        "tags": [
+          "wpf",
+          "background",
+          "border",
+          "wpf-animation",
+          "coloranimation"
+        ],
+        "creation_date": 1420683651,
+        "question_id": 27831964,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831964/wpf-animate-border-background-color"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "backbone.js",
+          "marionette"
+        ],
+        "creation_date": 1420683666,
+        "question_id": 27831965,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831965/backbone-marionette-composite-view-rendering-template"
+      },
+      {
+        "tags": [
+          "javascript",
+          "google-maps-api-3"
+        ],
+        "creation_date": 1420683685,
+        "question_id": 27831966,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831966/customize-google-maps-javascript-api-3-info-window"
+      },
+      {
+        "tags": [
+          "three.js"
+        ],
+        "creation_date": 1420683697,
+        "question_id": 27831969,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831969/how-to-access-current-object-textures-uvs-in-scene-overridematerial"
+      },
+      {
+        "tags": [
+          "xml",
+          "r",
+          "screen-scraping"
+        ],
+        "creation_date": 1420683705,
+        "question_id": 27831970,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831970/scraping-basketball-reference-com-in-r-xml-package-not-fully-working"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "sql-server-2008"
+        ],
+        "creation_date": 1420683706,
+        "question_id": 27831971,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831971/sql-server-2008-order-by-issue"
+      },
+      {
+        "tags": [
+          "mongodb-query",
+          "mongodb-java"
+        ],
+        "creation_date": 1420683721,
+        "question_id": 27831974,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831974/updating-a-value-in-an-array-in-mongodb-from-java"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "polymer",
+          "web-component"
+        ],
+        "creation_date": 1420683790,
+        "question_id": 27831981,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831981/raising-a-polymer-event-from-the-outside"
+      },
+      {
+        "tags": [
+          "mysql",
+          "database",
+          "cakephp",
+          "locking"
+        ],
+        "creation_date": 1420683817,
+        "question_id": 27831983,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831983/how-to-lock-database-table-in-cakephp"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1420683818,
+        "question_id": 27831984,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831984/program-that-builds-a-triangle-made-of-asterisks"
+      },
+      {
+        "tags": [
+          "c++",
+          "matrix",
+          "cuda",
+          "parallel-processing",
+          "nvidia"
+        ],
+        "creation_date": 1420683889,
+        "question_id": 27831996,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831996/why-is-my-cuda-code-not-working-properly-for-zero-filling-a-large-matrix"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "object",
+          "post",
+          "2-way-object-databinding"
+        ],
+        "creation_date": 1420683897,
+        "question_id": 27831999,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27831999/posting-large-data-forms-angular-js"
+      },
+      {
+        "tags": [
+          "c++",
+          "macos",
+          "g++",
+          "fstream",
+          "distributed-filesystem"
+        ],
+        "creation_date": 1420683917,
+        "question_id": 27832002,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27832002/stdifstream-accesses-network-files-in-mac-osx"
+      },
+      {
+        "tags": [
+          "android",
+          "c++",
+          "android-ndk",
+          "logcat",
+          "sdl-2"
+        ],
+        "creation_date": 1420683930,
+        "question_id": 27832006,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27832006/android-sdl2-app-black-screen-then-exits"
+      },
+      {
+        "tags": [
+          "mysql",
+          "limit"
+        ],
+        "creation_date": 1420683957,
+        "question_id": 27832008,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27832008/how-to-average-last-amount-of-last-5-transactions"
+      },
+      {
+        "tags": [
+          "c++",
+          "qt",
+          "cmake"
+        ],
+        "creation_date": 1420683976,
+        "question_id": 27832013,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27832013/diffimg-c-image-comparer-diffimg-2-2-0"
+      },
+      {
+        "tags": [
+          "python",
+          "python-requests",
+          "ebay-api"
+        ],
+        "creation_date": 1420684006,
+        "question_id": 27832019,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27832019/ebay-product-api-consumer-id-error"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "angular-ui-router",
+          "mean-stack"
+        ],
+        "creation_date": 1420684010,
+        "question_id": 27832022,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27832022/angular-ui-router-ui-view-vs-data-ui-view"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 139
+  }
+}

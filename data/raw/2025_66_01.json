@@ -1,0 +1,1128 @@
+{
+  "retrieved_at": "2026-10-26T19:04:16.569303+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736359200&todate=1736380799&sort=creation&order=asc&pagesize=100&page=1&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736359200,
+    "todate": 1736380799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 1,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "sql-server",
+          "database-design"
+        ],
+        "creation_date": 1736359249,
+        "question_id": 79340305,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340305/relational-table-design-with-same-type-in-a-many-to-many-relationship"
+      },
+      {
+        "tags": [
+          "android",
+          "kotlin",
+          "webview",
+          "kotlin-multiplatform"
+        ],
+        "creation_date": 1736359350,
+        "question_id": 79340312,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340312/kotlin-multiplatform-how-to-extract-the-json-value-loaded-in-the-webview"
+      },
+      {
+        "tags": [
+          "angular-material",
+          "angular-moment"
+        ],
+        "creation_date": 1736359406,
+        "question_id": 79340314,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340314/error-installing-angular-material-moment-adapter"
+      },
+      {
+        "tags": [
+          "json",
+          "powershell",
+          "logic",
+          "overwrite"
+        ],
+        "creation_date": 1736359536,
+        "question_id": 79340316,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340316/how-to-stop-powershell-out-file-from-overwriting-untouched-json-block"
+      },
+      {
+        "tags": [
+          "python-3.x",
+          "virtualenv",
+          "pyenv"
+        ],
+        "creation_date": 1736359761,
+        "question_id": 79340326,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340326/pyenv1-oserror-errno-13-permission-denied-usr-local-lib-python3-11"
+      },
+      {
+        "tags": [
+          "c#",
+          "uwp",
+          "mediaelement"
+        ],
+        "creation_date": 1736359812,
+        "question_id": 79340329,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340329/throttling-adaptivemediasource"
+      },
+      {
+        "tags": [
+          "sharepoint",
+          "sharepoint-online",
+          "microsoft-entra-id",
+          "microsoft-oauth"
+        ],
+        "creation_date": 1736359814,
+        "question_id": 79340330,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340330/how-to-force-the-microsoft-switch-account-sign-in-screen-and-redirect-to-url-a"
+      },
+      {
+        "tags": [
+          "sql",
+          "snowflake-cloud-data-platform",
+          "query-optimization"
+        ],
+        "creation_date": 1736359893,
+        "question_id": 79340334,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340334/query-optimization-in-snowflake-on-a-50-tb-table-with-trillions-of-rows"
+      },
+      {
+        "tags": [
+          "error-handling",
+          "zig"
+        ],
+        "creation_date": 1736359937,
+        "question_id": 79340336,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340336/how-to-override-zig-function-return-e-g-u32-vs-u32-compile-behavior"
+      },
+      {
+        "tags": [
+          "azure-databricks",
+          "delta-live-tables"
+        ],
+        "creation_date": 1736360034,
+        "question_id": 79340340,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340340/identity-column-in-a-databricks-delta-live-table-has-all-null-values"
+      },
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "maven",
+          "jpa",
+          "jakarta-ee"
+        ],
+        "creation_date": 1736360150,
+        "question_id": 79340347,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340347/generating-jpa-metamodel-with-jakarta-stack-in-eclipse"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "flexbox"
+        ],
+        "creation_date": 1736360208,
+        "question_id": 79340350,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340350/have-children-expand-to-max-width-within-a-parent-that-shrinks-to-fit"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1736361016,
+        "question_id": 79340379,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340379/when-i-treat-a-variable-like-an-int-it-says-its-a-list-when-i-treat-it-like-a"
+      },
+      {
+        "tags": [
+          "c++",
+          "pointers",
+          "reference",
+          "language-lawyer"
+        ],
+        "creation_date": 1736361399,
+        "question_id": 79340401,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340401/does-a-reference-to-an-array-element-alias-the-entire-array"
+      },
+      {
+        "tags": [
+          "tidyquant"
+        ],
+        "creation_date": 1736361403,
+        "question_id": 79340402,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340402/trouble-installing-tidyquant-package"
+      },
+      {
+        "tags": [
+          "python",
+          "sdk",
+          "amazon-sagemaker",
+          "requirements.txt"
+        ],
+        "creation_date": 1736361406,
+        "question_id": 79340404,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340404/how-to-format-requirements-txt-files-for-processing-step-in-sagemaker-pipelines"
+      },
+      {
+        "tags": [
+          "xml",
+          "xslt",
+          "xslt-2.0"
+        ],
+        "creation_date": 1736361812,
+        "question_id": 79340418,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340418/need-to-pick-the-value-which-is-not-starting-with-particular-letter"
+      },
+      {
+        "tags": [
+          "dpdk",
+          "huge-pages",
+          "uhd"
+        ],
+        "creation_date": 1736361917,
+        "question_id": 79340426,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340426/rx-mbuf-alloc-failed-queue-id-0-when-trying-to-use-dpdk-with-uhd"
+      },
+      {
+        "tags": [
+          "python",
+          "google-cloud-platform",
+          "hardware-security-module",
+          "github-actions-runners"
+        ],
+        "creation_date": 1736362062,
+        "question_id": 79340431,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340431/alternative-way-of-setting-adc-for-google-cloud-to-run-on-read-only-pipeline-sys"
+      },
+      {
+        "tags": [
+          "opensearch"
+        ],
+        "creation_date": 1736362168,
+        "question_id": 79340434,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340434/opensearch-java-client-error-to-httpstatus-code-mapping"
+      },
+      {
+        "tags": [
+          "azure",
+          "terraform",
+          "ollama"
+        ],
+        "creation_date": 1736362254,
+        "question_id": 79340437,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340437/create-a-gpu-nodepool-on-azure-with-a-student-account"
+      },
+      {
+        "tags": [
+          "prometheus"
+        ],
+        "creation_date": 1736362262,
+        "question_id": 79340438,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340438/getting-server-down-time-via-prometheus"
+      },
+      {
+        "tags": [
+          "angular",
+          "navigation",
+          "breadcrumbs"
+        ],
+        "creation_date": 1736362274,
+        "question_id": 79340440,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340440/how-to-create-breadcrumbs-with-angular"
+      },
+      {
+        "tags": [
+          "python",
+          "python-polars"
+        ],
+        "creation_date": 1736362301,
+        "question_id": 79340441,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340441/python-polars-expression-list-product"
+      },
+      {
+        "tags": [
+          "powershell",
+          "deno",
+          "executionpolicy"
+        ],
+        "creation_date": 1736362463,
+        "question_id": 79340443,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340443/module-cannot-be-loaded-on-non-ps1-script"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy",
+          "opencv"
+        ],
+        "creation_date": 1736362507,
+        "question_id": 79340447,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340447/opencv-error-215assertion-failed-p-checkvector2-cv-32s-0-in-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "chart.js"
+        ],
+        "creation_date": 1736362568,
+        "question_id": 79340451,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340451/rotate-and-change-position-of-a-axis-title-on-chartjs"
+      },
+      {
+        "tags": [
+          "javascript",
+          "custom-object",
+          "archer",
+          "rsa-archer-grc"
+        ],
+        "creation_date": 1736362635,
+        "question_id": 79340452,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340452/unable-to-reset-archer-record-permission-field-using-custom-object"
+      },
+      {
+        "tags": [
+          "excel",
+          "excel-formula",
+          "excel-2021"
+        ],
+        "creation_date": 1736362653,
+        "question_id": 79340453,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340453/count-each-time-value-appears-reset-if-value-change-using-dynamic-array"
+      },
+      {
+        "tags": [
+          "python",
+          "ssl",
+          "uwsgi"
+        ],
+        "creation_date": 1736362721,
+        "question_id": 79340454,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340454/unknown-error-when-creating-ssl-context-on-uwsgipython-atexit"
+      },
+      {
+        "tags": [
+          "angular",
+          "firebase",
+          "firebase-app-hosting"
+        ],
+        "creation_date": 1736362807,
+        "question_id": 79340460,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340460/how-to-access-firebase-app-hosting-environment-variables-in-angular"
+      },
+      {
+        "tags": [
+          "c#",
+          "wcf",
+          "wcf-data-services"
+        ],
+        "creation_date": 1736362868,
+        "question_id": 79340463,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340463/how-to-handle-wcf-json-deserialization-to-listobject-then-casting-that-object"
+      },
+      {
+        "tags": [
+          "sql",
+          "mysql",
+          "count",
+          "distinct",
+          "distinct-values"
+        ],
+        "creation_date": 1736363076,
+        "question_id": 79340475,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340475/return-distinct-concat-count-if-more-than-one-result"
+      },
+      {
+        "tags": [
+          "aws-lambda",
+          "nestjs",
+          "serverless"
+        ],
+        "creation_date": 1736363165,
+        "question_id": 79340479,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340479/the-injected-services-are-undefined-using-serverless"
+      },
+      {
+        "tags": [
+          "c#",
+          "blazor",
+          "formatting",
+          "currency",
+          "tostring"
+        ],
+        "creation_date": 1736363269,
+        "question_id": 79340485,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340485/currency-culture-formatting-nl-nl-be-gives-uncorrect-format"
+      },
+      {
+        "tags": [
+          "python",
+          "packaging",
+          "pyright"
+        ],
+        "creation_date": 1736363373,
+        "question_id": 79340487,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340487/properly-re-expose-submodule-or-is-this-a-bug-in-pylance"
+      },
+      {
+        "tags": [
+          "kubernetes",
+          "websocket"
+        ],
+        "creation_date": 1736363536,
+        "question_id": 79340497,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340497/can-a-websocket-session-be-used-by-different-pods-in-kubernetes"
+      },
+      {
+        "tags": [
+          "python",
+          "selenium-webdriver",
+          "web-scraping",
+          "scrapy"
+        ],
+        "creation_date": 1736363653,
+        "question_id": 79340503,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340503/how-to-adjust-nitter-scraper-to-print-new-tweets-in-real-time"
+      },
+      {
+        "tags": [
+          "git",
+          "git-bundle"
+        ],
+        "creation_date": 1736363682,
+        "question_id": 79340506,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340506/archiving-entire-git-repo"
+      },
+      {
+        "tags": [
+          "c#",
+          "mongodb"
+        ],
+        "creation_date": 1736364040,
+        "question_id": 79340525,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340525/ignore-null-property-when-deserializing-with-c-mongodb-driver"
+      },
+      {
+        "tags": [
+          "url-rewriting",
+          "azure-api-management",
+          "apim",
+          "policies"
+        ],
+        "creation_date": 1736364160,
+        "question_id": 79340529,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340529/remove-a-part-of-url-in-api-management-policies"
+      },
+      {
+        "tags": [
+          "dynamic",
+          "testrigor"
+        ],
+        "creation_date": 1736364239,
+        "question_id": 79340530,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340530/how-to-grab-values-from-dynamically-generated-test-results-in-testrigor"
+      },
+      {
+        "tags": [
+          "ssl-certificate",
+          "openshift",
+          "grpc",
+          "istio",
+          "servicemesh"
+        ],
+        "creation_date": 1736364454,
+        "question_id": 79340537,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340537/how-to-do-roundrobin-loadbalancing-in-grpc-service-with-self-signed-certificate"
+      },
+      {
+        "tags": [
+          "javascript",
+          "typescript"
+        ],
+        "creation_date": 1736364471,
+        "question_id": 79340538,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340538/composition-and-inheritance-simultaneously-typescript"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "hibernate",
+          "quarkus",
+          "postgis",
+          "testcontainers"
+        ],
+        "creation_date": 1736364495,
+        "question_id": 79340539,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340539/cache-lookup-failed-for-type-18049-when-resetting-the-database-in-quarkus-test"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "x11",
+          "wayland"
+        ],
+        "creation_date": 1736364624,
+        "question_id": 79340542,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340542/how-do-i-differentiate-between-x11-and-wayland-at-compile-time"
+      },
+      {
+        "tags": [
+          "go",
+          "trivy"
+        ],
+        "creation_date": 1736364631,
+        "question_id": 79340543,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340543/how-to-configure-trivy%c2%b4s-secret-detection-correctly"
+      },
+      {
+        "tags": [
+          "php",
+          "postgresql",
+          "symfony",
+          "orm",
+          "doctrine"
+        ],
+        "creation_date": 1736364636,
+        "question_id": 79340544,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340544/migration-error-while-renaming-table-in-symfony-doctrine-orm"
+      },
+      {
+        "tags": [
+          "python",
+          "uv"
+        ],
+        "creation_date": 1736364683,
+        "question_id": 79340547,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340547/how-to-import-nested-modules-with-uv"
+      },
+      {
+        "tags": [
+          "git",
+          "filter",
+          "clone",
+          "checkout",
+          "sparse-checkout"
+        ],
+        "creation_date": 1736364729,
+        "question_id": 79340548,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340548/git-clone-and-download-only-the-files-that-need-changed-and-committed"
+      },
+      {
+        "tags": [
+          "c#",
+          "visual-studio",
+          "blazor",
+          "blazor-server-side"
+        ],
+        "creation_date": 1736364870,
+        "question_id": 79340557,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340557/html0003-missing-attribute-name-after-upgrading-to-latest-visual-studio-in-blazo"
+      },
+      {
+        "tags": [
+          "c++",
+          "c++11",
+          "visual-c++",
+          "macros",
+          "g++"
+        ],
+        "creation_date": 1736365001,
+        "question_id": 79340562,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340562/macro-expansion-differs-bettwen-g-and-msvc"
+      },
+      {
+        "tags": [
+          "sql",
+          "postgresql",
+          "indexing",
+          "sql-like"
+        ],
+        "creation_date": 1736365226,
+        "question_id": 79340573,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340573/how-to-combine-left-and-lower-in-a-multicolumn-index-for-leading-text-patterns"
+      },
+      {
+        "tags": [
+          "iis",
+          "aspstate"
+        ],
+        "creation_date": 1736365277,
+        "question_id": 79340575,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340575/how-to-limit-repeated-calls-to-dbo-tempgetstateitemexclusive3"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "typescript",
+          "vite",
+          "tsc"
+        ],
+        "creation_date": 1736365307,
+        "question_id": 79340577,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340577/typescript-no-emit-any-error-react-and-vite"
+      },
+      {
+        "tags": [
+          "bitbucket-pipelines"
+        ],
+        "creation_date": 1736365458,
+        "question_id": 79340579,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340579/bitbucket-pipeline-does-not-replace-all-deployments-variables"
+      },
+      {
+        "tags": [
+          "go",
+          "http",
+          "asynchronous",
+          "google-cloud-platform",
+          "google-cloud-functions"
+        ],
+        "creation_date": 1736365717,
+        "question_id": 79340590,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340590/pattern-for-handling-deferred-tasks-in-a-gcp-cloud-function"
+      },
+      {
+        "tags": [
+          "python",
+          "windows",
+          "subprocess",
+          "elevated-privileges"
+        ],
+        "creation_date": 1736366127,
+        "question_id": 79340603,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340603/starting-elevated-subprocess-in-elevated-python-without-shell"
+      },
+      {
+        "tags": [
+          "json",
+          "azure-cosmosdb-gremlinapi",
+          "gremlinpython"
+        ],
+        "creation_date": 1736366301,
+        "question_id": 79340613,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340613/error-during-json-data-upload-to-cosmos-gremlin-gremlin-query-execution-error"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "maven",
+          "spring-data",
+          "lombok"
+        ],
+        "creation_date": 1736366527,
+        "question_id": 79340618,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340618/row-was-updated-or-deleted-by-another-transaction-or-unsaved-value-mapping-was"
+      },
+      {
+        "tags": [
+          "android",
+          "delphi",
+          "firemonkey"
+        ],
+        "creation_date": 1736366575,
+        "question_id": 79340621,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340621/delphi-fmx-android-coping-file-requestpermissions-problem"
+      },
+      {
+        "tags": [
+          "python",
+          "tensorflow",
+          "conv-neural-network"
+        ],
+        "creation_date": 1736366685,
+        "question_id": 79340626,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340626/how-does-the-conv2d-method-filter-the-featuremaps-outputted-by-another-conv2d-la"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "browser",
+          "download",
+          "rename"
+        ],
+        "creation_date": 1736367177,
+        "question_id": 79340640,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340640/download-not-renaming-using-local-path"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "creation_date": 1736367533,
+        "question_id": 79340653,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340653/how-to-check-if-a-list-contains-an-object-of-the-same-type-as-the-caller"
+      },
+      {
+        "tags": [
+          "kotlin",
+          "format",
+          "android-textinputedittext"
+        ],
+        "creation_date": 1736367605,
+        "question_id": 79340656,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340656/unable-to-delete-slash-from-str-in-edittext-date-formatter"
+      },
+      {
+        "tags": [
+          "c",
+          "bit-manipulation",
+          "bitwise-operators",
+          "bit-shift"
+        ],
+        "creation_date": 1736367817,
+        "question_id": 79340667,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340667/unexpected-output-from-right-rotate-function"
+      },
+      {
+        "tags": [
+          "flask",
+          "nginx",
+          "session",
+          "server",
+          "gunicorn"
+        ],
+        "creation_date": 1736367830,
+        "question_id": 79340668,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340668/flask-session-data-lost-on-server-gunicorn-nginx-but-works-locally"
+      },
+      {
+        "tags": [
+          "macos",
+          "rust",
+          "terminal"
+        ],
+        "creation_date": 1736367928,
+        "question_id": 79340670,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340670/running-rust-app-without-showing-the-terminal-for-macos"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1736368199,
+        "question_id": 79340679,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340679/angular-tofixed-not-returning-expected-result"
+      },
+      {
+        "tags": [
+          "typo3",
+          "typo3-extensions"
+        ],
+        "creation_date": 1736368305,
+        "question_id": 79340684,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340684/error-if-i-try-to-activate-extension-in-typo3-13-4"
+      },
+      {
+        "tags": [
+          "javascript",
+          "django",
+          "cookies"
+        ],
+        "creation_date": 1736368387,
+        "question_id": 79340686,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340686/django-frontend-detect-if-user-is-logged-in"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "postgresql",
+          "criteria-api",
+          "blaze-persistence"
+        ],
+        "creation_date": 1736368402,
+        "question_id": 79340688,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340688/how-to-implement-full-text-search-with-postgresql-using-blaze-persistence-criter"
+      },
+      {
+        "tags": [
+          "docker",
+          "docker-compose",
+          "h2c"
+        ],
+        "creation_date": 1736368587,
+        "question_id": 79340698,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340698/dockerfile-ok-but-docker-compose-fails-with-an-obscure-rpc-error"
+      },
+      {
+        "tags": [
+          "typescript",
+          "vue.js"
+        ],
+        "creation_date": 1736368984,
+        "question_id": 79340714,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340714/vue-iterate-over-long-ref"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-boot",
+          "hibernate",
+          "spring-data-jpa"
+        ],
+        "creation_date": 1736369547,
+        "question_id": 79340729,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340729/spring-data-jpa-is-not-able-to-find-foreign-key-it-is-always-null"
+      },
+      {
+        "tags": [
+          "excel",
+          "date",
+          "excel-formula",
+          "conditional-statements",
+          "sum"
+        ],
+        "creation_date": 1736369722,
+        "question_id": 79340735,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340735/spill-formula-to-sumifs-by-row-col-for-only-relevant-months"
+      },
+      {
+        "tags": [
+          "azure",
+          "microsoft-graph-api",
+          "onedrive"
+        ],
+        "creation_date": 1736369988,
+        "question_id": 79340743,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340743/onedrive-graph-api-403-when-getting-users-onedrive"
+      },
+      {
+        "tags": [
+          "c",
+          "mongoose"
+        ],
+        "creation_date": 1736370049,
+        "question_id": 79340744,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340744/calling-external-functions-in-mongoose-os-soft-eth-fail"
+      },
+      {
+        "tags": [
+          "dart"
+        ],
+        "creation_date": 1736370121,
+        "question_id": 79340746,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340746/in-dart-how-can-i-optionally-pass-an-optional-argument"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "regex"
+        ],
+        "creation_date": 1736370203,
+        "question_id": 79340748,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340748/regex-for-a-particular-character-in-an-unpaired-tag"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "signalr",
+          "httponly"
+        ],
+        "creation_date": 1736370261,
+        "question_id": 79340750,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340750/handle-jwt-refresh-with-signalr-when-using-httponly-cookies"
+      },
+      {
+        "tags": [
+          "kotlin",
+          "jvm",
+          "phantom-reference"
+        ],
+        "creation_date": 1736370433,
+        "question_id": 79340758,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340758/why-inheriting-phantomreference-prevents-object-be-cleaned"
+      },
+      {
+        "tags": [
+          "javascript",
+          "amazon-web-services",
+          "apache",
+          "credentials",
+          "amazon-bedrock"
+        ],
+        "creation_date": 1736370538,
+        "question_id": 79340762,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340762/accessing-aws-credentials-from-a-javascript-web-app"
+      },
+      {
+        "tags": [
+          "r"
+        ],
+        "creation_date": 1736370612,
+        "question_id": 79340764,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340764/how-do-i-identify-if-multiple-strings-in-multiple-columns-are-present-with-strin"
+      },
+      {
+        "tags": [
+          "aws-lambda",
+          "terraform",
+          "terraform-provider-aws"
+        ],
+        "creation_date": 1736370683,
+        "question_id": 79340766,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340766/trying-to-get-my-logic-to-work-in-one-terraform-apply-when-lambda-code-is-updat"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart"
+        ],
+        "creation_date": 1736370745,
+        "question_id": 79340769,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340769/adjust-size-of-dropdownbutton-in-flutter"
+      },
+      {
+        "tags": [
+          "python",
+          "pydub"
+        ],
+        "creation_date": 1736370760,
+        "question_id": 79340771,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340771/modulenotfounderror-no-module-named-pydub"
+      },
+      {
+        "tags": [
+          "r",
+          "debugging",
+          "package",
+          "traceback"
+        ],
+        "creation_date": 1736371272,
+        "question_id": 79340780,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340780/how-can-i-get-a-full-traceback-from-r-cmd-check"
+      },
+      {
+        "tags": [
+          "arm",
+          "ieee-754",
+          "half-precision-float"
+        ],
+        "creation_date": 1736371520,
+        "question_id": 79340787,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340787/float16-t-rounding-on-arm-neon"
+      },
+      {
+        "tags": [
+          "azure-data-factory"
+        ],
+        "creation_date": 1736371592,
+        "question_id": 79340792,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340792/adf-dataflow-how-to-use-expression-for-not-equal-elements-in-the-array"
+      },
+      {
+        "tags": [
+          "jsdoc"
+        ],
+        "creation_date": 1736371618,
+        "question_id": 79340794,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340794/how-can-i-use-the-class-tag-value-instead-of-the-constructor-function-name-as-a"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "aws-amplify"
+        ],
+        "creation_date": 1736371641,
+        "question_id": 79340795,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340795/amplify-data-schema-with-multiple-authorization-rules"
+      },
+      {
+        "tags": [
+          "r",
+          "openai-api",
+          "httr",
+          "httr2"
+        ],
+        "creation_date": 1736371698,
+        "question_id": 79340796,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340796/in-r-post-request-openai-api-error-in-curlcurl-fetch-memory"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "hide",
+          "tumblr"
+        ],
+        "creation_date": 1736371848,
+        "question_id": 79340802,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340802/conditionally-activate-html-for-restricted-page-or-for-normal-tumblr-blog-based"
+      },
+      {
+        "tags": [
+          "database",
+          "graphql"
+        ],
+        "creation_date": 1736371926,
+        "question_id": 79340805,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340805/how-to-use-contain-in-graphql-query"
+      },
+      {
+        "tags": [
+          "go",
+          "websocket",
+          "gqlgen"
+        ],
+        "creation_date": 1736372218,
+        "question_id": 79340817,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340817/authenticate-both-websocket-and-http-requests-same-resolver"
+      },
+      {
+        "tags": [
+          "vs-code",
+          "github-copilot",
+          "amazon-q-developer"
+        ],
+        "creation_date": 1736372506,
+        "question_id": 79340824,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340824/how-to-use-github-copilot-and-amazon-q-simultaneously-in-vs-code"
+      },
+      {
+        "tags": [
+          "algorithm",
+          "optimization",
+          "graph"
+        ],
+        "creation_date": 1736372720,
+        "question_id": 79340834,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340834/polyhedra-matching-problem-related-to-graph-matching"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "hyperlink"
+        ],
+        "creation_date": 1736372801,
+        "question_id": 79340837,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340837/go-to-page-using-class-name"
+      },
+      {
+        "tags": [
+          "langchain",
+          "py-langchain",
+          "chromadb",
+          "vectorstore"
+        ],
+        "creation_date": 1736373064,
+        "question_id": 79340846,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340846/how-to-check-if-a-document-exists-in-a-chroma-vectorstore-using-langchain"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 273
+  }
+}

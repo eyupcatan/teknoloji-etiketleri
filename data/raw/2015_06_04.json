@@ -1,0 +1,1142 @@
+{
+  "retrieved_at": "2026-10-26T19:04:54.877681+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420524000&todate=1420545599&sort=creation&order=asc&pagesize=100&page=4&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420524000,
+    "todate": 1420545599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 4,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "python",
+          "virtualenv"
+        ],
+        "creation_date": 1420528870,
+        "question_id": 27793899,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793899/cannot-remove-virtualenv-directory-from-pc"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "twitter-bootstrap-3",
+          "color-picker",
+          "color-shade"
+        ],
+        "creation_date": 1420528887,
+        "question_id": 27793901,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793901/need-html-5-color-picker-with-limited-color-shades"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "http-redirect"
+        ],
+        "creation_date": 1420528890,
+        "question_id": 27793902,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793902/is-it-possible-to-do-redirection-based-on-time"
+      },
+      {
+        "tags": [
+          "ios",
+          "core-data",
+          "restkit"
+        ],
+        "creation_date": 1420528905,
+        "question_id": 27793907,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793907/nsfetchedresultscontroller-not-firing-controllerdidchangecontent"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "css",
+          "asp.net",
+          "html"
+        ],
+        "creation_date": 1420528907,
+        "question_id": 27793908,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793908/page-loses-alignment-when-back-end-is-called-and-takes-some-time-to-re-align-con"
+      },
+      {
+        "tags": [
+          "ios",
+          "unix",
+          "network-programming",
+          "telnet"
+        ],
+        "creation_date": 1420528912,
+        "question_id": 27793909,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793909/can-i-send-function-key-to-unix-server-through-telnet"
+      },
+      {
+        "tags": [
+          "asp.net",
+          ".net",
+          "appdomain"
+        ],
+        "creation_date": 1420528930,
+        "question_id": 27793912,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793912/how-many-app-domains-are-created"
+      },
+      {
+        "tags": [
+          "c#",
+          "entity-framework-5",
+          "entity-framework-migrations"
+        ],
+        "creation_date": 1420528984,
+        "question_id": 27793922,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793922/defaultvalue-in-migration-doesnt-work"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas",
+          "melt"
+        ],
+        "creation_date": 1420528994,
+        "question_id": 27793925,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793925/python-get-a-dataframe-with-time-as-index-and-several-dates-as-columns"
+      },
+      {
+        "tags": [
+          "dns",
+          "alias",
+          "cname"
+        ],
+        "creation_date": 1420529021,
+        "question_id": 27793931,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793931/add-on-domains-or-domain-alias"
+      },
+      {
+        "tags": [
+          "java",
+          "mysql",
+          "sql",
+          "jsp",
+          "select"
+        ],
+        "creation_date": 1420529042,
+        "question_id": 27793939,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793939/update-managerid-for-for-different-employee"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420529051,
+        "question_id": 27793943,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793943/textview-text-color"
+      },
+      {
+        "tags": [
+          "css",
+          "header",
+          "visualforce",
+          "salesforce-service-cloud"
+        ],
+        "creation_date": 1420529052,
+        "question_id": 27793944,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793944/repeat-headers-in-visual-force-page"
+      },
+      {
+        "tags": [
+          "facebook",
+          "html-meta",
+          "sharethis",
+          "share-open-graph"
+        ],
+        "creation_date": 1420529057,
+        "question_id": 27793947,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27793947/og-tag-contents-are-not-picking-up-when-i-share-through-fb-using-sharethis"
+      },
+      {
+        "tags": [
+          "delphi",
+          "delphi-xe3"
+        ],
+        "creation_date": 1420529065,
+        "question_id": 27793949,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793949/rtti-variant-open-array-parameters"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420529091,
+        "question_id": 27793953,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793953/click-and-addclass-again-after-class-has-been-added"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420529128,
+        "question_id": 27793964,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793964/show-div-if-any-one-option-from-all-radios-selected"
+      },
+      {
+        "tags": [
+          "linux",
+          "linux-kernel",
+          "kernel",
+          "linux-device-driver",
+          "kernel-module"
+        ],
+        "creation_date": 1420529161,
+        "question_id": 27793973,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793973/clean-only-selected-modules-before-building-linux-kernel"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift"
+        ],
+        "creation_date": 1420529184,
+        "question_id": 27793979,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793979/what-is-successor-in-swift"
+      },
+      {
+        "tags": [
+          "android",
+          "datepicker"
+        ],
+        "creation_date": 1420529194,
+        "question_id": 27793982,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793982/pass-date-from-datepicker-in-one-activity-to-another"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "datetime",
+          "string-parsing"
+        ],
+        "creation_date": 1420529195,
+        "question_id": 27793983,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793983/finding-whether-current-time-is-between-a-range-provided-in-string-hhmm-like"
+      },
+      {
+        "tags": [
+          "r",
+          "csv"
+        ],
+        "creation_date": 1420529195,
+        "question_id": 27793984,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793984/importing-selected-csv-files-in-r-out-of-multiple-csv-files-present-in-a-folde"
+      },
+      {
+        "tags": [
+          "android",
+          "android-fragments",
+          "android-bluetooth"
+        ],
+        "creation_date": 1420529198,
+        "question_id": 27793985,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793985/paired-devices-is-getting-null-in-android"
+      },
+      {
+        "tags": [
+          "jquery",
+          "ajax",
+          "http",
+          "cors",
+          "basic-authentication"
+        ],
+        "creation_date": 1420529200,
+        "question_id": 27793988,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793988/ajax-set-headers-for-basic-authorization-does-not-work"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "import",
+          "python-import"
+        ],
+        "creation_date": 1420529202,
+        "question_id": 27793989,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793989/import-from-url"
+      },
+      {
+        "tags": [
+          "liferay",
+          "liferay-6",
+          "liferay-theme"
+        ],
+        "creation_date": 1420529208,
+        "question_id": 27793990,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793990/how-to-create-account-popup-liferay"
+      },
+      {
+        "tags": [
+          "django",
+          "database"
+        ],
+        "creation_date": 1420529234,
+        "question_id": 27793993,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793993/how-to-set-up-three-readonly-database-server-postgresql-mongodb-and-elastic-se"
+      },
+      {
+        "tags": [
+          "android",
+          "maven",
+          "pom.xml",
+          "bintray",
+          "jcenter"
+        ],
+        "creation_date": 1420529256,
+        "question_id": 27793996,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793996/publishing-android-library-to-jcenter-error-add-a-pom-file-to-the-latest-versi"
+      },
+      {
+        "tags": [
+          "javascript",
+          "extjs",
+          "ext3"
+        ],
+        "creation_date": 1420529262,
+        "question_id": 27793997,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793997/store-filtering-for-combobox-and-bindstore"
+      },
+      {
+        "tags": [
+          "wpf",
+          "visual-studio",
+          "lines-of-code"
+        ],
+        "creation_date": 1420529268,
+        "question_id": 27793999,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27793999/counting-lines-of-code-for-xaml-and-sql-files-in-visual-studio-project"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "visual-studio-2010",
+          "visual-studio",
+          "visual-studio-2012"
+        ],
+        "creation_date": 1420529282,
+        "question_id": 27794003,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794003/visual-studio-2010-maptoipv4"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-mvc-4",
+          "adobe-analytics"
+        ],
+        "creation_date": 1420529301,
+        "question_id": 27794007,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794007/adobe-analytics-doesnt-generate-my-report"
+      },
+      {
+        "tags": [
+          "android",
+          "android-fragments",
+          "android-framelayout"
+        ],
+        "creation_date": 1420529315,
+        "question_id": 27794010,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794010/android-activity-with-two-fragments-how-to-tell-the-system-which-framelayout-i"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "dom",
+          "domdocument"
+        ],
+        "creation_date": 1420529339,
+        "question_id": 27794015,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794015/add-script-content-to-page-on-runtime"
+      },
+      {
+        "tags": [
+          "c++",
+          "matlab",
+          "filestream"
+        ],
+        "creation_date": 1420529349,
+        "question_id": 27794018,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794018/moving-files-in-matlab"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "widget"
+        ],
+        "creation_date": 1420529367,
+        "question_id": 27794023,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794023/updating-another-widget-also-when-current-widget-is-updated"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420529380,
+        "question_id": 27794025,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794025/error-in-bundle-passing"
+      },
+      {
+        "tags": [
+          "google-oauth",
+          "google-api-php-client",
+          "file-not-found"
+        ],
+        "creation_date": 1420529381,
+        "question_id": 27794026,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794026/service-account-google-oauth-file-get-contents-p12-failed-to-open-stream-no-s"
+      },
+      {
+        "tags": [
+          "xml",
+          "atg"
+        ],
+        "creation_date": 1420529399,
+        "question_id": 27794029,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794029/xml-input-is-not-working-in-atg-11-1-dyn-admin"
+      },
+      {
+        "tags": [
+          "database",
+          "grails",
+          "indexing"
+        ],
+        "creation_date": 1420529410,
+        "question_id": 27794035,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794035/index-of-same-name-in-two-different-domains"
+      },
+      {
+        "tags": [
+          "java",
+          "javafx-2"
+        ],
+        "creation_date": 1420529411,
+        "question_id": 27794036,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27794036/how-to-insert-text-field-to-javafx-table-view-header"
+      },
+      {
+        "tags": [
+          "twitter-bootstrap",
+          "laravel",
+          "laravel-4"
+        ],
+        "creation_date": 1420529421,
+        "question_id": 27794038,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794038/is-bootstrap-included-in-laravel-4"
+      },
+      {
+        "tags": [
+          "mysql",
+          "regex",
+          "replace"
+        ],
+        "creation_date": 1420529424,
+        "question_id": 27794039,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794039/how-to-replace-more-than-one-keyword-in-a-string-in-mysql-using-replace-and-rege"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "service",
+          "handler",
+          "bind"
+        ],
+        "creation_date": 1420529435,
+        "question_id": 27794040,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794040/service-is-stopping-on-app-close-when-it-didnt-before"
+      },
+      {
+        "tags": [
+          "android",
+          "json",
+          "android-asynctask"
+        ],
+        "creation_date": 1420529482,
+        "question_id": 27794048,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794048/how-to-execute-the-asynchronous-task-several-times"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "classpath",
+          "applicationcontext"
+        ],
+        "creation_date": 1420529499,
+        "question_id": 27794053,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794053/difference-between-classpathxmlapplicationcontext-and-classpathresource"
+      },
+      {
+        "tags": [
+          "php",
+          "codeigniter",
+          "email",
+          "cpanel"
+        ],
+        "creation_date": 1420529506,
+        "question_id": 27794056,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794056/i-am-trying-to-send-email-from-cpanel-using-codeigniter-but-every-time-i-get-the"
+      },
+      {
+        "tags": [
+          "python",
+          "string-formatting"
+        ],
+        "creation_date": 1420529582,
+        "question_id": 27794069,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794069/why-is-s-faster-than-d-for-integer-substitution-in-python"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "node.js",
+          "websocket",
+          "socket.io"
+        ],
+        "creation_date": 1420529628,
+        "question_id": 27794073,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794073/emitting-image-from-node-js-with-help-of-socket-io-to-html-does-not-work"
+      },
+      {
+        "tags": [
+          "javascript",
+          "object",
+          "methods"
+        ],
+        "creation_date": 1420529629,
+        "question_id": 27794074,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794074/javascript-invoking-a-method-which-does-not-belong-to-an-object"
+      },
+      {
+        "tags": [
+          "ios",
+          "app-store",
+          "url-scheme"
+        ],
+        "creation_date": 1420529632,
+        "question_id": 27794075,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794075/putting-information-into-a-newly-installed-app"
+      },
+      {
+        "tags": [
+          "php",
+          "file",
+          "time",
+          "delete-file"
+        ],
+        "creation_date": 1420529652,
+        "question_id": 27794081,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794081/delete-a-file-having-specific-age-in-php"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "css",
+          "asp.net"
+        ],
+        "creation_date": 1420529655,
+        "question_id": 27794082,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794082/dropdownlist-menu-of-metro-ui-css-in-asp-page-inside-sub-folder-doesnt-work"
+      },
+      {
+        "tags": [
+          "php",
+          "doctrine",
+          "symfony-1.4"
+        ],
+        "creation_date": 1420529657,
+        "question_id": 27794083,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794083/how-to-return-a-value-using-doctrine-in-symfony-1-4"
+      },
+      {
+        "tags": [
+          "python",
+          "vagrant",
+          "pycharm"
+        ],
+        "creation_date": 1420529658,
+        "question_id": 27794084,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794084/pycharm-manage-py-tasks-importerror-no-module-named-manage"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "highcharts",
+          "angularjs-directive"
+        ],
+        "creation_date": 1420529676,
+        "question_id": 27794087,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794087/sending-a-value-from-html-to-controller-in-angularjs-issue-with-scope"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "ajax"
+        ],
+        "creation_date": 1420529680,
+        "question_id": 27794088,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794088/button-not-firing-inside-accordion-panes-inside-which-is-inside-update-panel"
+      },
+      {
+        "tags": [
+          "linux",
+          "rpm"
+        ],
+        "creation_date": 1420529693,
+        "question_id": 27794089,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794089/difference-between-rpm-ivh-and-rpm-uvh"
+      },
+      {
+        "tags": [
+          "java",
+          "collections"
+        ],
+        "creation_date": 1420529694,
+        "question_id": 27794090,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794090/sequence-in-which-products-are-added-is-not-maintained"
+      },
+      {
+        "tags": [
+          "android",
+          "android-intent",
+          "android-pendingintent"
+        ],
+        "creation_date": 1420529726,
+        "question_id": 27794098,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794098/which-function-will-be-called-on-starting-an-activity-with-a-click-on-notificati"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "onclick"
+        ],
+        "creation_date": 1420529728,
+        "question_id": 27794100,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794100/how-to-pass-parameters-to-function-on-dynamic-row-click-event"
+      },
+      {
+        "tags": [
+          "cordova",
+          "adobe-analytics"
+        ],
+        "creation_date": 1420529758,
+        "question_id": 27794103,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794103/adobe-analytics-phonegap-plugin"
+      },
+      {
+        "tags": [
+          "android",
+          "oauth-2.0",
+          "facebook-login"
+        ],
+        "creation_date": 1420529763,
+        "question_id": 27794104,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794104/facebook-login-nothing-happens-after-i-allow-app-to-access-the-information"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420529772,
+        "question_id": 27794107,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794107/cant-play-video-view-full-screen-android"
+      },
+      {
+        "tags": [
+          "android",
+          "android-service"
+        ],
+        "creation_date": 1420529777,
+        "question_id": 27794109,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794109/communication-between-an-application-class-and-service-in-android"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "t-sql"
+        ],
+        "creation_date": 1420529819,
+        "question_id": 27794114,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794114/parsename-is-not-working-when-using-string-from-function"
+      },
+      {
+        "tags": [
+          "c#",
+          "string",
+          "datetime"
+        ],
+        "creation_date": 1420529887,
+        "question_id": 27794124,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794124/how-to-convert-string-to-date-141104-with-2014-year"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server-2008-r2"
+        ],
+        "creation_date": 1420529905,
+        "question_id": 27794128,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794128/how-can-i-update-a-column-with-row-number-in-sql-server"
+      },
+      {
+        "tags": [
+          "macos",
+          "cocoa",
+          "core-graphics",
+          "nswindow"
+        ],
+        "creation_date": 1420529943,
+        "question_id": 27794135,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794135/nswindow-redraw-issues-flickers-when-resized"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby-on-rails-4"
+        ],
+        "creation_date": 1420529943,
+        "question_id": 27794136,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794136/after-destroy-callback-error-cannot-update-on-new-record-object"
+      },
+      {
+        "tags": [
+          "c++",
+          "arrays",
+          "algorithm",
+          "data-structures",
+          "segment-tree"
+        ],
+        "creation_date": 1420529950,
+        "question_id": 27794139,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794139/find-sum-of-all-elements-of-an-array-excluding-index-l-to-r"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-mvc",
+          "serialization"
+        ],
+        "creation_date": 1420529950,
+        "question_id": 27794138,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794138/spring-services-should-be-serializable"
+      },
+      {
+        "tags": [
+          "android",
+          "facebook",
+          "facebook-graph-api",
+          "cordova",
+          "oauth"
+        ],
+        "creation_date": 1420529957,
+        "question_id": 27794140,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794140/https-graph-facebook-com-oauth-kill-alive-session"
+      },
+      {
+        "tags": [
+          "javascript",
+          "selenium-webdriver",
+          "onclick",
+          "watir",
+          "watir-webdriver"
+        ],
+        "creation_date": 1420529974,
+        "question_id": 27794145,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794145/cant-get-a-button-elements-onclick-event-javascript-to-execute-using-watir-web"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "mongodb",
+          "mongoid",
+          "mongodb-query"
+        ],
+        "creation_date": 1420529986,
+        "question_id": 27794150,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794150/use-individual-dynamic-field-value-with-update-all-in-mongoid"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "mapkit"
+        ],
+        "creation_date": 1420530005,
+        "question_id": 27794157,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794157/crash-at-mkmapitem-placemark-coordinate"
+      },
+      {
+        "tags": [
+          "java",
+          "playframework-2.3",
+          "deadbolt"
+        ],
+        "creation_date": 1420530046,
+        "question_id": 27794163,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794163/play-2-3-6-deadbolt-restrict-user-created-resources"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "namespaces",
+          "this"
+        ],
+        "creation_date": 1420530060,
+        "question_id": 27794166,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794166/getting-this-into-a-namespace-in-javascript"
+      },
+      {
+        "tags": [
+          "android",
+          "intellij-idea",
+          "android-gradle-plugin",
+          "dependency-management",
+          "build.gradle"
+        ],
+        "creation_date": 1420530069,
+        "question_id": 27794168,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794168/local-module-dependencies-with-gradle"
+      },
+      {
+        "tags": [
+          "chef-infra",
+          "chef-recipe"
+        ],
+        "creation_date": 1420530079,
+        "question_id": 27794170,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794170/chef-pattern-for-setting-role-specific-attributes"
+      },
+      {
+        "tags": [
+          "image-resizing"
+        ],
+        "creation_date": 1420530152,
+        "question_id": 27794187,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794187/how-to-batch-resize-png-files-with-commandline-on-mac"
+      },
+      {
+        "tags": [
+          "php",
+          "google-gdk",
+          "google-mirror-api"
+        ],
+        "creation_date": 1420530155,
+        "question_id": 27794189,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794189/gdk-authentication-using-php"
+      },
+      {
+        "tags": [
+          "c#",
+          "sql",
+          "sql-server",
+          "ado.net"
+        ],
+        "creation_date": 1420530174,
+        "question_id": 27794192,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794192/how-to-find-parameters-in-sql-query-using-c-ado-net"
+      },
+      {
+        "tags": [
+          "python",
+          "gearman",
+          "python-gearman"
+        ],
+        "creation_date": 1420530199,
+        "question_id": 27794199,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794199/running-mutliple-worker-in-parallel-in-gearman-python"
+      },
+      {
+        "tags": [
+          "scala",
+          "playframework",
+          "cors"
+        ],
+        "creation_date": 1420530202,
+        "question_id": 27794201,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794201/how-to-let-javascript-apps-loaded-from-any-domain-access-all-public-assets-when"
+      },
+      {
+        "tags": [
+          "java",
+          "groovy",
+          "gradle"
+        ],
+        "creation_date": 1420530229,
+        "question_id": 27794207,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794207/how-to-add-a-property-to-the-instance-of-script"
+      },
+      {
+        "tags": [
+          "android",
+          "payment-gateway",
+          "payment",
+          "payment-processing"
+        ],
+        "creation_date": 1420530265,
+        "question_id": 27794216,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794216/how-activity-will-redirect-from-browser-to-application-after-payment"
+      },
+      {
+        "tags": [
+          "android",
+          "driver",
+          "vpn",
+          "tun"
+        ],
+        "creation_date": 1420530300,
+        "question_id": 27794218,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794218/how-to-overcome-tun-ko-driver-issue-in-android-for-vpn"
+      },
+      {
+        "tags": [
+          "android",
+          "google-maps",
+          "google-maps-android-api-2",
+          "google-maps-api-2"
+        ],
+        "creation_date": 1420530316,
+        "question_id": 27794221,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794221/can-i-change-my-location-button-in-android-maps"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs"
+        ],
+        "creation_date": 1420530334,
+        "question_id": 27794223,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794223/ordering-conditionally-angularjs"
+      },
+      {
+        "tags": [
+          "c#",
+          "sql",
+          "database",
+          "sql-server-express"
+        ],
+        "creation_date": 1420530361,
+        "question_id": 27794230,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794230/get-one-cell-of-data-from-database"
+      },
+      {
+        "tags": [
+          "java",
+          "vfs",
+          "apache-commons-vfs"
+        ],
+        "creation_date": 1420530391,
+        "question_id": 27794234,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794234/how-does-the-commons-vfs-cache-works"
+      },
+      {
+        "tags": [
+          "javascript",
+          "internet-explorer-8",
+          "gulp",
+          "wiredep",
+          "gulp-inject"
+        ],
+        "creation_date": 1420530410,
+        "question_id": 27794237,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794237/how-to-add-specific-bower-components-as-ie8-conditional-block-in-gulp"
+      },
+      {
+        "tags": [
+          "ejb-3.0"
+        ],
+        "creation_date": 1420530430,
+        "question_id": 27794241,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794241/ejb-call-to-varargs-method-failing-from-java7-client"
+      },
+      {
+        "tags": [
+          "php",
+          "symfony"
+        ],
+        "creation_date": 1420530454,
+        "question_id": 27794246,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794246/how-do-i-configure-this-cwd-for-symfony2-framework"
+      },
+      {
+        "tags": [
+          "asp.net-mvc",
+          "asp.net-mvc-3",
+          "asp.net-mvc-4",
+          "model-view-controller"
+        ],
+        "creation_date": 1420530469,
+        "question_id": 27794250,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794250/load-partial-view-by-using-jquery"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "forms"
+        ],
+        "creation_date": 1420530475,
+        "question_id": 27794251,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794251/how-to-get-value-of-multiple-text-inputs-with-same-name"
+      },
+      {
+        "tags": [
+          "ruby",
+          "watir"
+        ],
+        "creation_date": 1420530495,
+        "question_id": 27794254,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794254/select-list-should-when-the-given-value-is-not-empty"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "gridview",
+          "android-animation",
+          "android-adapter"
+        ],
+        "creation_date": 1420530511,
+        "question_id": 27794257,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794257/flip-animation-not-working-properly-in-gridview-after-onitemclick"
+      },
+      {
+        "tags": [
+          "php",
+          "security",
+          "client-server"
+        ],
+        "creation_date": 1420530546,
+        "question_id": 27794265,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27794265/how-can-i-stop-third-party-applications-from-accessing-server-side-data-through"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 258
+  }
+}

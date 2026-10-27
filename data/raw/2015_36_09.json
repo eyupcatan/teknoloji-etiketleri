@@ -1,0 +1,1136 @@
+{
+  "retrieved_at": "2026-10-26T19:09:49.401874+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420632000&todate=1420653599&sort=creation&order=asc&pagesize=100&page=9&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420632000,
+    "todate": 1420653599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 9,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "javascript",
+          "optimization",
+          "polymorphism",
+          "v8",
+          "mediator"
+        ],
+        "creation_date": 1420641131,
+        "question_id": 27821711,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821711/optimizing-mediator-pattern-with-dynamic-events-in-javascript-v8"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "listview",
+          "path"
+        ],
+        "creation_date": 1420641171,
+        "question_id": 27821720,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821720/android-path-of-specific-file-from-a-list"
+      },
+      {
+        "tags": [
+          "ios",
+          "uibezierpath",
+          "cashapelayer"
+        ],
+        "creation_date": 1420641189,
+        "question_id": 27821723,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821723/rotating-an-scaling-a-uibezierpath-on-autorotate"
+      },
+      {
+        "tags": [
+          "perl"
+        ],
+        "creation_date": 1420641204,
+        "question_id": 27821728,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821728/generate-list-with-conditional-items"
+      },
+      {
+        "tags": [
+          "c#",
+          "sql",
+          ".net",
+          "vba",
+          "ms-access"
+        ],
+        "creation_date": 1420641243,
+        "question_id": 27821738,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821738/queries-in-c-and-access-vba-producing-different-results"
+      },
+      {
+        "tags": [
+          "html",
+          "banner-ads",
+          "double-click-advertising",
+          "google-advertising-id"
+        ],
+        "creation_date": 1420641276,
+        "question_id": 27821749,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821749/html5-banner-for-google-spec-and-adform-spec"
+      },
+      {
+        "tags": [
+          "typo3",
+          "fluid",
+          "extbase"
+        ],
+        "creation_date": 1420641276,
+        "question_id": 27821750,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821750/multiple-objects-in-one-fluid-form"
+      },
+      {
+        "tags": [
+          "apache",
+          "xampp"
+        ],
+        "creation_date": 1420641294,
+        "question_id": 27821754,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821754/which-port-can-be-used-for-apache-instead-of-port-80"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "sass"
+        ],
+        "creation_date": 1420641296,
+        "question_id": 27821756,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821756/setting-a-textareas-line-height-to-a-percentage-equal-to-the-same-height-as-a-l"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift"
+        ],
+        "creation_date": 1420641298,
+        "question_id": 27821757,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821757/error-in-app-delegate-ios-8-programming"
+      },
+      {
+        "tags": [
+          "xml",
+          "r"
+        ],
+        "creation_date": 1420641304,
+        "question_id": 27821759,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821759/using-getnodeset-on-xmlnodeset-xml-package"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420641311,
+        "question_id": 27821763,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821763/implementing-video-view-in-android-application"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "ajax",
+          "stripe-payments"
+        ],
+        "creation_date": 1420641329,
+        "question_id": 27821767,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821767/how-to-create-conditional-for-stripe-token-based-on-ajax-success"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "xcode",
+          "core-data",
+          "plist"
+        ],
+        "creation_date": 1420641330,
+        "question_id": 27821769,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821769/how-to-build-a-plist-file-to-populate-a-core-data-relational-model"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "validation",
+          "express"
+        ],
+        "creation_date": 1420641330,
+        "question_id": 27821770,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821770/how-to-validate-a-form-with-express-js"
+      },
+      {
+        "tags": [
+          "ruby"
+        ],
+        "creation_date": 1420641337,
+        "question_id": 27821774,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821774/update-alternatives-error-alternative-path-usr-bin-gem1-8-doesnt-exist"
+      },
+      {
+        "tags": [
+          "android",
+          "bluetooth",
+          "connection",
+          "raspberry-pi",
+          "tablet"
+        ],
+        "creation_date": 1420641342,
+        "question_id": 27821775,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821775/connect-to-device-without-internet-wireless"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "appium"
+        ],
+        "creation_date": 1420641344,
+        "question_id": 27821776,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821776/webelement-object-has-no-attribute-set-value"
+      },
+      {
+        "tags": [
+          "android",
+          "facebook",
+          "facebook-graph-api"
+        ],
+        "creation_date": 1420641346,
+        "question_id": 27821777,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821777/posting-text-on-a-facebook-page-from-an-android-app"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql",
+          "deadlock"
+        ],
+        "creation_date": 1420641371,
+        "question_id": 27821784,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821784/mysql-deadlock-dont-know-why"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "swift",
+          "colors",
+          "uicolor"
+        ],
+        "creation_date": 1420641376,
+        "question_id": 27821785,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27821785/converting-uicolor-to-cgcolor-in-swift"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "cross-browser",
+          "slider",
+          "pseudo-element"
+        ],
+        "creation_date": 1420641378,
+        "question_id": 27821786,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27821786/fill-lower-part-of-range-control-cross-browser"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "twilio"
+        ],
+        "creation_date": 1420641380,
+        "question_id": 27821788,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821788/twilio-connection-parameters-missing-to-parameter"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "yii",
+          "between"
+        ],
+        "creation_date": 1420641403,
+        "question_id": 27821797,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821797/mysql-between-clause-with-yii-php-framework"
+      },
+      {
+        "tags": [
+          "android",
+          "json",
+          "libgdx"
+        ],
+        "creation_date": 1420641421,
+        "question_id": 27821802,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821802/java-lang-nosuchmethoderror-org-json-jsonobject-getnames-on-android-due-to-conf"
+      },
+      {
+        "tags": [
+          "java",
+          "arrays",
+          "file",
+          "integer"
+        ],
+        "creation_date": 1420641427,
+        "question_id": 27821804,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821804/passing-integers-from-file-to-array"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf"
+        ],
+        "creation_date": 1420641437,
+        "question_id": 27821808,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821808/wpf-progressbar-initial-state-and-grid-issue-when-its-running"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "mysql"
+        ],
+        "creation_date": 1420641439,
+        "question_id": 27821810,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821810/storing-multiple-keywords-in-one-field"
+      },
+      {
+        "tags": [
+          "python",
+          "datetime",
+          "strptime"
+        ],
+        "creation_date": 1420641444,
+        "question_id": 27821812,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821812/converting-string-to-date-python"
+      },
+      {
+        "tags": [
+          "php",
+          "regex",
+          "expression"
+        ],
+        "creation_date": 1420641444,
+        "question_id": 27821813,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821813/regex-getting-number-from-tags"
+      },
+      {
+        "tags": [
+          "d"
+        ],
+        "creation_date": 1420641466,
+        "question_id": 27821818,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821818/enable-or-disable-elements-in-const-array"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-scrollview"
+        ],
+        "creation_date": 1420641480,
+        "question_id": 27821820,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821820/scrollview-going-behind-button-in-android"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420641491,
+        "question_id": 27821822,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821822/setresult-in-intent-para-parent-activity-passing"
+      },
+      {
+        "tags": [
+          "docusignapi"
+        ],
+        "creation_date": 1420641497,
+        "question_id": 27821826,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821826/i-need-to-include-a-time-in-the-from-date-option-in-a-docusign-envelope-status-c"
+      },
+      {
+        "tags": [
+          "go"
+        ],
+        "creation_date": 1420641498,
+        "question_id": 27821827,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821827/how-to-access-maps-nil-key-using-reflection"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "sql-server"
+        ],
+        "creation_date": 1420641513,
+        "question_id": 27821833,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821833/need-help-on-network-related-error-connecting-to-sql-server"
+      },
+      {
+        "tags": [
+          "facebook",
+          "facebook-graph-api",
+          "message",
+          "inbox"
+        ],
+        "creation_date": 1420641518,
+        "question_id": 27821836,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821836/add-facebook-feedback-button-to-my-website"
+      },
+      {
+        "tags": [
+          "css",
+          "html",
+          "video",
+          "responsive-design"
+        ],
+        "creation_date": 1420641519,
+        "question_id": 27821838,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821838/responsive-video-does-not-fit-video-container"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "ipad",
+          "transition",
+          "blur"
+        ],
+        "creation_date": 1420641524,
+        "question_id": 27821839,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821839/transition-and-blur-filter-not-working-together-properly-on-ipad-with-ios8"
+      },
+      {
+        "tags": [
+          "scala.js"
+        ],
+        "creation_date": 1420641528,
+        "question_id": 27821841,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821841/working-with-opaque-types-char-and-long"
+      },
+      {
+        "tags": [
+          "c#",
+          "dicom",
+          "gdcm"
+        ],
+        "creation_date": 1420641531,
+        "question_id": 27821843,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821843/cannot-create-dicomdir-file-using-gdcm-library"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420641542,
+        "question_id": 27821845,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821845/single-skew-along-the-bottom-edge-of-an-element"
+      },
+      {
+        "tags": [
+          "windows",
+          "qemu",
+          "boot2docker"
+        ],
+        "creation_date": 1420641545,
+        "question_id": 27821847,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27821847/run-a-docker-container-in-windows"
+      },
+      {
+        "tags": [
+          "jquery",
+          "click"
+        ],
+        "creation_date": 1420641546,
+        "question_id": 27821848,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821848/virtual-click-with-jquery"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "string",
+          "gcc",
+          "string-concatenation"
+        ],
+        "creation_date": 1420641560,
+        "question_id": 27821851,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821851/concatenation-using-strcat-and-realloc-produce-unexpected-errors"
+      },
+      {
+        "tags": [
+          "java",
+          "swing"
+        ],
+        "creation_date": 1420641565,
+        "question_id": 27821852,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821852/set-files-chosen-in-jfilechooser-as-a-string"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "navigationbar"
+        ],
+        "creation_date": 1420641571,
+        "question_id": 27821855,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821855/navigation-bar-for-website"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "asp.net-mvc",
+          "web-config"
+        ],
+        "creation_date": 1420641579,
+        "question_id": 27821856,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821856/deny-static-content-for-unauthorized-users-using-web-config"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "signalr"
+        ],
+        "creation_date": 1420641586,
+        "question_id": 27821858,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821858/why-does-signalr-function-still-exist-in-the-dom-scope-when-going-from-one-page"
+      },
+      {
+        "tags": [
+          "android",
+          "listview"
+        ],
+        "creation_date": 1420641597,
+        "question_id": 27821862,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821862/attempt-to-read-from-field-on-a-null-object-reference"
+      },
+      {
+        "tags": [
+          "android",
+          "android-5.0-lollipop",
+          "android-4.4-kitkat"
+        ],
+        "creation_date": 1420641597,
+        "question_id": 27821861,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821861/downgrade-nexus-9-running-lollipop-to-kitkat"
+      },
+      {
+        "tags": [
+          "jboss7.x",
+          "classcastexception",
+          "jboss-eap-6",
+          "ojdbc",
+          "bfile"
+        ],
+        "creation_date": 1420641621,
+        "question_id": 27821866,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821866/oracle-jdbc-driver-t4cconnection-cannot-be-cast-to-oracle-jdbc-oracleconnection"
+      },
+      {
+        "tags": [
+          "jquery",
+          "xml",
+          "date",
+          "date-range",
+          "jquery-traversing"
+        ],
+        "creation_date": 1420641633,
+        "question_id": 27821873,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821873/jquery-xml-traversing-filter-date-range"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "symfony",
+          "doctrine-orm",
+          "doctrine"
+        ],
+        "creation_date": 1420641661,
+        "question_id": 27821879,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821879/inner-join-with-doctrine-createquerybuilder-in-sf2"
+      },
+      {
+        "tags": [
+          "vba",
+          "excel",
+          "return-value",
+          "messagebox"
+        ],
+        "creation_date": 1420641675,
+        "question_id": 27821882,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821882/excel-vba-returing-a-value-of-a-cell"
+      },
+      {
+        "tags": [
+          "javascript",
+          "acrobat",
+          "formfield"
+        ],
+        "creation_date": 1420641687,
+        "question_id": 27821884,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821884/select-listvalue-and-autopopulate-formfield"
+      },
+      {
+        "tags": [
+          "matlab",
+          "date",
+          "split"
+        ],
+        "creation_date": 1420641695,
+        "question_id": 27821888,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821888/split-a-double-into-parts-matlab"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "async-await",
+          "deflatestream"
+        ],
+        "creation_date": 1420641702,
+        "question_id": 27821889,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821889/deflatestream-readasync-net-4-5-system-io-compression-has-different-return-va"
+      },
+      {
+        "tags": [
+          "android",
+          "opengl-es",
+          "libgdx",
+          "blending"
+        ],
+        "creation_date": 1420641707,
+        "question_id": 27821891,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821891/finger-alpha-masking-libgdx"
+      },
+      {
+        "tags": [
+          "hadoop",
+          "hive",
+          "hbase"
+        ],
+        "creation_date": 1420641707,
+        "question_id": 27821890,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821890/insert-into-hbase-table-using-hive-hadoop"
+      },
+      {
+        "tags": [
+          "android",
+          "gridview",
+          "scrollbar",
+          "scrollview",
+          "android-linearlayout"
+        ],
+        "creation_date": 1420641713,
+        "question_id": 27821892,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821892/add-scroll-bar-if-the-device-screen-is-too-small"
+      },
+      {
+        "tags": [
+          "javascript",
+          "svg",
+          "d3.js"
+        ],
+        "creation_date": 1420641728,
+        "question_id": 27821895,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821895/how-to-give-the-same-boundary-to-multiple-draggable-objects"
+      },
+      {
+        "tags": [
+          "cakephp",
+          "laravel",
+          "hash",
+          "laravel-4"
+        ],
+        "creation_date": 1420641729,
+        "question_id": 27821896,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821896/using-passwords-hashed-in-cakephp-in-laravel-environment"
+      },
+      {
+        "tags": [
+          "javascript",
+          "google-analytics"
+        ],
+        "creation_date": 1420641736,
+        "question_id": 27821900,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821900/is-it-possible-to-send-custom-variables-to-google-analytics-while-using-ecommerc"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode"
+        ],
+        "creation_date": 1420641740,
+        "question_id": 27821902,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821902/abnewpersonviewcontroller-address-field-input"
+      },
+      {
+        "tags": [
+          "node.js",
+          "npm"
+        ],
+        "creation_date": 1420641757,
+        "question_id": 27821909,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821909/npm-install-save-what-is-the-use-of-not-saving"
+      },
+      {
+        "tags": [
+          "android",
+          "facebook",
+          "facebook-like"
+        ],
+        "creation_date": 1420641767,
+        "question_id": 27821911,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821911/facebook-likeview-is-not-working"
+      },
+      {
+        "tags": [
+          "python-3.x"
+        ],
+        "creation_date": 1420641769,
+        "question_id": 27821915,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821915/receiving-a-valueerror-during-max-operation"
+      },
+      {
+        "tags": [
+          "java",
+          "string",
+          "loops",
+          "bufferedreader",
+          "joptionpane"
+        ],
+        "creation_date": 1420641771,
+        "question_id": 27821916,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821916/making-bufferedreader-from-loop-to-next-line"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "iphone",
+          "ios8",
+          "statusbar"
+        ],
+        "creation_date": 1420641774,
+        "question_id": 27821918,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821918/is-it-possible-to-control-status-bar-position-under-ios-8"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf"
+        ],
+        "creation_date": 1420641775,
+        "question_id": 27821919,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821919/wpf-bind-combobox-to-list-of-custom-class-objects"
+      },
+      {
+        "tags": [
+          "solr",
+          "edismax"
+        ],
+        "creation_date": 1420641810,
+        "question_id": 27821926,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821926/solr-multiple-ranges-on-single-field-cause-error"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420641828,
+        "question_id": 27821928,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821928/how-do-i-download-a-image-securely-when-the-user-click-on-a-link-with-php"
+      },
+      {
+        "tags": [
+          "java",
+          "sql",
+          "database",
+          "hibernate"
+        ],
+        "creation_date": 1420641831,
+        "question_id": 27821929,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821929/manytoone-relationship-with-a-string-field"
+      },
+      {
+        "tags": [
+          "ruby",
+          "image-processing",
+          "imagemagick",
+          "paperclip"
+        ],
+        "creation_date": 1420641835,
+        "question_id": 27821932,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821932/ruby-how-to-crop-and-resize-image-from-center"
+      },
+      {
+        "tags": [
+          "reporting-services",
+          "report",
+          "ssrs-2012"
+        ],
+        "creation_date": 1420641836,
+        "question_id": 27821933,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27821933/pass-hidden-parameters-from-url-in-ssrs-report-in-native-mode"
+      },
+      {
+        "tags": [
+          "android",
+          "ontouchlistener"
+        ],
+        "creation_date": 1420641837,
+        "question_id": 27821934,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821934/recognise-motionevent-action-move-when-finger-is-on-screen-before-resuming-activ"
+      },
+      {
+        "tags": [
+          "jquery",
+          "ajax",
+          "django",
+          "upload",
+          "image-uploading"
+        ],
+        "creation_date": 1420641842,
+        "question_id": 27821937,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821937/django-jquery-ajax-image-upload-issues"
+      },
+      {
+        "tags": [
+          "android",
+          "datepicker",
+          "android-5.0-lollipop"
+        ],
+        "creation_date": 1420641847,
+        "question_id": 27821939,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821939/can-we-display-lollipop-style-datepicker-in-kitkat-devices"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "environment-variables",
+          "development-environment"
+        ],
+        "creation_date": 1420641859,
+        "question_id": 27821943,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821943/check-if-env-is-empty"
+      },
+      {
+        "tags": [
+          "blackberry",
+          "blackberry-push"
+        ],
+        "creation_date": 1420641868,
+        "question_id": 27821945,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821945/blackberry-app-not-working-on-bis"
+      },
+      {
+        "tags": [
+          "c#",
+          "excel",
+          "vsto"
+        ],
+        "creation_date": 1420641876,
+        "question_id": 27821950,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821950/create-a-vsto-shape-from-byte-array"
+      },
+      {
+        "tags": [
+          "java",
+          "xslt",
+          "classloader",
+          "inputstream"
+        ],
+        "creation_date": 1420641882,
+        "question_id": 27821953,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821953/how-to-read-xslt-file-which-is-not-in-classpath"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html"
+        ],
+        "creation_date": 1420641911,
+        "question_id": 27821961,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821961/html-progress-element-not-updating"
+      },
+      {
+        "tags": [
+          "php",
+          "unit-testing",
+          "laravel",
+          "mocking",
+          "eloquent"
+        ],
+        "creation_date": 1420641918,
+        "question_id": 27821962,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821962/laravel-unit-testing-mock-eloquents-query-scope-method"
+      },
+      {
+        "tags": [
+          "c++",
+          "64-bit"
+        ],
+        "creation_date": 1420641929,
+        "question_id": 27821965,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821965/dwfileoffsethigh-and-dwfileoffsetlow-explained"
+      },
+      {
+        "tags": [
+          "html",
+          "linux",
+          "shell",
+          "command-line"
+        ],
+        "creation_date": 1420641937,
+        "question_id": 27821967,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821967/how-to-save-a-single-webpage-with-a-linux-server"
+      },
+      {
+        "tags": [
+          "sql-server"
+        ],
+        "creation_date": 1420641937,
+        "question_id": 27821968,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821968/returning-a-list-of-ids-of-deleted-items"
+      },
+      {
+        "tags": [
+          "drupal",
+          "drupal-7",
+          "ubercart"
+        ],
+        "creation_date": 1420641959,
+        "question_id": 27821973,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27821973/how-to-force-addition-of-product-b-in-order-to-add-product-a-in-drupal-7"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "google-chrome",
+          "google-chrome-extension",
+          "content-script"
+        ],
+        "creation_date": 1420642004,
+        "question_id": 27821980,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821980/chrome-extension-access-pages-html5-localstorage-from-content-script"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "html",
+          "forms"
+        ],
+        "creation_date": 1420642013,
+        "question_id": 27821982,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821982/jquery-load-a-function-after-a-form-has-been-submitted-once-only"
+      },
+      {
+        "tags": [
+          "java",
+          "synchronization"
+        ],
+        "creation_date": 1420642018,
+        "question_id": 27821983,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821983/issues-on-using-synchronized-method"
+      },
+      {
+        "tags": [
+          "r",
+          "dataframe",
+          "categorical-data"
+        ],
+        "creation_date": 1420642023,
+        "question_id": 27821985,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821985/change-name-of-specific-levels-in-factor"
+      },
+      {
+        "tags": [
+          "unity-game-engine",
+          "rotation",
+          "quaternions",
+          "oculus"
+        ],
+        "creation_date": 1420642045,
+        "question_id": 27821990,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27821990/know-rotation-via-quaternion"
+      },
+      {
+        "tags": [
+          "javascript",
+          "kineticjs",
+          "draggable"
+        ],
+        "creation_date": 1420642076,
+        "question_id": 27821998,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821998/print-copy-of-image-when-drag-the-original-image"
+      },
+      {
+        "tags": [
+          "php",
+          "imagemagick"
+        ],
+        "creation_date": 1420642080,
+        "question_id": 27821999,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27821999/decode-image-object-from-binary-string-in-imagemagick-for-php"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-studio",
+          "android-actionbar"
+        ],
+        "creation_date": 1420642085,
+        "question_id": 27822002,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27822002/actionbar-refresh-button"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "polymorphism",
+          "asp.net-web-api2",
+          "conditional-operator"
+        ],
+        "creation_date": 1420642088,
+        "question_id": 27822003,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27822003/cannot-be-determined-because-there-is-no-implicit-conversion-with-ternery-if-r"
+      },
+      {
+        "tags": [
+          "ruby",
+          "twilio"
+        ],
+        "creation_date": 1420642103,
+        "question_id": 27822007,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27822007/tracking-twilio-messages-response-that-response-belongs-to-which-message"
+      },
+      {
+        "tags": [
+          "c++",
+          "image-processing",
+          "h.264",
+          "codec",
+          "yuv"
+        ],
+        "creation_date": 1420642143,
+        "question_id": 27822017,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27822017/planar-yuv420-data-layout"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 172
+  }
+}

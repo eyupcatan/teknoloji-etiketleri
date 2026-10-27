@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "verified_at": "2026-10-26T19:34:38.862402+00:00",
+  "checks": [
+    "222 raw SHA-256 hashes match",
+    "2015: raw questions/CSV/GraphML/node attributes/centralities/P/top10/null regeneration agree",
+    "2025: raw questions/CSV/GraphML/node attributes/centralities/P/top10/null regeneration agree",
+    "40 community runs and fixed seeds verified",
+    "Sankey totals and all shared-universe Jaccard values verified",
+    "Notebook: all 6 code cells executed without errors",
+    "PDF page counts, A3 size, nonblank text verified",
+    "Browser JSON full-network inventories match computed metrics"
+  ],
+  "pdf_pages": {
+    "rapor.pdf": 10,
+    "sunum.pdf": 9,
+    "poster_A3.pdf": 1
+  },
+  "checkpoint": [
+    {
+      "year": 2015,
+      "questions": 18922,
+      "nodes": 7693,
+      "edges": 37771,
+      "density": 0.001276595974797,
+      "components": 144,
+      "isolates": 108,
+      "duplicates": 0,
+      "invalid": 0,
+      "raw_pages": 196
+    },
+    {
+      "year": 2025,
+      "questions": 2070,
+      "nodes": 2478,
+      "edges": 6815,
+      "density": 0.002220590856379,
+      "components": 112,
+      "isolates": 41,
+      "duplicates": 0,
+      "invalid": 0,
+      "raw_pages": 26
+    }
+  ]
+}

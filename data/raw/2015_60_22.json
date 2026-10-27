@@ -1,0 +1,599 @@
+{
+  "retrieved_at": "2026-10-26T19:12:31.957009+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420718400&todate=1420739999&sort=creation&order=asc&pagesize=100&page=22&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420718400,
+    "todate": 1420739999,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 22,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "java",
+          "tomcat"
+        ],
+        "creation_date": 1420739327,
+        "question_id": 27846410,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846410/restart-of-tomcat-makes-job-run-every-time-irrespective-of-timer-in-java"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "ajax"
+        ],
+        "creation_date": 1420739336,
+        "question_id": 27846412,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846412/how-to-populate-span-elements-in-an-ajax-success-setting"
+      },
+      {
+        "tags": [
+          "python",
+          "cython"
+        ],
+        "creation_date": 1420739349,
+        "question_id": 27846414,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846414/if-and-how-to-properly-use-a-python-formatted-string-in-cython"
+      },
+      {
+        "tags": [
+          "xml",
+          "batch-file"
+        ],
+        "creation_date": 1420739367,
+        "question_id": 27846423,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27846423/batch-write-to-text-file-with-angle-brackets"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420739391,
+        "question_id": 27846429,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27846429/how-can-i-connect-the-wasd-keys-to-specific-events"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "asp.net-mvc-4",
+          "web"
+        ],
+        "creation_date": 1420739394,
+        "question_id": 27846431,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846431/determining-whether-or-not-someone-has-a-webpage-open"
+      },
+      {
+        "tags": [
+          "unit-testing",
+          "tdd",
+          "automated-tests",
+          "integration-testing"
+        ],
+        "creation_date": 1420739439,
+        "question_id": 27846438,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846438/unit-testing-code-that-uses-a-singleton"
+      },
+      {
+        "tags": [
+          "amazon-ec2",
+          "web-crawler"
+        ],
+        "creation_date": 1420739441,
+        "question_id": 27846439,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846439/crawling-with-multiple-ec2-instances"
+      },
+      {
+        "tags": [
+          "c++",
+          "windows",
+          "sockets",
+          "udp",
+          "boost-asio"
+        ],
+        "creation_date": 1420739442,
+        "question_id": 27846440,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846440/udp-point-to-point-communication-on-windows-multi-homed-server"
+      },
+      {
+        "tags": [
+          "spring-batch"
+        ],
+        "creation_date": 1420739453,
+        "question_id": 27846442,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846442/how-to-design-spring-batch-to-avoid-long-queue-of-request-and-restart-failed-job"
+      },
+      {
+        "tags": [
+          "c#",
+          "sql-server",
+          "entity-framework",
+          "stored-procedures"
+        ],
+        "creation_date": 1420739488,
+        "question_id": 27846448,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846448/stored-procedure-returns-an-int-when-updating-model-from-database-in-entityframe"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420739508,
+        "question_id": 27846530,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846530/error-creating-relative-layout-using-java-code"
+      },
+      {
+        "tags": [
+          "apache",
+          "mod-rewrite"
+        ],
+        "creation_date": 1420739527,
+        "question_id": 27846459,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846459/not-show-the-page-name-in-the-address-bar"
+      },
+      {
+        "tags": [
+          "java",
+          "date",
+          "calendar",
+          "gettime"
+        ],
+        "creation_date": 1420739528,
+        "question_id": 27846460,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27846460/calendar-to-date-issue-period-with-1-year-error"
+      },
+      {
+        "tags": [
+          "stringtokenizer"
+        ],
+        "creation_date": 1420739530,
+        "question_id": 27846462,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846462/string-tokenizer-inexplicable-behaviour"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420739543,
+        "question_id": 27846463,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846463/border-doesnt-fit-image"
+      },
+      {
+        "tags": [
+          "string",
+          "vba",
+          "excel",
+          "replace"
+        ],
+        "creation_date": 1420739577,
+        "question_id": 27846472,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846472/vba-excel-replacing-exact-word-in-a-string-phrase"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420739583,
+        "question_id": 27846474,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846474/how-to-set-the-title-for-the-new-browser-tab"
+      },
+      {
+        "tags": [
+          "ios",
+          "ios8",
+          "xcode6",
+          "retina-display",
+          "screen-resolution"
+        ],
+        "creation_date": 1420739597,
+        "question_id": 27846477,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846477/what-image-sizes-retina-sizes-are-necessary-for-ios8-scaled-app"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420739597,
+        "question_id": 27846476,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846476/image-slider-with-stacked-cells"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "t-sql",
+          "sum"
+        ],
+        "creation_date": 1420739626,
+        "question_id": 27846487,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846487/sum-first-table-on-second-category-table"
+      },
+      {
+        "tags": [
+          "c#",
+          "infragistics",
+          "adomd.net",
+          "xmla",
+          "activepivot"
+        ],
+        "creation_date": 1420739632,
+        "question_id": 27846489,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846489/infragistics-adomd-classcastexception-when-connecting-to-activepivots-xmla-serv"
+      },
+      {
+        "tags": [
+          "php",
+          "drupal",
+          "view"
+        ],
+        "creation_date": 1420739664,
+        "question_id": 27846499,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846499/drupal-7-pass-variable-to-same-view"
+      },
+      {
+        "tags": [
+          "object",
+          "powershell",
+          "properties",
+          "powershell-ise"
+        ],
+        "creation_date": 1420739685,
+        "question_id": 27846505,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846505/how-to-add-properties-to-a-powershell-object-from-an-array"
+      },
+      {
+        "tags": [
+          "vba",
+          "excel"
+        ],
+        "creation_date": 1420739689,
+        "question_id": 27846508,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846508/coding-for-in-out-tracking-of-tools-with-no-repeating-and-text-always-getting-ad"
+      },
+      {
+        "tags": [
+          "java",
+          "sql",
+          "database",
+          "hibernate",
+          "jpa"
+        ],
+        "creation_date": 1420739709,
+        "question_id": 27846512,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846512/hibernate-or-sql-query-m-n-member-of-with-collections"
+      },
+      {
+        "tags": [
+          "php",
+          "wordpress",
+          "invalid-argument"
+        ],
+        "creation_date": 1420739718,
+        "question_id": 27846516,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846516/invalid-argument-supplied-for-foreach-since-updating-my-customizr-theme"
+      },
+      {
+        "tags": [
+          "cm-synergy"
+        ],
+        "creation_date": 1420739719,
+        "question_id": 27846518,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846518/how-to-transfer-a-task-in-synergy"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "json",
+          "gson"
+        ],
+        "creation_date": 1420739729,
+        "question_id": 27846521,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27846521/how-to-loop-through-json-and-convert-it-into-java-object"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "nfc",
+          "hce"
+        ],
+        "creation_date": 1420739763,
+        "question_id": 27846535,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846535/no-supported-card-terminal-found-arc1281u-nfc-card-reader"
+      },
+      {
+        "tags": [
+          "java",
+          "javascript",
+          "jsp",
+          "servlets",
+          "canvas"
+        ],
+        "creation_date": 1420739769,
+        "question_id": 27846536,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846536/how-to-fetch-data-from-servlet-using-canvas-js"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "ajax"
+        ],
+        "creation_date": 1420739773,
+        "question_id": 27846537,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846537/jquery-disable-button-onsubmit-and-also-change-button-name"
+      },
+      {
+        "tags": [
+          "google-sheets",
+          "formula",
+          "spreadsheet"
+        ],
+        "creation_date": 1420739790,
+        "question_id": 27846539,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846539/count-borrowed-books-by-type"
+      },
+      {
+        "tags": [
+          "machine-learning",
+          "scikit-learn",
+          "cross-validation"
+        ],
+        "creation_date": 1420739796,
+        "question_id": 27846542,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846542/cross-validating-a-train-set-where-the-class-variable-has-a-different-distributi"
+      },
+      {
+        "tags": [
+          "web",
+          "payment",
+          "credit-card",
+          "square"
+        ],
+        "creation_date": 1420739804,
+        "question_id": 27846543,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846543/is-there-a-way-to-process-web-payments-with-square-without-manually-entering-the"
+      },
+      {
+        "tags": [
+          "java",
+          "nio"
+        ],
+        "creation_date": 1420739807,
+        "question_id": 27846544,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846544/how-to-download-a-file-from-a-website"
+      },
+      {
+        "tags": [
+          "java",
+          "mongodb",
+          "elasticsearch",
+          "elasticsearch-plugin"
+        ],
+        "creation_date": 1420739819,
+        "question_id": 27846549,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846549/elasticsearch-river-java-lang-string-cannot-be-cast-to-java-util-map"
+      },
+      {
+        "tags": [
+          "java",
+          "tomcat",
+          "tomcat7",
+          "jndi"
+        ],
+        "creation_date": 1420739846,
+        "question_id": 27846561,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846561/why-use-jndi-context-if-it-irrevocably-ties-you-to-tomcat"
+      },
+      {
+        "tags": [
+          "c#",
+          "arrays",
+          "arraylist"
+        ],
+        "creation_date": 1420739851,
+        "question_id": 27846562,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846562/check-arraylist-element-equals-an-array"
+      },
+      {
+        "tags": [
+          "c",
+          "struct",
+          "text-files",
+          "scanf"
+        ],
+        "creation_date": 1420739874,
+        "question_id": 27846566,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846566/inserting-a-wordchar-into-a-structure-wordchar-in-c"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "draggable",
+          "rectangles"
+        ],
+        "creation_date": 1420739881,
+        "question_id": 27846568,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846568/click-and-drag-implementation-on-a-rectangle-vb-net"
+      },
+      {
+        "tags": [
+          "android",
+          "ios",
+          "cordova",
+          "notifications"
+        ],
+        "creation_date": 1420739897,
+        "question_id": 27846574,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846574/cordova-phonegap-push-notifications-unregister-returns-success-even-with-inter"
+      },
+      {
+        "tags": [
+          "android",
+          "fortran"
+        ],
+        "creation_date": 1420739918,
+        "question_id": 27846579,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846579/fortran-compiler"
+      },
+      {
+        "tags": [
+          "highcharts"
+        ],
+        "creation_date": 1420739918,
+        "question_id": 27846580,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846580/highchart-show-heatmap-legend-by-category"
+      },
+      {
+        "tags": [
+          "javascript",
+          "hash",
+          "anchor"
+        ],
+        "creation_date": 1420739933,
+        "question_id": 27846583,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846583/prevent-default-jumping-when-opening-an-url-with-fragment-identifier"
+      },
+      {
+        "tags": [
+          "linux-kernel",
+          "uml",
+          "linux-device-driver"
+        ],
+        "creation_date": 1420739937,
+        "question_id": 27846585,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846585/linux-device-drivers-3ed-file-io-how-to-influence-scheduling-with-explanatory"
+      },
+      {
+        "tags": [
+          "scala",
+          "maven",
+          "intellij-idea"
+        ],
+        "creation_date": 1420739940,
+        "question_id": 27846586,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846586/intellij-how-to-add-maven-framework-to-a-scala-project"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "cakephp",
+          "cakephp-2.0"
+        ],
+        "creation_date": 1420739940,
+        "question_id": 27846587,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846587/set-sql-mode-in-cakephp-schema"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "http",
+          "server"
+        ],
+        "creation_date": 1420739953,
+        "question_id": 27846591,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846591/getting-a-binding-error-when-trying-to-run-node-http-server"
+      },
+      {
+        "tags": [
+          "sublimetext",
+          "sublimetext3"
+        ],
+        "creation_date": 1420739955,
+        "question_id": 27846592,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846592/is-there-a-way-to-use-different-sublime-text-themes-for-different-file-sources"
+      },
+      {
+        "tags": [
+          "facebook",
+          "facebook-graph-api",
+          "oauth",
+          "koala"
+        ],
+        "creation_date": 1420739977,
+        "question_id": 27846596,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846596/getting-a-user-access-token-in-facebook-using-koala"
+      },
+      {
+        "tags": [
+          "authentication",
+          "mobile",
+          "twitter",
+          "oauth"
+        ],
+        "creation_date": 1420739986,
+        "question_id": 27846598,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27846598/exchange-twitter-oauth-credentials-for-site-credentials"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 93
+  }
+}

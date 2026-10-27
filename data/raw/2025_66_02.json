@@ -1,0 +1,484 @@
+{
+  "retrieved_at": "2026-10-26T19:04:18.669773+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736359200&todate=1736380799&sort=creation&order=asc&pagesize=100&page=2&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736359200,
+    "todate": 1736380799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 2,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "blockchain",
+          "solidity",
+          "smartcontracts",
+          "ethers.js",
+          "hardhat"
+        ],
+        "creation_date": 1736373087,
+        "question_id": 79340848,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340848/solidity-testing-1-wei-issue-how-to-handle-rounding-differences-when-testing-b"
+      },
+      {
+        "tags": [
+          "pine-script",
+          "alert",
+          "pine-script-v5",
+          "tradingview-api",
+          "pine-script-v4"
+        ],
+        "creation_date": 1736373274,
+        "question_id": 79340851,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340851/pinescript-strategy-alert-triggered-when-market-closed"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "sql-server-2022"
+        ],
+        "creation_date": 1736373361,
+        "question_id": 79340852,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340852/database-grew-significantly-after-adding-thumbnails-to-varbinarymax-column"
+      },
+      {
+        "tags": [
+          "arrays",
+          "mongodb",
+          "aggregation-framework",
+          "lookup"
+        ],
+        "creation_date": 1736373389,
+        "question_id": 79340857,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340857/mongodb-lookup-on-two-field-with-condition-of-third-field-array"
+      },
+      {
+        "tags": [
+          "powershell",
+          "windows-10",
+          "powershell-7.4"
+        ],
+        "creation_date": 1736373459,
+        "question_id": 79340858,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340858/get-number-of-deleted-files-in-powershell-script"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "angular",
+          "typescript",
+          "iframe"
+        ],
+        "creation_date": 1736373745,
+        "question_id": 79340868,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340868/name-in-iframe-random-string"
+      },
+      {
+        "tags": [
+          "c++"
+        ],
+        "creation_date": 1736373899,
+        "question_id": 79340873,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340873/programming-principles-and-practice-using-c-3rd-edition-chapter-5-example-code"
+      },
+      {
+        "tags": [
+          "typescript"
+        ],
+        "creation_date": 1736373955,
+        "question_id": 79340875,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340875/ts-node-or-ts-node-dev-fails-to-compile-where-tsc-succeeds"
+      },
+      {
+        "tags": [
+          "windows",
+          "audio",
+          "com",
+          "ole",
+          "regsvr32"
+        ],
+        "creation_date": 1736374382,
+        "question_id": 79340886,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340886/how-to-use-a-compiled-audio-processing-object-apo-dll"
+      },
+      {
+        "tags": [
+          "javascript",
+          "async-await",
+          "ember.js"
+        ],
+        "creation_date": 1736374463,
+        "question_id": 79340890,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340890/proper-way-to-migrate-computed-decorators"
+      },
+      {
+        "tags": [
+          "angular",
+          "typescript",
+          "jestjs",
+          "es6-modules"
+        ],
+        "creation_date": 1736374463,
+        "question_id": 79340891,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340891/jest-module-import-issues-with-angular-17-complex-components"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "zod"
+        ],
+        "creation_date": 1736374685,
+        "question_id": 79340898,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340898/how-to-express-bigint-or-number-or-undefined-using-zod-schema"
+      },
+      {
+        "tags": [
+          "spring",
+          "spring-boot",
+          "spring-security",
+          "cors",
+          "csrf"
+        ],
+        "creation_date": 1736374705,
+        "question_id": 79340899,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340899/spring-security-httpsecurity-corscustomizer-withdefaults-vs-httpsecurity-c"
+      },
+      {
+        "tags": [
+          "c#",
+          "smtp",
+          "maui",
+          "email-client"
+        ],
+        "creation_date": 1736374725,
+        "question_id": 79340901,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340901/im-having-trouble-sending-an-email-via-c"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "amazon-redshift"
+        ],
+        "creation_date": 1736375196,
+        "question_id": 79340913,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340913/moving-redshift-query-to-sub-query-causes-problem"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "terraform",
+          "terraform-provider-aws"
+        ],
+        "creation_date": 1736375288,
+        "question_id": 79340916,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340916/tracking-which-aws-service-endpoint-is-used-by-terraform"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-alertdialog"
+        ],
+        "creation_date": 1736375351,
+        "question_id": 79340917,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340917/app-runs-on-emulator-but-crashes-on-physical-devices"
+      },
+      {
+        "tags": [
+          "c++",
+          "integer",
+          "overflow",
+          "proof-of-correctness",
+          "floor-division"
+        ],
+        "creation_date": 1736375364,
+        "question_id": 79340918,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340918/is-a-c-b-a-safer-equivalent-but-avoiding-overflow-version-of-a-b-c-for"
+      },
+      {
+        "tags": [
+          "google-chrome-extension"
+        ],
+        "creation_date": 1736375597,
+        "question_id": 79340921,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340921/chrome-extension-authentication-and-3rd-party-requests"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "vb.net"
+        ],
+        "creation_date": 1736375732,
+        "question_id": 79340925,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340925/vb-net-fatal-error-when-trying-to-connect-to-postgresql"
+      },
+      {
+        "tags": [
+          "python",
+          "pydantic",
+          "pydantic-v2"
+        ],
+        "creation_date": 1736375775,
+        "question_id": 79340928,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340928/how-do-i-share-common-decimal-field-definitions-in-pydantic"
+      },
+      {
+        "tags": [
+          "node.js",
+          "amazon-web-services",
+          "aws-step-functions",
+          "amazon-ecr",
+          "aws-batch"
+        ],
+        "creation_date": 1736376618,
+        "question_id": 79340941,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340941/having-trouble-passing-environmental-variables-into-a-batch-job-triggered-by-a-s"
+      },
+      {
+        "tags": [
+          "python",
+          "selenium-webdriver",
+          "web-scraping",
+          "xpath",
+          "css-selectors"
+        ],
+        "creation_date": 1736376777,
+        "question_id": 79340945,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340945/selenium-twitter-scraper-closes-immediately-not-detecting-new-tweets"
+      },
+      {
+        "tags": [
+          "c++",
+          "recursion",
+          "lambda",
+          "capture",
+          "c++23"
+        ],
+        "creation_date": 1736377002,
+        "question_id": 79340949,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340949/need-clarification-on-how-to-capture-by-reference-in-c-recursive-lambda"
+      },
+      {
+        "tags": [
+          "vue.js",
+          "vuejs3",
+          "vue-composition-api",
+          "primevue"
+        ],
+        "creation_date": 1736377443,
+        "question_id": 79340955,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340955/is-there-a-way-to-pass-slots-and-emits-as-fallthrough-attributes-in-vue"
+      },
+      {
+        "tags": [
+          "batch-file",
+          "cmd"
+        ],
+        "creation_date": 1736377624,
+        "question_id": 79340959,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340959/how-do-you-pass-a-variable-that-contains-inner-quotes-into-a-function-label"
+      },
+      {
+        "tags": [
+          "android",
+          "kotlin",
+          "android-linearlayout"
+        ],
+        "creation_date": 1736377652,
+        "question_id": 79340960,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340960/change-linear-layout-margin-in-a-fragment-at-different-time-of-the-day-in-androi"
+      },
+      {
+        "tags": [
+          "python",
+          "google-oauth"
+        ],
+        "creation_date": 1736377662,
+        "question_id": 79340961,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340961/google-credentials-not-getting-a-refresh-token"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy",
+          "python-xarray"
+        ],
+        "creation_date": 1736377838,
+        "question_id": 79340969,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340969/finding-fully-non-nan-windows-in-dataarray"
+      },
+      {
+        "tags": [
+          "error-handling",
+          "syntax",
+          "compiler-errors",
+          "semantics",
+          "zig"
+        ],
+        "creation_date": 1736378369,
+        "question_id": 79340982,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340982/zigsytax-declaration-semantic-of-error-as-only-return-type-of-function-or-w"
+      },
+      {
+        "tags": [
+          "macos",
+          "electron"
+        ],
+        "creation_date": 1736378454,
+        "question_id": 79340986,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340986/electron-js-access-device-network-requests"
+      },
+      {
+        "tags": [
+          "docker",
+          "apache-kafka",
+          "gitlab-ci",
+          "testcontainers",
+          "docker-in-docker"
+        ],
+        "creation_date": 1736378531,
+        "question_id": 79340988,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340988/kafka-testcontainer-advertised-listeners-configuration-when-using-dind"
+      },
+      {
+        "tags": [
+          "graphdb"
+        ],
+        "creation_date": 1736378610,
+        "question_id": 79340990,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340990/is-there-any-support-for-importing-prefix-namespaces"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "powerbi-embedded"
+        ],
+        "creation_date": 1736378906,
+        "question_id": 79340994,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340994/power-bi-embedded-report-has-random-visual-artifacts-labels-overlap-with-visua"
+      },
+      {
+        "tags": [
+          "git"
+        ],
+        "creation_date": 1736379127,
+        "question_id": 79340997,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79340997/why-is-git-ignoring-files-in-subdirectory-when-specifying-a-single-asterisk-in-p"
+      },
+      {
+        "tags": [
+          "json",
+          "testing",
+          "automation",
+          "karate"
+        ],
+        "creation_date": 1736379222,
+        "question_id": 79341000,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79341000/matching-a-subset-of-a-json-array-with-another-super-set-of-json-array-in-karate"
+      },
+      {
+        "tags": [
+          "javascript",
+          "electron",
+          "vuejs3"
+        ],
+        "creation_date": 1736379532,
+        "question_id": 79341007,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79341007/how-can-i-access-vue-3-props-in-the-script-section-of-my-app"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "encryption",
+          "cryptography"
+        ],
+        "creation_date": 1736379883,
+        "question_id": 79341019,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79341019/how-do-i-use-crypto-createsign-with-ed25519-key"
+      },
+      {
+        "tags": [
+          "azure-devops",
+          "azure-pipelines",
+          "azure-pipelines-yaml"
+        ],
+        "creation_date": 1736380246,
+        "question_id": 79341025,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79341025/in-my-ado-pipeline-how-do-i-iterate-over-a-object-type-parameter-that-is-an-arra"
+      },
+      {
+        "tags": [
+          "c#",
+          "winapi"
+        ],
+        "creation_date": 1736380246,
+        "question_id": 79341026,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79341026/win32-api-how-to-insert-new-popup-menu-at-specified-position-in-the-main-menu"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "jquery",
+          "asp.net",
+          "datetimepicker"
+        ],
+        "creation_date": 1736380596,
+        "question_id": 79341031,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79341031/why-compare-two-dates-journal-date-with-date-today-not-matches-or-not-working-on"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 272
+  }
+}

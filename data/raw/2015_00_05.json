@@ -1,0 +1,1103 @@
+{
+  "retrieved_at": "2026-10-26T19:04:32.640229+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420502400&todate=1420523999&sort=creation&order=asc&pagesize=100&page=5&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420502400,
+    "todate": 1420523999,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 5,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "php",
+          "multidimensional-array",
+          "gd",
+          "urlencode"
+        ],
+        "creation_date": 1420511667,
+        "question_id": 27791247,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791247/php-gd-image-creation-by-passing-multidimensional-array-urlencode-urldecode"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "linux-kernel",
+          "linux-device-driver"
+        ],
+        "creation_date": 1420511670,
+        "question_id": 27791248,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27791248/why-is-exported-net-device-xmit-call-causing-kernel-crash"
+      },
+      {
+        "tags": [
+          "linux",
+          "sh"
+        ],
+        "creation_date": 1420511675,
+        "question_id": 27791251,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27791251/get-first-character-of-a-string-shell"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "activerecord",
+          "sti"
+        ],
+        "creation_date": 1420511676,
+        "question_id": 27791253,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791253/active-record-includes-with-sti"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "arrays",
+          "xml"
+        ],
+        "creation_date": 1420511684,
+        "question_id": 27791256,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791256/random-array-from-resource-android"
+      },
+      {
+        "tags": [
+          "python",
+          "image",
+          "resize",
+          "pygame",
+          "transform"
+        ],
+        "creation_date": 1420511684,
+        "question_id": 27791255,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791255/image-in-pygame-gets-distorted-when-replacing-number-with-index"
+      },
+      {
+        "tags": [
+          "java",
+          "jsp",
+          "servlets"
+        ],
+        "creation_date": 1420511731,
+        "question_id": 27791260,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791260/jsp-how-to-use-radiobutton-within-foreach-with-the-attribute-names-values-chan"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420511756,
+        "question_id": 27791265,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791265/facebooksdk-incompatible-with-android-sdk-2-1"
+      },
+      {
+        "tags": [
+          "psutil",
+          "rpyc"
+        ],
+        "creation_date": 1420511835,
+        "question_id": 27791272,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791272/issue-with-rpyc-marshalling-of-objects"
+      },
+      {
+        "tags": [
+          "haskell",
+          "llvm",
+          "cabal",
+          "cabal-install"
+        ],
+        "creation_date": 1420511854,
+        "question_id": 27791277,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791277/cabal-installation-failure-for-llvm-general"
+      },
+      {
+        "tags": [
+          "python",
+          "list",
+          "loops",
+          "set"
+        ],
+        "creation_date": 1420511873,
+        "question_id": 27791282,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791282/fast-way-to-find-the-difference-between-2-lists-that-works-in-all-cases"
+      },
+      {
+        "tags": [
+          "android",
+          "eclipse",
+          "attributes",
+          "styles"
+        ],
+        "creation_date": 1420511906,
+        "question_id": 27791290,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791290/no-resource-identifier-found-for-attribute-backgroundtint-in-package-android"
+      },
+      {
+        "tags": [
+          "mysql",
+          "docker"
+        ],
+        "creation_date": 1420511962,
+        "question_id": 27791297,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791297/possible-to-run-two-instances-of-docker-containers-on-one-mysql-database-contain"
+      },
+      {
+        "tags": [
+          "ember.js"
+        ],
+        "creation_date": 1420511964,
+        "question_id": 27791299,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791299/cant-get-static-property-to-work-in-emberjs-class-using-property-bindings"
+      },
+      {
+        "tags": [
+          "c#",
+          "database",
+          "gridview"
+        ],
+        "creation_date": 1420511989,
+        "question_id": 27791303,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791303/not-able-to-hold-string-from-one-form-to-other"
+      },
+      {
+        "tags": [
+          "python",
+          "matplotlib"
+        ],
+        "creation_date": 1420512017,
+        "question_id": 27791307,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791307/how-to-understand-the-code-for-matplotlib-pyplot-contour"
+      },
+      {
+        "tags": [
+          "php",
+          "sorting",
+          "variables"
+        ],
+        "creation_date": 1420512055,
+        "question_id": 27791312,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791312/sorting-integer-value-in-php"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420512072,
+        "question_id": 27791317,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791317/selecting-dropdown-value-from-query-string"
+      },
+      {
+        "tags": [
+          "handsontable"
+        ],
+        "creation_date": 1420512090,
+        "question_id": 27791321,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791321/wrap-text-on-custom-headers-in-handsontable"
+      },
+      {
+        "tags": [
+          "xcode6",
+          "uialertview"
+        ],
+        "creation_date": 1420512130,
+        "question_id": 27791324,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791324/two-uialertview"
+      },
+      {
+        "tags": [
+          "uwsgi",
+          "unix-socket"
+        ],
+        "creation_date": 1420512203,
+        "question_id": 27791330,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791330/bind-no-such-file-or-directory-core-socket-c-line-230"
+      },
+      {
+        "tags": [
+          "ios",
+          "sprite-kit",
+          "skaction",
+          "skshapenode"
+        ],
+        "creation_date": 1420512249,
+        "question_id": 27791333,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791333/run-skaction-on-skshapenode-inside-update-method"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7",
+          "debugging",
+          "numerical-methods",
+          "runge-kutta"
+        ],
+        "creation_date": 1420512279,
+        "question_id": 27791336,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791336/need-help-fixing-my-implementation-of-rk4"
+      },
+      {
+        "tags": [
+          "android",
+          "png",
+          "libpng",
+          "apng"
+        ],
+        "creation_date": 1420512289,
+        "question_id": 27791337,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791337/how-to-perform-skip-seek-action-in-libpng-with-apng-patch"
+      },
+      {
+        "tags": [
+          "apple-numbers"
+        ],
+        "creation_date": 1420512302,
+        "question_id": 27791339,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791339/how-to-sum-cells-value-skip-blank-cells-in-iwork-numbers"
+      },
+      {
+        "tags": [
+          "c++",
+          "concatenation",
+          "c-preprocessor"
+        ],
+        "creation_date": 1420512327,
+        "question_id": 27791343,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27791343/pre-processor-macro-concatenation-to-build-class-function"
+      },
+      {
+        "tags": [
+          "python",
+          "coding-style"
+        ],
+        "creation_date": 1420512329,
+        "question_id": 27791345,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791345/if-not-one-liners-to-avoid-repetitive-blocks-a-matter-of-python-style"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql"
+        ],
+        "creation_date": 1420512345,
+        "question_id": 27791347,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791347/cannot-add-or-update-a-child-row-a-foreign-key-constraint-fails"
+      },
+      {
+        "tags": [
+          "xslt"
+        ],
+        "creation_date": 1420512349,
+        "question_id": 27791348,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791348/restructure-nodes-using-xslt"
+      },
+      {
+        "tags": [
+          "python",
+          "r",
+          "csv"
+        ],
+        "creation_date": 1420512415,
+        "question_id": 27791358,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791358/subsetting-data-using-r-or-python"
+      },
+      {
+        "tags": [
+          "scala",
+          "testing",
+          "scalatest",
+          "scalacheck"
+        ],
+        "creation_date": 1420512437,
+        "question_id": 27791361,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791361/why-is-my-scalacheck-scalatest-propertycheckconfig-being-ignored"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf"
+        ],
+        "creation_date": 1420512448,
+        "question_id": 27791363,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791363/can-a-window-of-wpf-know-whether-it-is-opened-by-showdialog"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "uicollectionview",
+          "nsindexpath"
+        ],
+        "creation_date": 1420512468,
+        "question_id": 27791366,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791366/accessing-collectionview-indexpath-row-in-prepareforsegue"
+      },
+      {
+        "tags": [
+          "delphi",
+          "delphi-xe3",
+          "rtti"
+        ],
+        "creation_date": 1420512496,
+        "question_id": 27791370,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791370/delphi-rtti-tvirtualmethodinterceptor-create-doesnt-support-the-class-that-has"
+      },
+      {
+        "tags": [
+          "python",
+          "wxpython",
+          "wxwidgets"
+        ],
+        "creation_date": 1420512498,
+        "question_id": 27791371,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791371/disabling-the-visual-emphasis-of-the-radio-button-label-in-python-wx"
+      },
+      {
+        "tags": [
+          "css",
+          "charts",
+          "tooltip"
+        ],
+        "creation_date": 1420512525,
+        "question_id": 27791376,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791376/how-can-i-bring-the-tooltip-to-the-top-of-chart"
+      },
+      {
+        "tags": [
+          "php",
+          "jquery",
+          "json"
+        ],
+        "creation_date": 1420512555,
+        "question_id": 27791380,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791380/uncaught-typeerror-cannot-use-in-operator-json"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "css",
+          "twitter-bootstrap",
+          "modal-dialog"
+        ],
+        "creation_date": 1420512568,
+        "question_id": 27791383,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791383/closing-issue-with-modal-in-modal-bootstrap"
+      },
+      {
+        "tags": [
+          "javascript",
+          "regex"
+        ],
+        "creation_date": 1420512589,
+        "question_id": 27791386,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791386/regular-expression-with-javascript-url-redirect"
+      },
+      {
+        "tags": [
+          "r",
+          "sum",
+          "rstudio"
+        ],
+        "creation_date": 1420512631,
+        "question_id": 27791388,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791388/finding-the-sum-in-r-using-conditions"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "ajax"
+        ],
+        "creation_date": 1420512705,
+        "question_id": 27791397,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791397/jquery-click-on-a-link-dynamically-generated-by-ajax"
+      },
+      {
+        "tags": [
+          "optimization",
+          "genetic-algorithm",
+          "path-finding"
+        ],
+        "creation_date": 1420512758,
+        "question_id": 27791403,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791403/best-multi-objective-3d-path-optimization-algorithm"
+      },
+      {
+        "tags": [
+          "vagrant",
+          "vagrantfile"
+        ],
+        "creation_date": 1420512772,
+        "question_id": 27791405,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791405/how-to-rebuild-vagrantfile"
+      },
+      {
+        "tags": [
+          "c++",
+          "directx",
+          "precompiled-headers"
+        ],
+        "creation_date": 1420512794,
+        "question_id": 27791409,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791409/precompiled-header-not-found"
+      },
+      {
+        "tags": [
+          "python",
+          "class",
+          "dynamic",
+          "graph",
+          "dependencies"
+        ],
+        "creation_date": 1420512815,
+        "question_id": 27791412,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791412/python-dynamically-generate-dependencies-between-class-instances"
+      },
+      {
+        "tags": [
+          "java",
+          "hadoop",
+          "osx-yosemite"
+        ],
+        "creation_date": 1420512820,
+        "question_id": 27791413,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791413/hadoop-sockets-not-supported-while-copying-files-to-the-destination-file-system"
+      },
+      {
+        "tags": [
+          "django-models",
+          "django-forms"
+        ],
+        "creation_date": 1420512954,
+        "question_id": 27791428,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791428/why-is-this-save-method-not-resizing-the-image"
+      },
+      {
+        "tags": [
+          "r"
+        ],
+        "creation_date": 1420512955,
+        "question_id": 27791427,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791427/calculation-of-p-and-q-factor-in-a-given-table"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420512956,
+        "question_id": 27791429,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791429/javascript-order-of-parent-child-object-instantiation"
+      },
+      {
+        "tags": [
+          "java",
+          "unicode",
+          "encoding"
+        ],
+        "creation_date": 1420512961,
+        "question_id": 27791430,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27791430/how-to-convert-string-with-html-encoding-to-unicode-in-java"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "cakephp",
+          "pdo",
+          "utf-8"
+        ],
+        "creation_date": 1420513017,
+        "question_id": 27791439,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791439/cakephp-mysql-encoding-issue-when-move-from-5-4-to-5-3"
+      },
+      {
+        "tags": [
+          "http-redirect",
+          "amazon-web-services",
+          "nginx",
+          "dns",
+          "load-balancing"
+        ],
+        "creation_date": 1420513045,
+        "question_id": 27791441,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791441/aws-elb-route-53-nginx-naked-domain-redirect"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "actioncontroller",
+          "respond-to"
+        ],
+        "creation_date": 1420513074,
+        "question_id": 27791445,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791445/respond-to-do-format-format-js-not-working"
+      },
+      {
+        "tags": [
+          "url",
+          "amazon-web-services",
+          "amazon-s3",
+          "dns"
+        ],
+        "creation_date": 1420513089,
+        "question_id": 27791446,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791446/godaddy-domain-only-works-with-naked-url"
+      },
+      {
+        "tags": [
+          "nullpointerexception"
+        ],
+        "creation_date": 1420513154,
+        "question_id": 27791451,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791451/why-doesnt-my-viewholder-work"
+      },
+      {
+        "tags": [
+          "r",
+          "visualization",
+          "regression"
+        ],
+        "creation_date": 1420513165,
+        "question_id": 27791454,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791454/r-error-in-using-coefplot-operator-is-invalid-for-atomic-vectors"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "caching"
+        ],
+        "creation_date": 1420513181,
+        "question_id": 27791456,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791456/angularjs-how-to-use-cachefactory-with-http"
+      },
+      {
+        "tags": [
+          "ios",
+          "iphone",
+          "email",
+          "jailbreak"
+        ],
+        "creation_date": 1420513188,
+        "question_id": 27791458,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791458/sometime-cant-open-database-email-in-iphone-jailbreak"
+      },
+      {
+        "tags": [
+          "php",
+          "ssl"
+        ],
+        "creation_date": 1420513227,
+        "question_id": 27791464,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791464/cannot-insert-encrypted-text-into-sql"
+      },
+      {
+        "tags": [
+          "android",
+          "xml",
+          "bitmap",
+          "alias",
+          "bitmapdrawable"
+        ],
+        "creation_date": 1420513291,
+        "question_id": 27791469,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791469/are-there-any-alternatives-to-getting-a-bitmap-from-xml-other-than-using-bitmapd"
+      },
+      {
+        "tags": [
+          "python-3.x",
+          "concurrency",
+          "cmd"
+        ],
+        "creation_date": 1420513298,
+        "question_id": 27791471,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791471/python-how-to-concurrently-write-multiple-strings-to-command-prompt"
+      },
+      {
+        "tags": [
+          "flot"
+        ],
+        "creation_date": 1420513299,
+        "question_id": 27791472,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791472/how-do-you-add-a-title-to-a-legend-in-flot"
+      },
+      {
+        "tags": [
+          "c++",
+          "c++11",
+          "random",
+          "c++14"
+        ],
+        "creation_date": 1420513333,
+        "question_id": 27791474,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791474/what-are-best-practices-for-simple-random-shuffling-in-code-thats-both-c03-an"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420513394,
+        "question_id": 27791478,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791478/extend-an-override-method-from-abstract-class-in-java"
+      },
+      {
+        "tags": [
+          "c",
+          "syntax"
+        ],
+        "creation_date": 1420513415,
+        "question_id": 27791480,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791480/whats-the-meaning-of-adding-all-caps-keywords-before-a-function-definition"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "css"
+        ],
+        "creation_date": 1420513452,
+        "question_id": 27791484,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791484/jquery-css-method-not-working"
+      },
+      {
+        "tags": [
+          "cookies",
+          "laravel"
+        ],
+        "creation_date": 1420513482,
+        "question_id": 27791486,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791486/how-to-get-cookie-with-path-in-laravel"
+      },
+      {
+        "tags": [
+          "sql-update"
+        ],
+        "creation_date": 1420513487,
+        "question_id": 27791487,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791487/update-showing-rows-affected-but-value-did-not-change"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "associations",
+          "mongoid"
+        ],
+        "creation_date": 1420513547,
+        "question_id": 27791494,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791494/rails-nomethoderror-undefined-method-compact-error"
+      },
+      {
+        "tags": [
+          "android",
+          "angularjs",
+          "cordova",
+          "cors"
+        ],
+        "creation_date": 1420513560,
+        "question_id": 27791498,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791498/phonegap-cordova-error-icecreamcordovawebviewclient-url-blocked-by-whitelist"
+      },
+      {
+        "tags": [
+          "lua",
+          "thread-local",
+          "iocp"
+        ],
+        "creation_date": 1420513561,
+        "question_id": 27791499,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791499/use-thread-local-store-lua-state"
+      },
+      {
+        "tags": [
+          "python",
+          "hadoop",
+          "streaming"
+        ],
+        "creation_date": 1420513695,
+        "question_id": 27791510,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791510/set-the-number-of-reducers-does-not-work"
+      },
+      {
+        "tags": [
+          "ruby-on-rails"
+        ],
+        "creation_date": 1420513719,
+        "question_id": 27791513,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791513/rails-scoped-association-w-nested-form"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420513726,
+        "question_id": 27791514,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791514/how-to-fit-a-fixed-width-table-to-the-full-width-of-a-phone-browser"
+      },
+      {
+        "tags": [
+          "flash",
+          "google-chrome",
+          "ppapi"
+        ],
+        "creation_date": 1420513763,
+        "question_id": 27791515,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791515/how-to-get-trace-output-from-ppapi-content-debugger-flash-player"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "json",
+          "function",
+          "if-statement"
+        ],
+        "creation_date": 1420513765,
+        "question_id": 27791516,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791516/json-if-statement-troubleshooting"
+      },
+      {
+        "tags": [
+          "hadoop",
+          "mapreduce",
+          "hadoop-yarn"
+        ],
+        "creation_date": 1420513784,
+        "question_id": 27791518,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791518/hadoop-2-6-0-basic-error-starting-mrappmaster-after-installing"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "ajax",
+          "laravel"
+        ],
+        "creation_date": 1420513789,
+        "question_id": 27791520,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791520/error-405-method-not-alowed-exception-when-post-with-ajax-with-laravel"
+      },
+      {
+        "tags": [
+          "c#",
+          "multithreading",
+          "cancel-button"
+        ],
+        "creation_date": 1420513815,
+        "question_id": 27791522,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791522/how-to-stop-a-thread-for-a-time-consuming-function"
+      },
+      {
+        "tags": [
+          "performance",
+          "caching",
+          "redis",
+          "memcached"
+        ],
+        "creation_date": 1420513815,
+        "question_id": 27791523,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791523/in-memory-cache-architecture-technology"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "sqlite"
+        ],
+        "creation_date": 1420513839,
+        "question_id": 27791525,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791525/cant-drop-my-database-text-file-busy-db-development-sqlite3"
+      },
+      {
+        "tags": [
+          "cordova",
+          "jquery-mobile",
+          "windows-phone"
+        ],
+        "creation_date": 1420513845,
+        "question_id": 27791526,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791526/jquery-mobile-phonegap-pagecontainerchange-not-woring-in-windows-phone-8-a"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "internet-explorer"
+        ],
+        "creation_date": 1420513853,
+        "question_id": 27791527,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791527/request-to-iis-gets-aborted"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420513866,
+        "question_id": 27791529,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791529/changing-css-of-one-element-from-a-list-made-in-javascript"
+      },
+      {
+        "tags": [
+          "hadoop",
+          "parallel-processing",
+          "mapreduce",
+          "mpi"
+        ],
+        "creation_date": 1420513879,
+        "question_id": 27791531,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791531/hadoop-mapreduce-vs-mpi-vs-spark-vs-mahout-vs-mesos-when-to-use-one-over-the"
+      },
+      {
+        "tags": [
+          "rust"
+        ],
+        "creation_date": 1420513889,
+        "question_id": 27791532,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27791532/how-do-i-create-a-global-mutable-singleton"
+      },
+      {
+        "tags": [
+          "c#",
+          "audio",
+          "unity-game-engine"
+        ],
+        "creation_date": 1420513891,
+        "question_id": 27791533,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791533/unity3d-share-settings-of-an-audiosource"
+      },
+      {
+        "tags": [
+          "java",
+          "inheritance"
+        ],
+        "creation_date": 1420513894,
+        "question_id": 27791534,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791534/why-my-program-no-work-keep-getting-cannot-find-symbol-error"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "classloader"
+        ],
+        "creation_date": 1420513912,
+        "question_id": 27791537,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791537/is-class-locking-related-to-java-classloader"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "angularjs-directive"
+        ],
+        "creation_date": 1420513950,
+        "question_id": 27791543,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791543/angular-code-not-working-when-moved-to-directive"
+      },
+      {
+        "tags": [
+          "glsl",
+          "webgl",
+          "shader"
+        ],
+        "creation_date": 1420514041,
+        "question_id": 27791550,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791550/how-vertex-shader-works"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "activerecord"
+        ],
+        "creation_date": 1420514090,
+        "question_id": 27791553,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27791553/rails-correct-way-of-turning-activerecord-relation-to-array"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420514114,
+        "question_id": 27791557,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791557/replacing-strings-inside-echo"
+      },
+      {
+        "tags": [
+          "python",
+          "arrays",
+          "numpy"
+        ],
+        "creation_date": 1420514133,
+        "question_id": 27791559,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791559/how-to-remove-mask-from-numpy-array-after-performing-operations"
+      },
+      {
+        "tags": [
+          "perl"
+        ],
+        "creation_date": 1420514173,
+        "question_id": 27791560,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791560/how-to-use-window-target-in-perlredirect-or-otherwise"
+      },
+      {
+        "tags": [
+          "grid",
+          "less",
+          "semantic.gs"
+        ],
+        "creation_date": 1420514286,
+        "question_id": 27791577,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791577/semantic-gs-grid-questions-about-the-columns-adding-to-more-than-12"
+      },
+      {
+        "tags": [
+          "makefile"
+        ],
+        "creation_date": 1420514328,
+        "question_id": 27791578,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791578/makefile-how-to-detect-changes-within-the-makefile-itself"
+      },
+      {
+        "tags": [
+          "akka",
+          "playframework-2.3"
+        ],
+        "creation_date": 1420514328,
+        "question_id": 27791579,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791579/when-is-akkas-default-system-ready-in-play"
+      },
+      {
+        "tags": [
+          "c++",
+          "initialization",
+          "effective-c++"
+        ],
+        "creation_date": 1420514332,
+        "question_id": 27791580,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791580/c-explicit-declaration-triggers-a-warning-in-the-default-constructor"
+      },
+      {
+        "tags": [
+          "jquery",
+          "python",
+          "django",
+          "d3.js"
+        ],
+        "creation_date": 1420514334,
+        "question_id": 27791581,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27791581/d3js-with-django-python-modify-csv-file"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 267
+  }
+}

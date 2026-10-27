@@ -1,0 +1,1127 @@
+{
+  "retrieved_at": "2026-10-26T19:04:09.715174+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736337600&todate=1736359199&sort=creation&order=asc&pagesize=100&page=2&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736337600,
+    "todate": 1736359199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 2,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "mule",
+          "java-heap"
+        ],
+        "creation_date": 1736344941,
+        "question_id": 79339463,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339463/mule-4-1gb-file-data-transformation"
+      },
+      {
+        "tags": [
+          "nix"
+        ],
+        "creation_date": 1736345022,
+        "question_id": 79339466,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339466/evaluating-writeshellapplication-results-in-what-how-is-closure-determined-be"
+      },
+      {
+        "tags": [
+          "delphi-7",
+          "dbgrid"
+        ],
+        "creation_date": 1736345154,
+        "question_id": 79339469,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339469/delphi-6-7-dbgrid-oncellclick-column-index-issue"
+      },
+      {
+        "tags": [
+          "spring-security"
+        ],
+        "creation_date": 1736345305,
+        "question_id": 79339474,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339474/how-to-implement-spring-security-csrf-in-a-thymeleaf-project"
+      },
+      {
+        "tags": [
+          "javascript",
+          "qt",
+          "qml",
+          "es6-promise",
+          "qt6"
+        ],
+        "creation_date": 1736345307,
+        "question_id": 79339475,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339475/promise-as-text-in-label"
+      },
+      {
+        "tags": [
+          "conda",
+          "zsh",
+          "mamba",
+          "micromamba"
+        ],
+        "creation_date": 1736345388,
+        "question_id": 79339476,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339476/how-to-find-the-real-location-of-the-micromamba-executable-binary"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-boot",
+          "unit-testing"
+        ],
+        "creation_date": 1736345480,
+        "question_id": 79339483,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339483/spring-cloud-gateway-tests-fail-after-upgrade-to-spring-boot-3-4-0-specifically"
+      },
+      {
+        "tags": [
+          "python",
+          "set",
+          "graph-theory",
+          "graph-traversal"
+        ],
+        "creation_date": 1736345500,
+        "question_id": 79339486,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339486/finding-loops-between-numbers-in-a-list-of-sets"
+      },
+      {
+        "tags": [
+          "python",
+          "pyinstaller"
+        ],
+        "creation_date": 1736345555,
+        "question_id": 79339489,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339489/i-cant-hear-sound-effects-when-using-the-simpleaudio-python-package"
+      },
+      {
+        "tags": [
+          "javascript",
+          "vuejs3"
+        ],
+        "creation_date": 1736345572,
+        "question_id": 79339491,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339491/error-when-using-promise-to-fetch-images-from-aws-in-vue3-js-replit-when-deplo"
+      },
+      {
+        "tags": [
+          "python-3.x",
+          "multithreading",
+          "pymongo",
+          "gridfs"
+        ],
+        "creation_date": 1736345573,
+        "question_id": 79339492,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339492/pymongo-gridfs-threadpoolexecutor-download-multiple-files-simultaneously"
+      },
+      {
+        "tags": [
+          "android",
+          "maui",
+          "android-windowmanager",
+          "android-contextmenu"
+        ],
+        "creation_date": 1736345883,
+        "question_id": 79339505,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339505/copy-paste-context-menu-not-displaying-on-long-press-for-entry-added-to-window-a"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "oracle-database",
+          "spring-boot",
+          "oracle-aq"
+        ],
+        "creation_date": 1736345894,
+        "question_id": 79339506,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339506/spring-boot-with-oracle-aq-and-universal-connection-pool"
+      },
+      {
+        "tags": [
+          "android",
+          "firebase",
+          "react-native",
+          "google-cloud-functions",
+          "expo"
+        ],
+        "creation_date": 1736345941,
+        "question_id": 79339509,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339509/why-are-fetch-and-firebase-function-calls-not-executed-in-expo-backgroundfetch"
+      },
+      {
+        "tags": [
+          "cmake",
+          "include",
+          "cross-platform",
+          "idioms",
+          "include-path"
+        ],
+        "creation_date": 1736345997,
+        "question_id": 79339514,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339514/in-cmake-whats-a-good-idiom-for-choosing-between-alternative-locations-of-a-he"
+      },
+      {
+        "tags": [
+          "c#",
+          "database",
+          ".net-core",
+          "entity-framework-core",
+          "tpl-dataflow"
+        ],
+        "creation_date": 1736346001,
+        "question_id": 79339515,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339515/parallelizing-the-database-write-operations"
+      },
+      {
+        "tags": [
+          "matlab"
+        ],
+        "creation_date": 1736346178,
+        "question_id": 79339521,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339521/the-result-of-imwarp-function-in-matlab-has-horizontal-stripes"
+      },
+      {
+        "tags": [
+          "c#",
+          "maui"
+        ],
+        "creation_date": 1736346222,
+        "question_id": 79339523,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339523/maui-splash-screen-and-fonts-not-always-loaded"
+      },
+      {
+        "tags": [
+          "sql",
+          "oracle-database",
+          "plsql"
+        ],
+        "creation_date": 1736346355,
+        "question_id": 79339528,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339528/how-to-print-instead-of-apos"
+      },
+      {
+        "tags": [
+          "android",
+          "localization"
+        ],
+        "creation_date": 1736346415,
+        "question_id": 79339531,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339531/appcompatdelegate-getapplicationlocales-return"
+      },
+      {
+        "tags": [
+          "python",
+          "google-chrome",
+          "selenium-webdriver"
+        ],
+        "creation_date": 1736346435,
+        "question_id": 79339532,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339532/python-selenium-headless-webdrivers-window-handles-doesnt-see-new-windows"
+      },
+      {
+        "tags": [
+          "python",
+          "html",
+          "web-scraping",
+          "beautifulsoup"
+        ],
+        "creation_date": 1736346463,
+        "question_id": 79339535,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339535/issue-with-extracting-text-from-h1-tag-using-beautifulsoup"
+      },
+      {
+        "tags": [
+          "python",
+          "ethereum",
+          "web3py",
+          "evm"
+        ],
+        "creation_date": 1736346488,
+        "question_id": 79339539,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339539/execution-reverted-on-base-layer-2-buy-transaction-using-web3-py"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "docker",
+          "csv",
+          "sql-server-2022"
+        ],
+        "creation_date": 1736346535,
+        "question_id": 79339541,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339541/i-cant-import-a-csv-to-a-sql-server-on-docker-due-to-line-breaks-and-truncation"
+      },
+      {
+        "tags": [
+          "delphi",
+          "firemonkey",
+          "delphi-12-athens"
+        ],
+        "creation_date": 1736346586,
+        "question_id": 79339545,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339545/create-popup-that-handles-focus-nicely"
+      },
+      {
+        "tags": [
+          "dockerfile",
+          "nuget"
+        ],
+        "creation_date": 1736346593,
+        "question_id": 79339546,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339546/missing-microsoft-win32-registry"
+      },
+      {
+        "tags": [
+          "python",
+          "opencv",
+          "image-processing",
+          "computer-vision"
+        ],
+        "creation_date": 1736346595,
+        "question_id": 79339547,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339547/how-can-i-apply-the-affine-transformation-results-to-adjust-multiple-rois-instea"
+      },
+      {
+        "tags": [
+          "excel",
+          "function"
+        ],
+        "creation_date": 1736346612,
+        "question_id": 79339548,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339548/too-many-arguments-in-excel"
+      },
+      {
+        "tags": [
+          "r",
+          "function",
+          "data.table"
+        ],
+        "creation_date": 1736346653,
+        "question_id": 79339550,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339550/unexpected-behaviour-of-formula-with-data-table-in-r"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs"
+        ],
+        "creation_date": 1736346750,
+        "question_id": 79339558,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339558/how-to-implement-loading-spinners-for-gif-search-results-like-instagram"
+      },
+      {
+        "tags": [
+          "python",
+          "pdf",
+          "web-scraping",
+          "playwright",
+          "playwright-python"
+        ],
+        "creation_date": 1736346755,
+        "question_id": 79339560,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339560/playwright-python-download-get-temporary-file"
+      },
+      {
+        "tags": [
+          "vba",
+          "ms-access",
+          "report"
+        ],
+        "creation_date": 1736346835,
+        "question_id": 79339564,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339564/hiding-images-in-ms-access-report"
+      },
+      {
+        "tags": [
+          "batch-file"
+        ],
+        "creation_date": 1736346845,
+        "question_id": 79339566,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339566/how-to-check-if-variable-contains-words"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1736346910,
+        "question_id": 79339572,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339572/testing-if-object-does-not-already-exists-but-i-still-get-error-msg-2714"
+      },
+      {
+        "tags": [
+          "java",
+          "unit-testing",
+          "selenium-webdriver",
+          "testng"
+        ],
+        "creation_date": 1736346962,
+        "question_id": 79339574,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339574/testng-parallel-execution-unique-object-creation"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1736346998,
+        "question_id": 79339578,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339578/php-check-if-is-a-json-string-fails-with-string-with-double-quotes"
+      },
+      {
+        "tags": [
+          "android",
+          "react-native",
+          "expo",
+          "react-native-google-mobile-ads"
+        ],
+        "creation_date": 1736347015,
+        "question_id": 79339579,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339579/react-native-google-mobile-adscompilereleasekotlin"
+      },
+      {
+        "tags": [
+          "docker"
+        ],
+        "creation_date": 1736347053,
+        "question_id": 79339581,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339581/docker-copy-does-not-find-files-they-are-definitely-there-and-there-is-no-do"
+      },
+      {
+        "tags": [
+          "c++",
+          "windows",
+          "visual-c++",
+          "memory-management"
+        ],
+        "creation_date": 1736347142,
+        "question_id": 79339585,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339585/does-automatic-storage-now-include-registers"
+      },
+      {
+        "tags": [
+          "blazor",
+          "blazor-webassembly",
+          ".net-8.0"
+        ],
+        "creation_date": 1736347167,
+        "question_id": 79339588,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339588/blazor-wasm-401-when-directly-accessing-url"
+      },
+      {
+        "tags": [
+          "git",
+          "git-log"
+        ],
+        "creation_date": 1736347186,
+        "question_id": 79339590,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339590/how-to-get-git-log-follow-to-show-patches-for-binary-files-like-git-diff"
+      },
+      {
+        "tags": [
+          "node.js",
+          "swagger"
+        ],
+        "creation_date": 1736347209,
+        "question_id": 79339593,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339593/uncaught-referenceerror-swaggeruibundle-is-not-defined"
+      },
+      {
+        "tags": [
+          "lucene"
+        ],
+        "creation_date": 1736347245,
+        "question_id": 79339596,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339596/lucene-sorting-a-tokenized-string-field-almost-works-perfectly-as-of-version-10"
+      },
+      {
+        "tags": [
+          "asp.net-web-api",
+          "azure-service-fabric"
+        ],
+        "creation_date": 1736347369,
+        "question_id": 79339606,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339606/how-to-call-endpoints-from-one-node-in-service-fabric-to-all-the-other-nodes"
+      },
+      {
+        "tags": [
+          "c",
+          "matrix"
+        ],
+        "creation_date": 1736347401,
+        "question_id": 79339607,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339607/how-to-insert-distinct-elements-in-a-matrix"
+      },
+      {
+        "tags": [
+          "python",
+          "matlab",
+          "elastix-itk"
+        ],
+        "creation_date": 1736347580,
+        "question_id": 79339618,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339618/matlab-error-when-running-python-code-with-pyrunfile"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "arduino",
+          "sensors",
+          "arduino-uno"
+        ],
+        "creation_date": 1736347734,
+        "question_id": 79339625,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339625/communication-between-my-arduino-and-my-python-code-doesnt-seem-to-work"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba",
+          "worksheet"
+        ],
+        "creation_date": 1736347856,
+        "question_id": 79339631,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339631/excel-vba-combining-two-worksheet-changes-running-one-or-the-other"
+      },
+      {
+        "tags": [
+          "ios",
+          "flutter",
+          "mobile",
+          "ads",
+          "google-mobile-ads"
+        ],
+        "creation_date": 1736347914,
+        "question_id": 79339633,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339633/flutter-ios-build-fails-with-undefined-symbols-error-when-adding-google-mobile"
+      },
+      {
+        "tags": [
+          "cordova",
+          "gps",
+          "location"
+        ],
+        "creation_date": 1736347942,
+        "question_id": 79339634,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339634/get-gps-location-in-cordova-while-in-background"
+      },
+      {
+        "tags": [
+          "node.js",
+          "typescript",
+          "aws-lambda"
+        ],
+        "creation_date": 1736348053,
+        "question_id": 79339640,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339640/errortype-typeerror-errormessage-object-defineproperty-called-on-non-ob"
+      },
+      {
+        "tags": [
+          "google-cloud-platform",
+          "google-cloud-run",
+          "google-cloud-load-balancer"
+        ],
+        "creation_date": 1736348075,
+        "question_id": 79339641,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339641/gcp-load-balacer-w-cloud-run-neg-how-to-return-header-per-each-neg"
+      },
+      {
+        "tags": [
+          "r",
+          "ggplot2"
+        ],
+        "creation_date": 1736348088,
+        "question_id": 79339642,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339642/is-there-a-minimum-vertical-spacing-for-legend-keys"
+      },
+      {
+        "tags": [
+          ".net",
+          "websocket",
+          "signalr",
+          "signalr-hub"
+        ],
+        "creation_date": 1736348091,
+        "question_id": 79339643,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339643/why-cant-i-connect-a-websocket-request-from-postman-to-a-net-application-runni"
+      },
+      {
+        "tags": [
+          "c++",
+          "containers",
+          "c++20",
+          "clang++",
+          "noexcept"
+        ],
+        "creation_date": 1736348131,
+        "question_id": 79339644,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339644/why-is-clang-not-consistent-on-noexceptit-and-noexceptit-for-containers"
+      },
+      {
+        "tags": [
+          "python",
+          "web-scraping",
+          "beautifulsoup",
+          "python-requests",
+          "instagram"
+        ],
+        "creation_date": 1736348220,
+        "question_id": 79339647,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339647/why-does-scraping-followers-count-from-instagram-fails"
+      },
+      {
+        "tags": [
+          "python",
+          "python-typing",
+          "mypy",
+          "pydantic"
+        ],
+        "creation_date": 1736348300,
+        "question_id": 79339649,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339649/static-type-checker-mypy-pytype-pyright-complains-with-dynamically-generated"
+      },
+      {
+        "tags": [
+          "git",
+          "git-lfs"
+        ],
+        "creation_date": 1736348515,
+        "question_id": 79339658,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339658/gif-lfs-tracking-zero-byte-files"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "swiftui",
+          "ios-simulator",
+          "swiftdata"
+        ],
+        "creation_date": 1736348542,
+        "question_id": 79339661,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339661/swiftdata-not-persisting-data-when-run-from-xcode-but-works-fine-when-app-is-ind"
+      },
+      {
+        "tags": [
+          "google-cloud-platform",
+          "terraform-provider-gcp"
+        ],
+        "creation_date": 1736348600,
+        "question_id": 79339665,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339665/failed-to-create-gcp-cloud-sql-instnace-using-terraform"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "laravel"
+        ],
+        "creation_date": 1736348623,
+        "question_id": 79339667,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339667/serialization-deadlock-on-upsert-in-laravel-with-concurrent-console-commands"
+      },
+      {
+        "tags": [
+          "haskell",
+          "mingw"
+        ],
+        "creation_date": 1736348922,
+        "question_id": 79339679,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339679/error-message-when-running-haskell-files-adddll-mingw32-or-dependencies-not-lo"
+      },
+      {
+        "tags": [
+          "r",
+          "terra",
+          "bad-alloc"
+        ],
+        "creation_date": 1736348934,
+        "question_id": 79339680,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339680/how-do-i-fix-a-badalloc-error-in-for-loop-when-using-the-terra-package"
+      },
+      {
+        "tags": [
+          "arm",
+          "microcontroller",
+          "cmsis"
+        ],
+        "creation_date": 1736348942,
+        "question_id": 79339681,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339681/embedded-cmsis-pack-no-longer-have-bitfields"
+      },
+      {
+        "tags": [
+          "hazelcast"
+        ],
+        "creation_date": 1736348957,
+        "question_id": 79339682,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339682/how-to-use-distributed-lock-in-hazelcast-community-edition"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "unit-testing",
+          "constants",
+          "minitest"
+        ],
+        "creation_date": 1736348959,
+        "question_id": 79339684,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339684/how-would-i-test-ruby-or-rails-constants-using-minitest"
+      },
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "ide",
+          "papyrus"
+        ],
+        "creation_date": 1736349008,
+        "question_id": 79339690,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339690/error-when-installing-papyrus-plugin-to-eclipse"
+      },
+      {
+        "tags": [
+          "c#",
+          "performance",
+          "linq",
+          "parallel-processing",
+          "parallel.foreach"
+        ],
+        "creation_date": 1736349084,
+        "question_id": 79339699,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339699/what-are-the-performance-implications-of-using-asparallel-with-parallel-foreac"
+      },
+      {
+        "tags": [
+          "c#",
+          "opengl",
+          "3d",
+          "geometry",
+          "opentk"
+        ],
+        "creation_date": 1736349187,
+        "question_id": 79339701,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339701/why-does-the-program-written-in-c-using-opentk-display-only-an-empty-gray-windo"
+      },
+      {
+        "tags": [
+          "qgis"
+        ],
+        "creation_date": 1736349282,
+        "question_id": 79339704,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339704/export-raster-data-to-specific-epsg-code-gives-out-black-image"
+      },
+      {
+        "tags": [
+          "docker",
+          "buildkit"
+        ],
+        "creation_date": 1736349285,
+        "question_id": 79339705,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339705/docker-buildkit-is-enabled-but-the-buildx-component-is-missing-or-broken"
+      },
+      {
+        "tags": [
+          "databricks",
+          "workflow",
+          "azure-databricks",
+          "delta"
+        ],
+        "creation_date": 1736349352,
+        "question_id": 79339708,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339708/databricks-workflow-triggered-by-an-update-of-at-least-one-of-the-involved-table"
+      },
+      {
+        "tags": [
+          "jupyter-notebook",
+          "manim"
+        ],
+        "creation_date": 1736349421,
+        "question_id": 79339712,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339712/running-manim-in-jupyter-coding-is-broken-when-i-create-a-cell-break-during-sce"
+      },
+      {
+        "tags": [
+          "git"
+        ],
+        "creation_date": 1736349442,
+        "question_id": 79339714,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339714/how-to-fetch-metadata-tags-branches-from-a-remote-repo-without-the-code"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1736349472,
+        "question_id": 79339716,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339716/javascript-does-not-redirect-to-a-new-page"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas",
+          "dataframe"
+        ],
+        "creation_date": 1736349533,
+        "question_id": 79339719,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339719/extract-hijri-date-from-excel-file-and-plot-it"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "pgadmin-4"
+        ],
+        "creation_date": 1736349588,
+        "question_id": 79339725,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339725/unable-to-take-backup-of-data-in-partitioned-tables-in-postgres"
+      },
+      {
+        "tags": [
+          "azure-active-directory",
+          "amazon-cognito",
+          "saml"
+        ],
+        "creation_date": 1736349693,
+        "question_id": 79339730,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339730/azuread-saml-sso-through-aws-cognito-doesnt-match-requested-authentication-me"
+      },
+      {
+        "tags": [
+          "firebase",
+          "firebase-realtime-database"
+        ],
+        "creation_date": 1736349707,
+        "question_id": 79339733,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339733/how-to-change-the-scheduled-time-for-firebase-rtdb-automatic-backups"
+      },
+      {
+        "tags": [
+          "c++",
+          "g++",
+          "clang++"
+        ],
+        "creation_date": 1736349717,
+        "question_id": 79339734,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339734/is-it-compile-bug-accessing-inactive-member-of-union-in-constexpr-function-caus"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "amazon-web-services",
+          "vite",
+          "aws-amplify"
+        ],
+        "creation_date": 1736349816,
+        "question_id": 79339739,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339739/creating-a-new-amplify-project-with-react-vite-does-not-work-to-publish-the-webs"
+      },
+      {
+        "tags": [
+          "unity-game-engine",
+          "multiplayer"
+        ],
+        "creation_date": 1736349838,
+        "question_id": 79339741,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339741/unable-to-teleport-both-players-when-a-trigger-is-entered-by-one-player-unity-ne"
+      },
+      {
+        "tags": [
+          "r",
+          "loops",
+          "meta-analysis"
+        ],
+        "creation_date": 1736349956,
+        "question_id": 79339749,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339749/perform-metaregression-with-loop-on-results-of-meta-analysis-loop"
+      },
+      {
+        "tags": [
+          "openssh",
+          "ubuntu-22.04",
+          "sshd",
+          "bastion-host"
+        ],
+        "creation_date": 1736349960,
+        "question_id": 79339750,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339750/sshd-is-not-resolving-fqdn-used-in-permitopen"
+      },
+      {
+        "tags": [
+          "javascript",
+          "firefox-addon-webextensions"
+        ],
+        "creation_date": 1736350050,
+        "question_id": 79339753,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339753/firefox-extension-invoking-the-input-file-selector-unloads-the-firefox-extensio"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "docker"
+        ],
+        "creation_date": 1736350079,
+        "question_id": 79339754,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339754/how-to-get-docker-info-about-running-containers-inside-a-container-itself"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net-core"
+        ],
+        "creation_date": 1736350089,
+        "question_id": 79339755,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339755/how-to-use-a-modified-version-of-whats-passed-into-a-primary-constructor-in-c1"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "combobox",
+          "mantine"
+        ],
+        "creation_date": 1736350107,
+        "question_id": 79339757,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339757/mantine-react-combobox-how-to-get-key-form-dowpdown-option"
+      },
+      {
+        "tags": [
+          "r",
+          "levenshtein-distance",
+          "dna-sequence",
+          "edit-distance"
+        ],
+        "creation_date": 1736350119,
+        "question_id": 79339760,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339760/computing-levenshtein-distance-on-a-large-dataset"
+      },
+      {
+        "tags": [
+          "javascript",
+          "asynchronous-javascript"
+        ],
+        "creation_date": 1736350154,
+        "question_id": 79339763,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339763/how-to-wait-for-dynamically-loaded-external-js-file-and-then-execute-its-instan"
+      },
+      {
+        "tags": [
+          "jsf",
+          "keycloak",
+          "wildfly",
+          "openid-connect",
+          "jakarta-ee-security-api"
+        ],
+        "creation_date": 1736350318,
+        "question_id": 79339772,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339772/openidauthenticationmechanismdefinition-redirecttooriginalresource-true-gen"
+      },
+      {
+        "tags": [
+          "c#",
+          "azure-active-directory",
+          "microsoft-graph-api",
+          "exchange-server"
+        ],
+        "creation_date": 1736350399,
+        "question_id": 79339775,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339775/programmatically-assign-exchange-roles-to-a-group-in-azure-ad-using-microsoft-gr"
+      },
+      {
+        "tags": [
+          "swiftui"
+        ],
+        "creation_date": 1736350552,
+        "question_id": 79339785,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339785/swiftui-high-cpu-load-when-using-navigationtitle-with-tabview"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "sap-commerce-cloud"
+        ],
+        "creation_date": 1736350574,
+        "question_id": 79339787,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339787/itemtype-not-being-generated"
+      },
+      {
+        "tags": [
+          "r",
+          "dplyr",
+          "data.table"
+        ],
+        "creation_date": 1736350594,
+        "question_id": 79339789,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339789/rename-mutiple-variables-based-on-a-vector"
+      },
+      {
+        "tags": [
+          "c#",
+          "cucumber",
+          "rider",
+          "gherkin",
+          "reqnroll"
+        ],
+        "creation_date": 1736350659,
+        "question_id": 79339792,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339792/using-reqnroll-with-rider-ide-and-some-test-dont-have-run-button"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "kubernetes",
+          "fabric8",
+          "leader-election"
+        ],
+        "creation_date": 1736350667,
+        "question_id": 79339793,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339793/java-spring-kuberentes-leader-election"
+      },
+      {
+        "tags": [
+          "node.js",
+          "parsing",
+          "formidable"
+        ],
+        "creation_date": 1736350683,
+        "question_id": 79339794,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339794/node-js-formidable-parse-each-field-as-an-array"
+      },
+      {
+        "tags": [
+          "cmake",
+          "rpc",
+          "buildconfiguration",
+          "libtirpc"
+        ],
+        "creation_date": 1736350691,
+        "question_id": 79339795,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339795/how-can-i-tell-whether-i-need-the-tirpc-library-for-rpc-calls-or-not"
+      },
+      {
+        "tags": [
+          "python-3.x",
+          "sqlalchemy",
+          "pytest",
+          "fastapi",
+          "fastapiusers"
+        ],
+        "creation_date": 1736350740,
+        "question_id": 79339799,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339799/how-to-run-tests-in-clear-database-and-not-delete-existing-data-fastapi-sqlalche"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 276
+  }
+}

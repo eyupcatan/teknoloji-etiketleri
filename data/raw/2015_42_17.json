@@ -1,0 +1,667 @@
+{
+  "retrieved_at": "2026-10-26T19:10:50.213780+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420653600&todate=1420675199&sort=creation&order=asc&pagesize=100&page=17&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420653600,
+    "todate": 1420675199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 17,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "javascript",
+          "probability",
+          "bayesian-networks"
+        ],
+        "creation_date": 1420674117,
+        "question_id": 27830677,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830677/an-algorithm-for-multiplying-and-marginalizing-probability-tables"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420674174,
+        "question_id": 27830689,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830689/how-can-i-call-an-input-value-from-a-form-in-php"
+      },
+      {
+        "tags": [
+          "parallel-processing",
+          "task-parallel-library",
+          "deque",
+          "work-stealing"
+        ],
+        "creation_date": 1420674196,
+        "question_id": 27830691,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830691/work-stealing-and-deques"
+      },
+      {
+        "tags": [
+          "android",
+          "gradle",
+          "jacoco"
+        ],
+        "creation_date": 1420674204,
+        "question_id": 27830696,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830696/android-jacoco-test-with-gradle-dependson-order-with-compiledebugsources-and-com"
+      },
+      {
+        "tags": [
+          "spring-security",
+          "roles",
+          "pre-authentication"
+        ],
+        "creation_date": 1420674238,
+        "question_id": 27830698,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830698/spring-security-preauthentication-authorization-and-set-roles-defined-in-db"
+      },
+      {
+        "tags": [
+          "c",
+          "fgets"
+        ],
+        "creation_date": 1420674240,
+        "question_id": 27830699,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830699/fgets-how-does-this-work-inside-this-part-of-code-c-programming"
+      },
+      {
+        "tags": [
+          "c#",
+          "visual-studio-2012",
+          ".net-4.5",
+          "32bit-64bit",
+          "anycpu"
+        ],
+        "creation_date": 1420674249,
+        "question_id": 27830701,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830701/build-platform-target-anycpu-exe-still-shows-32bit-header-in-64bit-machine"
+      },
+      {
+        "tags": [
+          "math",
+          "random",
+          "expression",
+          "integer-arithmetic"
+        ],
+        "creation_date": 1420674303,
+        "question_id": 27830707,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830707/how-to-generate-random-arithmetic-expressions-for-game"
+      },
+      {
+        "tags": [
+          "python",
+          "django",
+          "django-haystack",
+          "xapian"
+        ],
+        "creation_date": 1420674305,
+        "question_id": 27830708,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830708/django-haystack-xapian-case-insensitive-search-with-autoquery"
+      },
+      {
+        "tags": [
+          "python",
+          "string"
+        ],
+        "creation_date": 1420674338,
+        "question_id": 27830711,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830711/how-do-i-give-a-string-object-a-custom-method-in-python"
+      },
+      {
+        "tags": [
+          "nginx",
+          "timeout",
+          "keep-alive"
+        ],
+        "creation_date": 1420674353,
+        "question_id": 27830715,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830715/nginx-infinite-keepalive-requests"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420674367,
+        "question_id": 27830717,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830717/jquery-dialog-box-using-closest"
+      },
+      {
+        "tags": [
+          "enums",
+          "system-verilog"
+        ],
+        "creation_date": 1420674384,
+        "question_id": 27830718,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830718/how-to-check-that-verilog-enum-is-valid"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs"
+        ],
+        "creation_date": 1420674407,
+        "question_id": 27830723,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830723/angularjs-ng-click-inside-ng-repeat"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css",
+          "pdf.js"
+        ],
+        "creation_date": 1420674413,
+        "question_id": 27830725,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830725/add-html-css-overlays-by-text-location-on-pdf-document-when-rendering-in-pdf-js"
+      },
+      {
+        "tags": [
+          "c++",
+          "parsing",
+          "inheritance",
+          "subclass",
+          "tokenize"
+        ],
+        "creation_date": 1420674419,
+        "question_id": 27830726,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830726/c-tokenizing-mathematical-expression-using-classes"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "sqlite",
+          "railstutorial.org"
+        ],
+        "creation_date": 1420674425,
+        "question_id": 27830727,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830727/sqlite3sqlexception-duplicate-column-name-while-migrating"
+      },
+      {
+        "tags": [
+          "r",
+          "random-forest"
+        ],
+        "creation_date": 1420674442,
+        "question_id": 27830730,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830730/randomforest-logical-comparison-failing-when-data-value-equals-split-value"
+      },
+      {
+        "tags": [
+          "css",
+          "vertical-alignment",
+          "text-align"
+        ],
+        "creation_date": 1420674444,
+        "question_id": 27830732,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830732/aligning-elements-with-different-horizontal-position-along-vertical-axis-withou"
+      },
+      {
+        "tags": [
+          "r",
+          "parallel-processing"
+        ],
+        "creation_date": 1420674463,
+        "question_id": 27830734,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830734/embarrassingly-parallel-in-r"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420674491,
+        "question_id": 27830736,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830736/cant-disable-home-as-up-on-action-bar"
+      },
+      {
+        "tags": [
+          "php",
+          "rename",
+          "unlink"
+        ],
+        "creation_date": 1420674499,
+        "question_id": 27830737,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830737/file-deletion-with-php-using-basename-for-defining-relative-urls-of-files"
+      },
+      {
+        "tags": [
+          "actionscript-3",
+          "flash"
+        ],
+        "creation_date": 1420674512,
+        "question_id": 27830738,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830738/publishing-and-or-sharing-a-flash-created-game"
+      },
+      {
+        "tags": [
+          "c#",
+          "sql-server",
+          "filestream"
+        ],
+        "creation_date": 1420674541,
+        "question_id": 27830741,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830741/server-not-letting-me-read-from-filestream"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420674565,
+        "question_id": 27830744,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830744/local-variable-reference-to-object-property-overhead-in-javascript"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "slim-lang",
+          "middleman"
+        ],
+        "creation_date": 1420674565,
+        "question_id": 27830745,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830745/middleman-slim-partial-locals"
+      },
+      {
+        "tags": [
+          "angularjs"
+        ],
+        "creation_date": 1420674574,
+        "question_id": 27830747,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830747/angular-ng-click-created-in-a-string-for-datatables-does-not-fire"
+      },
+      {
+        "tags": [
+          "datetime",
+          "redhat"
+        ],
+        "creation_date": 1420674608,
+        "question_id": 27830751,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830751/can-i-copy-timezone-file-from-rhel-6-6-to-rhel-6-5"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420674614,
+        "question_id": 27830752,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830752/why-am-i-getting-an-undifined-index-error-in-my-php-code"
+      },
+      {
+        "tags": [
+          "css"
+        ],
+        "creation_date": 1420674634,
+        "question_id": 27830755,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830755/are-there-any-css-preprocessor-gui-applications-that-can-concatenate-files"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "highcharts",
+          "scale"
+        ],
+        "creation_date": 1420674653,
+        "question_id": 27830758,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830758/incorrect-export-of-highchart-graph"
+      },
+      {
+        "tags": [
+          "spray"
+        ],
+        "creation_date": 1420674656,
+        "question_id": 27830759,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830759/how-to-post-to-a-spray-io-rest-service-from-an-html-form"
+      },
+      {
+        "tags": [
+          "templates",
+          "c++11",
+          "boost",
+          "initialization",
+          "static-members"
+        ],
+        "creation_date": 1420674664,
+        "question_id": 27830761,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830761/c-template-static-integer-constants-out-of-class-definition"
+      },
+      {
+        "tags": [
+          "sas"
+        ],
+        "creation_date": 1420674682,
+        "question_id": 27830764,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830764/how-do-i-drop-observations-based-on-their-observation-row-number-within-a-by-g"
+      },
+      {
+        "tags": [
+          "python",
+          "function",
+          "module",
+          "call"
+        ],
+        "creation_date": 1420674691,
+        "question_id": 27830767,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830767/function-from-a-module-not-imported-in-python"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7",
+          "graph",
+          "networkx",
+          "graph-drawing"
+        ],
+        "creation_date": 1420674721,
+        "question_id": 27830774,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830774/draw-graph-with-fixed-positioned-edges"
+      },
+      {
+        "tags": [
+          "java",
+          "unicode"
+        ],
+        "creation_date": 1420674731,
+        "question_id": 27830775,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830775/how-do-i-add-2-to-the-unicode-value-of-every-char-it-only-changes-the-first-cha"
+      },
+      {
+        "tags": [
+          "google-maps",
+          "google-maps-api-3"
+        ],
+        "creation_date": 1420674747,
+        "question_id": 27830779,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830779/detect-inside-outside-panorama-from-streetviewservice"
+      },
+      {
+        "tags": [
+          "matlab",
+          "machine-learning",
+          "data-mining",
+          "projection",
+          "pca"
+        ],
+        "creation_date": 1420674785,
+        "question_id": 27830783,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830783/how-to-find-projection-matrix-for-pca-in-matlab"
+      },
+      {
+        "tags": [
+          "javascript",
+          "firefox",
+          "asp.net-web-api",
+          "firefox-addon"
+        ],
+        "creation_date": 1420674786,
+        "question_id": 27830784,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27830784/cross-platform-files-apis-open-and-list-folders"
+      },
+      {
+        "tags": [
+          "timestamp",
+          "postgresql-9.3"
+        ],
+        "creation_date": 1420674818,
+        "question_id": 27830790,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830790/postgresql-9-3-5-difference-from-8-3-6-when-extracting-epoch-from-casted-value"
+      },
+      {
+        "tags": [
+          "sql",
+          "ms-access",
+          "union"
+        ],
+        "creation_date": 1420674819,
+        "question_id": 27830791,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830791/union-in-microsoft-access"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "caching"
+        ],
+        "creation_date": 1420674852,
+        "question_id": 27830795,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830795/how-to-use-will-paginate-with-model-caching-in-rails"
+      },
+      {
+        "tags": [
+          "vba",
+          "excel"
+        ],
+        "creation_date": 1420674866,
+        "question_id": 27830796,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830796/hide-rows-when-cell-is-empty-excel-faster-way"
+      },
+      {
+        "tags": [
+          "actionscript-3",
+          "actionscript"
+        ],
+        "creation_date": 1420674906,
+        "question_id": 27830797,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830797/i-cannot-solve-error-2136-swf-contains-invalid-data"
+      },
+      {
+        "tags": [
+          "spring",
+          "spring-mvc",
+          "spring-security",
+          "spring-security-oauth2"
+        ],
+        "creation_date": 1420674915,
+        "question_id": 27830799,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830799/spring-security-oauth-form-authentication-and-csrf-can-they-work-together"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420674931,
+        "question_id": 27830803,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830803/java-help-convert-a-string-to-arraylistinteger"
+      },
+      {
+        "tags": [
+          "c",
+          "arrays",
+          "pointers",
+          "memory",
+          "memcpy"
+        ],
+        "creation_date": 1420674952,
+        "question_id": 27830809,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830809/c-memcpy-2d-array-to-3d-array-within-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "webrtc"
+        ],
+        "creation_date": 1420674954,
+        "question_id": 27830810,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830810/webrtc-getting-malformed-constraints-object-from-chrome-but-not-firefox"
+      },
+      {
+        "tags": [
+          "php",
+          "file"
+        ],
+        "creation_date": 1420674964,
+        "question_id": 27830811,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830811/file-fails-to-read-each-line-in-txt-file-into-new-array-element"
+      },
+      {
+        "tags": [
+          "linux",
+          "hyper-v"
+        ],
+        "creation_date": 1420674966,
+        "question_id": 27830812,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830812/when-installing-ubuntu-on-hyper-v-disk-becomes-read-only"
+      },
+      {
+        "tags": [
+          "c++",
+          "visual-studio"
+        ],
+        "creation_date": 1420674987,
+        "question_id": 27830815,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830815/cant-run-a-c-program-on-visual-studio-2013"
+      },
+      {
+        "tags": [
+          "java",
+          "xml",
+          "sockets"
+        ],
+        "creation_date": 1420675033,
+        "question_id": 27830819,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830819/how-can-i-improve-how-i-read-xml-from-socket"
+      },
+      {
+        "tags": [
+          "date",
+          "oracle11g",
+          "sql-loader",
+          "non-nullable"
+        ],
+        "creation_date": 1420675058,
+        "question_id": 27830824,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830824/sqlloader-using-sysdate-if-incoming-value-is-blank"
+      },
+      {
+        "tags": [
+          "python-2.7",
+          "web-scraping",
+          "beautifulsoup"
+        ],
+        "creation_date": 1420675095,
+        "question_id": 27830831,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830831/webscraping-why-do-i-only-get-the-last-row-in-a-html-table-beautifulsoup"
+      },
+      {
+        "tags": [
+          "python",
+          "dom"
+        ],
+        "creation_date": 1420675111,
+        "question_id": 27830834,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830834/python-minidom-not-removing-elements-properly"
+      },
+      {
+        "tags": [
+          "android",
+          "android-layout",
+          "android-activity",
+          "android-softkeyboard"
+        ],
+        "creation_date": 1420675111,
+        "question_id": 27830835,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830835/androidwindowsoftinputmode-statealwaysvisible-without-any-edittext-causes-s"
+      },
+      {
+        "tags": [
+          "jquery",
+          "ajax",
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420675138,
+        "question_id": 27830840,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830840/jquery-line-item-script-calculations-and-ajax-calls"
+      },
+      {
+        "tags": [
+          "windows",
+          "batch-file",
+          "csv"
+        ],
+        "creation_date": 1420675177,
+        "question_id": 27830845,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830845/how-can-a-windows-batch-file-read-data-correctly-from-a-delimited-text-file-when"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "highcharts",
+          "ng-style"
+        ],
+        "creation_date": 1420675180,
+        "question_id": 27830846,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27830846/ng-style-not-working-in-div-which-is-rendering-highchart"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 143
+  }
+}

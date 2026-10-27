@@ -1,0 +1,1143 @@
+{
+  "retrieved_at": "2026-10-26T19:03:11.926126+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736164800&todate=1736186399&sort=creation&order=asc&pagesize=100&page=2&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736164800,
+    "todate": 1736186399,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 2,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "r",
+          "quarto"
+        ],
+        "creation_date": 1736175666,
+        "question_id": 79333442,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333442/how-do-i-add-r-inline-a-code-within-a-quarto-figure-subcaption"
+      },
+      {
+        "tags": [
+          "sql",
+          "mysql"
+        ],
+        "creation_date": 1736175754,
+        "question_id": 79333446,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333446/mysql-get-first-non-null-frequency-with-order-by-length-asc"
+      },
+      {
+        "tags": [
+          "django",
+          "django-forms",
+          "django-admin",
+          "django-errors"
+        ],
+        "creation_date": 1736175787,
+        "question_id": 79333449,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333449/django-fielderror-unknown-fields-usable-password-specified"
+      },
+      {
+        "tags": [
+          "wordpress",
+          "woocommerce",
+          "advanced-custom-fields",
+          "divi"
+        ],
+        "creation_date": 1736175851,
+        "question_id": 79333453,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333453/custom-post-type-that-pulls-in-woocommerce-product-data-dynamically-in-divi-them"
+      },
+      {
+        "tags": [
+          "django",
+          "mariadb",
+          "case-insensitive"
+        ],
+        "creation_date": 1736176029,
+        "question_id": 79333463,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333463/django-query-is-case-sensitive-after-moving-to-mariadb"
+      },
+      {
+        "tags": [
+          "replace",
+          "bruno"
+        ],
+        "creation_date": 1736176042,
+        "question_id": 79333464,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333464/bruno-find-and-replace-a-variable-and-all-its-occurrences"
+      },
+      {
+        "tags": [
+          "oracle-database"
+        ],
+        "creation_date": 1736176076,
+        "question_id": 79333467,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333467/how-to-join-3-tables-in-oracle-sql"
+      },
+      {
+        "tags": [
+          "c#",
+          "angular",
+          "azure",
+          "azure-blob-storage"
+        ],
+        "creation_date": 1736176154,
+        "question_id": 79333470,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333470/how-to-serve-an-image-from-azure-blob-storage-as-if-it-was-hosted-in-my-web-app"
+      },
+      {
+        "tags": [
+          "python",
+          "artificial-intelligence",
+          "linear-regression",
+          "logistic-regression"
+        ],
+        "creation_date": 1736176274,
+        "question_id": 79333476,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333476/why-do-i-plot-only-one-feature-when-visualizing-predictions-for-a-multi-feature"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "hotwire-rails"
+        ],
+        "creation_date": 1736176282,
+        "question_id": 79333477,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333477/reload-entire-css-bundle-when-subfile-is-changed"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "next.js",
+          "nextjs14"
+        ],
+        "creation_date": 1736176462,
+        "question_id": 79333482,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333482/how-can-i-upload-a-file-when-updating-an-onchange-event"
+      },
+      {
+        "tags": [
+          "sqlite",
+          "distributed-filesystem",
+          "seaweedfs"
+        ],
+        "creation_date": 1736176521,
+        "question_id": 79333485,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333485/seaweedfs-to-store-sqlite-files-and-access-them"
+      },
+      {
+        "tags": [
+          "javascript",
+          "parsing",
+          "ecma"
+        ],
+        "creation_date": 1736176536,
+        "question_id": 79333486,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333486/why-is-the-let-lookahead-different-between-for-in-and-for-of-loops-in-ecmascri"
+      },
+      {
+        "tags": [
+          "azure-devops",
+          "azure-pipelines",
+          "azure-pipelines-yaml"
+        ],
+        "creation_date": 1736176561,
+        "question_id": 79333487,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333487/unable-to-retrieve-token-from-variable-group-azure-devops-pipeline"
+      },
+      {
+        "tags": [
+          "sql",
+          "oracle-database",
+          "plsql",
+          "grouping"
+        ],
+        "creation_date": 1736176565,
+        "question_id": 79333488,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333488/about-sub-totals-in-oracle-sql"
+      },
+      {
+        "tags": [
+          "android",
+          "maui",
+          ".net-8.0"
+        ],
+        "creation_date": 1736176711,
+        "question_id": 79333497,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333497/appthemebinding-on-fontimagesource-property-for-custom-control"
+      },
+      {
+        "tags": [
+          "dataframe",
+          "kotlin",
+          "sqlite",
+          "kotlin-notebook"
+        ],
+        "creation_date": 1736176839,
+        "question_id": 79333504,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333504/kotlin-dataframe-sqlite-integer-cannot-be-cast-to-boolean-in-notebook"
+      },
+      {
+        "tags": [
+          "php",
+          "laravel",
+          "optimization",
+          "web-applications"
+        ],
+        "creation_date": 1736176855,
+        "question_id": 79333507,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333507/optimize-fetching-a-lot-of-data-from-an-api-using-laravel-11-players-from-warga"
+      },
+      {
+        "tags": [
+          "highcharts",
+          "react-highcharts"
+        ],
+        "creation_date": 1736176907,
+        "question_id": 79333510,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333510/how-can-i-have-a-highcharts-chart-fill-parent-height"
+      },
+      {
+        "tags": [
+          "sql",
+          "macros",
+          "type-conversion",
+          "dbt"
+        ],
+        "creation_date": 1736176939,
+        "question_id": 79333512,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333512/how-to-calculate-dynamic-dbt-macro-for-multiple-column"
+      },
+      {
+        "tags": [
+          "android",
+          "kotlin",
+          "android-recyclerview"
+        ],
+        "creation_date": 1736177082,
+        "question_id": 79333519,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333519/recycler-view-not-updating-when-new-item-is-added-by-adapter"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "spring-jms",
+          "oracle19c",
+          "oracle-aq"
+        ],
+        "creation_date": 1736177324,
+        "question_id": 79333531,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333531/oracle-aq-multiple-jms-listeners-to-dequeue-a-specific-custom-message-type"
+      },
+      {
+        "tags": [
+          "python",
+          "azure",
+          "azure-functions"
+        ],
+        "creation_date": 1736177603,
+        "question_id": 79333536,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333536/azure-functions-not-dead-lettering-when-exception-raised"
+      },
+      {
+        "tags": [
+          "visual-studio",
+          "ssis",
+          "properties"
+        ],
+        "creation_date": 1736177741,
+        "question_id": 79333540,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333540/i-have-a-problem-with-the-debug-option-run64bitruntime-it-is-always-set-to-tru"
+      },
+      {
+        "tags": [
+          "keycloak",
+          "keycloak-spi"
+        ],
+        "creation_date": 1736177763,
+        "question_id": 79333541,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333541/keycloak-store-only-user-name-and-password-in-keycloak-but-retrieve-other-attr"
+      },
+      {
+        "tags": [
+          "php",
+          "mariadb",
+          "left-join",
+          "case"
+        ],
+        "creation_date": 1736177843,
+        "question_id": 79333547,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333547/is-it-possible-to-do-more-than-one-case-mysql-left-join"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "export-to-csv"
+        ],
+        "creation_date": 1736177908,
+        "question_id": 79333551,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333551/exporting-query-info-to-a-csv-file-and-directory"
+      },
+      {
+        "tags": [
+          "nuxt.js",
+          "internationalization",
+          "nuxt3.js",
+          "vue-i18n"
+        ],
+        "creation_date": 1736177928,
+        "question_id": 79333552,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333552/nuxt-3-i18n-routes-ocassionally-not-working"
+      },
+      {
+        "tags": [
+          "python",
+          "jax"
+        ],
+        "creation_date": 1736177934,
+        "question_id": 79333553,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333553/trying-to-install-an-older-version-of-jax"
+      },
+      {
+        "tags": [
+          "c",
+          "null",
+          "null-pointer",
+          "nullptr",
+          "c23"
+        ],
+        "creation_date": 1736178044,
+        "question_id": 79333560,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333560/c23-and-memory-representation-of-nullptr"
+      },
+      {
+        "tags": [
+          "css",
+          "css-transitions"
+        ],
+        "creation_date": 1736178130,
+        "question_id": 79333564,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333564/css-hover-transition-keeping-contents-in-same-position"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms"
+        ],
+        "creation_date": 1736178158,
+        "question_id": 79333567,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333567/unable-to-open-designers-in-my-project-after-decompiling-with-ilspy"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "razor",
+          "razor-pages",
+          "custom-error-pages",
+          "custom-error-handling"
+        ],
+        "creation_date": 1736178224,
+        "question_id": 79333569,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333569/razorpages-custom-500-error-page-not-displaying-even-though-403-and-404-pages"
+      },
+      {
+        "tags": [
+          "java",
+          "arrays",
+          "regex",
+          "swap",
+          "stringbuilder"
+        ],
+        "creation_date": 1736178231,
+        "question_id": 79333570,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333570/swap-the-first-and-the-last-words-and-reverse-all-the-middle-characters"
+      },
+      {
+        "tags": [
+          "operating-system",
+          "bootloader",
+          "u-boot",
+          "device-tree"
+        ],
+        "creation_date": 1736178427,
+        "question_id": 79333581,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333581/reset-driver-not-probed-in-uboot-while-port-uboot-to-mainline"
+      },
+      {
+        "tags": [
+          "modelica",
+          "lookup-tables",
+          "dymola"
+        ],
+        "creation_date": 1736178768,
+        "question_id": 79333598,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333598/how-to-assign-matrix-to-combitable-in-dymola"
+      },
+      {
+        "tags": [
+          "laravel-livewire",
+          "laravel-validation"
+        ],
+        "creation_date": 1736178950,
+        "question_id": 79333606,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333606/why-calling-custom-rule-in-livewire-app-raised-error"
+      },
+      {
+        "tags": [
+          "firebase",
+          "nx-monorepo",
+          "firebase-app-hosting"
+        ],
+        "creation_date": 1736179027,
+        "question_id": 79333611,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333611/how-to-get-firebase-automated-app-hosting-rollouts-to-use-different-build-argume"
+      },
+      {
+        "tags": [
+          "powerbi",
+          "powerbi-desktop",
+          "power-bi-report-server"
+        ],
+        "creation_date": 1736179068,
+        "question_id": 79333614,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333614/how-can-i-hide-a-visual-on-power-bi-server-but-show-on-power-bi-desktop-like-t"
+      },
+      {
+        "tags": [
+          "python",
+          "opencv",
+          "image-processing",
+          "computer-vision"
+        ],
+        "creation_date": 1736179095,
+        "question_id": 79333616,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333616/remove-a-tiny-repeated-object-from-an-image-using-opencv"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "node.js",
+          "jestjs",
+          "playwright"
+        ],
+        "creation_date": 1736179226,
+        "question_id": 79333625,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333625/typeerror-ys-deprecate-is-not-a-function"
+      },
+      {
+        "tags": [
+          "c++",
+          "g++",
+          "cross-compiling",
+          "compiler-optimization",
+          "icpx"
+        ],
+        "creation_date": 1736179254,
+        "question_id": 79333627,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333627/cross-compiling-c-code-for-intel-machines"
+      },
+      {
+        "tags": [
+          "excel",
+          "replace",
+          "openxlsx",
+          "openxlsx2"
+        ],
+        "creation_date": 1736179386,
+        "question_id": 79333631,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333631/replacing-a-string-when-writing-to-setheaderfooter-in-openxlsx"
+      },
+      {
+        "tags": [
+          "javascript",
+          "ruby-on-rails",
+          "tippyjs",
+          "ruby-on-rails-8"
+        ],
+        "creation_date": 1736179392,
+        "question_id": 79333634,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333634/tippy-js-uncaught-referenceerror-process-is-not-defined-when-running-with-im"
+      },
+      {
+        "tags": [
+          "linux",
+          "linker",
+          "binaryfiles",
+          "elf"
+        ],
+        "creation_date": 1736179395,
+        "question_id": 79333635,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333635/pt-note-segment-in-elf-files-has-bogus-offset-address"
+      },
+      {
+        "tags": [
+          "c#",
+          "maui",
+          "portable-class-library"
+        ],
+        "creation_date": 1736179440,
+        "question_id": 79333638,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333638/how-to-inspect-resolved-deployed-appdata-special-folder-path-for-windows-mach"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1736179763,
+        "question_id": 79333647,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333647/script-wont-work-when-calling-on-def-function"
+      },
+      {
+        "tags": [
+          "python",
+          "conda"
+        ],
+        "creation_date": 1736180198,
+        "question_id": 79333663,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333663/how-do-i-add-pandas-to-a-conda-environment"
+      },
+      {
+        "tags": [
+          "php",
+          "woocommerce",
+          "yoast",
+          "google-merchant-center"
+        ],
+        "creation_date": 1736180300,
+        "question_id": 79333668,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333668/trying-to-add-shipping-weight-to-schema-via-functions-php-in-woocommerce-for-goo"
+      },
+      {
+        "tags": [
+          "sql",
+          "google-cloud-platform"
+        ],
+        "creation_date": 1736180384,
+        "question_id": 79333669,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333669/change-column-date-format"
+      },
+      {
+        "tags": [
+          "vite",
+          "podman",
+          "esbuild"
+        ],
+        "creation_date": 1736180455,
+        "question_id": 79333675,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333675/podman-builds-of-vite-project-fail"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba",
+          "pivot",
+          "oledbconnection"
+        ],
+        "creation_date": 1736180506,
+        "question_id": 79333679,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333679/excel-vba-deleting-connections-no-longer-used-by-any-pivot-table-in-the-workbo"
+      },
+      {
+        "tags": [
+          "javascript",
+          "paddle"
+        ],
+        "creation_date": 1736180535,
+        "question_id": 79333681,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333681/paddle-js-cannot-be-developed-and-tested-in-the-local-environment"
+      },
+      {
+        "tags": [
+          "swift",
+          "swift-concurrency",
+          "swift6",
+          "sendable"
+        ],
+        "creation_date": 1736180552,
+        "question_id": 79333682,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333682/swift-6-async-await-using-services-and-domain-models"
+      },
+      {
+        "tags": [
+          "dijkstra",
+          "dafny"
+        ],
+        "creation_date": 1736180683,
+        "question_id": 79333686,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333686/multiple-errors-in-dafny-implementation-of-dijkstras-algorithm"
+      },
+      {
+        "tags": [
+          "airflow"
+        ],
+        "creation_date": 1736180759,
+        "question_id": 79333690,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333690/expanded-task-group-with-bashoperator-in-airflow"
+      },
+      {
+        "tags": [
+          "llama",
+          "ollama"
+        ],
+        "creation_date": 1736180799,
+        "question_id": 79333692,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333692/generating-very-long-sequences-with-ollama"
+      },
+      {
+        "tags": [
+          "c#",
+          "linq",
+          "dictionary",
+          "generics"
+        ],
+        "creation_date": 1736180848,
+        "question_id": 79333695,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333695/how-to-generate-an-inverse-dictionary-in-c"
+      },
+      {
+        "tags": [
+          "sveltekit"
+        ],
+        "creation_date": 1736180870,
+        "question_id": 79333697,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333697/how-do-i-make-a-site-work-with-a-url-like-localhost5173-index-html"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "t-sql"
+        ],
+        "creation_date": 1736180919,
+        "question_id": 79333699,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333699/sql-server-wont-let-me-alter-roles"
+      },
+      {
+        "tags": [
+          "pypsa"
+        ],
+        "creation_date": 1736181004,
+        "question_id": 79333703,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333703/why-is-n-objective-not-equal-to-the-total-cost-in-this-simple-example"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "t-sql"
+        ],
+        "creation_date": 1736181006,
+        "question_id": 79333704,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333704/no-column-name-was-specified-for-column-1-issue"
+      },
+      {
+        "tags": [
+          "c++",
+          "windows",
+          "winapi",
+          "windows-shell"
+        ],
+        "creation_date": 1736181094,
+        "question_id": 79333707,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333707/calling-icontextmenu-directly-from-shell-extension-dll"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-storage",
+          "azure-file-share"
+        ],
+        "creation_date": 1736181483,
+        "question_id": 79333724,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333724/how-to-monitor-iops-and-throughput-in-a-azure-per-file-share-for-standard-disk"
+      },
+      {
+        "tags": [
+          "istio"
+        ],
+        "creation_date": 1736181634,
+        "question_id": 79333730,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333730/issue-setting-istio-authorization-policy-for-http-req-header"
+      },
+      {
+        "tags": [
+          "scheduling",
+          "or-tools",
+          "constraint-programming",
+          "cp-sat"
+        ],
+        "creation_date": 1736181884,
+        "question_id": 79333738,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333738/slow-performance-with-simple-constraint-programming-model"
+      },
+      {
+        "tags": [
+          "sql",
+          "google-cloud-platform",
+          "google-bigquery",
+          "subquery",
+          "function-call"
+        ],
+        "creation_date": 1736181888,
+        "question_id": 79333739,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333739/how-to-return-the-count-of-two-different-parameters"
+      },
+      {
+        "tags": [
+          "windows",
+          "powershell",
+          "get-childitem"
+        ],
+        "creation_date": 1736181992,
+        "question_id": 79333742,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333742/powershell-get-childitem-how-to-get-everything-with-a-given-basename-both-file"
+      },
+      {
+        "tags": [
+          "java",
+          "ssh",
+          "jsch"
+        ],
+        "creation_date": 1736182112,
+        "question_id": 79333745,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333745/jsch-getsessionusername-hostname-use-hostname-local-instead-of-ip-address"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "flask",
+          "bootstrap-5",
+          "vendor"
+        ],
+        "creation_date": 1736182176,
+        "question_id": 79333747,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333747/using-vendor-files-how-do-i-successfully-import-bootstrap-icons-into-my-flask-p"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "plpgsql",
+          "database-cursor"
+        ],
+        "creation_date": 1736182189,
+        "question_id": 79333749,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333749/how-to-fetch-from-cursor-over-single-column-of-composite-type-into-a-variable-of"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "blazor",
+          "webassembly",
+          "serilog",
+          "serilog-aspnetcore"
+        ],
+        "creation_date": 1736182272,
+        "question_id": 79333752,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333752/blazor-wasm-use-serilog-to-log-to-server"
+      },
+      {
+        "tags": [
+          "data-structures",
+          "decision-tree"
+        ],
+        "creation_date": 1736182442,
+        "question_id": 79333759,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333759/data-structure-for-summing-and-taking-the-max-of-decision-trees"
+      },
+      {
+        "tags": [
+          "python",
+          "qt",
+          "pyside",
+          "mypy",
+          "pyside6"
+        ],
+        "creation_date": 1736182592,
+        "question_id": 79333765,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333765/type-hinting-and-type-checking-for-intenum-custom-types"
+      },
+      {
+        "tags": [
+          "excel",
+          "excel-formula"
+        ],
+        "creation_date": 1736182652,
+        "question_id": 79333770,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333770/how-to-combine-text-based-on-multiple-criteria-in-excel"
+      },
+      {
+        "tags": [
+          "javascript",
+          "math"
+        ],
+        "creation_date": 1736182653,
+        "question_id": 79333771,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333771/how-to-calculate-the-fill-color-between-dots-in-input-type-range-when-min-val"
+      },
+      {
+        "tags": [
+          "android",
+          "overridependingtransition"
+        ],
+        "creation_date": 1736182727,
+        "question_id": 79333774,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333774/android-smooth-transition-overridependingtransition"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "objective-c",
+          "string",
+          "ascii"
+        ],
+        "creation_date": 1736182739,
+        "question_id": 79333775,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333775/swift-ascii-string-fails-but-works-in-objective-c"
+      },
+      {
+        "tags": [
+          "r",
+          "ggplot2",
+          "legend"
+        ],
+        "creation_date": 1736182821,
+        "question_id": 79333778,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333778/how-to-add-manual-legend-to-ggplot-that-is-not-part-of-any-scale"
+      },
+      {
+        "tags": [
+          "flutter",
+          "firebase",
+          "dart",
+          "firebase-realtime-database"
+        ],
+        "creation_date": 1736182894,
+        "question_id": 79333782,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333782/getting-server-timestamp-of-firebase-realtime-database-in-flutter-dart"
+      },
+      {
+        "tags": [
+          "python",
+          "performance",
+          "optimization",
+          "gurobi",
+          "hyperparameters"
+        ],
+        "creation_date": 1736183093,
+        "question_id": 79333788,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333788/tuning-multiple-gurobi-models-at-once"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "css-selectors",
+          "css-cascade"
+        ],
+        "creation_date": 1736183138,
+        "question_id": 79333791,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333791/css-cascading-descendant-style"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "error-handling",
+          "sas",
+          "proc-sql",
+          "sas-studio"
+        ],
+        "creation_date": 1736183195,
+        "question_id": 79333794,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333794/unkown-error-session-problem-detected-when-loading-large-postgres-tables-into"
+      },
+      {
+        "tags": [
+          "react-native",
+          "expo",
+          "sdk"
+        ],
+        "creation_date": 1736183348,
+        "question_id": 79333798,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333798/react-native-expo-sdk-52-splash-screen-wont-show-image"
+      },
+      {
+        "tags": [
+          "c",
+          "authentication",
+          "sockets",
+          "openssl",
+          "ssl-certificate"
+        ],
+        "creation_date": 1736183420,
+        "question_id": 79333801,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333801/client-authentication-using-openssl"
+      },
+      {
+        "tags": [
+          "ffmpeg",
+          "ffprobe"
+        ],
+        "creation_date": 1736183464,
+        "question_id": 79333802,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333802/does-ffprobe-output-depend-on-users-locale"
+      },
+      {
+        "tags": [
+          "javascript",
+          "python",
+          "bokeh"
+        ],
+        "creation_date": 1736183624,
+        "question_id": 79333808,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333808/data-model-duplication-issue-in-bokeh-the-library-is-possibly-not-prepared-for"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "json",
+          "fetch"
+        ],
+        "creation_date": 1736183828,
+        "question_id": 79333815,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333815/json-fetch-javascript-in-html-and-undefined-or-empty-string"
+      },
+      {
+        "tags": [
+          "python",
+          "malloc",
+          "google-colaboratory",
+          "resnet",
+          "shap"
+        ],
+        "creation_date": 1736183851,
+        "question_id": 79333816,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333816/python-session-crash-when-use-shap"
+      },
+      {
+        "tags": [
+          "node.js",
+          "mongodb",
+          "authentication",
+          "nodebb"
+        ],
+        "creation_date": 1736183994,
+        "question_id": 79333828,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333828/authentication-failed-auth-is-enabled-via-mongod-conf-but-login-without-a-pass"
+      },
+      {
+        "tags": [
+          "c",
+          "string",
+          "printing",
+          "printf",
+          "dynamic-memory-allocation"
+        ],
+        "creation_date": 1736184010,
+        "question_id": 79333830,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333830/string-appearing-broken-into-parts-after-being-printed-in-c-code"
+      },
+      {
+        "tags": [
+          "angular",
+          "rxjs",
+          "signals",
+          "ngrx",
+          "angular-signals"
+        ],
+        "creation_date": 1736184013,
+        "question_id": 79333831,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333831/how-to-wait-for-the-return-of-an-rxmethod-using-ngrx-signalstore"
+      },
+      {
+        "tags": [
+          "go"
+        ],
+        "creation_date": 1736184280,
+        "question_id": 79333843,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333843/is-this-a-goroutine-leak-using-timer"
+      },
+      {
+        "tags": [
+          "sql",
+          "snowflake-cloud-data-platform"
+        ],
+        "creation_date": 1736184310,
+        "question_id": 79333844,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333844/how-to-select-for-rows-where-a-value-in-a-text-column-appears-in-an-array-column"
+      },
+      {
+        "tags": [
+          "java",
+          "java-8",
+          "jboss",
+          "jboss6.x",
+          "javasound"
+        ],
+        "creation_date": 1736184547,
+        "question_id": 79333852,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333852/java-8-javax-sound-sampled-unsupportedaudiofileexception-error-on-jboss-server"
+      },
+      {
+        "tags": [
+          "c#",
+          "unity-game-engine",
+          "unity3d-editor",
+          "cinemachine"
+        ],
+        "creation_date": 1736184794,
+        "question_id": 79333860,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333860/i-cant-seem-to-reference-my-freelook-camera-in-my-script"
+      },
+      {
+        "tags": [
+          "c",
+          "windows",
+          "winsock2"
+        ],
+        "creation_date": 1736184914,
+        "question_id": 79333864,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333864/running-the-microsoft-winsock-client-and-server-code-sample"
+      },
+      {
+        "tags": [
+          "css",
+          "tailwind-css",
+          "overflow"
+        ],
+        "creation_date": 1736184977,
+        "question_id": 79333866,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333866/output-window-using-overflow-doesnt-behave-as-expected-on-tailwind-css"
+      },
+      {
+        "tags": [
+          "c",
+          "string",
+          "pointers"
+        ],
+        "creation_date": 1736185058,
+        "question_id": 79333868,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333868/string-input-with-uninitialized-pointer-in-c"
+      },
+      {
+        "tags": [
+          "rider",
+          "devcontainer"
+        ],
+        "creation_date": 1736185294,
+        "question_id": 79333882,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333882/unable-to-access-app-in-browser-when-using-devcontainers-in-rider-with-net-and"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 293
+  }
+}

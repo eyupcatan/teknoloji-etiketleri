@@ -1,0 +1,457 @@
+{
+  "retrieved_at": "2026-10-26T19:13:06.984851+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420740000&todate=1420761599&sort=creation&order=asc&pagesize=100&page=17&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420740000,
+    "todate": 1420761599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 17,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "mysql",
+          "null",
+          "sql-order-by"
+        ],
+        "creation_date": 1420760683,
+        "question_id": 27851597,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851597/when-order-by-on-an-ifnull-function-send-nulls-to-end"
+      },
+      {
+        "tags": [
+          "android",
+          "image",
+          "bitmap",
+          "scale",
+          "decode"
+        ],
+        "creation_date": 1420760690,
+        "question_id": 27851599,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851599/trying-to-scale-an-image-and-return-a-bitmap-from-android-gallery"
+      },
+      {
+        "tags": [
+          "google-app-engine"
+        ],
+        "creation_date": 1420760715,
+        "question_id": 27851605,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851605/how-to-verify-a-domain-for-google-app-engine-when-you-only-control-the-subdomain"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "for-loop"
+        ],
+        "creation_date": 1420760719,
+        "question_id": 27851608,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851608/dynamic-object-name"
+      },
+      {
+        "tags": [
+          "macos",
+          "vim",
+          "code-snippets",
+          "macvim"
+        ],
+        "creation_date": 1420760760,
+        "question_id": 27851616,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851616/atext-not-replacing-snippets-in-macvim"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420760799,
+        "question_id": 27851617,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851617/jquery-multi-vals-required"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "arrays"
+        ],
+        "creation_date": 1420760808,
+        "question_id": 27851619,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851619/app-crashes-when-assigning-array-from-array"
+      },
+      {
+        "tags": [
+          "android",
+          "io",
+          "android-mediaplayer"
+        ],
+        "creation_date": 1420760815,
+        "question_id": 27851621,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851621/android-mediaplayer-i-o-error-file-not-found"
+      },
+      {
+        "tags": [
+          "google-app-engine",
+          "google-cloud-sql",
+          "google-cloud-platform"
+        ],
+        "creation_date": 1420760820,
+        "question_id": 27851623,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851623/google-cloud-application-stops-working-when-not-being-used-for-a-while"
+      },
+      {
+        "tags": [
+          "python",
+          "ubuntu",
+          "matplotlib",
+          "fonts"
+        ],
+        "creation_date": 1420760844,
+        "question_id": 27851625,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851625/stop-matplotlib-from-using-the-arial-font"
+      },
+      {
+        "tags": [
+          "php",
+          "performance",
+          "algorithm",
+          "hash",
+          "compare"
+        ],
+        "creation_date": 1420760868,
+        "question_id": 27851630,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851630/string-comparison-using-hash"
+      },
+      {
+        "tags": [
+          "java",
+          "spring"
+        ],
+        "creation_date": 1420760922,
+        "question_id": 27851639,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851639/iterating-list-in-spring"
+      },
+      {
+        "tags": [
+          "c",
+          "udp",
+          "u-boot"
+        ],
+        "creation_date": 1420760927,
+        "question_id": 27851640,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851640/assigning-numbers-to-pointers-to-char"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "xml"
+        ],
+        "creation_date": 1420760928,
+        "question_id": 27851641,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851641/how-to-gettext-from-a-textview-in-an-alertdialog"
+      },
+      {
+        "tags": [
+          "java",
+          "parsing",
+          "hashmap"
+        ],
+        "creation_date": 1420760947,
+        "question_id": 27851645,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851645/hashmap-values-erased-in-multiple-function-calls"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "autolayout"
+        ],
+        "creation_date": 1420760956,
+        "question_id": 27851647,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851647/autolayout-dynamic-xib-view-height"
+      },
+      {
+        "tags": [
+          "c++",
+          "boost",
+          "template-meta-programming"
+        ],
+        "creation_date": 1420760963,
+        "question_id": 27851650,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851650/creating-a-type-list-of-all-constructors-of-a-class"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "forms",
+          "checkbox"
+        ],
+        "creation_date": 1420760976,
+        "question_id": 27851653,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851653/how-to-post-text-to-html-with-php"
+      },
+      {
+        "tags": [
+          "arrays",
+          "fortran",
+          "filenames"
+        ],
+        "creation_date": 1420760997,
+        "question_id": 27851658,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851658/enter-a-file-name-and-read-the-array"
+      },
+      {
+        "tags": [
+          "ruby",
+          "selenium",
+          "web-scraping",
+          "phantomjs",
+          "poltergeist"
+        ],
+        "creation_date": 1420761002,
+        "question_id": 27851659,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851659/initialize-rack-test-requires-a-rack-application-but-none-was-given-argument"
+      },
+      {
+        "tags": [
+          "ruby",
+          "chef-infra",
+          "serverspec"
+        ],
+        "creation_date": 1420761038,
+        "question_id": 27851662,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851662/how-do-i-test-for-the-value-of-a-variable-in-serverspec"
+      },
+      {
+        "tags": [
+          "wpf",
+          "expression-blend",
+          "blend"
+        ],
+        "creation_date": 1420761069,
+        "question_id": 27851664,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851664/how-to-distribute-objects-in-blend-for-visual-studio"
+      },
+      {
+        "tags": [
+          "c",
+          "opencv"
+        ],
+        "creation_date": 1420761084,
+        "question_id": 27851666,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27851666/error-undefined-reference-to-cvcreatefilecapture"
+      },
+      {
+        "tags": [
+          "python",
+          "bash",
+          "csv",
+          "comparison"
+        ],
+        "creation_date": 1420761114,
+        "question_id": 27851673,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851673/compare-bank-account-statements-in-xlsx-or-csv-file-format-to-find-any-matching"
+      },
+      {
+        "tags": [
+          "css",
+          "css-transitions"
+        ],
+        "creation_date": 1420761132,
+        "question_id": 27851677,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851677/does-css-transition-work-with-positioned-elements"
+      },
+      {
+        "tags": [
+          "c++",
+          "algorithm",
+          "qt",
+          "line"
+        ],
+        "creation_date": 1420761233,
+        "question_id": 27851691,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851691/algorithm-for-drawing-a-straight-line-with-shift-button-pressing"
+      },
+      {
+        "tags": [
+          "cytoscape.js"
+        ],
+        "creation_date": 1420761276,
+        "question_id": 27851698,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851698/referencing-cytoscape-elements-from-external-code"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "full-text-search",
+          "sql-server-2014-express",
+          "containstable"
+        ],
+        "creation_date": 1420761282,
+        "question_id": 27851701,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851701/full-text-search-syntax-error"
+      },
+      {
+        "tags": [
+          "nuget",
+          "f#-fake"
+        ],
+        "creation_date": 1420761286,
+        "question_id": 27851702,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851702/how-to-instruct-restorepackages-to-use-the-nuget-config-files-repositorypath-fo"
+      },
+      {
+        "tags": [
+          "java",
+          "validation",
+          "combobox",
+          "jcombobox"
+        ],
+        "creation_date": 1420761355,
+        "question_id": 27851706,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851706/validating-jframe-combo-box-so-that-the-default-is-not-accepted"
+      },
+      {
+        "tags": [
+          "windows",
+          "accessibility"
+        ],
+        "creation_date": 1420761367,
+        "question_id": 27851709,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851709/what-is-the-new-api-that-repalces-mirror-drivers-starting-in-windows-8"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "authentication"
+        ],
+        "creation_date": 1420761386,
+        "question_id": 27851712,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851712/authentication-and-authorization-with-angular"
+      },
+      {
+        "tags": [
+          "c",
+          "scanf"
+        ],
+        "creation_date": 1420761396,
+        "question_id": 27851713,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851713/how-to-insert-variable-into-sscanf-string"
+      },
+      {
+        "tags": [
+          "android",
+          "android-layout",
+          "android-fragments",
+          "textview"
+        ],
+        "creation_date": 1420761407,
+        "question_id": 27851714,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851714/cant-get-my-textview-to-update-in-a-fragment"
+      },
+      {
+        "tags": [
+          "ios",
+          "uitableview",
+          "swift",
+          "uicollectionviewcell"
+        ],
+        "creation_date": 1420761413,
+        "question_id": 27851715,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851715/ios-swift-custom-uicollectionviewcell-in-custom-uitableviewcell"
+      },
+      {
+        "tags": [
+          "javafx-8",
+          "fxml",
+          "fxmlloader"
+        ],
+        "creation_date": 1420761467,
+        "question_id": 27851723,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851723/javafx-8-is-there-way-to-get-the-fxml-reference-from-a-node"
+      },
+      {
+        "tags": [
+          "java",
+          "centos",
+          "jakarta-mail",
+          "imap",
+          "dovecot"
+        ],
+        "creation_date": 1420761559,
+        "question_id": 27851736,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851736/javax-mail-messagingexception-bye-internal-error-occurred"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "ajax",
+          "checkbox"
+        ],
+        "creation_date": 1420761560,
+        "question_id": 27851737,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851737/ajax-browser-backbutton-checkbox-not-working"
+      },
+      {
+        "tags": [
+          "xml",
+          "xslt",
+          "xpath",
+          "xslt-1.0"
+        ],
+        "creation_date": 1420761597,
+        "question_id": 27851742,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851742/xpath-expression-to-select-unique-nodes"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 76
+  }
+}

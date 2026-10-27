@@ -1,0 +1,1138 @@
+{
+  "retrieved_at": "2026-10-26T19:06:11.883726+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420545600&todate=1420567199&sort=creation&order=asc&pagesize=100&page=19&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420545600,
+    "todate": 1420567199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 19,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "eclipse"
+        ],
+        "creation_date": 1420565920,
+        "question_id": 27804091,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804091/getting-error-the-folder-is-already-a-source-folder-when-linking-source-in-ecl"
+      },
+      {
+        "tags": [
+          "highcharts"
+        ],
+        "creation_date": 1420565939,
+        "question_id": 27804093,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804093/highcharts-hover-with-negativecolor-property-gives-wrong-color"
+      },
+      {
+        "tags": [
+          "java",
+          "sql",
+          "postgresql"
+        ],
+        "creation_date": 1420565985,
+        "question_id": 27804103,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804103/postgresql-money-type-and-java"
+      },
+      {
+        "tags": [
+          "php",
+          "symfony",
+          "doctrine-orm"
+        ],
+        "creation_date": 1420566003,
+        "question_id": 27804110,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804110/have-a-nullable-relation-between-2-entities-still-symfony-send-me-a-message-if"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "swift",
+          "cocoa",
+          "webview"
+        ],
+        "creation_date": 1420566004,
+        "question_id": 27804111,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804111/webview-doesnt-take-focus-automatically"
+      },
+      {
+        "tags": [
+          "python",
+          "events",
+          "testing",
+          "random",
+          "poisson"
+        ],
+        "creation_date": 1420566004,
+        "question_id": 27804112,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804112/random-testing-model-in-python"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "ruby-on-rails-4"
+        ],
+        "creation_date": 1420566013,
+        "question_id": 27804115,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804115/ruby-code-to-count-number-of-objects-with-a-certain-association"
+      },
+      {
+        "tags": [
+          "google-app-engine",
+          "google-cloud-datastore",
+          "data-modeling"
+        ],
+        "creation_date": 1420566032,
+        "question_id": 27804120,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804120/how-to-move-from-a-relational-database-mindset-to-app-engine-datastore"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "swift",
+          "ios8",
+          "inputaccessoryview"
+        ],
+        "creation_date": 1420566038,
+        "question_id": 27804121,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804121/input-accessory-view-swift-bug"
+      },
+      {
+        "tags": [
+          "apigee"
+        ],
+        "creation_date": 1420566045,
+        "question_id": 27804123,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804123/jsontoxml-array-within-array-with-different-parent-names-in-apigee"
+      },
+      {
+        "tags": [
+          "bios",
+          "mbr",
+          "virtual-disk"
+        ],
+        "creation_date": 1420566046,
+        "question_id": 27804124,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804124/how-can-i-find-the-mbr-sector-in-a-vmdk-file"
+      },
+      {
+        "tags": [
+          "properties",
+          "interface",
+          "c++-cli",
+          "default",
+          "indexer"
+        ],
+        "creation_date": 1420566050,
+        "question_id": 27804125,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804125/how-to-declare-the-default-indexed-property-in-c-cli-interface"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "animation",
+          "transform"
+        ],
+        "creation_date": 1420566060,
+        "question_id": 27804130,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804130/css-transform-and-animation-conflicting-order-of-html-elements-matters"
+      },
+      {
+        "tags": [
+          "php",
+          "sql"
+        ],
+        "creation_date": 1420566096,
+        "question_id": 27804138,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804138/view-record-using-id"
+      },
+      {
+        "tags": [
+          "asynchronous",
+          "clojure"
+        ],
+        "creation_date": 1420566116,
+        "question_id": 27804139,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804139/can-a-channel-have-multiple-consumers"
+      },
+      {
+        "tags": [
+          "prolog"
+        ],
+        "creation_date": 1420566116,
+        "question_id": 27804140,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804140/asymmetric-binary-relations-my-code-is-not-working-good"
+      },
+      {
+        "tags": [
+          "web-services",
+          "okta",
+          "okta-api"
+        ],
+        "creation_date": 1420566117,
+        "question_id": 27804141,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804141/cannot-create-user-via-okta-api"
+      },
+      {
+        "tags": [
+          "java",
+          "netbeans",
+          "frameworks",
+          "netty",
+          "nio"
+        ],
+        "creation_date": 1420566122,
+        "question_id": 27804143,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804143/setting-up-development-environmrnt-for-netty"
+      },
+      {
+        "tags": [
+          "javascript",
+          "backbone.js",
+          "marionette",
+          "backbone-routing"
+        ],
+        "creation_date": 1420566168,
+        "question_id": 27804154,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804154/browsers-back-button-break-my-backbone-marionette-app"
+      },
+      {
+        "tags": [
+          "wpf",
+          "datagrid"
+        ],
+        "creation_date": 1420566169,
+        "question_id": 27804155,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804155/how-do-i-force-the-update-of-a-datagrid-row-when-return-key-is-pressed"
+      },
+      {
+        "tags": [
+          "wordpress",
+          "bash",
+          "replace",
+          "sed",
+          "scripting"
+        ],
+        "creation_date": 1420566177,
+        "question_id": 27804159,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804159/bash-insert-config-with-special-characters-into-wp-config-php"
+      },
+      {
+        "tags": [
+          "hadoop",
+          "hive"
+        ],
+        "creation_date": 1420566182,
+        "question_id": 27804160,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804160/hive-reading-a-sequence-file"
+      },
+      {
+        "tags": [
+          "java",
+          "mysql",
+          "hibernate"
+        ],
+        "creation_date": 1420566186,
+        "question_id": 27804161,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804161/hibernate-first-login-failed"
+      },
+      {
+        "tags": [
+          "mysql",
+          "cakephp",
+          "duplicates"
+        ],
+        "creation_date": 1420566207,
+        "question_id": 27804166,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804166/cakephp-prevent-duplication"
+      },
+      {
+        "tags": [
+          "deezer"
+        ],
+        "creation_date": 1420566213,
+        "question_id": 27804167,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804167/search-results-api-deezer"
+      },
+      {
+        "tags": [
+          "mysql"
+        ],
+        "creation_date": 1420566221,
+        "question_id": 27804170,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804170/query-to-get-product-details-and-associated-product-image"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "mocha.js",
+          "karma-runner"
+        ],
+        "creation_date": 1420566225,
+        "question_id": 27804171,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804171/error-injectorunpr-unknown-provider-i-think-ive-checked-the-obvious-stuf"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift"
+        ],
+        "creation_date": 1420566251,
+        "question_id": 27804173,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804173/removing-text-using-a-button-swift"
+      },
+      {
+        "tags": [
+          "java",
+          "arrays",
+          "2d",
+          "assign"
+        ],
+        "creation_date": 1420566254,
+        "question_id": 27804176,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804176/value-in-array-not-not-assigned-java"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420566268,
+        "question_id": 27804180,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804180/can-a-class-throw-an-exception-or-its-just-that-only-methods-can-throw-exceptio"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "forms"
+        ],
+        "creation_date": 1420566290,
+        "question_id": 27804183,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804183/adding-value-to-hidden-input-tag-and-submitting-to-form"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420566293,
+        "question_id": 27804184,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804184/how-to-secure-a-php-file"
+      },
+      {
+        "tags": [
+          "shell",
+          "amazon-web-services",
+          "aws-cli"
+        ],
+        "creation_date": 1420566295,
+        "question_id": 27804185,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804185/aws-cli-and-difference-between-its-versions-issue"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "hibernate",
+          "jpa",
+          "jpa-2.0"
+        ],
+        "creation_date": 1420566299,
+        "question_id": 27804186,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804186/how-exactly-work-the-jpa-hibernate-onetomany-annotation"
+      },
+      {
+        "tags": [
+          "database",
+          "visual-studio-2013",
+          "sql-server-data-tools"
+        ],
+        "creation_date": 1420566314,
+        "question_id": 27804189,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804189/cant-create-table-constraint-across-databases-via-database-reference"
+      },
+      {
+        "tags": [
+          "android",
+          "keyboard"
+        ],
+        "creation_date": 1420566314,
+        "question_id": 27804190,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804190/is-it-possible-to-access-and-modify-a-particular-keys-functionality-in-android"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net",
+          "code-behind"
+        ],
+        "creation_date": 1420566332,
+        "question_id": 27804194,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804194/c-find-control"
+      },
+      {
+        "tags": [
+          "r",
+          "dataset",
+          "visualization"
+        ],
+        "creation_date": 1420566347,
+        "question_id": 27806041,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27806041/highlight-a-single-data-point-on-a-graph-with-1800-r"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css",
+          "svg",
+          "d3.js"
+        ],
+        "creation_date": 1420566398,
+        "question_id": 27804203,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804203/svg-circle-not-registering-mouseover-very-well"
+      },
+      {
+        "tags": [
+          "sql-server"
+        ],
+        "creation_date": 1420566406,
+        "question_id": 27804205,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804205/if-else-inside-of-a-select-query"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "reporting-services",
+          "ssrs-2008"
+        ],
+        "creation_date": 1420566407,
+        "question_id": 27804206,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804206/pass-multi-value-parameter-to-ssrs"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "sorting",
+          "parse-platform"
+        ],
+        "creation_date": 1420566421,
+        "question_id": 27804207,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804207/parse-sort-query-via-pointer"
+      },
+      {
+        "tags": [
+          "php",
+          "apache",
+          "phpmyadmin"
+        ],
+        "creation_date": 1420566423,
+        "question_id": 27804209,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804209/phpmyadmin-open-link-in-new-tab"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "json",
+          "grouping"
+        ],
+        "creation_date": 1420566425,
+        "question_id": 27804210,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804210/group-and-merge-json-properties"
+      },
+      {
+        "tags": [
+          "c++",
+          "linux",
+          "qt",
+          "ubuntu"
+        ],
+        "creation_date": 1420566426,
+        "question_id": 27804211,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804211/running-qt-c-code-without-qtcoreapplication-qcoreapplication-under-linux-ubun"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "apache",
+          "tomcat"
+        ],
+        "creation_date": 1420566437,
+        "question_id": 27804216,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804216/how-to-write-a-remote-file-using-the-tomcat-and-java"
+      },
+      {
+        "tags": [
+          "c++",
+          "inheritance",
+          "overriding"
+        ],
+        "creation_date": 1420566447,
+        "question_id": 27804217,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804217/overriding-a-method-with-different-signature"
+      },
+      {
+        "tags": [
+          "go"
+        ],
+        "creation_date": 1420566453,
+        "question_id": 27804218,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804218/type-int-has-no-field-or-method-length"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "laravel",
+          "ckeditor",
+          "syntax-error"
+        ],
+        "creation_date": 1420566491,
+        "question_id": 27804222,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804222/unexpected-token-illegal-ckeditor-value-in-javascript"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "twitter-bootstrap",
+          "validation"
+        ],
+        "creation_date": 1420566509,
+        "question_id": 27804225,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804225/bootstrap-form-wizard-validation"
+      },
+      {
+        "tags": [
+          "swift",
+          "compiler-flags"
+        ],
+        "creation_date": 1420566517,
+        "question_id": 27804227,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27804227/using-compiler-variables-in-swift"
+      },
+      {
+        "tags": [
+          "python",
+          "pyqt",
+          "signals-slots",
+          "qpushbutton",
+          "pyuic"
+        ],
+        "creation_date": 1420566538,
+        "question_id": 27804232,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804232/pyqt-wrapping-dialog-from-qdesigner-and-connect-pushbutton"
+      },
+      {
+        "tags": [
+          "java",
+          "xml",
+          "parsing",
+          "text"
+        ],
+        "creation_date": 1420566538,
+        "question_id": 27804233,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804233/how-to-get-text-from-specific-tag-in-xml-using-java"
+      },
+      {
+        "tags": [
+          "cakephp",
+          "cakephp-3.0"
+        ],
+        "creation_date": 1420566547,
+        "question_id": 27804235,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804235/cakephp-3-0-multiple-belongsto-associations"
+      },
+      {
+        "tags": [
+          "mysql",
+          "vb.net",
+          "encryption"
+        ],
+        "creation_date": 1420566554,
+        "question_id": 27804238,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804238/incorrect-parameter-count-in-the-call-to-native-function-aes-decrypt"
+      },
+      {
+        "tags": [
+          "python",
+          "network-programming"
+        ],
+        "creation_date": 1420566555,
+        "question_id": 27804239,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804239/file-wont-run-from-command-prompt-that-is-on-network-drive"
+      },
+      {
+        "tags": [
+          "google-project-tango"
+        ],
+        "creation_date": 1420566578,
+        "question_id": 27804245,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804245/connecting-tango-device-to-windows-7"
+      },
+      {
+        "tags": [
+          ".net",
+          "error-handling",
+          "exception"
+        ],
+        "creation_date": 1420566581,
+        "question_id": 27804246,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804246/how-to-get-standard-exception-output-text"
+      },
+      {
+        "tags": [
+          "css",
+          "ruby-on-rails",
+          "fonts"
+        ],
+        "creation_date": 1420566585,
+        "question_id": 27804248,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804248/how-do-i-include-ttf-custom-font-into-my-rails-app"
+      },
+      {
+        "tags": [
+          "java",
+          "maven",
+          "maven-shade-plugin"
+        ],
+        "creation_date": 1420566585,
+        "question_id": 27804249,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804249/maven-shade-plugin-to-include-all-dependency-jars"
+      },
+      {
+        "tags": [
+          "c#",
+          "exception",
+          "exe",
+          "nhunspell"
+        ],
+        "creation_date": 1420566608,
+        "question_id": 27804256,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804256/exception-in-c-exe-using-nhuspell"
+      },
+      {
+        "tags": [
+          "python",
+          "haskell"
+        ],
+        "creation_date": 1420566613,
+        "question_id": 27804258,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804258/product-of-factorial-in-haskell"
+      },
+      {
+        "tags": [
+          "android",
+          "google-chrome",
+          "caching",
+          "http-redirect"
+        ],
+        "creation_date": 1420566620,
+        "question_id": 27804261,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804261/how-prevent-chrome-mobile-routing-packets-through-us-compression-proxy"
+      },
+      {
+        "tags": [
+          "coldfusion"
+        ],
+        "creation_date": 1420566628,
+        "question_id": 27804263,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804263/coldfusion-zip-folder-doesnt-open-on-windows"
+      },
+      {
+        "tags": [
+          "firefox-addon",
+          "xbl"
+        ],
+        "creation_date": 1420566633,
+        "question_id": 27804265,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804265/firefox-extension-convert-to-restartless-with-xbl"
+      },
+      {
+        "tags": [
+          "android",
+          "android-fragments",
+          "android-adapter"
+        ],
+        "creation_date": 1420566636,
+        "question_id": 27804266,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804266/get-a-result-from-actvity-inside-adapter-and-fragment"
+      },
+      {
+        "tags": [
+          "python",
+          "windows",
+          "python-3.x"
+        ],
+        "creation_date": 1420566671,
+        "question_id": 27804272,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804272/easiest-way-to-install-python-3-3-6-without-a-build"
+      },
+      {
+        "tags": [
+          "oracle-database",
+          "plsql",
+          "dbms-scheduler"
+        ],
+        "creation_date": 1420566686,
+        "question_id": 27804275,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804275/is-there-a-way-to-make-an-oracle-job-disable-itself"
+      },
+      {
+        "tags": [
+          "scala",
+          "parsing",
+          "parser-combinators"
+        ],
+        "creation_date": 1420566692,
+        "question_id": 27804277,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804277/parsing-a-list-of-0-or-more-idents-followed-by-ident"
+      },
+      {
+        "tags": [
+          "c#",
+          "if-statement",
+          "timer",
+          "timespan"
+        ],
+        "creation_date": 1420566723,
+        "question_id": 27804280,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804280/check-if-the-countdown-timer-is-0"
+      },
+      {
+        "tags": [
+          "android",
+          "castcompanionlibrary"
+        ],
+        "creation_date": 1420566733,
+        "question_id": 27804281,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804281/is-it-possible-to-customize-videocastcontrolleractivity"
+      },
+      {
+        "tags": [
+          "java",
+          "swing",
+          "hosting"
+        ],
+        "creation_date": 1420566753,
+        "question_id": 27804286,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804286/how-to-host-a-java-application-without-using-webservices"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy",
+          "pandas",
+          "bokeh"
+        ],
+        "creation_date": 1420566760,
+        "question_id": 27804289,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804289/how-to-show-time-series-data-in-bokeh-as-a-step-chart"
+      },
+      {
+        "tags": [
+          "uml",
+          "class-diagram"
+        ],
+        "creation_date": 1420566777,
+        "question_id": 27804290,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804290/class-diagram-how-to-describe-a-graph-datatype"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "twitter-bootstrap",
+          "user-interface",
+          "navigation"
+        ],
+        "creation_date": 1420566783,
+        "question_id": 27804294,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804294/fixed-dynamic-sidebar-navigation-menu"
+      },
+      {
+        "tags": [
+          "java",
+          "generics",
+          "compiler-errors",
+          "java-7"
+        ],
+        "creation_date": 1420566787,
+        "question_id": 27804295,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804295/jdk7-generics-not-compiling"
+      },
+      {
+        "tags": [
+          "open-source",
+          "silverstripe"
+        ],
+        "creation_date": 1420566806,
+        "question_id": 27804299,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804299/silverstripe-and-bsd-license-situation"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-mvc",
+          "entity-framework",
+          "asp.net-mvc-5",
+          "entity-framework-migrations"
+        ],
+        "creation_date": 1420566809,
+        "question_id": 27804300,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804300/mvc-entityframework-code-first-migrations-seed-failing-with-ambiguousmatchex"
+      },
+      {
+        "tags": [
+          "java",
+          "maven",
+          "gradle",
+          "dependencies",
+          "repository"
+        ],
+        "creation_date": 1420566812,
+        "question_id": 27804302,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804302/install-library-and-its-dependencies-from-maven-repository-into-internal-reposit"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "quickblox"
+        ],
+        "creation_date": 1420566813,
+        "question_id": 27804303,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804303/register-user-to-quickblox-users-from-android"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net",
+          "web-config"
+        ],
+        "creation_date": 1420566849,
+        "question_id": 27804308,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804308/setting-up-default-page-in-hosted-net-system"
+      },
+      {
+        "tags": [
+          "uitableview",
+          "tableview"
+        ],
+        "creation_date": 1420566850,
+        "question_id": 27804310,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804310/dynamic-cells-with-different-actions"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css",
+          "google-chrome",
+          "google-chrome-app"
+        ],
+        "creation_date": 1420566857,
+        "question_id": 27804315,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804315/google-chrome-package-apps-how-to-make-transparent-rounded-background-like-goo"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "mkmapview"
+        ],
+        "creation_date": 1420566857,
+        "question_id": 27804316,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804316/overwrite-userlocation"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "ios8",
+          "uilabel",
+          "autolayout"
+        ],
+        "creation_date": 1420566867,
+        "question_id": 27804320,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804320/auto-layout-troubles"
+      },
+      {
+        "tags": [
+          "python",
+          "calculator",
+          "bit",
+          "flowchart",
+          "7-bit"
+        ],
+        "creation_date": 1420566872,
+        "question_id": 27804321,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804321/what-does-it-mean-to-say-is-bit-7-on-in-a-calculator-flowchart"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "storyboard",
+          "label"
+        ],
+        "creation_date": 1420566896,
+        "question_id": 27804327,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804327/cant-change-font-in-xcode-6-1-1"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "client",
+          "server",
+          "serversocket"
+        ],
+        "creation_date": 1420566913,
+        "question_id": 27804330,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804330/android-client-java-server-communication-cant-receive-data-back-from-the-ser"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "regex",
+          "validation"
+        ],
+        "creation_date": 1420566926,
+        "question_id": 27804333,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804333/regex-to-allow-alphanumeric-characters-and-should-allow-dot-apostrophe-a"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "logging",
+          "amazon-cloudwatch"
+        ],
+        "creation_date": 1420566940,
+        "question_id": 27804342,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804342/how-do-i-filter-and-extract-raw-log-event-data-from-amazon-cloudwatch"
+      },
+      {
+        "tags": [
+          "jsf",
+          "authentication",
+          "ssl",
+          "jboss",
+          "servlet-filters"
+        ],
+        "creation_date": 1420566944,
+        "question_id": 27804345,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804345/logout-ssl-jboss-as-7-1-jdk-1-6-e-jsf-2"
+      },
+      {
+        "tags": [
+          "java",
+          "recursion"
+        ],
+        "creation_date": 1420566948,
+        "question_id": 27804347,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804347/recursive-method-for-x-to-the-power-of-y"
+      },
+      {
+        "tags": [
+          "spring-security",
+          "spring-saml",
+          "opensso"
+        ],
+        "creation_date": 1420566951,
+        "question_id": 27804348,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804348/which-key-is-used-by-spring-security-saml"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "json",
+          "authentication",
+          "devise",
+          "http-token-authentication"
+        ],
+        "creation_date": 1420566952,
+        "question_id": 27804349,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804349/simple-token-authentication-signout-for-rails-json-api"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "mongodb",
+          "mongoose"
+        ],
+        "creation_date": 1420566955,
+        "question_id": 27804351,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804351/nodejs-variable-declaration"
+      },
+      {
+        "tags": [
+          "vim",
+          "vim-plugin"
+        ],
+        "creation_date": 1420566964,
+        "question_id": 27804353,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804353/transitioning-to-vim-having-issues-with-indentation"
+      },
+      {
+        "tags": [
+          "search",
+          "filter",
+          "elasticsearch",
+          "analyzer"
+        ],
+        "creation_date": 1420566964,
+        "question_id": 27804354,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804354/elasticsearch-use-custom-analyzer-on-filter"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "tcp"
+        ],
+        "creation_date": 1420566970,
+        "question_id": 27804355,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804355/enable-and-disable-ipv4-and-ipv6-of-an-adapter-programmatically-in-c"
+      },
+      {
+        "tags": [
+          "shell",
+          "jenkins",
+          "remote-access",
+          "master-slave"
+        ],
+        "creation_date": 1420566995,
+        "question_id": 27804362,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804362/sh-file-is-not-running-on-slave-node-in-jenkins"
+      },
+      {
+        "tags": [
+          "javascript",
+          "meteor",
+          "websocket",
+          "sockjs",
+          "modulus.io"
+        ],
+        "creation_date": 1420566997,
+        "question_id": 27804363,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804363/meteor-modulus-and-secure-websockets"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 226
+  }
+}

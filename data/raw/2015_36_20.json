@@ -1,0 +1,1110 @@
+{
+  "retrieved_at": "2026-10-26T19:10:12.441487+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420632000&todate=1420653599&sort=creation&order=asc&pagesize=100&page=20&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420632000,
+    "todate": 1420653599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 20,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "handsontable"
+        ],
+        "creation_date": 1420651946,
+        "question_id": 27825162,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825162/create-array-of-objects-from-javascript-object-keys"
+      },
+      {
+        "tags": [
+          "qml",
+          "blackberry-10",
+          "blackberry-cascades"
+        ],
+        "creation_date": 1420651955,
+        "question_id": 27825164,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825164/bb10-cascades-simple-location-information"
+      },
+      {
+        "tags": [
+          "swift",
+          "swift-playground"
+        ],
+        "creation_date": 1420651979,
+        "question_id": 27825168,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825168/method-in-an-enum-is-asking-for-argument-when-none-required-in-declaration"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "coffeescript",
+          "domdocument"
+        ],
+        "creation_date": 1420651979,
+        "question_id": 27825169,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825169/difference-between-document-on-and-document-on-in-coffeescript"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "sms"
+        ],
+        "creation_date": 1420651996,
+        "question_id": 27825174,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825174/how-to-send-sms-through-android-application"
+      },
+      {
+        "tags": [
+          "css",
+          "internet-explorer",
+          "internet-explorer-11"
+        ],
+        "creation_date": 1420652001,
+        "question_id": 27825176,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825176/css-border-duplicates-in-ie-11-for-a-modal"
+      },
+      {
+        "tags": [
+          "google-drive-android-api"
+        ],
+        "creation_date": 1420652037,
+        "question_id": 27825184,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825184/how-to-identify-file-vs-folder-from-driveid"
+      },
+      {
+        "tags": [
+          "c++",
+          "memory-leaks",
+          "operator-overloading"
+        ],
+        "creation_date": 1420652046,
+        "question_id": 27825188,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825188/double-memory-freeing-or-corruption-while-using-operators"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "segue",
+          "uistoryboardsegue",
+          "unwind-segue"
+        ],
+        "creation_date": 1420652050,
+        "question_id": 27825189,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825189/trying-to-unwind-a-custom-segue-using-uiviewanimationoptiontransitionflipfromlef"
+      },
+      {
+        "tags": [
+          "java",
+          "binaryfiles"
+        ],
+        "creation_date": 1420652068,
+        "question_id": 27825194,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825194/read-write-from-a-binary-file"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba"
+        ],
+        "creation_date": 1420652070,
+        "question_id": 27825195,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27825195/pulling-data-from-100s-of-diiferent-excel-workbooks-into-one-workbook"
+      },
+      {
+        "tags": [
+          "maven"
+        ],
+        "creation_date": 1420652071,
+        "question_id": 27825196,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825196/code-coverage-not-shown-in-sonar-when-using-spring-agent-jacoco-maven-surefi"
+      },
+      {
+        "tags": [
+          "jquery"
+        ],
+        "creation_date": 1420652075,
+        "question_id": 27825197,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825197/change-the-value-of-an-attribute-with-jquery"
+      },
+      {
+        "tags": [
+          "excel"
+        ],
+        "creation_date": 1420652078,
+        "question_id": 27825202,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825202/looking-up-data-in-different-excel-spreadsheets-and-returning-information-to-the"
+      },
+      {
+        "tags": [
+          "python",
+          "csv",
+          "matplotlib"
+        ],
+        "creation_date": 1420652103,
+        "question_id": 27825206,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825206/plotting-a-histogram-for-a-column-in-a-csv-file-in-python"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql"
+        ],
+        "creation_date": 1420652110,
+        "question_id": 27825207,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825207/5-minutes-from-now-in-php"
+      },
+      {
+        "tags": [
+          "javascript",
+          "json",
+          "angularjs"
+        ],
+        "creation_date": 1420652110,
+        "question_id": 27825208,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825208/control-layout-via-json-add-content-on-click"
+      },
+      {
+        "tags": [
+          "linux",
+          "bash",
+          "shell",
+          "ssh"
+        ],
+        "creation_date": 1420652144,
+        "question_id": 27825214,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825214/check-ssh-connection-and-call-function-execute-command"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "cookies",
+          "browser-cache"
+        ],
+        "creation_date": 1420652161,
+        "question_id": 27825217,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825217/login-cookies-across-subdomain-requires-clearing-browser-cache"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "linux",
+          "command-line",
+          "pm2"
+        ],
+        "creation_date": 1420652167,
+        "question_id": 27825220,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825220/restart-node-js-after-crash-in-pm2"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420652177,
+        "question_id": 27825226,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825226/how-to-run-a-java-project-from-command-line-which-has-got-packages"
+      },
+      {
+        "tags": [
+          "swift",
+          "ios8",
+          "cloudkit",
+          "ckreference"
+        ],
+        "creation_date": 1420652199,
+        "question_id": 27825231,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825231/saving-an-array-of-objects-in-cloudkit"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-activity",
+          "android-edittext"
+        ],
+        "creation_date": 1420652202,
+        "question_id": 27825232,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825232/how-to-pass-an-edittext-value-between-activities-android-application"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "restangular",
+          "satellizer"
+        ],
+        "creation_date": 1420652202,
+        "question_id": 27825233,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825233/restangular-query-does-not-working"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "xcode",
+          "icloud"
+        ],
+        "creation_date": 1420652213,
+        "question_id": 27825241,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825241/urlforubiquitycontaineridentifier-always-return-nil"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "ruby-on-rails-4",
+          "activerecord"
+        ],
+        "creation_date": 1420652218,
+        "question_id": 27825242,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825242/rails-4-double-has-many-includes"
+      },
+      {
+        "tags": [
+          "visual-studio",
+          "wcf",
+          "visual-studio-2012"
+        ],
+        "creation_date": 1420652219,
+        "question_id": 27825244,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825244/can-i-copy-paste-a-service-reference-in-vs"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net"
+        ],
+        "creation_date": 1420652219,
+        "question_id": 27825245,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825245/change-value-of-a-label-when-hovering-over-aspimagebutton"
+      },
+      {
+        "tags": [
+          "html"
+        ],
+        "creation_date": 1420652270,
+        "question_id": 27825260,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825260/html-page-does-not-display-greek"
+      },
+      {
+        "tags": [
+          "java",
+          "xml",
+          "xml-parsing",
+          "escaping"
+        ],
+        "creation_date": 1420652277,
+        "question_id": 27825261,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825261/escape-xml-characters-within-nodes-of-string-xml-in-java"
+      },
+      {
+        "tags": [
+          "cpu-cache"
+        ],
+        "creation_date": 1420652281,
+        "question_id": 27825262,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825262/copying-data-in-cache-larger-than-one-cache-line"
+      },
+      {
+        "tags": [
+          "c",
+          "winapi"
+        ],
+        "creation_date": 1420652290,
+        "question_id": 27825264,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825264/editing-the-iat-redirecting-to-another-dll-at-process-startup"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420652313,
+        "question_id": 27825269,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825269/what-is-the-best-way-to-perform-ui-work-within-an-overriden-dialog-method-and-fi"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "forum",
+          "vbulletin"
+        ],
+        "creation_date": 1420652342,
+        "question_id": 27825275,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825275/delete-multiple-threads-directly-from-database-vbulletin-forum"
+      },
+      {
+        "tags": [
+          "libgit2",
+          "libgit2sharp"
+        ],
+        "creation_date": 1420652352,
+        "question_id": 27825279,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825279/invalid-data-in-index-exception"
+      },
+      {
+        "tags": [
+          "linux"
+        ],
+        "creation_date": 1420652359,
+        "question_id": 27825280,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825280/change-the-rlimit-nproc-in-linux"
+      },
+      {
+        "tags": [
+          "c#",
+          "visual-studio-2010"
+        ],
+        "creation_date": 1420652362,
+        "question_id": 27825281,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825281/getting-evaluateexception-was-unhandled-cannot-find-column-custconactive"
+      },
+      {
+        "tags": [
+          "macos",
+          "freebsd",
+          "kqueue"
+        ],
+        "creation_date": 1420652365,
+        "question_id": 27825282,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825282/obtain-siginfo-t-when-handling-signals-with-kqueue"
+      },
+      {
+        "tags": [
+          "swift",
+          "nsmanagedobject",
+          "swift-extensions"
+        ],
+        "creation_date": 1420652371,
+        "question_id": 27825284,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825284/swift-extension-on-nsmanagedobject"
+      },
+      {
+        "tags": [
+          "java",
+          "string"
+        ],
+        "creation_date": 1420652381,
+        "question_id": 27825289,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825289/string-shifting"
+      },
+      {
+        "tags": [
+          "bitmap",
+          "c++-cli",
+          "bitmapsource"
+        ],
+        "creation_date": 1420652390,
+        "question_id": 27825294,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825294/c-cli-createbitmapsourcefrommemorysection"
+      },
+      {
+        "tags": [
+          "java",
+          "jframe"
+        ],
+        "creation_date": 1420652397,
+        "question_id": 27825295,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825295/add-keyevent-for-numlock-keyboard-keys-in-jframe"
+      },
+      {
+        "tags": [
+          "matlab",
+          "combinations"
+        ],
+        "creation_date": 1420652407,
+        "question_id": 27825298,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825298/matlab-how-to-build-a-combination-according-to-the-logical-0-and-1-but-by-addin"
+      },
+      {
+        "tags": [
+          "php",
+          "laravel",
+          "laravel-4"
+        ],
+        "creation_date": 1420652418,
+        "question_id": 27825303,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825303/whats-the-correct-way-to-provide-default-values-for-laravel-model-fields-outsid"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-mvc",
+          "esapi",
+          "hdiv"
+        ],
+        "creation_date": 1420652465,
+        "question_id": 27825322,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825322/difference-between-hdiv-and-esapi"
+      },
+      {
+        "tags": [
+          "apache-spark"
+        ],
+        "creation_date": 1420652467,
+        "question_id": 27825324,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825324/sorting-iterable-values-in-spark"
+      },
+      {
+        "tags": [
+          "android",
+          "android-asynctask",
+          "android-syncadapter",
+          "android-async-http"
+        ],
+        "creation_date": 1420652471,
+        "question_id": 27825327,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825327/android-how-to-do-sync-data-automatically"
+      },
+      {
+        "tags": [
+          "python",
+          "django",
+          "forms",
+          "django-class-based-views"
+        ],
+        "creation_date": 1420652513,
+        "question_id": 27825343,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825343/prevent-form-validation-in-createview-until-needed"
+      },
+      {
+        "tags": [
+          "matlab",
+          "plot"
+        ],
+        "creation_date": 1420652523,
+        "question_id": 27825349,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825349/how-to-plot-a-mean-monthly-data-from-a-daily-time-series"
+      },
+      {
+        "tags": [
+          "typescript",
+          "setter",
+          "getter-setter",
+          "accessor"
+        ],
+        "creation_date": 1420652526,
+        "question_id": 27825350,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825350/private-setter-typescript"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "stored-procedures"
+        ],
+        "creation_date": 1420652527,
+        "question_id": 27825351,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825351/how-to-insert-top-selecting-number-as-a-parameter-in-a-stored-procedure"
+      },
+      {
+        "tags": [
+          "sql",
+          "syntax",
+          "user-defined-functions"
+        ],
+        "creation_date": 1420652529,
+        "question_id": 27825353,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825353/does-sql-support-redefining-base-operators"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "casting"
+        ],
+        "creation_date": 1420652533,
+        "question_id": 27825355,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825355/swift-casting-object-as-string-result-is-nil"
+      },
+      {
+        "tags": [
+          "mailcore2"
+        ],
+        "creation_date": 1420652541,
+        "question_id": 27825359,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825359/smtp-an-error-occurred-while-sending-the-message"
+      },
+      {
+        "tags": [
+          "swift",
+          "operator-overloading",
+          "variable-assignment"
+        ],
+        "creation_date": 1420652547,
+        "question_id": 27825362,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825362/can-i-initialize-a-variable-using-a-custom-assignment-operator"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "share"
+        ],
+        "creation_date": 1420652573,
+        "question_id": 27825366,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825366/swift-share-button-works-in-simulator-not-in-device"
+      },
+      {
+        "tags": [
+          "eclipse",
+          "eclipse-plugin"
+        ],
+        "creation_date": 1420652573,
+        "question_id": 27825367,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825367/error-while-installing-egit-in-eclipse"
+      },
+      {
+        "tags": [
+          "php",
+          "templates",
+          "smarty",
+          "smarty3"
+        ],
+        "creation_date": 1420652582,
+        "question_id": 27825370,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825370/smarty-display-from-subdirectory"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "jsonp",
+          "jquery-callback"
+        ],
+        "creation_date": 1420652611,
+        "question_id": 27825376,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825376/how-to-build-callback-function-to-return-html-page"
+      },
+      {
+        "tags": [
+          "asp.net",
+          ".net",
+          "gridview"
+        ],
+        "creation_date": 1420652623,
+        "question_id": 27825379,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825379/refresh-a-data-bound-grid-view-in-asp-net"
+      },
+      {
+        "tags": [
+          "grails",
+          "spring-security"
+        ],
+        "creation_date": 1420652625,
+        "question_id": 27825380,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825380/grails-security-event-listener-session-id"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "ajax"
+        ],
+        "creation_date": 1420652627,
+        "question_id": 27825382,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825382/ajax-long-polling-multi-users-chat-arrived"
+      },
+      {
+        "tags": [
+          "dom",
+          "get",
+          "click",
+          "window",
+          "phantomjs"
+        ],
+        "creation_date": 1420652628,
+        "question_id": 27825383,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825383/log-get-requests-triggered-by-clicks-using-phantomjs"
+      },
+      {
+        "tags": [
+          "javascript",
+          "amcharts",
+          "forex",
+          "jstockchart"
+        ],
+        "creation_date": 1420652629,
+        "question_id": 27825384,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825384/amcharts-issue-regarding-panel-settings-and-ballon"
+      },
+      {
+        "tags": [
+          "android",
+          "html",
+          "google-maps",
+          "infowindow"
+        ],
+        "creation_date": 1420652636,
+        "question_id": 27825387,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825387/android-google-maps-html-in-marker-infowindow"
+      },
+      {
+        "tags": [
+          "javascript",
+          "google-visualization"
+        ],
+        "creation_date": 1420652641,
+        "question_id": 27825389,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825389/google-chart-does-not-refreshes"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420652642,
+        "question_id": 27825390,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825390/multiple-json-array-with-same-name-in-json-object-in-android"
+      },
+      {
+        "tags": [
+          "jsp"
+        ],
+        "creation_date": 1420652655,
+        "question_id": 27825392,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825392/how-to-merge-columns-in-a-jsp-file"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "cordova",
+          "ionic-framework",
+          "cordova-plugins"
+        ],
+        "creation_date": 1420652659,
+        "question_id": 27825394,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825394/updating-parent-scope-from-child-in-angular"
+      },
+      {
+        "tags": [
+          "ios",
+          "url-encoding"
+        ],
+        "creation_date": 1420652664,
+        "question_id": 27825395,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825395/url-format-in-deep-linking-on-ios"
+      },
+      {
+        "tags": [
+          "c#",
+          "xaml",
+          "animation",
+          "windows-phone-8",
+          "storyboard"
+        ],
+        "creation_date": 1420652677,
+        "question_id": 27825400,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825400/how-to-animate-all-children-of-a-container-at-the-same-time-in-wp8"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420652692,
+        "question_id": 27825401,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27825401/remove-unwanted-space-of-js-retrieve-variable"
+      },
+      {
+        "tags": [
+          "database",
+          "bitmap",
+          "indexing",
+          "data-warehouse"
+        ],
+        "creation_date": 1420652702,
+        "question_id": 27825403,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825403/difference-between-static-and-dynamic-indexing-in-a-database-datawarehouse"
+      },
+      {
+        "tags": [
+          "jquery"
+        ],
+        "creation_date": 1420652705,
+        "question_id": 27825404,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825404/choose-jquery-variable-to-change"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode"
+        ],
+        "creation_date": 1420652724,
+        "question_id": 27825411,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825411/xcode-6-1-the-launch-image-set-named-launchimage-did-not-have-any-applicable-c"
+      },
+      {
+        "tags": [
+          "css",
+          "html-lists"
+        ],
+        "creation_date": 1420652728,
+        "question_id": 27825413,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825413/vertical-family-tree-in-css3"
+      },
+      {
+        "tags": [
+          "css",
+          "ios7",
+          "ios8",
+          "slideshow"
+        ],
+        "creation_date": 1420652730,
+        "question_id": 27825414,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825414/css-animation-not-working-in-ios-8-fine-in-ios-7-and-generally"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "elasticsearch",
+          "windows-7-x64"
+        ],
+        "creation_date": 1420652740,
+        "question_id": 27825417,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825417/elasticsearch-did-not-pull-whole-sql-table"
+      },
+      {
+        "tags": [
+          "sql",
+          "xml",
+          "sql-server-2008"
+        ],
+        "creation_date": 1420652742,
+        "question_id": 27825418,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825418/how-can-i-assign-an-xml-typed-variable-and-take-advantage-of-the-automatic-escap"
+      },
+      {
+        "tags": [
+          "swift",
+          "sprite-kit"
+        ],
+        "creation_date": 1420652746,
+        "question_id": 27825422,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825422/spritekit-app-using-swift-begins-to-jitter-on-user-interaction-after-6-minutes"
+      },
+      {
+        "tags": [
+          "block",
+          "sendmail",
+          "spam",
+          "dnsbl"
+        ],
+        "creation_date": 1420652757,
+        "question_id": 27825426,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825426/sendmail-block-spam-tried-dnsbl"
+      },
+      {
+        "tags": [
+          "python",
+          "matplotlib"
+        ],
+        "creation_date": 1420652770,
+        "question_id": 27825432,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825432/python-matplotlib-legend-below-multiple-graphs"
+      },
+      {
+        "tags": [
+          "html",
+          "popup",
+          "parent-child",
+          "hidden",
+          "visible"
+        ],
+        "creation_date": 1420652772,
+        "question_id": 27825433,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825433/how-do-i-make-the-pop-up-html-page-visible-again-after-hidden"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420652776,
+        "question_id": 27825436,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825436/is-there-an-api-to-enable-the-nexus-6-ambient-display"
+      },
+      {
+        "tags": [
+          "methods",
+          "area"
+        ],
+        "creation_date": 1420652777,
+        "question_id": 27825437,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825437/area-of-shapes-using-methods-not-working"
+      },
+      {
+        "tags": [
+          "java",
+          "json",
+          "spring-mvc",
+          "gson",
+          "unicode-string"
+        ],
+        "creation_date": 1420652778,
+        "question_id": 27825438,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825438/gson-unicode-characters-not-displaying-properly-in-response-to-front-end"
+      },
+      {
+        "tags": [
+          "python-2.7"
+        ],
+        "creation_date": 1420652779,
+        "question_id": 27825440,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825440/monte-carlo-simulation-python"
+      },
+      {
+        "tags": [
+          "c++",
+          "constants"
+        ],
+        "creation_date": 1420652788,
+        "question_id": 27825443,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825443/same-function-with-const-and-without-when-and-why"
+      },
+      {
+        "tags": [
+          "python",
+          "subprocess",
+          "clearcase",
+          "popen",
+          "cleartool"
+        ],
+        "creation_date": 1420652796,
+        "question_id": 27825446,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825446/python-clearcase-download-vobs-popen-password-bash-program-sketchy"
+      },
+      {
+        "tags": [
+          "c",
+          "data-structures",
+          "struct"
+        ],
+        "creation_date": 1420652842,
+        "question_id": 27825458,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825458/declaring-a-struct-which-works-with-an-array-in-c"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "xml",
+          "json",
+          "underscore.js"
+        ],
+        "creation_date": 1420652844,
+        "question_id": 27825459,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825459/need-help-getting-zapier-scripting-example-working-in-jsfiddle"
+      },
+      {
+        "tags": [
+          "python",
+          "json",
+          "django",
+          "pandas",
+          "highcharts"
+        ],
+        "creation_date": 1420652854,
+        "question_id": 27825461,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27825461/formatting-json-from-a-pandas-data-frame-for-highcharts-within-a-django-template"
+      },
+      {
+        "tags": [
+          "batch-file",
+          "administrator"
+        ],
+        "creation_date": 1420652870,
+        "question_id": 27825465,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825465/batch-file-only-works-when-not-ran-as-administrator"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "icloud",
+          "nsubiquitouskeyvaluestore"
+        ],
+        "creation_date": 1420652873,
+        "question_id": 27825466,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825466/nsubiquitouskeyvaluestore-not-so-ubiquitous"
+      },
+      {
+        "tags": [
+          "c#",
+          "async-await",
+          "task",
+          "deadlock",
+          "dotnet-httpclient"
+        ],
+        "creation_date": 1420652876,
+        "question_id": 27825467,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825467/deadlock-while-blocking-async-httpclient-call-within-a-task-continuation"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "parsing"
+        ],
+        "creation_date": 1420652879,
+        "question_id": 27825469,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825469/node-js-unexpected-number-conversion-from-parsing-fs-readfile"
+      },
+      {
+        "tags": [
+          "algorithm",
+          "shortest-path",
+          "path-finding"
+        ],
+        "creation_date": 1420652890,
+        "question_id": 27825472,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825472/best-algorithm-to-get-the-path-with-less-changes"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html"
+        ],
+        "creation_date": 1420652899,
+        "question_id": 27825476,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825476/prevent-form-from-resubmitting-upon-refresh"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "wcf",
+          "workflow-foundation-4",
+          "workflow-foundation"
+        ],
+        "creation_date": 1420652902,
+        "question_id": 27825479,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825479/can-a-single-workflow-be-spread-across-multiple-endpoints"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "regex"
+        ],
+        "creation_date": 1420652925,
+        "question_id": 27825487,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825487/find-and-remove-href-tags-embedded-in-other-href-tags-in-php"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 161
+  }
+}

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+tmp/
+node_modules/
+.env
+.env.*
+*.zip
+*.tar.gz
+.DS_Store

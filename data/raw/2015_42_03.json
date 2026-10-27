@@ -1,0 +1,1094 @@
+{
+  "retrieved_at": "2026-10-26T19:10:20.173866+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420653600&todate=1420675199&sort=creation&order=asc&pagesize=100&page=3&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420653600,
+    "todate": 1420675199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 3,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "angularjs",
+          "filter",
+          "ionic-framework"
+        ],
+        "creation_date": 1420655832,
+        "question_id": 27826301,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826301/defining-a-controller-method-as-a-custom-filter-does-not-work-in-angularjs"
+      },
+      {
+        "tags": [
+          "powerpivot"
+        ],
+        "creation_date": 1420655860,
+        "question_id": 27826308,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826308/calculated-column-to-determine-if-value-appears-in-column-of-any-row-filtered-on"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420655873,
+        "question_id": 27826311,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826311/mime-type-for-text-files"
+      },
+      {
+        "tags": [
+          "sql",
+          "sqlfiddle"
+        ],
+        "creation_date": 1420655889,
+        "question_id": 27826314,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826314/sqlfiddle-must-declare-the-scalar-variable-error"
+      },
+      {
+        "tags": [
+          "java",
+          "command",
+          "execute"
+        ],
+        "creation_date": 1420655917,
+        "question_id": 27826320,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826320/running-not-really-a-command-inside-a-command-line-program"
+      },
+      {
+        "tags": [
+          "roxy-fileman"
+        ],
+        "creation_date": 1420655928,
+        "question_id": 27826323,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826323/ckeditor-with-roxy-fileman"
+      },
+      {
+        "tags": [
+          "c++",
+          "binary-search-tree"
+        ],
+        "creation_date": 1420655964,
+        "question_id": 27826331,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27826331/binary-search-tree-in-c"
+      },
+      {
+        "tags": [
+          "c++"
+        ],
+        "creation_date": 1420655970,
+        "question_id": 27826333,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826333/need-help-formatting-output-c"
+      },
+      {
+        "tags": [
+          "jquery",
+          "ajax",
+          "recursion",
+          "xmlhttprequest",
+          "cryptojs"
+        ],
+        "creation_date": 1420655973,
+        "question_id": 27826334,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826334/jquery-error-too-much-recursion"
+      },
+      {
+        "tags": [
+          "mysql"
+        ],
+        "creation_date": 1420655975,
+        "question_id": 27826335,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826335/mysql-error-1215-cannot-add-foreign-key-constraint"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "sql",
+          "group-by",
+          "limit"
+        ],
+        "creation_date": 1420655979,
+        "question_id": 27826337,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826337/select-3-comments-for-each-post"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "mongodb-query",
+          "indices"
+        ],
+        "creation_date": 1420655985,
+        "question_id": 27826339,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826339/indices-in-mongodb"
+      },
+      {
+        "tags": [
+          "terminal",
+          "osx-mountain-lion"
+        ],
+        "creation_date": 1420655990,
+        "question_id": 27826341,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826341/how-do-you-make-a-terminal-window-run-in-the-background-on-mac"
+      },
+      {
+        "tags": [
+          "python",
+          "hash",
+          "hex",
+          "byte"
+        ],
+        "creation_date": 1420656020,
+        "question_id": 27826351,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826351/dense-human-readable-representation-of-a-string-of-bytes-using-python"
+      },
+      {
+        "tags": [
+          "arrays",
+          "clojure"
+        ],
+        "creation_date": 1420656023,
+        "question_id": 27826352,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27826352/remove-all-substrings-in-first-array-that-match-elements-in-second-array"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "angular-ui"
+        ],
+        "creation_date": 1420656040,
+        "question_id": 27826357,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826357/should-i-used-ui-or-ui-boostrap-when-including-angular-ui-and-why-does-angul"
+      },
+      {
+        "tags": [
+          "c#",
+          "datatable"
+        ],
+        "creation_date": 1420656042,
+        "question_id": 27826358,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826358/disable-sorting-feature-on-columns"
+      },
+      {
+        "tags": [
+          "c++",
+          "pointers",
+          "file-io",
+          "cout"
+        ],
+        "creation_date": 1420656043,
+        "question_id": 27826359,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826359/how-to-read-names-into-a-pointer-array-and-output-them"
+      },
+      {
+        "tags": [
+          "awk",
+          "standards",
+          "deviation"
+        ],
+        "creation_date": 1420656057,
+        "question_id": 27826364,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826364/awk-standard-deviation"
+      },
+      {
+        "tags": [
+          "asp.net-mvc",
+          "angularjs",
+          "single-page-application"
+        ],
+        "creation_date": 1420656072,
+        "question_id": 27826367,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826367/anyone-know-how-can-i-read-configurations-from-web-config-file-in-my-angularjs"
+      },
+      {
+        "tags": [
+          "matlab",
+          "date",
+          "time-series"
+        ],
+        "creation_date": 1420656082,
+        "question_id": 27826372,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826372/datenum-series-to-the-end-of-february-leap-year-or-not"
+      },
+      {
+        "tags": [
+          ".net",
+          "winforms",
+          "tabcontrol"
+        ],
+        "creation_date": 1420656097,
+        "question_id": 27826378,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826378/hide-tab-pages-dynamically-change-form-content"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "twitter-bootstrap-3"
+        ],
+        "creation_date": 1420656100,
+        "question_id": 27826381,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826381/clearing-form-input-fields-in-bootstrap"
+      },
+      {
+        "tags": [
+          "unix",
+          "ksh"
+        ],
+        "creation_date": 1420656100,
+        "question_id": 27826382,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826382/output-a-loop-to-a-log-file-for-separate-file-for-each-value"
+      },
+      {
+        "tags": [
+          "oracle-database"
+        ],
+        "creation_date": 1420656102,
+        "question_id": 27826384,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826384/oracle-sql-and-brackets-in-where"
+      },
+      {
+        "tags": [
+          "wpf",
+          "datagrid",
+          ".net-4.5"
+        ],
+        "creation_date": 1420656105,
+        "question_id": 27826385,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826385/datagrid-fails-to-commit-edits-upon-view-unload"
+      },
+      {
+        "tags": [
+          "c#",
+          "interface"
+        ],
+        "creation_date": 1420656142,
+        "question_id": 27826391,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826391/does-not-implement-interface-member-issues"
+      },
+      {
+        "tags": [
+          "android",
+          "android-cast-api",
+          "castcompanionlibrary"
+        ],
+        "creation_date": 1420656143,
+        "question_id": 27826393,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826393/how-can-i-pass-other-custom-data-to-my-custom-videocastcontrolleractivity-in-cas"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "instance",
+          "scope"
+        ],
+        "creation_date": 1420656149,
+        "question_id": 27826395,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826395/very-basic-variable-out-of-scope-issue-java-android"
+      },
+      {
+        "tags": [
+          "c#",
+          "sql-server",
+          "vb.net",
+          "sql-server-2008"
+        ],
+        "creation_date": 1420656154,
+        "question_id": 27826398,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826398/long-string-concatenation-in-sql-server-2008"
+      },
+      {
+        "tags": [
+          ".htaccess",
+          "mod-rewrite",
+          "http-redirect",
+          "url-rewriting"
+        ],
+        "creation_date": 1420656171,
+        "question_id": 27826399,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826399/redirect-index-to-home"
+      },
+      {
+        "tags": [
+          "crystal-reports",
+          "crystal-reports-2008"
+        ],
+        "creation_date": 1420656175,
+        "question_id": 27826401,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826401/crystal-reports-multiple-criteria-for-same-field"
+      },
+      {
+        "tags": [
+          "html",
+          "button"
+        ],
+        "creation_date": 1420656176,
+        "question_id": 27826402,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826402/how-to-span-a-button"
+      },
+      {
+        "tags": [
+          "c++",
+          "vector",
+          "boolean",
+          "bitset",
+          "stl-algorithm"
+        ],
+        "creation_date": 1420656185,
+        "question_id": 27826408,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826408/converting-between-stdbitset-and-stdvectorbool"
+      },
+      {
+        "tags": [
+          "c",
+          "visual-studio",
+          "c99"
+        ],
+        "creation_date": 1420656193,
+        "question_id": 27826409,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826409/what-is-the-official-status-of-c99-support-in-vs2013"
+      },
+      {
+        "tags": [
+          "java",
+          "file"
+        ],
+        "creation_date": 1420656225,
+        "question_id": 27826417,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826417/how-to-put-a-new-line-in-an-arraylist-java"
+      },
+      {
+        "tags": [
+          "symfony",
+          "doctrine-orm"
+        ],
+        "creation_date": 1420656230,
+        "question_id": 27826420,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826420/how-can-i-do-nested-query-symfony2-and-show-results-on-template"
+      },
+      {
+        "tags": [
+          "python",
+          "python-imaging-library"
+        ],
+        "creation_date": 1420656234,
+        "question_id": 27826422,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826422/get-binary-image-data-from-pil-image"
+      },
+      {
+        "tags": [
+          "regex",
+          "powershell"
+        ],
+        "creation_date": 1420656241,
+        "question_id": 27826426,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826426/regex-lookahead-in-powershell"
+      },
+      {
+        "tags": [
+          "linux",
+          "bash"
+        ],
+        "creation_date": 1420656250,
+        "question_id": 27826429,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826429/convert-delimited-file-to-fixed-width-in-linux"
+      },
+      {
+        "tags": [
+          "android",
+          "android-5.0-lollipop",
+          "android-screen-pinning"
+        ],
+        "creation_date": 1420656253,
+        "question_id": 27826431,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826431/activity-startlocktask-occasionally-throws-illegalargumentexception"
+      },
+      {
+        "tags": [
+          "oop",
+          "swift",
+          "encapsulation"
+        ],
+        "creation_date": 1420656261,
+        "question_id": 27826433,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826433/to-encapsulate-or-not-to-encapsulate"
+      },
+      {
+        "tags": [
+          "matlab"
+        ],
+        "creation_date": 1420656283,
+        "question_id": 27826437,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826437/how-to-convert-all-float-element-to-integer-element-of-a-vector"
+      },
+      {
+        "tags": [
+          "ajax",
+          "service",
+          "aem",
+          "sling"
+        ],
+        "creation_date": 1420656284,
+        "question_id": 27826439,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826439/calling-a-sling-service-on-ajax-call"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas"
+        ],
+        "creation_date": 1420656291,
+        "question_id": 27826442,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826442/how-to-construct-pandas-dataframe-from-dictionary-with-key-as-column-and-row-ind"
+      },
+      {
+        "tags": [
+          "sql-server"
+        ],
+        "creation_date": 1420656294,
+        "question_id": 27826444,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826444/user-a-conditional-foreign-key-one-or-the-other"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "forms",
+          "validation"
+        ],
+        "creation_date": 1420656300,
+        "question_id": 27826445,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826445/ajax-contact-form-jquery-and-php-validation-for-radio-buttons-and-select-dropdow"
+      },
+      {
+        "tags": [
+          "html",
+          "forms",
+          "coldfusion"
+        ],
+        "creation_date": 1420656326,
+        "question_id": 27826452,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826452/coldfusion-add-form-data-to-array-on-action-page"
+      },
+      {
+        "tags": [
+          "arduino",
+          "xbee",
+          "usbserial",
+          "ftdi",
+          "cdc"
+        ],
+        "creation_date": 1420656329,
+        "question_id": 27826453,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826453/connect-an-arduino-due-native-usb-port-to-an-xbee-explorer-based-on-an-ftdi-232r"
+      },
+      {
+        "tags": [
+          "assembly",
+          "x86",
+          "nasm"
+        ],
+        "creation_date": 1420656335,
+        "question_id": 27826454,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826454/cmp-dword-ebp-25-ebp-12-is-causing-an-error"
+      },
+      {
+        "tags": [
+          "css"
+        ],
+        "creation_date": 1420656336,
+        "question_id": 27826455,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826455/got-trouble-with-div-after-floted-2-column"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1420656338,
+        "question_id": 27826457,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826457/move-data-from-multiple-rows-to-a-single-row-in-sql-server"
+      },
+      {
+        "tags": [
+          "php",
+          "arrays"
+        ],
+        "creation_date": 1420656346,
+        "question_id": 27826459,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826459/how-to-fix-array-to-string-conversion-issue-in-php-html"
+      },
+      {
+        "tags": [
+          "python",
+          "multithreading",
+          "python-multithreading",
+          "peewee"
+        ],
+        "creation_date": 1420656368,
+        "question_id": 27826465,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826465/how-to-use-the-read-and-write-with-multithreading"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "creation_date": 1420656386,
+        "question_id": 27826472,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826472/how-to-manage-event-subscriptions-at-run-time"
+      },
+      {
+        "tags": [
+          "mysql",
+          "phpmyadmin"
+        ],
+        "creation_date": 1420656410,
+        "question_id": 27826479,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826479/whats-wrong-with-this-mysql-query"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "fonts",
+          "uibutton"
+        ],
+        "creation_date": 1420656415,
+        "question_id": 27826482,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826482/text-doesnt-fit-in-uibutton-titlelabel-height-for-a-specific-font"
+      },
+      {
+        "tags": [
+          "elasticsearch",
+          "threadpool"
+        ],
+        "creation_date": 1420656429,
+        "question_id": 27826486,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826486/elasticsearch-queue-size-for-search-threadpool"
+      },
+      {
+        "tags": [
+          "linux",
+          "memory",
+          "memory-management",
+          "allocation"
+        ],
+        "creation_date": 1420656430,
+        "question_id": 27826488,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826488/memory-channels"
+      },
+      {
+        "tags": [
+          "http",
+          "error-handling",
+          "error-code"
+        ],
+        "creation_date": 1420656439,
+        "question_id": 27826491,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27826491/rest-api-error-code-500-handling"
+      },
+      {
+        "tags": [
+          "php",
+          "mocking",
+          "phpunit",
+          "automated-tests",
+          "error-logging"
+        ],
+        "creation_date": 1420656491,
+        "question_id": 27826497,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27826497/how-can-i-mock-outputting-messages-to-the-error-log-with-phpunit"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420656501,
+        "question_id": 27826499,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826499/jquery-to-loop-through-specific-form-input-fields"
+      },
+      {
+        "tags": [
+          "r"
+        ],
+        "creation_date": 1420656538,
+        "question_id": 27826508,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826508/create-all-possible-combiations-of-0-1-or-2-1s-of-a-binary-vector-of-length-n"
+      },
+      {
+        "tags": [
+          "session",
+          "servlets",
+          "sharing"
+        ],
+        "creation_date": 1420656558,
+        "question_id": 27826510,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826510/how-to-make-two-different-applications-running-under-same-server-use-same-httpse"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "ios8",
+          "core-bluetooth",
+          "ibeacon"
+        ],
+        "creation_date": 1420656569,
+        "question_id": 27826513,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826513/locationmanagerdidenterregion-method-is-not-getting-called-when-screen-is-off"
+      },
+      {
+        "tags": [
+          "php",
+          "sql",
+          "select",
+          "pdo"
+        ],
+        "creation_date": 1420656573,
+        "question_id": 27826515,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826515/php-pdo-select-statment-returning-nothing"
+      },
+      {
+        "tags": [
+          "android",
+          "animation",
+          "android-activity",
+          "android-animation"
+        ],
+        "creation_date": 1420656573,
+        "question_id": 27826516,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826516/androidviewanimations-doesnt-animate-properly-in-oncreate"
+      },
+      {
+        "tags": [
+          "apache-spark",
+          "spark-streaming"
+        ],
+        "creation_date": 1420656595,
+        "question_id": 27826520,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826520/what-is-tridents-persistentaggregate-equivalent-in-spark-streaming"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "uiview",
+          "uiviewcontroller",
+          "xib"
+        ],
+        "creation_date": 1420656599,
+        "question_id": 27826522,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826522/using-a-xib-file-in-a-self-contained-custom-uiview-subclass-for-prototyping-pur"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "json"
+        ],
+        "creation_date": 1420656611,
+        "question_id": 27826525,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826525/deserializing-string-of-format-property-whateverproperty2-whatever-to-an-obje"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy"
+        ],
+        "creation_date": 1420656614,
+        "question_id": 27826526,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826526/how-to-debug-a-sys-modules-entry-that-gets-overwritten"
+      },
+      {
+        "tags": [
+          "xml",
+          "escaping",
+          "newline",
+          "xmlstreamwriter"
+        ],
+        "creation_date": 1420656623,
+        "question_id": 27826527,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826527/xmlstreamwriter-does-not-convert-n-to-xa-when-writing-attributes"
+      },
+      {
+        "tags": [
+          "mysql"
+        ],
+        "creation_date": 1420656637,
+        "question_id": 27826531,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826531/mysql-case-selection"
+      },
+      {
+        "tags": [
+          "svn",
+          "homebrew",
+          "v8"
+        ],
+        "creation_date": 1420656645,
+        "question_id": 27826534,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826534/brew-install-v8-not-working"
+      },
+      {
+        "tags": [
+          "jquery",
+          "mysql"
+        ],
+        "creation_date": 1420656655,
+        "question_id": 27826539,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826539/record-jquery-click-target-as-string-for-storage-and-reuse"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql"
+        ],
+        "creation_date": 1420656662,
+        "question_id": 27826543,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27826543/php-mysql-find-best-matches"
+      },
+      {
+        "tags": [
+          "mysql",
+          "syntax-error",
+          "parameterized-query",
+          "insert-statement"
+        ],
+        "creation_date": 1420656671,
+        "question_id": 27826547,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826547/syntax-error-in-insertstatement"
+      },
+      {
+        "tags": [
+          "angularjs"
+        ],
+        "creation_date": 1420656674,
+        "question_id": 27826549,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826549/changing-the-angular-js-file-with-new-one-manually"
+      },
+      {
+        "tags": [
+          "c++"
+        ],
+        "creation_date": 1420656683,
+        "question_id": 27826550,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826550/first-character-lost-when-writing-data-to-file"
+      },
+      {
+        "tags": [
+          "primefaces",
+          "printing",
+          "report"
+        ],
+        "creation_date": 1420656705,
+        "question_id": 27826552,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826552/problems-with-cut-print-report-primefaces"
+      },
+      {
+        "tags": [
+          "qt",
+          "unicode",
+          "chinese-locale",
+          "kdiff3"
+        ],
+        "creation_date": 1420656715,
+        "question_id": 27826555,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826555/anything-odd-about-chinese-unicode-characters-%e7%a8%8d-and-%e7%a8%8a-that-would-affect-kdiff3"
+      },
+      {
+        "tags": [
+          "r",
+          "rgdal",
+          "r-raster"
+        ],
+        "creation_date": 1420656717,
+        "question_id": 27826557,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826557/how-to-write-raster-files-to-envi-format-as-bip"
+      },
+      {
+        "tags": [
+          "sql",
+          "ruby-on-rails"
+        ],
+        "creation_date": 1420656737,
+        "question_id": 27826565,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826565/display-first-25-records-then-with-every-click-append-another-25-records"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "subquery",
+          "inner-join"
+        ],
+        "creation_date": 1420656746,
+        "question_id": 27826566,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826566/update-with-inner-join-or-subquery-multiple-relations"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "forms"
+        ],
+        "creation_date": 1420656766,
+        "question_id": 27826575,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826575/form-disabling-submit-button-upon-click-form-is-not-submitted"
+      },
+      {
+        "tags": [
+          "python",
+          "constructor",
+          "pyyaml",
+          "graph-traversal",
+          "cyclic-dependency"
+        ],
+        "creation_date": 1420656782,
+        "question_id": 27826576,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27826576/how-do-i-handle-recursion-in-a-custom-pyyaml-constructor"
+      },
+      {
+        "tags": [
+          "libgit2",
+          "libgit2sharp"
+        ],
+        "creation_date": 1420656794,
+        "question_id": 27826579,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826579/switch-checkout-branch-ist-not-working"
+      },
+      {
+        "tags": [
+          "javascript",
+          "ajax",
+          "innerhtml"
+        ],
+        "creation_date": 1420656824,
+        "question_id": 27826583,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826583/what-is-the-best-way-to-add-big-amount-of-html-elements-using-innerhtml-idea"
+      },
+      {
+        "tags": [
+          "android",
+          "wave",
+          "audiotrack"
+        ],
+        "creation_date": 1420656849,
+        "question_id": 27826593,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826593/androidcreating-wave-file-using-raw-pcm-the-wave-file-does-not-play"
+      },
+      {
+        "tags": [
+          "c#",
+          "windows",
+          "session",
+          "service"
+        ],
+        "creation_date": 1420656851,
+        "question_id": 27826595,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826595/wtsenumeratesessions-hangs-and-never-returns"
+      },
+      {
+        "tags": [
+          "apache-spark",
+          "openfire"
+        ],
+        "creation_date": 1420656873,
+        "question_id": 27826596,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826596/openfire-spark-can-audiocall-contact-but-cannot-audiocall-in-group"
+      },
+      {
+        "tags": [
+          "c",
+          "printf"
+        ],
+        "creation_date": 1420656881,
+        "question_id": 27826597,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826597/program-crashing-due-to-printf-statement-c"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css",
+          "asp.net-mvc",
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420656884,
+        "question_id": 27826598,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826598/submenu-in-navbar-is-collapsing-after-click-on-link"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "testing",
+          "ruby-on-rails-5"
+        ],
+        "creation_date": 1420656887,
+        "question_id": 27826600,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826600/why-does-rails-5-order-test-cases-randomly"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420656896,
+        "question_id": 27826603,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826603/delete-and-add-object-at-same-index-in-nested-object"
+      },
+      {
+        "tags": [
+          "paypal",
+          "woocommerce",
+          "paypal-sandbox"
+        ],
+        "creation_date": 1420656929,
+        "question_id": 27826606,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826606/woocommerce-paypal-pro-checkout"
+      },
+      {
+        "tags": [
+          "wix",
+          "windows-installer",
+          "wix3.7",
+          "burn"
+        ],
+        "creation_date": 1420656934,
+        "question_id": 27826608,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826608/wix-bundle-uninstall-package-with-custom-install-location"
+      },
+      {
+        "tags": [
+          "python",
+          "c"
+        ],
+        "creation_date": 1420656942,
+        "question_id": 27826610,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826610/converting-c-into-python"
+      },
+      {
+        "tags": [
+          "vim"
+        ],
+        "creation_date": 1420656960,
+        "question_id": 27826613,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826613/paste-to-end-of-the-file-in-vim-without-moving-cursor"
+      },
+      {
+        "tags": [
+          "cassandra-2.0",
+          "distributed-database",
+          "nosql"
+        ],
+        "creation_date": 1420656970,
+        "question_id": 27826614,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27826614/does-all-the-nodes-in-cassandra-cluster-know-the-partition-key-ranges-for-each"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 157
+  }
+}

@@ -1,0 +1,1128 @@
+{
+  "retrieved_at": "2026-10-26T19:04:02.331897+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736316000&todate=1736337599&sort=creation&order=asc&pagesize=100&page=2&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736316000,
+    "todate": 1736337599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 2,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "iphone",
+          "unicode",
+          "accessibility",
+          "voiceover"
+        ],
+        "creation_date": 1736327786,
+        "question_id": 79338538,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338538/iphone-voiceover-unicode-registered-stops-the-voice-over-to-read-the-entire-sen"
+      },
+      {
+        "tags": [
+          "javascript",
+          "android",
+          "react-native"
+        ],
+        "creation_date": 1736327861,
+        "question_id": 79338541,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338541/how-can-i-lock-the-orientation-to-portrait-mode-on-android-using-react-native"
+      },
+      {
+        "tags": [
+          "webassembly",
+          "emscripten"
+        ],
+        "creation_date": 1736328012,
+        "question_id": 79338548,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338548/wasm-emscripten-cant-run-ccall-cwrap-or-fs-but-i-can-call-methods-directly"
+      },
+      {
+        "tags": [
+          "java",
+          "elasticsearch",
+          "spring-data-elasticsearch",
+          "elasticsearch-java-api-client"
+        ],
+        "creation_date": 1736328248,
+        "question_id": 79338556,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338556/how-to-submit-task-in-elasticsearch-java-api-client"
+      },
+      {
+        "tags": [
+          "r-markdown",
+          "officedown"
+        ],
+        "creation_date": 1736328550,
+        "question_id": 79338565,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338565/rmarkdown-officedown-placing-two-figures-next-to-each-other"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "azure",
+          "azure-servicebus-queues"
+        ],
+        "creation_date": 1736328566,
+        "question_id": 79338566,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338566/azure-service-bus-queue-not-received-all-messages-from-the-queue-when-the-projec"
+      },
+      {
+        "tags": [
+          "excel",
+          "powerquery"
+        ],
+        "creation_date": 1736328619,
+        "question_id": 79338569,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338569/only-first-row-displaying-in-power-query"
+      },
+      {
+        "tags": [
+          "powershell",
+          "module"
+        ],
+        "creation_date": 1736328720,
+        "question_id": 79338576,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338576/what-is-best-practice-to-speed-up-powershell-module-import"
+      },
+      {
+        "tags": [
+          "outlook",
+          "exchange-server",
+          "exchangewebservices",
+          "ews-managed-api"
+        ],
+        "creation_date": 1736328976,
+        "question_id": 79338586,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338586/ews-managed-api-authentication-with-exchange-on-premise-ntlm"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-gov"
+        ],
+        "creation_date": 1736328983,
+        "question_id": 79338587,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338587/azure-government-get-incidents-returns-401-forbidden"
+      },
+      {
+        "tags": [
+          "python",
+          "android",
+          "bluetooth",
+          "pyjnius",
+          "python-for-android"
+        ],
+        "creation_date": 1736329213,
+        "question_id": 79338598,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338598/bluetooth-permissions-checks-is-not-working-but-wifi-does"
+      },
+      {
+        "tags": [
+          "swift",
+          "uikit",
+          "uinavigationcontroller",
+          "uinavigationbar",
+          "uisearchcontroller"
+        ],
+        "creation_date": 1736329371,
+        "question_id": 79338605,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338605/centre-search-controller-in-navigation-bar"
+      },
+      {
+        "tags": [
+          "java-21",
+          "virtual-threads"
+        ],
+        "creation_date": 1736329562,
+        "question_id": 79338613,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338613/virtual-threads-performance-degradation-when-running-a-mixture-of-cpu-intensive"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "antd"
+        ],
+        "creation_date": 1736329566,
+        "question_id": 79338614,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338614/just-part-of-image-is-displaying-in-antd-select-component"
+      },
+      {
+        "tags": [
+          "pattern-matching",
+          "ocaml"
+        ],
+        "creation_date": 1736329613,
+        "question_id": 79338619,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338619/how-could-we-use-a-value-instead-of-a-name-identifier-in-let-expression"
+      },
+      {
+        "tags": [
+          "c++",
+          "assert",
+          "constexpr",
+          "consteval"
+        ],
+        "creation_date": 1736329751,
+        "question_id": 79338625,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338625/can-i-wrap-static-assert-in-different-function"
+      },
+      {
+        "tags": [
+          "timezone",
+          "python-telegram-bot",
+          "pythonanywhere"
+        ],
+        "creation_date": 1736329842,
+        "question_id": 79338633,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338633/only-timezones-from-the-pytz-library-are-supported-even-after-not-using"
+      },
+      {
+        "tags": [
+          "laravel",
+          "laravel-filament"
+        ],
+        "creation_date": 1736329929,
+        "question_id": 79338638,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338638/set-rule-to-key-values-in-filament"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "asp.net-core",
+          "entity-framework-core"
+        ],
+        "creation_date": 1736330010,
+        "question_id": 79338646,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338646/ef-core-filtered-include-not-working-with-select-transformation"
+      },
+      {
+        "tags": [
+          "java",
+          "flutter",
+          "dart"
+        ],
+        "creation_date": 1736330069,
+        "question_id": 79338651,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338651/build-failed-with-an-exception-shared-preference-package-not-supported"
+      },
+      {
+        "tags": [
+          ".net",
+          "xaml",
+          "maui",
+          "maui-windows"
+        ],
+        "creation_date": 1736330073,
+        "question_id": 79338652,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338652/grid-doesnt-respect-auto-in-a-column-in-maui-net-with-net-8"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "environment-variables"
+        ],
+        "creation_date": 1736330218,
+        "question_id": 79338660,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338660/how-to-read-changes-to-environment-variables-dynamically-in-a-react-app-without"
+      },
+      {
+        "tags": [
+          "node.js",
+          "function",
+          "boolean",
+          "module.exports"
+        ],
+        "creation_date": 1736330508,
+        "question_id": 79338676,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338676/node-js-boolean-function-doesnt-return-false"
+      },
+      {
+        "tags": [
+          "typescript",
+          "react-native"
+        ],
+        "creation_date": 1736330606,
+        "question_id": 79338684,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338684/error-in-react-native-with-the-command-npm-run-reset-project"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "datepicker",
+          "rsuite"
+        ],
+        "creation_date": 1736330696,
+        "question_id": 79338689,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338689/rsuite-datepicker-formatting"
+      },
+      {
+        "tags": [
+          "java",
+          "flutter",
+          "gradle"
+        ],
+        "creation_date": 1736330706,
+        "question_id": 79338690,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338690/where-in-android-studio-do-i-control-which-java-gradle-version-is-in-use"
+      },
+      {
+        "tags": [
+          "c#",
+          "azure",
+          "blazor",
+          "blazor-webassembly",
+          "system.text.json"
+        ],
+        "creation_date": 1736330736,
+        "question_id": 79338692,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338692/how-do-i-fix-serializationnotsupportedparenttype-and-thrownotsupportedexception"
+      },
+      {
+        "tags": [
+          "botframework",
+          "microsoft-teams"
+        ],
+        "creation_date": 1736330743,
+        "question_id": 79338693,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338693/is-single-mic-speaking-user-detection-in-ms-teams-rooms-information-accessible-t"
+      },
+      {
+        "tags": [
+          "php",
+          "wordpress",
+          "woocommerce",
+          "hook-woocommerce"
+        ],
+        "creation_date": 1736330759,
+        "question_id": 79338694,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338694/remove-woocommerce-default-variation-dropdowns-and-allow-product-options-to-be-s"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-studio",
+          "data-binding"
+        ],
+        "creation_date": 1736330954,
+        "question_id": 79338705,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338705/build-throws-databinding-error-value-is-null-after-upgrading-gradle-from-7-5-t"
+      },
+      {
+        "tags": [
+          "swift",
+          "core-data"
+        ],
+        "creation_date": 1736331022,
+        "question_id": 79338710,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338710/how-to-efficiently-delete-coredata-relationship-child-objects"
+      },
+      {
+        "tags": [
+          "powerbi"
+        ],
+        "creation_date": 1736331077,
+        "question_id": 79338715,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338715/switch-measure-in-powerbi-to-put-customers-into-different-revenue-buckets-how-t"
+      },
+      {
+        "tags": [
+          "deep-learning",
+          "huggingface-transformers",
+          "large-language-model",
+          "peft"
+        ],
+        "creation_date": 1736331133,
+        "question_id": 79338718,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338718/do-i-have-to-write-custom-automodel-transformers-class-in-case-typeerror-nvemb"
+      },
+      {
+        "tags": [
+          "vite",
+          "swiper.js"
+        ],
+        "creation_date": 1736331272,
+        "question_id": 79338726,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338726/swiper-destroy-method-doesnt-work-in-vite-enviroment"
+      },
+      {
+        "tags": [
+          "paypal",
+          "paypal-subscriptions"
+        ],
+        "creation_date": 1736331294,
+        "question_id": 79338727,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338727/how-to-get-paypal-free-trial-transaction-data"
+      },
+      {
+        "tags": [
+          "winapi",
+          "win32gui"
+        ],
+        "creation_date": 1736331431,
+        "question_id": 79338735,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338735/how-to-automatically-manage-the-height-of-an-edit-win32-api-control"
+      },
+      {
+        "tags": [
+          "laravel",
+          "vue.js",
+          "vue-component",
+          "vite",
+          "inertiajs"
+        ],
+        "creation_date": 1736331770,
+        "question_id": 79338751,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338751/currentrenderinginstance-ce-is-null-when-rendering-vue-compoments-with-inertia-i"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "jquery",
+          "css",
+          "swiper.js"
+        ],
+        "creation_date": 1736331811,
+        "question_id": 79338752,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338752/swiper-carousel-glitch-last-slide-displays-during-slide-transition"
+      },
+      {
+        "tags": [
+          "python",
+          "dataframe",
+          "casting",
+          "python-polars"
+        ],
+        "creation_date": 1736331981,
+        "question_id": 79338759,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338759/explicit-cast-of-a-lazy-frame-not-possible-with-type-mismatch"
+      },
+      {
+        "tags": [
+          "c",
+          "windows",
+          "winapi"
+        ],
+        "creation_date": 1736331987,
+        "question_id": 79338760,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338760/why-does-tracking-tooltips-not-show-up"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "time-series",
+          "timescaledb",
+          "repmgr"
+        ],
+        "creation_date": 1736332133,
+        "question_id": 79338767,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338767/installing-postgresql-with-extension-timescaledb-with-replication-and-ha"
+      },
+      {
+        "tags": [
+          "python",
+          "selenium-webdriver"
+        ],
+        "creation_date": 1736332176,
+        "question_id": 79338770,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338770/extract-data-from-webpage-using-selenium-python"
+      },
+      {
+        "tags": [
+          "powerbi",
+          "embed",
+          "dashboard",
+          "b2b"
+        ],
+        "creation_date": 1736332220,
+        "question_id": 79338772,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338772/how-to-embed-power-bi-dashboards-for-external-users-without-purchasing-power-bi"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba"
+        ],
+        "creation_date": 1736332275,
+        "question_id": 79338776,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338776/syntax-error-in-macro-function-seeking-goal-seek"
+      },
+      {
+        "tags": [
+          "vue.js",
+          "ssl",
+          "axios",
+          "self-signed-certificate"
+        ],
+        "creation_date": 1736332475,
+        "question_id": 79338788,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338788/how-can-i-avoid-ssl-certificate-validation-while-using-axios-from-vue-js-applica"
+      },
+      {
+        "tags": [
+          "python",
+          "networkx"
+        ],
+        "creation_date": 1736332499,
+        "question_id": 79338790,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338790/get-adjacency-matrices-of-networkx-multidigraph"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1736332527,
+        "question_id": 79338795,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338795/android-statusbar-and-navbar-color-api30"
+      },
+      {
+        "tags": [
+          "powerbi"
+        ],
+        "creation_date": 1736332629,
+        "question_id": 79338799,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338799/multiple-independent-slicers-on-the-same-table-column"
+      },
+      {
+        "tags": [
+          "php",
+          "laravel",
+          "eloquent",
+          "laravel-filament",
+          "filamentphp"
+        ],
+        "creation_date": 1736332714,
+        "question_id": 79338805,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338805/why-don-t-the-new-class-based-laravel-eloquent-accessors-apply-with-pluckna"
+      },
+      {
+        "tags": [
+          "c++",
+          "doxygen"
+        ],
+        "creation_date": 1736332909,
+        "question_id": 79338813,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338813/how-to-make-doxygen-generate-full-list-of-fields-in-class-diagram"
+      },
+      {
+        "tags": [
+          "arrays",
+          "json",
+          "dynamic-arrays",
+          "databricks-sql",
+          "delta"
+        ],
+        "creation_date": 1736333109,
+        "question_id": 79338824,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338824/access-json-strings-with-different-keys-using-databricks-sql"
+      },
+      {
+        "tags": [
+          "autodesk-forge",
+          "autodesk-model-derivative"
+        ],
+        "creation_date": 1736333201,
+        "question_id": 79338830,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338830/rooms-not-visible-in-viewer-after-translation-by-model-derivative-api"
+      },
+      {
+        "tags": [
+          "swift",
+          "swift-concurrency",
+          "swift6"
+        ],
+        "creation_date": 1736333236,
+        "question_id": 79338832,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338832/swift-isolatedany-actor-keyword-usage"
+      },
+      {
+        "tags": [
+          "c++",
+          "plugins",
+          "keyboard",
+          "qt6"
+        ],
+        "creation_date": 1736333537,
+        "question_id": 79338844,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338844/custom-virtual-keyboard-in-qt6"
+      },
+      {
+        "tags": [
+          "python",
+          "duckdb"
+        ],
+        "creation_date": 1736333590,
+        "question_id": 79338848,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338848/n-unique-aggregation-using-duckdb-relational-api-which-counts-nulls"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "scheduled-tasks"
+        ],
+        "creation_date": 1736333675,
+        "question_id": 79338853,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338853/how-to-access-execution-time-in-scheduled-task"
+      },
+      {
+        "tags": [
+          "delphi",
+          "delphi-2010",
+          "tlist"
+        ],
+        "creation_date": 1736333946,
+        "question_id": 79338862,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338862/in-delphi-how-to-traverse-from-tlistclass-to-tlistinterface-efficiently"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart",
+          "pagination"
+        ],
+        "creation_date": 1736333958,
+        "question_id": 79338863,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338863/pagination-not-working-in-flutter-bottomsheet"
+      },
+      {
+        "tags": [
+          "pdf",
+          "passwords",
+          "ghostscript",
+          "protected"
+        ],
+        "creation_date": 1736333968,
+        "question_id": 79338864,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338864/ghostscript-is-returning-exit-code-0-if-password-is-not-set-to-decode-encrypted"
+      },
+      {
+        "tags": [
+          "python",
+          "vs-code",
+          "warnings"
+        ],
+        "creation_date": 1736333978,
+        "question_id": 79338865,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338865/deactivate-a-specific-warning-on-a-visual-studio-code-project"
+      },
+      {
+        "tags": [
+          "google-api",
+          "google-translation-api",
+          "google-cloud-translate"
+        ],
+        "creation_date": 1736333981,
+        "question_id": 79338866,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338866/google-cloud-translation-api-adaptivemttranslaterequest-cannot-pass-a-list-of"
+      },
+      {
+        "tags": [
+          "intellij-idea",
+          "intellij-plugin"
+        ],
+        "creation_date": 1736334094,
+        "question_id": 79338874,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338874/modify-view-structure-in-intellij"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "forms",
+          "next.js"
+        ],
+        "creation_date": 1736334131,
+        "question_id": 79338876,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338876/usefieldarray-not-assignable-to-type-never"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart"
+        ],
+        "creation_date": 1736334146,
+        "question_id": 79338877,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338877/build-script-dart-tool-build-entrypoint-build-dart-failed-to-update-packages"
+      },
+      {
+        "tags": [
+          "android",
+          "kotlin",
+          "webview"
+        ],
+        "creation_date": 1736334234,
+        "question_id": 79338878,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338878/problem-to-get-the-context-of-activity-in-webappinterface-class"
+      },
+      {
+        "tags": [
+          "javascript",
+          "iphone",
+          "xcode",
+          "react-native",
+          "expo"
+        ],
+        "creation_date": 1736334241,
+        "question_id": 79338880,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338880/xcode-command-codesign-failed-with-a-nonzero-exit-code-error"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "amazon-bedrock"
+        ],
+        "creation_date": 1736334321,
+        "question_id": 79338883,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338883/how-to-call-aws-bedrock-via-api-without-sdk-in-javascript"
+      },
+      {
+        "tags": [
+          "c#",
+          "unit-testing",
+          "mocking",
+          "mediatr"
+        ],
+        "creation_date": 1736334394,
+        "question_id": 79338884,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338884/get-query-mock-returns-null-instead-of-result-object"
+      },
+      {
+        "tags": [
+          "cmake",
+          "rpc",
+          "buildconfiguration",
+          "libtirpc"
+        ],
+        "creation_date": 1736334454,
+        "question_id": 79338885,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338885/what-cmake-package-am-i-suppose-to-find-for-the-tirpc-library"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "accessibility"
+        ],
+        "creation_date": 1736334579,
+        "question_id": 79338889,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338889/stop-hidden-elements-from-getting-focused"
+      },
+      {
+        "tags": [
+          "pandas",
+          "jupyter-notebook"
+        ],
+        "creation_date": 1736334622,
+        "question_id": 79338892,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338892/string-loaded-from-csv-incorrectly-displayed-in-jupyter-notebook"
+      },
+      {
+        "tags": [
+          ".net",
+          "ajax",
+          "asp.net-core-mvc",
+          "form-submit",
+          "form-data"
+        ],
+        "creation_date": 1736334701,
+        "question_id": 79338895,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338895/form-submission-cutom-object-not-formdata-through-ajax-in-asp-net-core-mvc"
+      },
+      {
+        "tags": [
+          "apache-karaf"
+        ],
+        "creation_date": 1736334812,
+        "question_id": 79338900,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338900/karaf-multiple-dbcp2-datasource-created-when-creating-a-datasource"
+      },
+      {
+        "tags": [
+          "android",
+          "android-jetpack-compose",
+          "android-jetpack",
+          "android-jetpack-navigation",
+          "jetpack-compose-navigation"
+        ],
+        "creation_date": 1736334899,
+        "question_id": 79338905,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338905/how-to-set-default-values-for-navigation-arguments-in-jetpack-composes-type-saf"
+      },
+      {
+        "tags": [
+          "flutter"
+        ],
+        "creation_date": 1736335009,
+        "question_id": 79338910,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338910/there-is-a-yellow-underline-under-the-text-in-dialog-box-used-by-getx-properties"
+      },
+      {
+        "tags": [
+          "sql",
+          "h2",
+          "spring-boot-test"
+        ],
+        "creation_date": 1736335021,
+        "question_id": 79338911,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338911/sql-view-creating-on-postgresql-but-not-on-h2"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "listview",
+          "treeview"
+        ],
+        "creation_date": 1736335204,
+        "question_id": 79338925,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338925/in-vb-net-navigate-to-treeview-node-based-on-filepath"
+      },
+      {
+        "tags": [
+          "python",
+          "simulation",
+          "solver",
+          "gekko"
+        ],
+        "creation_date": 1736335216,
+        "question_id": 79338926,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338926/gekko-python-if-conditions"
+      },
+      {
+        "tags": [
+          "genexus-sd"
+        ],
+        "creation_date": 1736335272,
+        "question_id": 79338931,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338931/genexus-geocity-example-app-build-gives-java-error-savepointsbc-restinterfacein"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "z-index",
+          "stacking-context"
+        ],
+        "creation_date": 1736335310,
+        "question_id": 79338933,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338933/css-stacking-context-issue-nested-element-overlapping-parents-sibling-element"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "swiftui",
+          "swiftdata",
+          "swiftdata-migrations"
+        ],
+        "creation_date": 1736335336,
+        "question_id": 79338938,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338938/swiftdata-failed-to-create-modelcontainer-when-migrating"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-subscription",
+          "azure-billing"
+        ],
+        "creation_date": 1736335640,
+        "question_id": 79338950,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338950/unable-to-remove-saved-payment-method-from-msa-account-setting"
+      },
+      {
+        "tags": [
+          "python",
+          "pyspark",
+          "pytest",
+          "python-unittest"
+        ],
+        "creation_date": 1736335640,
+        "question_id": 79338951,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338951/how-do-i-mock-the-function-in-a-module-which-is-being-called-inside-it-from-anot"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "cookies",
+          "session-cookies",
+          "setcookie"
+        ],
+        "creation_date": 1736335683,
+        "question_id": 79338956,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338956/cookie-is-working-on-localhost-but-not-working-on-live-says-cookietoken-undefine"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "firebase",
+          "google-cloud-functions",
+          "firebase-storage"
+        ],
+        "creation_date": 1736335693,
+        "question_id": 79338957,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338957/typeerror-functions-storage-object-is-not-a-function-with-firebase"
+      },
+      {
+        "tags": [
+          "r",
+          "shiny",
+          "shinydashboard",
+          "shiny-reactivity"
+        ],
+        "creation_date": 1736335722,
+        "question_id": 79338958,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338958/how-do-i-terminate-a-loaded-module-namespace-stack-or-restrict-delay-its-recal"
+      },
+      {
+        "tags": [
+          "android",
+          "android-jetpack-compose"
+        ],
+        "creation_date": 1736335776,
+        "question_id": 79338963,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338963/android-compose-context-menu-in-xml-list-item-does-not-dismiss"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "email-signature"
+        ],
+        "creation_date": 1736335871,
+        "question_id": 79338968,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338968/position-property-is-not-visible-in-email-signature"
+      },
+      {
+        "tags": [
+          "android",
+          "angular",
+          "cordova",
+          "ionic-framework"
+        ],
+        "creation_date": 1736336040,
+        "question_id": 79338979,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338979/index-page-shows-properly-at-chrome-browser-from-ionic-serve-but-show-webpage"
+      },
+      {
+        "tags": [
+          "python",
+          "undetected-chromedriver"
+        ],
+        "creation_date": 1736336135,
+        "question_id": 79338984,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338984/proxy-in-uc-does-not-change-ip-address"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1736336211,
+        "question_id": 79338991,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338991/java-how-to-divide-a-number-into-parts-with-fixed-ratios-in-java-while-ensuring"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-core",
+          ".net-core",
+          "quartz.net",
+          "quartz.net-3.0"
+        ],
+        "creation_date": 1736336424,
+        "question_id": 79339001,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339001/quartz-net-each-time-a-job-is-executed-the-memory-usage-increases"
+      },
+      {
+        "tags": [
+          "ios",
+          "iphone",
+          "xcode",
+          "jenkins"
+        ],
+        "creation_date": 1736336442,
+        "question_id": 79339003,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339003/problem-with-installing-app-on-iphone-during-a-jenikns-job-using-devicectl"
+      },
+      {
+        "tags": [
+          "qt",
+          "qtwebengine"
+        ],
+        "creation_date": 1736336445,
+        "question_id": 79339004,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339004/qt-6-8-1-windows-11-qtwebengine-link-error"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "entity-framework",
+          "entity-framework-core",
+          "type-conversion"
+        ],
+        "creation_date": 1736336567,
+        "question_id": 79339008,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339008/ef-core-parameter-of-type-enum-array-as-string-array-string-instead-of-int"
+      },
+      {
+        "tags": [
+          "javascript",
+          "charts",
+          "apexcharts"
+        ],
+        "creation_date": 1736336590,
+        "question_id": 79339009,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339009/apexcharts-type-line-background-color"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-ad-graph-api"
+        ],
+        "creation_date": 1736336633,
+        "question_id": 79339011,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339011/batch-create-mailbox-folders-with-graph-api-from-graph-explorer"
+      },
+      {
+        "tags": [
+          "sql",
+          "oracle-database",
+          "sql-loader"
+        ],
+        "creation_date": 1736336646,
+        "question_id": 79339012,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339012/unable-to-use-the-sqlloadersqlldr-to-load-the-csv-file-into-the-db"
+      },
+      {
+        "tags": [
+          "wordpress",
+          "wordpress-gutenberg"
+        ],
+        "creation_date": 1736336647,
+        "question_id": 79339013,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339013/select-specific-parameter-when-block-is-added"
+      },
+      {
+        "tags": [
+          "c++",
+          "vs-code"
+        ],
+        "creation_date": 1736336670,
+        "question_id": 79339014,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79339014/vs-code-intellisense-not-functioning-for-c"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 279
+  }
+}

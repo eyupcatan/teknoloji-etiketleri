@@ -1,0 +1,1111 @@
+{
+  "retrieved_at": "2026-10-26T19:13:01.278278+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420740000&todate=1420761599&sort=creation&order=asc&pagesize=100&page=14&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420740000,
+    "todate": 1420761599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 14,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "jquery-ui"
+        ],
+        "creation_date": 1420756293,
+        "question_id": 27850728,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850728/jquery-ui-sortable-items-option-hash-selection-not-being-selective-after-change"
+      },
+      {
+        "tags": [
+          "c",
+          "arrays",
+          "user-input",
+          "c-strings"
+        ],
+        "creation_date": 1420756312,
+        "question_id": 27850730,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850730/user-input-string-into-array-causing-buffer-overflow"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7"
+        ],
+        "creation_date": 1420756325,
+        "question_id": 27850733,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850733/all-variable-not-picked-up-in-init-py"
+      },
+      {
+        "tags": [
+          "jquery",
+          "wordpress"
+        ],
+        "creation_date": 1420756343,
+        "question_id": 27850735,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850735/how-can-i-hide-and-show-div-if-radio-button-checked-in-jquery"
+      },
+      {
+        "tags": [
+          "c#",
+          "lambda"
+        ],
+        "creation_date": 1420756347,
+        "question_id": 27850736,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850736/exception-handling-in-lambda-expression"
+      },
+      {
+        "tags": [
+          "python",
+          "regex"
+        ],
+        "creation_date": 1420756361,
+        "question_id": 27850740,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850740/capturing-multiple-possibilities-with-regex"
+      },
+      {
+        "tags": [
+          "haskell",
+          "list-comprehension"
+        ],
+        "creation_date": 1420756366,
+        "question_id": 27850742,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850742/is-it-possible-to-exit-a-generator"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1420756386,
+        "question_id": 27850744,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850744/calculate-bankroll-martingale-system"
+      },
+      {
+        "tags": [
+          "json",
+          "scala",
+          "spray",
+          "spray-json"
+        ],
+        "creation_date": 1420756400,
+        "question_id": 27850747,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850747/recursive-data-types-and-custom-serializers-in-spray-json"
+      },
+      {
+        "tags": [
+          "xpages"
+        ],
+        "creation_date": 1420756411,
+        "question_id": 27850748,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850748/how-to-add-tabindex-to-xedjcombobox"
+      },
+      {
+        "tags": [
+          "ios",
+          "core-data",
+          "swift"
+        ],
+        "creation_date": 1420756413,
+        "question_id": 27850750,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850750/coredata-exc-bad-instruction-on-private-queue-with-swift"
+      },
+      {
+        "tags": [
+          "wpf",
+          "xaml",
+          "xaml-binding"
+        ],
+        "creation_date": 1420756427,
+        "question_id": 27850752,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850752/how-can-i-bind-a-colorpicker-inside-a-contextmenu-to-a-label"
+      },
+      {
+        "tags": [
+          "c#",
+          "graphics",
+          "drawing"
+        ],
+        "creation_date": 1420756428,
+        "question_id": 27850753,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850753/graphics-drawline-makes-line-too-large"
+      },
+      {
+        "tags": [
+          "javascript",
+          "events",
+          "arguments"
+        ],
+        "creation_date": 1420756440,
+        "question_id": 27850756,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850756/general-way-to-provide-the-event-argument-in-a-function-in-javascript"
+      },
+      {
+        "tags": [
+          "sorting",
+          "prolog",
+          "swi-prolog"
+        ],
+        "creation_date": 1420756452,
+        "question_id": 27850760,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850760/predsort-3-unexpected-behavior"
+      },
+      {
+        "tags": [
+          "webstorm"
+        ],
+        "creation_date": 1420756463,
+        "question_id": 27850763,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850763/webstorm-external-libraries-explanation"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "angularjs",
+          "angularjs-filter"
+        ],
+        "creation_date": 1420756473,
+        "question_id": 27850765,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850765/how-to-round-in-javascript-angular-js-but-remove-insignificant-digits"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "forms",
+          "uitableview",
+          "uitextfield"
+        ],
+        "creation_date": 1420756483,
+        "question_id": 27850768,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850768/uitextfield-table-view-cells-ios"
+      },
+      {
+        "tags": [
+          "android",
+          "layout",
+          "android-relativelayout"
+        ],
+        "creation_date": 1420756496,
+        "question_id": 27850772,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850772/asymmetric-relativelayout-behavior-in-android"
+      },
+      {
+        "tags": [
+          "axapta",
+          "x++",
+          "dynamics-ax-2012"
+        ],
+        "creation_date": 1420756543,
+        "question_id": 27850784,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850784/how-to-post-document-date-and-document-number-in-general-journal"
+      },
+      {
+        "tags": [
+          "xcode",
+          "macos",
+          "xcode6",
+          "osx-yosemite"
+        ],
+        "creation_date": 1420756546,
+        "question_id": 27850785,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850785/give-an-os-x-app-a-custom-icon"
+      },
+      {
+        "tags": [
+          "screenshot",
+          "intern"
+        ],
+        "creation_date": 1420756549,
+        "question_id": 27850786,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850786/how-do-i-take-a-screenshot-when-a-test-in-internjs-fails"
+      },
+      {
+        "tags": [
+          "ember.js"
+        ],
+        "creation_date": 1420756603,
+        "question_id": 27850790,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850790/input-type-checkbox-two-way-binding-doesnt-work"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "jquery-ui",
+          "datepicker"
+        ],
+        "creation_date": 1420756605,
+        "question_id": 27850791,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850791/input-type-date-format-and-datepicker-issues"
+      },
+      {
+        "tags": [
+          "swift",
+          "uiwebview"
+        ],
+        "creation_date": 1420756605,
+        "question_id": 27850792,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850792/uiwebview-dynamic-content-size"
+      },
+      {
+        "tags": [
+          "webhdfs"
+        ],
+        "creation_date": 1420756614,
+        "question_id": 27850796,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850796/no-copy-method-in-webhdfs"
+      },
+      {
+        "tags": [
+          "r",
+          "optimization",
+          "nonlinear-optimization"
+        ],
+        "creation_date": 1420756626,
+        "question_id": 27850797,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850797/optimizing-a-combination-of-curves-with-constraints-in-r"
+      },
+      {
+        "tags": [
+          "command-line",
+          "ide",
+          "customization"
+        ],
+        "creation_date": 1420756634,
+        "question_id": 27850800,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850800/is-there-a-way-to-run-only-an-external-tool-in-a-jetbrains-run-configuration"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "activerecord"
+        ],
+        "creation_date": 1420756656,
+        "question_id": 27850803,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850803/how-can-i-autofill-an-input-value-getting-a-specific-column-from-a-rails-4-assoc"
+      },
+      {
+        "tags": [
+          "java",
+          "regex",
+          "tokenize"
+        ],
+        "creation_date": 1420756683,
+        "question_id": 27850808,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850808/how-to-tokenize-from-a-string-of-numbers-to-an-int-array"
+      },
+      {
+        "tags": [
+          "python",
+          "mysql",
+          "django",
+          "zinnia"
+        ],
+        "creation_date": 1420756687,
+        "question_id": 27850809,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850809/unable-to-delete-large-data-set-in-django-operationalerror-1040-too-many-c"
+      },
+      {
+        "tags": [
+          "statistics",
+          "sas-jmp"
+        ],
+        "creation_date": 1420756690,
+        "question_id": 27850810,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850810/stats-interpreting-ksl-test-in-jmp"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420756694,
+        "question_id": 27850812,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850812/process-and-display-bold-italics-characters-from-a-file"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css",
+          "fine-uploader"
+        ],
+        "creation_date": 1420756705,
+        "question_id": 27850815,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850815/changing-ulli-to-div-in-fineuploader"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420756716,
+        "question_id": 27850817,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850817/why-are-my-input-fields-getting-reset"
+      },
+      {
+        "tags": [
+          "mqtt"
+        ],
+        "creation_date": 1420756722,
+        "question_id": 27850819,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850819/is-it-possible-to-distribute-reads-of-an-mqtt-topic-over-multiple-consumers"
+      },
+      {
+        "tags": [
+          "mysql",
+          "liquibase"
+        ],
+        "creation_date": 1420756737,
+        "question_id": 27850821,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850821/liquibase-is-not-creating-unsigned-columns"
+      },
+      {
+        "tags": [
+          "xslt",
+          "command-line",
+          "ssh",
+          "cpanel",
+          "vps"
+        ],
+        "creation_date": 1420756755,
+        "question_id": 27850822,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850822/issue-on-enable-xsl-extension-in-whm-vps"
+      },
+      {
+        "tags": [
+          "ios",
+          "iphone",
+          "parse-platform",
+          "push-notification"
+        ],
+        "creation_date": 1420756770,
+        "question_id": 27850823,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850823/trying-to-get-push-notifications-using-parse-com-not-working-on-device"
+      },
+      {
+        "tags": [
+          "c#",
+          "xna",
+          "window",
+          "hide"
+        ],
+        "creation_date": 1420756778,
+        "question_id": 27850825,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850825/hide-xna-window-so-its-not-viewable"
+      },
+      {
+        "tags": [
+          "jquery",
+          "tabs"
+        ],
+        "creation_date": 1420756781,
+        "question_id": 27850826,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850826/how-to-close-active-jquery-tools-tab"
+      },
+      {
+        "tags": [
+          "java",
+          "resize",
+          "jframe",
+          "jpanel",
+          "maximize"
+        ],
+        "creation_date": 1420756803,
+        "question_id": 27850830,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850830/resizing-jpanel-when-jframe-is-maximized"
+      },
+      {
+        "tags": [
+          "xml",
+          "solr"
+        ],
+        "creation_date": 1420756831,
+        "question_id": 27850832,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850832/how-do-i-post-an-xml-document-into-solr"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420756849,
+        "question_id": 27850835,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850835/why-are-my-files-not-loading-as-desired-in-stringbuilder"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420756874,
+        "question_id": 27850842,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850842/show-a-initial-dialog-only-if-my-app-has-been-updated-but-not-in-new-installs-of"
+      },
+      {
+        "tags": [
+          "ruby",
+          "ruby-on-rails-3",
+          "httparty"
+        ],
+        "creation_date": 1420756878,
+        "question_id": 27850845,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850845/using-postmates-api-in-a-rails-app-with-httparty"
+      },
+      {
+        "tags": [
+          "yii",
+          "crud"
+        ],
+        "creation_date": 1420756883,
+        "question_id": 27850847,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850847/yii-groupgridview-buttons"
+      },
+      {
+        "tags": [
+          "javascript",
+          "animation",
+          "easing-functions"
+        ],
+        "creation_date": 1420756890,
+        "question_id": 27850850,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850850/easing-functions-for-my-animation-not-working"
+      },
+      {
+        "tags": [
+          "coldfusion",
+          "coldfusion-11",
+          "cfzip"
+        ],
+        "creation_date": 1420756893,
+        "question_id": 27850851,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850851/problems-with-cfzip-on-coldfusion-11"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "sql",
+          "database",
+          "forms"
+        ],
+        "creation_date": 1420756898,
+        "question_id": 27850852,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850852/how-can-i-merge-register-logon-from-3-scripts-databases-into-one-form-for-one"
+      },
+      {
+        "tags": [
+          "javascript",
+          "ajax",
+          "html",
+          "ajax-polling"
+        ],
+        "creation_date": 1420756911,
+        "question_id": 27850860,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850860/can-i-reliably-detect-whether-a-web-page-can-be-seen-by-a-user"
+      },
+      {
+        "tags": [
+          "c#",
+          "xaml"
+        ],
+        "creation_date": 1420756914,
+        "question_id": 27850861,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850861/xaml-c-opening-windows"
+      },
+      {
+        "tags": [
+          "ios",
+          "interface",
+          "orientation"
+        ],
+        "creation_date": 1420756915,
+        "question_id": 27850862,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850862/identifying-orientation-not-responding"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "angularjs",
+          "zurb-reveal"
+        ],
+        "creation_date": 1420756936,
+        "question_id": 27850866,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850866/angular-js-and-zurb-foundation-reveal-modal"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "creation_date": 1420756971,
+        "question_id": 27850872,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850872/c-replacing-string-in-foreach-loop"
+      },
+      {
+        "tags": [
+          "mysql",
+          "date-difference"
+        ],
+        "creation_date": 1420756973,
+        "question_id": 27850873,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850873/how-to-get-date-difference-in-days-in-mysql"
+      },
+      {
+        "tags": [
+          "r"
+        ],
+        "creation_date": 1420757016,
+        "question_id": 27850881,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850881/r-error-while-calculating-rolling-median-and-rolling-mean"
+      },
+      {
+        "tags": [
+          "html",
+          "http",
+          "tcp",
+          "webserver",
+          "wireshark"
+        ],
+        "creation_date": 1420757021,
+        "question_id": 27850883,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850883/why-is-there-a-10-second-delay-in-this-http-conversation"
+      },
+      {
+        "tags": [
+          "java",
+          "performance",
+          "jvm"
+        ],
+        "creation_date": 1420757035,
+        "question_id": 27850888,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850888/does-the-java-static-modifier-have-a-positive-effect-on-runtime-performance"
+      },
+      {
+        "tags": [
+          "c++",
+          "qt",
+          "https",
+          "ssl-certificate",
+          "betfair"
+        ],
+        "creation_date": 1420757037,
+        "question_id": 27850890,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850890/unable-to-login-with-ssl-certificate-using-c-qt-and-betfair-api-ng"
+      },
+      {
+        "tags": [
+          "android",
+          "scrollview",
+          "toolbar",
+          "telegram"
+        ],
+        "creation_date": 1420757041,
+        "question_id": 27850893,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850893/android-resizable-toolbar-accordingly-to-scroll-on-observable-scrollview"
+      },
+      {
+        "tags": [
+          "python",
+          "return",
+          "text-files",
+          "bottle",
+          "static-files"
+        ],
+        "creation_date": 1420757045,
+        "question_id": 27850894,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850894/problems-with-displaying-the-content-of-a-text-file-in-a-tpl-using-the-bottle-fr"
+      },
+      {
+        "tags": [
+          "java",
+          "http",
+          "https"
+        ],
+        "creation_date": 1420757049,
+        "question_id": 27850895,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850895/how-can-i-browse-web-site-after-login-using-https-http-protocolin-java"
+      },
+      {
+        "tags": [
+          "php",
+          "apache",
+          "ubuntu",
+          "ubuntu-12.04",
+          "php-5.3"
+        ],
+        "creation_date": 1420757058,
+        "question_id": 27850897,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850897/cant-mkdir-or-open-files-on-server-even-with-777-permissions"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "capistrano3",
+          "foreman"
+        ],
+        "creation_date": 1420757069,
+        "question_id": 27850901,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850901/capistrano-foreman-cannot-export-upstart-scripts-because-its-trying-to-run-comm"
+      },
+      {
+        "tags": [
+          "java",
+          "arraylist",
+          "indexoutofboundsexception"
+        ],
+        "creation_date": 1420757087,
+        "question_id": 27850903,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850903/indexoutofboundsexception-when-removing-the-last-element-of-a-list-using-list-re"
+      },
+      {
+        "tags": [
+          "node.js",
+          "mongodb",
+          "express"
+        ],
+        "creation_date": 1420757088,
+        "question_id": 27850904,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850904/error-cant-set-header-after-they-are-sent"
+      },
+      {
+        "tags": [
+          "asp.net-mvc",
+          "entity-framework",
+          "authentication",
+          "azure",
+          "integration-testing"
+        ],
+        "creation_date": 1420757092,
+        "question_id": 27850905,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850905/azure-tentant-id-null-when-running-in-the-unit-test-framework"
+      },
+      {
+        "tags": [
+          "regex",
+          "string",
+          "bash",
+          "date",
+          "sed"
+        ],
+        "creation_date": 1420757092,
+        "question_id": 27850906,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850906/sed-command-to-replace-date-string-dd-03-yyyy-with-the-string-for-the-month-e"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "socket.io"
+        ],
+        "creation_date": 1420757104,
+        "question_id": 27850907,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850907/socket-io-keeping-track-of-number-of-clients"
+      },
+      {
+        "tags": [
+          "java",
+          "arrays"
+        ],
+        "creation_date": 1420757118,
+        "question_id": 27850908,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850908/convert-an-object-to-a-class-type-at-runtime"
+      },
+      {
+        "tags": [
+          "java",
+          "algorithm",
+          "greedy"
+        ],
+        "creation_date": 1420757120,
+        "question_id": 27850910,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850910/combining-1x1-tiles-with-walls-in-grid-into-larger-rectangular-polygons"
+      },
+      {
+        "tags": [
+          "node.js",
+          "twilio",
+          "helper"
+        ],
+        "creation_date": 1420757122,
+        "question_id": 27850911,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850911/given-a-recording-sid-how-can-i-download-the-recording-file-to-local-drive-usi"
+      },
+      {
+        "tags": [
+          "typescript"
+        ],
+        "creation_date": 1420757144,
+        "question_id": 27850914,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850914/passing-library-as-a-paramter-in-typescript-and-type-defining-internal-module"
+      },
+      {
+        "tags": [
+          "python",
+          "subprocess",
+          "sox"
+        ],
+        "creation_date": 1420757154,
+        "question_id": 27850916,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850916/using-python-subprocess-to-call-sox"
+      },
+      {
+        "tags": [
+          "ruby",
+          "unit-testing",
+          "minitest"
+        ],
+        "creation_date": 1420757161,
+        "question_id": 27850919,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850919/minitest-assert-custom-assertion-fails"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "jquery-ui"
+        ],
+        "creation_date": 1420757166,
+        "question_id": 27850921,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850921/jquery-ui-slider-incorrect-max-value"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "maven",
+          "tomcat"
+        ],
+        "creation_date": 1420757205,
+        "question_id": 27850930,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850930/tomcat7-maven-plugin-webapplicationinitializer-error"
+      },
+      {
+        "tags": [
+          "c++",
+          "palindrome"
+        ],
+        "creation_date": 1420757214,
+        "question_id": 27850931,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850931/find-all-palindrome-numbers-within-a-given-range-using-a-check-function"
+      },
+      {
+        "tags": [
+          "ibm-mq"
+        ],
+        "creation_date": 1420757256,
+        "question_id": 27850936,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850936/webspheremq-centos-7"
+      },
+      {
+        "tags": [
+          "c",
+          "posix"
+        ],
+        "creation_date": 1420757261,
+        "question_id": 27850940,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850940/why-does-read-only-return-the-first-line-of-stdin"
+      },
+      {
+        "tags": [
+          "python",
+          "dll",
+          "cython"
+        ],
+        "creation_date": 1420757316,
+        "question_id": 27850953,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850953/python34-dll-is-missing"
+      },
+      {
+        "tags": [
+          "regex"
+        ],
+        "creation_date": 1420757320,
+        "question_id": 27850955,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850955/regular-expression-to-match-url-with-or-without-trailing-segment"
+      },
+      {
+        "tags": [
+          "scroll",
+          "sticky",
+          "navigationbar"
+        ],
+        "creation_date": 1420757322,
+        "question_id": 27850957,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850957/my-sticky-navigation-bar-cannot-be-clicked-when-its-not-scrolled-fixed-to-the-t"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7",
+          "ubuntu",
+          "matplotlib"
+        ],
+        "creation_date": 1420757328,
+        "question_id": 27850959,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850959/matplotlib-no-module-named-compat"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420757334,
+        "question_id": 27850960,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850960/the-method-setonclicklistenerview-onclicklistener-in-the-type-view-is-not-appl"
+      },
+      {
+        "tags": [
+          "c++",
+          "multithreading",
+          "c++11",
+          "gcc"
+        ],
+        "creation_date": 1420757337,
+        "question_id": 27850962,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850962/packaged-task-hanging-on-operator"
+      },
+      {
+        "tags": [
+          "jsp",
+          "jstl",
+          "taglib"
+        ],
+        "creation_date": 1420757365,
+        "question_id": 27850968,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850968/how-to-fix-the-can-not-find-the-tag-library-descriptor-for-http-java-sun-com"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "multithreading",
+          "afnetworking",
+          "grand-central-dispatch"
+        ],
+        "creation_date": 1420757373,
+        "question_id": 27850969,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850969/how-to-set-afhttprequestoperation-completionqueue-to-current-queue"
+      },
+      {
+        "tags": [
+          "php",
+          "wordpress"
+        ],
+        "creation_date": 1420757380,
+        "question_id": 27850973,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850973/wordpress-image-shortcode-exporting-thumbnail-sized-image"
+      },
+      {
+        "tags": [
+          "scala",
+          "apache-spark",
+          "rdd",
+          "apache-spark-sql"
+        ],
+        "creation_date": 1420757383,
+        "question_id": 27850974,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850974/schema-from-schemardd"
+      },
+      {
+        "tags": [
+          "javascript",
+          "web-storage"
+        ],
+        "creation_date": 1420757401,
+        "question_id": 27850976,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850976/idiomatic-way-to-enforce-single-page-app-being-used-in-one-tab-only"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "sp-executesql"
+        ],
+        "creation_date": 1420757427,
+        "question_id": 27850981,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850981/dynamic-column-name-in-sql-in-update-statement"
+      },
+      {
+        "tags": [
+          "java",
+          "final"
+        ],
+        "creation_date": 1420757448,
+        "question_id": 27850989,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850989/why-can-i-still-make-changes-to-this-final-variable"
+      },
+      {
+        "tags": [
+          "java",
+          "mongodb",
+          "tomcat",
+          "authentication",
+          "jelastic"
+        ],
+        "creation_date": 1420757462,
+        "question_id": 27850990,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850990/jelastic-connection-to-mongodb-not-working-on-remote-tomcat-but-ok-when-local-to"
+      },
+      {
+        "tags": [
+          "python",
+          "mongodb",
+          "pymongo"
+        ],
+        "creation_date": 1420757463,
+        "question_id": 27850991,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850991/connection-error-to-mongodb-object-has-no-attribute-getitem"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "background"
+        ],
+        "creation_date": 1420757463,
+        "question_id": 27850992,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850992/css-background-color-works-in-dw-but-not-in-browser"
+      },
+      {
+        "tags": [
+          "javascript",
+          "ruby-on-rails",
+          "ruby",
+          "node.js",
+          "web"
+        ],
+        "creation_date": 1420757480,
+        "question_id": 27850996,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850996/server-side-framework"
+      },
+      {
+        "tags": [
+          "dynamics-crm-2013",
+          "microsoft-dynamics",
+          "dynamics-crm-online"
+        ],
+        "creation_date": 1420757544,
+        "question_id": 27851008,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851008/how-to-append-the-guid-from-a-record-within-microsoft-crm-online-to-a-email-work"
+      },
+      {
+        "tags": [
+          "python",
+          "boost",
+          "module"
+        ],
+        "creation_date": 1420757566,
+        "question_id": 27851015,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27851015/boost-module-in-python-2-7"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 79
+  }
+}

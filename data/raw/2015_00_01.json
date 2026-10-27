@@ -1,0 +1,1138 @@
+{
+  "retrieved_at": "2026-10-26T19:04:20.975502+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420502400&todate=1420523999&sort=creation&order=asc&pagesize=100&page=1&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420502400,
+    "todate": 1420523999,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 1,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "c#",
+          "asp.net-mvc",
+          "datetime",
+          "automapper-3"
+        ],
+        "creation_date": 1420502507,
+        "question_id": 27790019,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790019/automapper-map-datetime-to-object"
+      },
+      {
+        "tags": [
+          "c++",
+          "c",
+          "valgrind"
+        ],
+        "creation_date": 1420502516,
+        "question_id": 27790021,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790021/suppress-possibly-lost-errors-in-valgrind-when-interior-pointer-offset-is-know"
+      },
+      {
+        "tags": [
+          "macos",
+          "avx"
+        ],
+        "creation_date": 1420502535,
+        "question_id": 27790026,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790026/compile-with-avx2-support-and-run"
+      },
+      {
+        "tags": [
+          "php",
+          "python",
+          "ruby-on-rails"
+        ],
+        "creation_date": 1420502542,
+        "question_id": 27790027,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790027/why-do-web-apps-need-a-backend-language"
+      },
+      {
+        "tags": [
+          "c++",
+          "variables",
+          "encryption",
+          "random",
+          "srand"
+        ],
+        "creation_date": 1420502554,
+        "question_id": 27790029,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790029/sharing-variable-between-functions-rand-srand"
+      },
+      {
+        "tags": [
+          "java",
+          "parsing"
+        ],
+        "creation_date": 1420502580,
+        "question_id": 27790035,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790035/need-to-extract-text-out-of-any-binary-file-using-java"
+      },
+      {
+        "tags": [
+          "c++",
+          "runtime",
+          "tuples"
+        ],
+        "creation_date": 1420502611,
+        "question_id": 27790038,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790038/feed-template-function-element-from-tuple-at-runtime"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "css"
+        ],
+        "creation_date": 1420502611,
+        "question_id": 27790039,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790039/ease-transition-all-except-one-element"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "config",
+          "phpstorm",
+          "dialect"
+        ],
+        "creation_date": 1420502639,
+        "question_id": 27790044,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790044/sql-dialect-is-not-configured-phpstorm"
+      },
+      {
+        "tags": [
+          "amazon-s3",
+          "amazon-sns",
+          "amazon-iam"
+        ],
+        "creation_date": 1420502680,
+        "question_id": 27790050,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790050/how-yo-configure-a-bucket-in-s3-to-send-emails-when-someone-is-downloading-a-fil"
+      },
+      {
+        "tags": [
+          "python",
+          "recursion",
+          "set"
+        ],
+        "creation_date": 1420502747,
+        "question_id": 27790058,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790058/what-is-the-difference-between-these-two-codes-of-python-subset-recursion-functi"
+      },
+      {
+        "tags": [
+          "node.js",
+          "reactjs",
+          "react-async"
+        ],
+        "creation_date": 1420502762,
+        "question_id": 27790061,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790061/react-js-change-state-of-the-topmost-parent-element-from-a-deeply-nested-child"
+      },
+      {
+        "tags": [
+          "javascript",
+          "backbone.js",
+          "backbone.js-collections"
+        ],
+        "creation_date": 1420502794,
+        "question_id": 27790063,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790063/merging-duplicate-models-in-my-collection-but-adding-the-quantity"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420502795,
+        "question_id": 27790064,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790064/bootstrap-dropdown-button-trigger-from-other-button"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html"
+        ],
+        "creation_date": 1420502814,
+        "question_id": 27790066,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790066/html-adding-and-removing-to-favorites"
+      },
+      {
+        "tags": [
+          "c++",
+          "iterator",
+          "multimap"
+        ],
+        "creation_date": 1420502832,
+        "question_id": 27790071,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790071/store-current-and-next-iterator"
+      },
+      {
+        "tags": [
+          "mysql"
+        ],
+        "creation_date": 1420502847,
+        "question_id": 27790074,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790074/using-a-single-mysql-query-for-dynamic-results"
+      },
+      {
+        "tags": [
+          "macos",
+          "swift",
+          "xcode6",
+          "cgrect",
+          "cgimage"
+        ],
+        "creation_date": 1420502851,
+        "question_id": 27790075,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790075/how-to-split-image-with-swift-for-osx"
+      },
+      {
+        "tags": [
+          "linux",
+          "bash",
+          "shell",
+          "sed",
+          "sh"
+        ],
+        "creation_date": 1420502864,
+        "question_id": 27790078,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790078/delete-the-last-word-of-a-line-in-shell"
+      },
+      {
+        "tags": [
+          "ruby-on-rails-3",
+          "geocoding"
+        ],
+        "creation_date": 1420502958,
+        "question_id": 27790096,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790096/geocoder-fallback-for-timeout"
+      },
+      {
+        "tags": [
+          "javascript",
+          "mysql"
+        ],
+        "creation_date": 1420502969,
+        "question_id": 27790099,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790099/plus-signs-converted-to-spaces-in-google-apps-script-mysql"
+      },
+      {
+        "tags": [
+          "vb.net"
+        ],
+        "creation_date": 1420503017,
+        "question_id": 27790107,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790107/vb-if-else-then-i-think"
+      },
+      {
+        "tags": [
+          "java",
+          "rmi"
+        ],
+        "creation_date": 1420503019,
+        "question_id": 27790108,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790108/why-does-the-rmi-registry-need-my-remote-interface-class-file"
+      },
+      {
+        "tags": [
+          "java",
+          "swing"
+        ],
+        "creation_date": 1420503026,
+        "question_id": 27790109,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790109/how-do-i-refesh-a-jpanel"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift"
+        ],
+        "creation_date": 1420503048,
+        "question_id": 27790112,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790112/when-would-you-use-in-swift"
+      },
+      {
+        "tags": [
+          "android",
+          "spinner"
+        ],
+        "creation_date": 1420503055,
+        "question_id": 27790113,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790113/spinner-not-showing-selected-item-or-default"
+      },
+      {
+        "tags": [
+          "c++",
+          "multithreading",
+          "c++11",
+          "atomic"
+        ],
+        "creation_date": 1420503087,
+        "question_id": 27790116,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790116/c11-thread-safety-of-stdatomict-copy-constructors"
+      },
+      {
+        "tags": [
+          "php",
+          "mysqli"
+        ],
+        "creation_date": 1420503096,
+        "question_id": 27790118,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790118/mysqlierror-is-not-detected"
+      },
+      {
+        "tags": [
+          "java",
+          "sockets",
+          "network-programming",
+          "bind"
+        ],
+        "creation_date": 1420503098,
+        "question_id": 27790119,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790119/datagramsocket-in-client-not-binding-to-the-port-in-server-port-already-in-use"
+      },
+      {
+        "tags": [
+          "zend-framework",
+          "zend-db-select"
+        ],
+        "creation_date": 1420503104,
+        "question_id": 27790122,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790122/remove-distinct-from-zend-db-select"
+      },
+      {
+        "tags": [
+          "sql",
+          "crystal-reports",
+          "db2"
+        ],
+        "creation_date": 1420503116,
+        "question_id": 27790124,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790124/how-to-pass-multi-valued-parameter-in-where-clause-in-db2"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420503158,
+        "question_id": 27790127,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790127/changing-dynamically-css-div-background-every-certain-time"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "svg",
+          "safari",
+          "webkit"
+        ],
+        "creation_date": 1420503171,
+        "question_id": 27790128,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790128/setattribute-null-in-safari"
+      },
+      {
+        "tags": [
+          "python-2.7",
+          "svg",
+          "shapefile",
+          "kartograph"
+        ],
+        "creation_date": 1420503188,
+        "question_id": 27790130,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790130/kartograph-unknown-shape-type25"
+      },
+      {
+        "tags": [
+          "android",
+          "listview",
+          "view",
+          "baseadapter",
+          "notifydatasetchanged"
+        ],
+        "creation_date": 1420503233,
+        "question_id": 27790137,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790137/android-accessing-view-in-listview-after-call-adapter-notifydatasetchanged-and"
+      },
+      {
+        "tags": [
+          "git",
+          "remote-server",
+          "git-push",
+          "git-commit"
+        ],
+        "creation_date": 1420503237,
+        "question_id": 27790138,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790138/gitlab-impossible-to-remove-distant-files"
+      },
+      {
+        "tags": [
+          "c#",
+          "sql",
+          "sql-server",
+          "ssms",
+          "sqlclient"
+        ],
+        "creation_date": 1420503249,
+        "question_id": 27790144,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790144/difference-between-sql-query-and-sqlclient-operation"
+      },
+      {
+        "tags": [
+          "jquery",
+          "css",
+          "iframe",
+          "fancybox-2"
+        ],
+        "creation_date": 1420503270,
+        "question_id": 27790147,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790147/fancybox-not-display-the-entire-contents-of-the-iframe-until-i-scroll-down"
+      },
+      {
+        "tags": [
+          "php",
+          "jquery",
+          "performance",
+          "smarty",
+          "hiphop"
+        ],
+        "creation_date": 1420503271,
+        "question_id": 27790148,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790148/smartyphp-with-hip-hop"
+      },
+      {
+        "tags": [
+          "qml",
+          "qt-quick",
+          "qtquick2"
+        ],
+        "creation_date": 1420503281,
+        "question_id": 27790149,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790149/how-can-i-reorder-the-items-in-a-qml-gridlayout"
+      },
+      {
+        "tags": [
+          "bash",
+          "while-loop",
+          "exit",
+          "break"
+        ],
+        "creation_date": 1420503312,
+        "question_id": 27790154,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790154/bash-while-loop-break-and-exit-die-script-die"
+      },
+      {
+        "tags": [
+          "nginx",
+          "reverse-proxy"
+        ],
+        "creation_date": 1420503327,
+        "question_id": 27790156,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790156/nginx-multiple-proxy-pass-configuration"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "electron"
+        ],
+        "creation_date": 1420503348,
+        "question_id": 27790158,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790158/how-do-run-reload-and-open-in-atom-shell"
+      },
+      {
+        "tags": [
+          "backbone.js"
+        ],
+        "creation_date": 1420503382,
+        "question_id": 27790161,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790161/why-the-same-backbone-trigger-doesnt-work-at-different-place"
+      },
+      {
+        "tags": [
+          "python",
+          "windows"
+        ],
+        "creation_date": 1420503402,
+        "question_id": 27790165,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790165/python-development-in-windows"
+      },
+      {
+        "tags": [
+          "rust",
+          "lifetime"
+        ],
+        "creation_date": 1420503446,
+        "question_id": 27790168,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790168/explicit-lifetime-declarations-in-trait-objects-held-by-structs"
+      },
+      {
+        "tags": [
+          "git",
+          "github",
+          "intellij-idea"
+        ],
+        "creation_date": 1420503459,
+        "question_id": 27790174,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790174/git-how-to-retrieve-the-files-history-after-a-simple-move-files"
+      },
+      {
+        "tags": [
+          "java",
+          "applet"
+        ],
+        "creation_date": 1420503472,
+        "question_id": 27790179,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790179/how-to-get-coordinates-of-images-in-java-applets"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "uilabel"
+        ],
+        "creation_date": 1420503497,
+        "question_id": 27790182,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790182/objective-c-continuous-horizontal-scrolling-text"
+      },
+      {
+        "tags": [
+          "editor",
+          "xcode6"
+        ],
+        "creation_date": 1420503511,
+        "question_id": 27790184,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790184/xcode-6-side-by-side-editor-view"
+      },
+      {
+        "tags": [
+          "android",
+          "gradle"
+        ],
+        "creation_date": 1420503535,
+        "question_id": 27790189,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790189/android-gradle-get-selected-build-variant-build-type"
+      },
+      {
+        "tags": [
+          "php",
+          "forms",
+          "apache",
+          "post"
+        ],
+        "creation_date": 1420503542,
+        "question_id": 27790190,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790190/php-not-reading-post-variables"
+      },
+      {
+        "tags": [
+          "java",
+          "libgdx"
+        ],
+        "creation_date": 1420503558,
+        "question_id": 27790191,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790191/how-to-get-the-position-of-a-tiledmap-cell-in-libgdx"
+      },
+      {
+        "tags": [
+          "r",
+          "max",
+          "aggregate",
+          "normalization",
+          "apply"
+        ],
+        "creation_date": 1420503582,
+        "question_id": 27790194,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790194/r-normalize-dataframe-column-using-max"
+      },
+      {
+        "tags": [
+          "java",
+          "sockets",
+          "objectoutputstream"
+        ],
+        "creation_date": 1420503640,
+        "question_id": 27790198,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790198/objectoutputstream-objectinputstream-with-sockets"
+      },
+      {
+        "tags": [
+          "r",
+          "xts"
+        ],
+        "creation_date": 1420503643,
+        "question_id": 27790199,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790199/can-i-create-new-xts-columns-from-a-list-of-names"
+      },
+      {
+        "tags": [
+          "android",
+          "android-studio",
+          "android-manifest",
+          "manifest-merging"
+        ],
+        "creation_date": 1420503696,
+        "question_id": 27790209,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790209/how-to-use-the-new-manifest-merger-of-android-studio-and-gradle"
+      },
+      {
+        "tags": [
+          "hibernate",
+          "one-to-one"
+        ],
+        "creation_date": 1420503703,
+        "question_id": 27790210,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790210/in-hibernate-can-entities-exist-without-mapping-in-one-one-mapping"
+      },
+      {
+        "tags": [
+          "symfony",
+          "oop",
+          "model-view-controller",
+          "doctrine-orm",
+          "twig"
+        ],
+        "creation_date": 1420503726,
+        "question_id": 27790211,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790211/symfony-best-practise-where-to-place-these-constants"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "recursion"
+        ],
+        "creation_date": 1420503760,
+        "question_id": 27790216,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790216/recurse-on-animation-end"
+      },
+      {
+        "tags": [
+          "node.js",
+          "heroku",
+          "gruntjs",
+          "mean.io"
+        ],
+        "creation_date": 1420503792,
+        "question_id": 27790218,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790218/mean-io-heroku-build-failing-error-enoent-no-such-file-or-directory-app-bo"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "jsfiddle"
+        ],
+        "creation_date": 1420503793,
+        "question_id": 27790219,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790219/why-does-my-fiddle-render-differently-than-my-test-html-page"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "mongodb",
+          "mongodb-query",
+          "spring-data-mongodb"
+        ],
+        "creation_date": 1420503813,
+        "question_id": 27790221,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790221/saving-document-the-first-time-with-mongotemplate"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas"
+        ],
+        "creation_date": 1420503818,
+        "question_id": 27790222,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790222/unexpected-behavior-resampling-time-series"
+      },
+      {
+        "tags": [
+          "hibernate",
+          "hibernate-4.x"
+        ],
+        "creation_date": 1420503847,
+        "question_id": 27790227,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790227/how-do-i-specify-orderby-for-a-setstring-in-jpa"
+      },
+      {
+        "tags": [
+          "c",
+          "client-server",
+          "parent-child",
+          "infinite-loop",
+          "exit"
+        ],
+        "creation_date": 1420503854,
+        "question_id": 27790228,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790228/c-nice-way-to-terminate"
+      },
+      {
+        "tags": [
+          "css",
+          "ruby-on-rails",
+          "twitter-bootstrap",
+          "haml",
+          "simple-form"
+        ],
+        "creation_date": 1420503893,
+        "question_id": 27790232,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790232/errors-in-vertical-simple-form"
+      },
+      {
+        "tags": [
+          "ruby",
+          "opencv"
+        ],
+        "creation_date": 1420503895,
+        "question_id": 27790233,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790233/ruby-opencvcvcapture-always-returns-the-same-frame"
+      },
+      {
+        "tags": [
+          "web-services",
+          "soap",
+          "websphere-6.1"
+        ],
+        "creation_date": 1420503914,
+        "question_id": 27790234,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790234/issue-invoking-web-service-within-websphere-6-1-environment"
+      },
+      {
+        "tags": [
+          "r",
+          "r-s4"
+        ],
+        "creation_date": 1420503916,
+        "question_id": 27790235,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790235/proper-syntax-for-initialize-method-and-differences-from-normal-method-specifi"
+      },
+      {
+        "tags": [
+          "parse-platform"
+        ],
+        "creation_date": 1420503946,
+        "question_id": 27790239,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790239/filter-on-own-date-fields-no-working-and-or-wrong-date-format-used"
+      },
+      {
+        "tags": [
+          "database",
+          "entity",
+          "conceptual"
+        ],
+        "creation_date": 1420503979,
+        "question_id": 27790240,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790240/er-model-for-borrowing-lending-network"
+      },
+      {
+        "tags": [
+          "android",
+          "navigation-drawer",
+          "android-toolbar",
+          "drawertoggle"
+        ],
+        "creation_date": 1420503981,
+        "question_id": 27790242,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790242/android-navigation-double-drawer-with-actionbardrawertoggle"
+      },
+      {
+        "tags": [
+          "android",
+          "admob"
+        ],
+        "creation_date": 1420504033,
+        "question_id": 27790249,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790249/how-to-get-a-admob-unit-id-for-android"
+      },
+      {
+        "tags": [
+          "vhdl",
+          "xilinx"
+        ],
+        "creation_date": 1420504037,
+        "question_id": 27790251,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790251/need-help-vhdl-in-xilinx"
+      },
+      {
+        "tags": [
+          "sublimetext3",
+          "htmltidy",
+          "sublimelinter"
+        ],
+        "creation_date": 1420504045,
+        "question_id": 27790252,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790252/i-do-not-know-how-to-get-sublimelinter-html-tidy-to-work"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "xml",
+          "sqlite"
+        ],
+        "creation_date": 1420504058,
+        "question_id": 27790256,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790256/error-parsing-xml-not-well-formed-invalid-token"
+      },
+      {
+        "tags": [
+          "c#",
+          "ping",
+          "server",
+          "irc"
+        ],
+        "creation_date": 1420504080,
+        "question_id": 27790259,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790259/why-is-ping-not-being-sent-to-irc"
+      },
+      {
+        "tags": [
+          "php",
+          "sql",
+          "arrays",
+          "count",
+          "output"
+        ],
+        "creation_date": 1420504080,
+        "question_id": 27790260,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790260/i-cant-get-the-output-to-show-from-an-array-php-sql"
+      },
+      {
+        "tags": [
+          "android",
+          "android-arrayadapter"
+        ],
+        "creation_date": 1420504106,
+        "question_id": 27790262,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790262/cannot-resolve-constructor-arrayadaptercontext-int-int"
+      },
+      {
+        "tags": [
+          "android",
+          "android-fragments"
+        ],
+        "creation_date": 1420504128,
+        "question_id": 27790266,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790266/changing-fragments-is-showing-last-fragment-for-1-second"
+      },
+      {
+        "tags": [
+          "css",
+          "html",
+          "twitter-bootstrap",
+          "twitter-bootstrap-3"
+        ],
+        "creation_date": 1420504128,
+        "question_id": 27790267,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790267/bootstrap3-center-navlinks-on-navbar-ignoring-the-brand-image"
+      },
+      {
+        "tags": [
+          "java",
+          "c++",
+          "concurrency",
+          "memory-model",
+          "java-memory-model"
+        ],
+        "creation_date": 1420504130,
+        "question_id": 27790268,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790268/jmm-and-undesirable-use-of-trylock"
+      },
+      {
+        "tags": [
+          "python",
+          "django",
+          "django-models",
+          "django-templates",
+          "django-views"
+        ],
+        "creation_date": 1420504176,
+        "question_id": 27790272,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790272/trying-to-truncate-column-content-in-django-table2"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "swift"
+        ],
+        "creation_date": 1420504202,
+        "question_id": 27790274,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790274/auto-layout-unable-to-satisfy-constraints-when-activating-a-segue"
+      },
+      {
+        "tags": [
+          "php",
+          "arrays",
+          "sorting",
+          "filtering"
+        ],
+        "creation_date": 1420504225,
+        "question_id": 27790276,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790276/intersect-and-sort-an-array-by-keys-based-on-another-array"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "ssis",
+          "sql-server-2012"
+        ],
+        "creation_date": 1420504297,
+        "question_id": 27790284,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790284/can-we-use-a-unc-path-for-sql-server-2012-foreach-file-loop"
+      },
+      {
+        "tags": [
+          "beyondcompare3"
+        ],
+        "creation_date": 1420504331,
+        "question_id": 27790287,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790287/having-troubles-ignoring-custom-unimportant-differences-in-beyond-compare-3"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "tomcat",
+          "spring-boot"
+        ],
+        "creation_date": 1420504332,
+        "question_id": 27790288,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790288/spring-boot-cannot-load-external-jar-during-deployment-to-tomcat"
+      },
+      {
+        "tags": [
+          "java",
+          "for-loop",
+          "int"
+        ],
+        "creation_date": 1420504339,
+        "question_id": 27790289,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790289/how-to-rewrite-this-lines-of-code-in-a-more-elegant-way"
+      },
+      {
+        "tags": [
+          "android",
+          "cordova",
+          "build",
+          "cordova-3"
+        ],
+        "creation_date": 1420504340,
+        "question_id": 27790290,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790290/the-failed-build-cordova-for-android"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "testing",
+          "capybara",
+          "integration-testing",
+          "acceptance-testing"
+        ],
+        "creation_date": 1420504355,
+        "question_id": 27790291,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790291/in-rails-should-i-include-user-input-form-error-flows-on-capybara-or-integrati"
+      },
+      {
+        "tags": [
+          "php",
+          "mysqli",
+          "include"
+        ],
+        "creation_date": 1420504385,
+        "question_id": 27790294,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790294/establishing-connection-from-include-file"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "ruby-on-rails-4"
+        ],
+        "creation_date": 1420504390,
+        "question_id": 27790295,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790295/respond-to-route-to-a-partial-fails-using-rails"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7",
+          "setuptools"
+        ],
+        "creation_date": 1420504394,
+        "question_id": 27790297,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790297/parse-setup-py-without-setuptools"
+      },
+      {
+        "tags": [
+          "php",
+          "cakephp",
+          "cakephp-2.0"
+        ],
+        "creation_date": 1420504406,
+        "question_id": 27790298,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790298/dynamically-created-datasource-not-being-passed-to-associated-models-in-cakephp"
+      },
+      {
+        "tags": [
+          "mysql",
+          "string",
+          "character",
+          "case"
+        ],
+        "creation_date": 1420504445,
+        "question_id": 27790305,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790305/how-can-i-use-case-sensitive-in-mysql-except-the-first-character-of-the-string"
+      },
+      {
+        "tags": [
+          "eclipse",
+          "web-services",
+          "google-app-engine",
+          "tomcat",
+          "web-deployment"
+        ],
+        "creation_date": 1420504488,
+        "question_id": 27790309,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790309/how-to-deploy-web-application-onto-google-app-engine"
+      },
+      {
+        "tags": [
+          "bash",
+          "shell"
+        ],
+        "creation_date": 1420504494,
+        "question_id": 27790310,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790310/how-to-automatically-press-right-arrow-key-in-shell"
+      },
+      {
+        "tags": [
+          "wpf",
+          "vb.net",
+          "text",
+          "selection",
+          "spell-checking"
+        ],
+        "creation_date": 1420504500,
+        "question_id": 27790313,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27790313/text-selection-w-spellingerror-class"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 271
+  }
+}

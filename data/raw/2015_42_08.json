@@ -1,0 +1,1092 @@
+{
+  "retrieved_at": "2026-10-26T19:10:32.237542+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420653600&todate=1420675199&sort=creation&order=asc&pagesize=100&page=8&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420653600,
+    "todate": 1420675199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 8,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "python",
+          "arrays",
+          "bit",
+          "bitarray"
+        ],
+        "creation_date": 1420661529,
+        "question_id": 27827836,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27827836/forming-bytes-bit-by-bit-and-concatenating-bytes"
+      },
+      {
+        "tags": [
+          "matlab",
+          "csv",
+          "file-io",
+          "octave"
+        ],
+        "creation_date": 1420661534,
+        "question_id": 27827838,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827838/position-file-pointer-to-first-instance-of-a-value-in-a-csv-file"
+      },
+      {
+        "tags": [
+          "android",
+          "datetime",
+          "android-sqlite",
+          "android-date"
+        ],
+        "creation_date": 1420661538,
+        "question_id": 27827839,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827839/store-date-time-in-sqlite-database-in-android"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420661545,
+        "question_id": 27827841,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827841/adding-the-values-of-select-input-menus"
+      },
+      {
+        "tags": [
+          "vba",
+          "autocad"
+        ],
+        "creation_date": 1420661552,
+        "question_id": 27827844,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827844/get-the-count-of-items-inside-a-drawing-in-autocad-using-vba"
+      },
+      {
+        "tags": [
+          "php",
+          "function",
+          "arguments"
+        ],
+        "creation_date": 1420661556,
+        "question_id": 27827846,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827846/using-argument-text-in-php-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "lodash"
+        ],
+        "creation_date": 1420661559,
+        "question_id": 27827847,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827847/merge-objects-containing-array"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "posix",
+          "opendir"
+        ],
+        "creation_date": 1420661572,
+        "question_id": 27827850,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827850/passing-opened-dir-as-argument"
+      },
+      {
+        "tags": [
+          "ember.js",
+          "zurb-foundation",
+          "handlebars.js"
+        ],
+        "creation_date": 1420661595,
+        "question_id": 27827855,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827855/how-do-i-output-an-opening-or-closing-tag-in-an-ember-handlebars-if-block"
+      },
+      {
+        "tags": [
+          "clang",
+          "msvc12"
+        ],
+        "creation_date": 1420661603,
+        "question_id": 27827857,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827857/compiling-with-clang-cl-works-but-linking-fails-to-find-basic-libc-symbols"
+      },
+      {
+        "tags": [
+          "php",
+          "unit-testing",
+          "phpunit",
+          "abstract-class"
+        ],
+        "creation_date": 1420661633,
+        "question_id": 27827861,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827861/phpunit-and-abstract-classes-how-to-test-concrete-constructor-that-accepts-para"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "video"
+        ],
+        "creation_date": 1420661652,
+        "question_id": 27827868,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827868/preloading-html5-videos-on-mobile"
+      },
+      {
+        "tags": [
+          "memory",
+          "memory-management",
+          "syntax",
+          "go"
+        ],
+        "creation_date": 1420661664,
+        "question_id": 27827871,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827871/what-the-difference-between-tnil-and-t-newt-golang"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420661669,
+        "question_id": 27827872,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827872/getting-date-format-patterrn-by-country"
+      },
+      {
+        "tags": [
+          "windows"
+        ],
+        "creation_date": 1420661669,
+        "question_id": 27827873,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827873/wordpress-website-latency-issue-pingdom-report-attached"
+      },
+      {
+        "tags": [
+          "c++",
+          "windows-phone"
+        ],
+        "creation_date": 1420661680,
+        "question_id": 27827874,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827874/windows-phone-re-layout-after-software-keyboard-is-shown"
+      },
+      {
+        "tags": [
+          "fortran",
+          "fortran90",
+          "gfortran"
+        ],
+        "creation_date": 1420661705,
+        "question_id": 27827878,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827878/fortran-array-cannot-be-returned-in-function-not-a-dummy-variable"
+      },
+      {
+        "tags": [
+          "asp.net",
+          ".htaccess",
+          "iis",
+          "web-config"
+        ],
+        "creation_date": 1420661744,
+        "question_id": 27827886,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827886/how-to-remove-directory-in-web-config"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "css",
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420661747,
+        "question_id": 27827888,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827888/bootstrap-show-left-column-and-toggle-button-on-small-devices-only"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "iphone",
+          "uinavigationcontroller",
+          "xib"
+        ],
+        "creation_date": 1420661749,
+        "question_id": 27827889,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827889/reused-xib-with-storyboard-add-uiview-to-uinavigationcontroller"
+      },
+      {
+        "tags": [
+          "python",
+          "image",
+          "antialiasing",
+          "pyglet"
+        ],
+        "creation_date": 1420661757,
+        "question_id": 27827890,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827890/displaying-images-without-antialiasing-in-pyglet"
+      },
+      {
+        "tags": [
+          "java",
+          "mockito",
+          "powermock"
+        ],
+        "creation_date": 1420661776,
+        "question_id": 27827892,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827892/i-am-telling-powermockito-spy-to-return-a-value-so-why-is-it-calling-the-actual"
+      },
+      {
+        "tags": [
+          "c#",
+          "regex"
+        ],
+        "creation_date": 1420661778,
+        "question_id": 27827894,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827894/find-and-replace-a-substring-using-regular-expression-in-c"
+      },
+      {
+        "tags": [
+          "powershell",
+          "powershell-remoting",
+          "invoke-command"
+        ],
+        "creation_date": 1420661778,
+        "question_id": 27827893,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827893/remote-powershell-script-fails-to-install-exe"
+      },
+      {
+        "tags": [
+          "c#",
+          "entity-framework-5",
+          "self-reference"
+        ],
+        "creation_date": 1420661795,
+        "question_id": 27827899,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827899/entity-framework-model-first-self-referencing"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "protractor"
+        ],
+        "creation_date": 1420661806,
+        "question_id": 27827903,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827903/calling-browser-get-more-than-once-in-a-test-throws-btstrpd-error-in-protractor"
+      },
+      {
+        "tags": [
+          "git",
+          "gerrit"
+        ],
+        "creation_date": 1420661821,
+        "question_id": 27827908,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827908/how-to-git-config-cherry-pick-xignore-all-space-as-default-for-gerrit"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1420661832,
+        "question_id": 27827910,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827910/nameerror-name-billpayer-is-not-defined"
+      },
+      {
+        "tags": [
+          "jasper-reports"
+        ],
+        "creation_date": 1420661872,
+        "question_id": 27827915,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827915/jasperreport-how-sum-values-of-an-sub-report"
+      },
+      {
+        "tags": [
+          "macos",
+          "lldb"
+        ],
+        "creation_date": 1420661874,
+        "question_id": 27827916,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827916/lldb-application-on-mac-os"
+      },
+      {
+        "tags": [
+          "unix",
+          "ls"
+        ],
+        "creation_date": 1420661898,
+        "question_id": 27827920,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827920/how-to-use-ls-to-ascii-sort-directory-contents-with-symbols-first-then-alphabeti"
+      },
+      {
+        "tags": [
+          "c++",
+          "c++11",
+          "smart-pointers",
+          "pool"
+        ],
+        "creation_date": 1420661909,
+        "question_id": 27827923,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827923/c-object-pool-that-provides-items-as-smart-pointers-that-are-returned-to-pool"
+      },
+      {
+        "tags": [
+          "polymer"
+        ],
+        "creation_date": 1420661925,
+        "question_id": 27827927,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827927/how-to-bind-polymer-custom-element-to-the-contents"
+      },
+      {
+        "tags": [
+          "c",
+          "function",
+          "parameters",
+          "scope",
+          "language-lawyer"
+        ],
+        "creation_date": 1420661930,
+        "question_id": 27827930,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827930/scope-of-parameters-in-a-complex-function-definition"
+      },
+      {
+        "tags": [
+          "c#",
+          "selenium",
+          "selenium-webdriver"
+        ],
+        "creation_date": 1420661936,
+        "question_id": 27827931,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827931/catching-timeout-exception-in-selenium"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "kendo-ui"
+        ],
+        "creation_date": 1420661944,
+        "question_id": 27827933,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827933/ng-change-of-first-drop-down-not-setting-default-selected-value-for-second-drop"
+      },
+      {
+        "tags": [
+          "tomcat",
+          "server.xml"
+        ],
+        "creation_date": 1420661960,
+        "question_id": 27827939,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827939/custom-attributes-in-tomcats-server-xml"
+      },
+      {
+        "tags": [
+          "odoo"
+        ],
+        "creation_date": 1420661968,
+        "question_id": 27827940,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827940/installation-wizard-for-a-custom-module-odoo"
+      },
+      {
+        "tags": [
+          "qt",
+          "qt5"
+        ],
+        "creation_date": 1420661997,
+        "question_id": 27827950,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27827950/signals-and-slots-issue-in-inherited-object-qt5"
+      },
+      {
+        "tags": [
+          "tablesorter",
+          "resizable"
+        ],
+        "creation_date": 1420662002,
+        "question_id": 27827952,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827952/tablesorter-resizable-with-reorder-not-working-together"
+      },
+      {
+        "tags": [
+          "javascript",
+          "arrays"
+        ],
+        "creation_date": 1420662023,
+        "question_id": 27827958,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827958/how-do-i-pass-values-from-my-array-variable-into-a-function-call-inside-a-for-lo"
+      },
+      {
+        "tags": [
+          "android",
+          "android-animation",
+          "android-5.0-lollipop"
+        ],
+        "creation_date": 1420662031,
+        "question_id": 27827960,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827960/rotate-animation-elevation"
+      },
+      {
+        "tags": [
+          "aem"
+        ],
+        "creation_date": 1420662037,
+        "question_id": 27827961,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827961/how-to-programmatically-convert-tif-images-to-jpeg-in-adobe-cq5-5"
+      },
+      {
+        "tags": [
+          "r",
+          "shiny"
+        ],
+        "creation_date": 1420662052,
+        "question_id": 27827962,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827962/r-shiny-bi-directional-reactive-widgets"
+      },
+      {
+        "tags": [
+          "matlab",
+          "oop",
+          "inheritance",
+          "constructor"
+        ],
+        "creation_date": 1420662071,
+        "question_id": 27827967,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827967/vary-number-of-inputs-for-superclass"
+      },
+      {
+        "tags": [
+          "markdown",
+          "doxygen",
+          "font-style"
+        ],
+        "creation_date": 1420662071,
+        "question_id": 27827966,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827966/how-can-i-use-strikethrough-in-the-doxygens-markdown"
+      },
+      {
+        "tags": [
+          "excel",
+          "excel-formula"
+        ],
+        "creation_date": 1420662085,
+        "question_id": 27827969,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827969/excel-formula-to-create-an-array-of-lookup-values-based-on-a-criteria"
+      },
+      {
+        "tags": [
+          "ios",
+          "iphone",
+          "keyboard",
+          "uitextfield",
+          "custom-keyboard"
+        ],
+        "creation_date": 1420662101,
+        "question_id": 27827970,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827970/ios-keyboards-are-different-height"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420662109,
+        "question_id": 27827971,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827971/is-there-a-way-to-display-use-the-user-input-to-perform-various-functions-like-c"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css"
+        ],
+        "creation_date": 1420662111,
+        "question_id": 27827972,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827972/making-an-image-slide-with-a-timer"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "angularjs-ng-click"
+        ],
+        "creation_date": 1420662111,
+        "question_id": 27827974,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827974/how-to-stack-multiple-actions-functions-on-ng-click"
+      },
+      {
+        "tags": [
+          "python",
+          "multithreading"
+        ],
+        "creation_date": 1420662114,
+        "question_id": 27827976,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827976/pause-threading-timer-for-1hr"
+      },
+      {
+        "tags": [
+          "ember.js",
+          "controller",
+          "partials"
+        ],
+        "creation_date": 1420662135,
+        "question_id": 27827979,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827979/ember-js-reference-parent-views-controller-variable-in-partial"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c"
+        ],
+        "creation_date": 1420662154,
+        "question_id": 27827980,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827980/how-do-you-add-a-right-bar-button-to-a-uinavigationcontroller-when-the-view-has"
+      },
+      {
+        "tags": [
+          "javascript",
+          "svg",
+          "d3.js"
+        ],
+        "creation_date": 1420662155,
+        "question_id": 27827981,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827981/how-to-create-shaded-path-in-d3-and-svg"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7",
+          "selenium",
+          "selenium-webdriver"
+        ],
+        "creation_date": 1420662161,
+        "question_id": 27827982,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827982/how-to-dynamically-read-a-specific-cell-value-in-a-table-using-selenium-and-pyth"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js"
+        ],
+        "creation_date": 1420662162,
+        "question_id": 27827983,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827983/forever-monitor-kill-child-with-specific-uid"
+      },
+      {
+        "tags": [
+          "c#",
+          "exchangewebservices"
+        ],
+        "creation_date": 1420662166,
+        "question_id": 27827987,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827987/creating-emailmessage-object-without-access-to-internet-connection"
+      },
+      {
+        "tags": [
+          "java",
+          "class",
+          "object"
+        ],
+        "creation_date": 1420662177,
+        "question_id": 27827992,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27827992/how-do-you-change-the-contents-of-an-object-in-java"
+      },
+      {
+        "tags": [
+          "android",
+          "gradle",
+          "android-studio"
+        ],
+        "creation_date": 1420662188,
+        "question_id": 27827994,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827994/copy-a-different-config-file-for-each-android-studio-gradle-build-type"
+      },
+      {
+        "tags": [
+          "android",
+          "security",
+          "android-4.2-jelly-bean",
+          "blocked",
+          "samsung-knox"
+        ],
+        "creation_date": 1420662189,
+        "question_id": 27827995,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827995/android-jelly-bean-4-2-2-blocked-system-access"
+      },
+      {
+        "tags": [
+          "visual-c++",
+          "c++11",
+          "visual-studio-2008",
+          "visual-studio-2013"
+        ],
+        "creation_date": 1420662212,
+        "question_id": 27828002,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828002/calling-vs-2013-dll-from-vs-2008-dll"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420662216,
+        "question_id": 27828003,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828003/indexof-return-value-condition"
+      },
+      {
+        "tags": [
+          "jsf",
+          "jsf-2",
+          "primefaces",
+          "datatable"
+        ],
+        "creation_date": 1420662241,
+        "question_id": 27828008,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828008/how-to-remove-element-from-datatable"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "authentication",
+          "authlogic",
+          "pundit"
+        ],
+        "creation_date": 1420662249,
+        "question_id": 27828009,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828009/authlogic-and-pundit-issue-current-user-not-being-populated"
+      },
+      {
+        "tags": [
+          "ruby",
+          "rubymine-7"
+        ],
+        "creation_date": 1420662270,
+        "question_id": 27828015,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828015/i-start-new-nulled-gem-project-in-ruby-mine-and-have-error"
+      },
+      {
+        "tags": [
+          "python",
+          "scrapy",
+          "web-crawler"
+        ],
+        "creation_date": 1420662273,
+        "question_id": 27828017,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828017/scrapy-parse-outgoing-domain-but-do-not-follow-links"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "google-chrome",
+          "positioning"
+        ],
+        "creation_date": 1420662287,
+        "question_id": 27828023,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828023/chrome-39-0-2171-95-fixed-position-issue"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "file"
+        ],
+        "creation_date": 1420662288,
+        "question_id": 27828024,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828024/android-r-file-wont-show-up-i-imported-pictures-into-drawable-with-the-wrong-fo"
+      },
+      {
+        "tags": [
+          "wpf",
+          "menu",
+          "alignment",
+          "dock"
+        ],
+        "creation_date": 1420662308,
+        "question_id": 27828026,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828026/how-can-i-have-a-right-alignment-menu-fill-top-in-wpf"
+      },
+      {
+        "tags": [
+          "mysql",
+          "ruby-on-rails"
+        ],
+        "creation_date": 1420662335,
+        "question_id": 27828030,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828030/search-query-based-on-associatin-rails4"
+      },
+      {
+        "tags": [
+          "jquery",
+          "html",
+          "forms"
+        ],
+        "creation_date": 1420662339,
+        "question_id": 27828032,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828032/disabling-submit-button-after-click-stops-form-from-submitting-properly"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "forms",
+          "get",
+          "anchor"
+        ],
+        "creation_date": 1420662370,
+        "question_id": 27828037,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828037/how-to-jump-to-anchor-tag-on-php-page-after-html-form-submits"
+      },
+      {
+        "tags": [
+          "ios",
+          "size-classes",
+          "iphone-6-plus"
+        ],
+        "creation_date": 1420662371,
+        "question_id": 27828038,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828038/how-do-i-handle-iphone-6s-pluss-font-size"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server-2012"
+        ],
+        "creation_date": 1420662375,
+        "question_id": 27828039,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828039/compare-two-sql-tables-exact-same-columns-add-missing-rows"
+      },
+      {
+        "tags": [
+          "java",
+          "jmeter"
+        ],
+        "creation_date": 1420662385,
+        "question_id": 27828042,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828042/in-jmeter-how-do-i-set-a-variable-number-of-threads-using-a-beanshell-sampler-va"
+      },
+      {
+        "tags": [
+          "go",
+          "websocket",
+          "socket.io",
+          "cors"
+        ],
+        "creation_date": 1420662409,
+        "question_id": 27828052,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828052/go-socket-io-http-wss-on-one-port-with-cors"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "bluetooth",
+          "android-arrayadapter"
+        ],
+        "creation_date": 1420662409,
+        "question_id": 27828053,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828053/android-studio-cannot-resolve-symbol-items-in-array-adapter"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "angular-ui-router"
+        ],
+        "creation_date": 1420662415,
+        "question_id": 27828057,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828057/how-can-i-show-a-full-screen-view-with-angulars-ui-router"
+      },
+      {
+        "tags": [
+          "c#",
+          "xna"
+        ],
+        "creation_date": 1420662437,
+        "question_id": 27828060,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828060/convert-a-string-into-a-name-class"
+      },
+      {
+        "tags": [
+          "c#",
+          "dll"
+        ],
+        "creation_date": 1420662504,
+        "question_id": 27828071,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828071/logging-from-a-dll-retrieve-calling-method-name-above-log-put"
+      },
+      {
+        "tags": [
+          "http",
+          "mule",
+          "outbound"
+        ],
+        "creation_date": 1420662518,
+        "question_id": 27828075,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828075/mule-esb-synchronous-until-successful-payload-modification"
+      },
+      {
+        "tags": [
+          "c"
+        ],
+        "creation_date": 1420662526,
+        "question_id": 27828078,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828078/got-segmention-fault-in-my-function-after-do-malloc-for-char"
+      },
+      {
+        "tags": [
+          "java",
+          "swing",
+          "button",
+          "refresh",
+          "listener"
+        ],
+        "creation_date": 1420662527,
+        "question_id": 27828079,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828079/refresh-java-program-with-button"
+      },
+      {
+        "tags": [
+          "java",
+          "loops",
+          "for-loop"
+        ],
+        "creation_date": 1420662547,
+        "question_id": 27828082,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828082/improve-rowcol-iteration-efficiency-java"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "web-services",
+          "google-app-engine",
+          "amazon-web-services"
+        ],
+        "creation_date": 1420662553,
+        "question_id": 27828085,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828085/can-aws-be-used-as-android-back-end-or-aws-is-used-by-back-end-program"
+      },
+      {
+        "tags": [
+          "ember.js",
+          "ember-cli",
+          "ember-controllers"
+        ],
+        "creation_date": 1420662573,
+        "question_id": 27828090,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828090/subdirectories-within-ember-controller-not-working"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420662608,
+        "question_id": 27828096,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828096/problems-with-a-foreach-loop-in-a-simplexmlelement"
+      },
+      {
+        "tags": [
+          "ios",
+          "testing",
+          "in-app-purchase"
+        ],
+        "creation_date": 1420662614,
+        "question_id": 27828098,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828098/in-app-purchase-testing-not-returning-product-identifier"
+      },
+      {
+        "tags": [
+          "rebus"
+        ],
+        "creation_date": 1420662627,
+        "question_id": 27828099,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828099/how-to-configure-a-rebus-endpoint-to-run-as-a-service"
+      },
+      {
+        "tags": [
+          "karma-runner"
+        ],
+        "creation_date": 1420662641,
+        "question_id": 27828101,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828101/karma-closure-gives-missing-dependency-error-even-for-the-demo-app"
+      },
+      {
+        "tags": [
+          "groovy",
+          "floating-point"
+        ],
+        "creation_date": 1420662655,
+        "question_id": 27828103,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828103/why-does-groovy-perform-floating-point-arithmetic-this-way"
+      },
+      {
+        "tags": [
+          "javascript",
+          "unit-testing",
+          "jasmine",
+          "jasmine2.0"
+        ],
+        "creation_date": 1420662674,
+        "question_id": 27828108,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828108/jasmine-async-testing"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420662691,
+        "question_id": 27828111,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828111/need-help-adding-a-sound-effect-to-my-image-button-in-tumblr-blog-using-html"
+      },
+      {
+        "tags": [
+          "c++",
+          "algorithm",
+          "avl-tree"
+        ],
+        "creation_date": 1420662699,
+        "question_id": 27828113,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828113/avl-tree-most-efficient-way-to-print-a-value-by-location-c"
+      },
+      {
+        "tags": [
+          "c#",
+          "messaging",
+          "cqrs"
+        ],
+        "creation_date": 1420662708,
+        "question_id": 27828118,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828118/could-there-ever-be-a-reliable-in-memory-service-bus-in-a-c-solution-using-the"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420662711,
+        "question_id": 27828119,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828119/adding-tabs-to-action-bar"
+      },
+      {
+        "tags": [
+          "r",
+          "svm"
+        ],
+        "creation_date": 1420662712,
+        "question_id": 27828120,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828120/error-with-custom-svm-model-for-tuning-in-caret"
+      },
+      {
+        "tags": [
+          "javascript",
+          "dojo"
+        ],
+        "creation_date": 1420662720,
+        "question_id": 27828122,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828122/nested-border-container-programmatic-dojo"
+      },
+      {
+        "tags": [
+          "solaris",
+          "ksh"
+        ],
+        "creation_date": 1420662737,
+        "question_id": 27828124,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27828124/ksh-error-remove-from-list"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 152
+  }
+}

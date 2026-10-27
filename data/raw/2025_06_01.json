@@ -1,0 +1,1169 @@
+{
+  "retrieved_at": "2026-10-26T19:02:59.275887+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736143200&todate=1736164799&sort=creation&order=asc&pagesize=100&page=1&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736143200,
+    "todate": 1736164799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 1,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "spring",
+          "spring-boot",
+          "spring-integration",
+          "spring-el"
+        ],
+        "creation_date": 1736143732,
+        "question_id": 79332212,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332212/org-springframework-expression-spel-spelevaluationexception-el1005e-type-canno"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart",
+          "gradle"
+        ],
+        "creation_date": 1736144020,
+        "question_id": 79332218,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332218/how-to-fix-error-gradle-task-assembledebug-failed-with-exit-code-1e"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "apache-kafka"
+        ],
+        "creation_date": 1736144023,
+        "question_id": 79332219,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332219/how-to-resolve-the-error-while-creating-topic-in-kafka"
+      },
+      {
+        "tags": [
+          "react-native",
+          "react-native-maps"
+        ],
+        "creation_date": 1736144067,
+        "question_id": 79332221,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332221/react-native-maps-is-not-displaying-my-location-and-markers-every-time-i-render"
+      },
+      {
+        "tags": [
+          "android",
+          "flutter",
+          "dynamic-linking",
+          "android-deep-link"
+        ],
+        "creation_date": 1736144479,
+        "question_id": 79332237,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332237/how-to-set-my-android-app-as-the-default-for-https-links-using-flutter-and-dynam"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "vue.js",
+          "build",
+          "vite",
+          "lamp"
+        ],
+        "creation_date": 1736144614,
+        "question_id": 79332243,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332243/inserting-a-react-app-into-a-div-in-a-traditional-lamp-based-website"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "leaflet",
+          "react-leaflet"
+        ],
+        "creation_date": 1736144630,
+        "question_id": 79332244,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332244/rendering-context-directly-is-not-supported-and-will-be-removed-in-a-future-ma"
+      },
+      {
+        "tags": [
+          "google-cloud-platform",
+          "google-cloud-spanner"
+        ],
+        "creation_date": 1736144697,
+        "question_id": 79332247,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332247/how-to-create-temporary-tables-in-spanner"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "azure",
+          "microsoft-graph-api",
+          "outlook-addin",
+          "msal-react"
+        ],
+        "creation_date": 1736144990,
+        "question_id": 79332256,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332256/how-to-avoid-msal-popup-for-account-selection-in-outlook-add-in-with-react"
+      },
+      {
+        "tags": [
+          "python",
+          "visual-studio",
+          "shell",
+          "vs-code",
+          "terminal"
+        ],
+        "creation_date": 1736144993,
+        "question_id": 79332257,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332257/cant-access-previous-bash-cmd-using-up-arrow-key-in-vs-code"
+      },
+      {
+        "tags": [
+          "webpack",
+          "google-chrome-extension"
+        ],
+        "creation_date": 1736145043,
+        "question_id": 79332259,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332259/can-one-overwrite-a-javascript-function-from-a-package-bundled-with-webpack-fr"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy"
+        ],
+        "creation_date": 1736145110,
+        "question_id": 79332262,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332262/in-python-numpy-what-does-the-slicing-syntax-xynj-n-an-integer-mean"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1736145449,
+        "question_id": 79332269,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332269/getting-illegal-group-reference-due-to"
+      },
+      {
+        "tags": [
+          "python",
+          "web-scraping",
+          "beautifulsoup",
+          "python-requests"
+        ],
+        "creation_date": 1736145650,
+        "question_id": 79332275,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332275/why-does-finding-an-element-by-a-specific-class-result-in-empty-outcome"
+      },
+      {
+        "tags": [
+          "xcode",
+          "xcode16"
+        ],
+        "creation_date": 1736145671,
+        "question_id": 79332278,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332278/xcode-16-build-fail-issue-method-does-not-override-method-from-its-superclass"
+      },
+      {
+        "tags": [
+          "android",
+          "android-studio",
+          "intellij-idea"
+        ],
+        "creation_date": 1736145695,
+        "question_id": 79332279,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332279/do-not-see-the-android-tool-logcat-device-explorer-in-intellij-idea-2024"
+      },
+      {
+        "tags": [
+          "shell"
+        ],
+        "creation_date": 1736145727,
+        "question_id": 79332280,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332280/testing-to-see-if-folder-exists-is-not-working-as-expected-in-shell-script"
+      },
+      {
+        "tags": [
+          "shell",
+          "robotframework",
+          "coccinelle"
+        ],
+        "creation_date": 1736146241,
+        "question_id": 79332294,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332294/argument-c-doesnt-work-in-robot-framework-keyword-run-process"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "video",
+          "ffmpeg",
+          "h.264"
+        ],
+        "creation_date": 1736146307,
+        "question_id": 79332297,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332297/failed-to-use-h264-v4l2-codec-in-ffmpeg-to-decode-video"
+      },
+      {
+        "tags": [
+          "conv-neural-network",
+          "lstm",
+          "loss",
+          "bilstm",
+          "spike"
+        ],
+        "creation_date": 1736146587,
+        "question_id": 79332301,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332301/loss-and-accuracy-curves-with-spikes"
+      },
+      {
+        "tags": [
+          "xml",
+          "apache-spark",
+          "pyspark",
+          "databricks",
+          "elt"
+        ],
+        "creation_date": 1736146693,
+        "question_id": 79332304,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332304/databricks-loading-files-with-a-prefix-and-by-timestamp-metadata-from-folder"
+      },
+      {
+        "tags": [
+          "swift",
+          "memory-leaks",
+          "uikit",
+          "uiactivityviewcontroller"
+        ],
+        "creation_date": 1736146720,
+        "question_id": 79332307,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332307/memory-leaks-when-using-links-in-uiactivityviewcontroller"
+      },
+      {
+        "tags": [
+          "css",
+          "flexbox",
+          "responsive-design",
+          "grid-layout"
+        ],
+        "creation_date": 1736146978,
+        "question_id": 79332314,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332314/how-to-ensure-uniform-product-card-layout-with-min-height-and-responsive-design"
+      },
+      {
+        "tags": [
+          "automation",
+          "embed",
+          "screenshot",
+          "rpa"
+        ],
+        "creation_date": 1736147070,
+        "question_id": 79332321,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332321/embed-the-robot-screenshot-to-the-receipt-pdf-file-in-rpa"
+      },
+      {
+        "tags": [
+          "python",
+          "pydantic"
+        ],
+        "creation_date": 1736147179,
+        "question_id": 79332328,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332328/pydantic-model-how-to-exclude-field-from-being-hashed-eq-compared"
+      },
+      {
+        "tags": [
+          "flutter",
+          "windows",
+          "dart",
+          "exe"
+        ],
+        "creation_date": 1736147359,
+        "question_id": 79332335,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332335/is-it-possible-to-open-external-exe-in-flutter-in-same-window"
+      },
+      {
+        "tags": [
+          "c++",
+          "vs-code",
+          "debugging",
+          "cmake",
+          "gdb"
+        ],
+        "creation_date": 1736147540,
+        "question_id": 79332341,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332341/avoid-library-code-when-debugging-c-lambda-function"
+      },
+      {
+        "tags": [
+          "c#",
+          "redis"
+        ],
+        "creation_date": 1736147548,
+        "question_id": 79332342,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332342/how-to-update-cursor-value-in-redis-scan-c"
+      },
+      {
+        "tags": [
+          "iot",
+          "thingsboard"
+        ],
+        "creation_date": 1736147601,
+        "question_id": 79332343,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332343/how-to-calculate-and-visualize-flowrate-difference-between-two-devices-in-things"
+      },
+      {
+        "tags": [
+          "python",
+          "twitter",
+          "tweepy",
+          "twitter-api-v1",
+          "jsondecodeerror"
+        ],
+        "creation_date": 1736147683,
+        "question_id": 79332347,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332347/tweepy-cannot-upload-media-using-twitter-api-v1-error-type-simplejson-errors"
+      },
+      {
+        "tags": [
+          "swift",
+          "xcode",
+          "swiftui",
+          "onchange"
+        ],
+        "creation_date": 1736147695,
+        "question_id": 79332349,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332349/swiftui-view-method-onchangeof-scenephase-does-not-accept-2-argument-action"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf",
+          "xaml",
+          "textbox"
+        ],
+        "creation_date": 1736147703,
+        "question_id": 79332350,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332350/textbox-in-scrollviewer-delete-outdated-lines-in-wpf"
+      },
+      {
+        "tags": [
+          "python",
+          "docker",
+          "docker-compose",
+          "environment-variables"
+        ],
+        "creation_date": 1736147797,
+        "question_id": 79332358,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332358/docker-compose-enviroment-varibles-cannot-be-read-by-application"
+      },
+      {
+        "tags": [
+          "modelica",
+          "openmodelica"
+        ],
+        "creation_date": 1736147802,
+        "question_id": 79332359,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332359/modelica-sliding-mass-valve-implementing-a-hard-stop-for-min-and-max-displacem"
+      },
+      {
+        "tags": [
+          "google-sheets"
+        ],
+        "creation_date": 1736147844,
+        "question_id": 79332364,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332364/averageif-a-value-appears-in-other-columns-of-a-row-in-google-sheets"
+      },
+      {
+        "tags": [
+          "c++",
+          "linux",
+          "gcc",
+          "clang",
+          "libstdc++"
+        ],
+        "creation_date": 1736148070,
+        "question_id": 79332377,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332377/how-to-make-c-be-as-economical-with-memory-as-c-while-still-using-stl"
+      },
+      {
+        "tags": [
+          "apache-kafka",
+          "apache-flink",
+          "avro",
+          "confluent-schema-registry"
+        ],
+        "creation_date": 1736148102,
+        "question_id": 79332378,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332378/org-apache-flink-formats-avro-avrodeserializationschema-org-apache-flink-format"
+      },
+      {
+        "tags": [
+          "ios",
+          "contacts",
+          "ios-extensions"
+        ],
+        "creation_date": 1736148413,
+        "question_id": 79332385,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332385/contactprovidermanager-throws-contactprovidererror-domainnotregistered-on-init"
+      },
+      {
+        "tags": [
+          "vuejs3",
+          "amazon-cognito",
+          "aws-sdk",
+          "aws-amplify",
+          "aws-amplify-vue"
+        ],
+        "creation_date": 1736148469,
+        "question_id": 79332388,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332388/how-to-list-users-from-amazon-cognito-pool-using-logged-in-users-role-and-aws-sd"
+      },
+      {
+        "tags": [
+          "database",
+          "amazon-web-services",
+          "microservices",
+          "database-connection",
+          "amazon-ecs"
+        ],
+        "creation_date": 1736148706,
+        "question_id": 79332391,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332391/database-connection-scaling-in-aws-ecs-handling-increased-load-in-a-containeriz"
+      },
+      {
+        "tags": [
+          "jmeter",
+          "iso8583",
+          "jpos"
+        ],
+        "creation_date": 1736149529,
+        "question_id": 79332411,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332411/jmeter-iso8583-jpos-plugin-invalid-padding"
+      },
+      {
+        "tags": [
+          "regex",
+          "linux",
+          "string",
+          "sed"
+        ],
+        "creation_date": 1736149632,
+        "question_id": 79332416,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332416/delete-lines-in-file-if-they-contain-current-working-directory"
+      },
+      {
+        "tags": [
+          "kdb+"
+        ],
+        "creation_date": 1736149831,
+        "question_id": 79332423,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332423/vectorizing-function-calls-for-use-with-update"
+      },
+      {
+        "tags": [
+          "c++",
+          "constexpr",
+          "string-view",
+          "constant-expression"
+        ],
+        "creation_date": 1736149960,
+        "question_id": 79332425,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332425/how-to-construct-a-constexpr-static-string-from-constexpr-stdstring-view"
+      },
+      {
+        "tags": [
+          "ocaml",
+          "utop"
+        ],
+        "creation_date": 1736149975,
+        "question_id": 79332426,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332426/why-a-named-function-is-still-displayed-as-anonymous-in-utop"
+      },
+      {
+        "tags": [
+          "java",
+          "binding",
+          "webrtc",
+          "java-22",
+          "jextract"
+        ],
+        "creation_date": 1736150055,
+        "question_id": 79332428,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332428/java-jextract-for-webrtc-header-files"
+      },
+      {
+        "tags": [
+          "ios",
+          "swiftui",
+          "multidatepicker"
+        ],
+        "creation_date": 1736150459,
+        "question_id": 79332438,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332438/multidatepicker-issue-while-selecting-more-than-4-months-interval-in-swiftui"
+      },
+      {
+        "tags": [
+          "javascript",
+          "electron",
+          "ipcrenderer"
+        ],
+        "creation_date": 1736150727,
+        "question_id": 79332448,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332448/window-electron-is-undefined-after-exposing-ipcrenderer-with-contextbridge-in-el"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "npm",
+          "create-react-app",
+          "react-scripts"
+        ],
+        "creation_date": 1736150871,
+        "question_id": 79332452,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332452/trying-to-do-a-react-tutorial-and-getting-eresolve-unable-to-resolve-dependency"
+      },
+      {
+        "tags": [
+          "android",
+          "flutter",
+          "firebase",
+          "dart"
+        ],
+        "creation_date": 1736151260,
+        "question_id": 79332465,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332465/com-google-gmsgoogle-services4-4-1-problem-how-to-solve"
+      },
+      {
+        "tags": [
+          "git",
+          "libgit2",
+          "go-git"
+        ],
+        "creation_date": 1736151878,
+        "question_id": 79332480,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332480/how-to-truncate-git-commit-history-to-reduce-object-count"
+      },
+      {
+        "tags": [
+          "asp.net",
+          ".net",
+          "wcf",
+          "cache-control"
+        ],
+        "creation_date": 1736152011,
+        "question_id": 79332486,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332486/how-can-i-ensure-aspx-pages-don-t-cache-after-web-config-updates-in-asp-net-web"
+      },
+      {
+        "tags": [
+          "style-dictionary"
+        ],
+        "creation_date": 1736152062,
+        "question_id": 79332488,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332488/style-dictionary-reference-error-with-nested-namespace-from-figma-tokens-studio"
+      },
+      {
+        "tags": [
+          "android",
+          "c++",
+          "java-native-interface",
+          "fmod"
+        ],
+        "creation_date": 1736152137,
+        "question_id": 79332491,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332491/fmod-crashes-in-android-java-object-null"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-monitoring",
+          "azure-alerts"
+        ],
+        "creation_date": 1736152144,
+        "question_id": 79332492,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332492/custom-webhook-payloads-for-smart-alerts-with-common-alert-schema-in-azure-monit"
+      },
+      {
+        "tags": [
+          "javascript",
+          "python",
+          "python-3.x",
+          "flask",
+          "bam"
+        ],
+        "creation_date": 1736152520,
+        "question_id": 79332505,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332505/unable-to-upload-bam-files-to-flask-backend-argument-must-be-string-bytes-or-u"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-databricks",
+          "partitioning",
+          "azure-data-lake",
+          "delta-lake"
+        ],
+        "creation_date": 1736152654,
+        "question_id": 79332513,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332513/delta-table-partitioning-why-only-for-tables-bigger-than-1-tb"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas",
+          "group-by",
+          "sum",
+          "ffill"
+        ],
+        "creation_date": 1736152760,
+        "question_id": 79332517,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332517/combination-of-ffil-and-sum-in-pandas-dataframe"
+      },
+      {
+        "tags": [
+          "javascript",
+          "python",
+          "bokeh"
+        ],
+        "creation_date": 1736152858,
+        "question_id": 79332523,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332523/initialize-global-variable-in-bokeh-and-use-it-in-handler-code"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css",
+          "grid",
+          "css-position"
+        ],
+        "creation_date": 1736152946,
+        "question_id": 79332525,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332525/sidebar-navigation-sticky-position-move-little-upwards-at-end-of-scroll-why"
+      },
+      {
+        "tags": [
+          "ios",
+          "app-store-connect",
+          "testflight"
+        ],
+        "creation_date": 1736153655,
+        "question_id": 79332549,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332549/error-while-trying-to-add-testflight-user-to-a-beta-group-using-appstoreconnect"
+      },
+      {
+        "tags": [
+          "java",
+          "tesseract",
+          "tess4j",
+          "tesseract-5.x"
+        ],
+        "creation_date": 1736153742,
+        "question_id": 79332550,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332550/when-using-tess4j-to-read-a-pdf-image-only-the-first-heading-line-is-returned-a"
+      },
+      {
+        "tags": [
+          ".net",
+          "openid-connect"
+        ],
+        "creation_date": 1736153911,
+        "question_id": 79332552,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332552/exception-an-error-was-encountered-while-handling-the-remote-login-correlation"
+      },
+      {
+        "tags": [
+          "android",
+          "android-webview",
+          "android-permissions"
+        ],
+        "creation_date": 1736153963,
+        "question_id": 79332555,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332555/neterr-access-denied-despite-setting-all-relevant-webview-flags"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "mongodb-query",
+          "aggregation-framework"
+        ],
+        "creation_date": 1736153997,
+        "question_id": 79332556,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332556/deconstruct-array-field-of-single-document-to-output-documents-in-mongo"
+      },
+      {
+        "tags": [
+          "python",
+          "xml",
+          "odoo",
+          "odoo-17"
+        ],
+        "creation_date": 1736154310,
+        "question_id": 79332567,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332567/assertionerror-element-odoo-has-extra-content-data-line-2"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "amazon-s3",
+          "amazon-iam"
+        ],
+        "creation_date": 1736154320,
+        "question_id": 79332568,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332568/how-can-two-iam-statements-have-the-same-sid"
+      },
+      {
+        "tags": [
+          "python",
+          "entity",
+          "ursina"
+        ],
+        "creation_date": 1736154426,
+        "question_id": 79332571,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332571/why-on-click-action-doesnt-work-on-ursina"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css",
+          "cssom"
+        ],
+        "creation_date": 1736154519,
+        "question_id": 79332575,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332575/wrong-order-of-css-declarations-when-using-all-unset-and-csstext"
+      },
+      {
+        "tags": [
+          "json",
+          "lotus-notes",
+          "lotus-domino",
+          "lotusscript",
+          "lotus"
+        ],
+        "creation_date": 1736154761,
+        "question_id": 79332583,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332583/message-lsxbe-unhandled-json-datatype-0-from-agent-on-server-when-parsing-js"
+      },
+      {
+        "tags": [
+          "azure",
+          "single-page-application",
+          "azure-ad-msal",
+          "refresh-token",
+          "microsoft-entra-id"
+        ],
+        "creation_date": 1736154990,
+        "question_id": 79332588,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332588/get-a-refresh-token-of-an-spa-application-using-microsoft-entraazure-ad"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "creation_date": 1736155077,
+        "question_id": 79332592,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332592/how-to-continue-with-execution-instead-of-waiting-for-the-result-of-a-single-lin"
+      },
+      {
+        "tags": [
+          "langchain",
+          "py-langchain",
+          "langgraph"
+        ],
+        "creation_date": 1736155255,
+        "question_id": 79332599,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332599/using-langgraph-instruct-anthropic-to-disable-parallel-tool-use"
+      },
+      {
+        "tags": [
+          "java",
+          "docx",
+          "docx4j",
+          "footnotes"
+        ],
+        "creation_date": 1736155323,
+        "question_id": 79332604,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332604/how-to-add-footnotes-to-a-docx-file-using-docx4j-library"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "security"
+        ],
+        "creation_date": 1736155412,
+        "question_id": 79332606,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332606/how-to-create-dynamic-api-route-protection-with-large-scale-systems-and-distribu"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "consul",
+          "openfeign"
+        ],
+        "creation_date": 1736155415,
+        "question_id": 79332607,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332607/spring-cloud-openfeign-integrate-consul1-20-1-cannot-be-called-normally-ensure"
+      },
+      {
+        "tags": [
+          "c++",
+          "windows",
+          "heap-memory",
+          "windbg",
+          "internals"
+        ],
+        "creation_date": 1736155547,
+        "question_id": 79332610,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332610/observing-the-default-process-heap-getting-created-breakpoint-on-heap-creation"
+      },
+      {
+        "tags": [
+          "node.js",
+          "mongodb",
+          "express",
+          "mongoose",
+          "mongoose-schema"
+        ],
+        "creation_date": 1736155595,
+        "question_id": 79332612,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332612/why-am-i-getting-the-error-cannot-read-properties-of-undefined-reading-findone"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba",
+          "if-statement",
+          "conditional-statements"
+        ],
+        "creation_date": 1736155736,
+        "question_id": 79332615,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332615/group-of-conditions-in-if-then-statements-in-vba"
+      },
+      {
+        "tags": [
+          "c++",
+          "ios",
+          "swift",
+          "xcode"
+        ],
+        "creation_date": 1736155746,
+        "question_id": 79332616,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332616/multiple-definitions-of-symbol-swift-c"
+      },
+      {
+        "tags": [
+          "windows",
+          "visual-c++",
+          "visual-studio-2022",
+          "msvcrt"
+        ],
+        "creation_date": 1736156546,
+        "question_id": 79332645,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332645/getting-bound-microsoft-visual-c-runtime-version"
+      },
+      {
+        "tags": [
+          "php",
+          "tcpdf"
+        ],
+        "creation_date": 1736156617,
+        "question_id": 79332646,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332646/logo-not-displayed-in-quotes-generated-by-tcpdf-with-perfex"
+      },
+      {
+        "tags": [
+          "sql",
+          "database",
+          "group-by",
+          "grouping",
+          "partitioning"
+        ],
+        "creation_date": 1736156641,
+        "question_id": 79332648,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332648/retrieve-rows-with-max-date-only-when-duplicate-when-there-is-more-than-one-colu"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "reactive-programming",
+          "r2dbc",
+          "r2dbc-mysql"
+        ],
+        "creation_date": 1736156667,
+        "question_id": 79332650,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332650/r2dbctimeoutexception-connection-acquisition-timed-out-despite-sufficient-max-c"
+      },
+      {
+        "tags": [
+          "ballerina-swan-lake"
+        ],
+        "creation_date": 1736156682,
+        "question_id": 79332651,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332651/ballerina-does-not-support-type-field-in-a-json-map"
+      },
+      {
+        "tags": [
+          "pandoc",
+          "asciidoc"
+        ],
+        "creation_date": 1736156977,
+        "question_id": 79332660,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332660/pandoc-is-ignoring-loosing-custom-styles-when-exporting-to-ms-word"
+      },
+      {
+        "tags": [
+          "go",
+          "protocol-buffers",
+          "grpc",
+          "grpc-go",
+          "protoc"
+        ],
+        "creation_date": 1736157112,
+        "question_id": 79332663,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332663/expected-required-optional-or-repeated-grpc-golang"
+      },
+      {
+        "tags": [
+          "html"
+        ],
+        "creation_date": 1736157119,
+        "question_id": 79334401,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334401/html-how-do-i-display-an-icon-in-the-correct-place-when-an-icon-to-the-left-is"
+      },
+      {
+        "tags": [
+          "ios",
+          "angular",
+          "html5-video",
+          "ionic6"
+        ],
+        "creation_date": 1736157312,
+        "question_id": 79332673,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332673/ionic-6-angular-video-tag-isnt-working-on-ios-app-build"
+      },
+      {
+        "tags": [
+          "xaml",
+          "winui-3",
+          "winui",
+          "windows-community-toolkit"
+        ],
+        "creation_date": 1736157494,
+        "question_id": 79332682,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332682/how-to-bind-itemsource-property-to-id"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "azure-devops",
+          "azure-pipelines",
+          "playwright"
+        ],
+        "creation_date": 1736157498,
+        "question_id": 79332683,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332683/cache-python-playwright-dependencies-in-azure-pipelines"
+      },
+      {
+        "tags": [
+          "neo4j",
+          "configuration",
+          "graph-databases",
+          "neo4j-apoc"
+        ],
+        "creation_date": 1736157771,
+        "question_id": 79332692,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332692/setting-the-apoc-import-file-enabled-true-in-the-neo4j-conf"
+      },
+      {
+        "tags": [
+          "sorting",
+          "plot",
+          "powerbi",
+          "dax",
+          "multiple-columns"
+        ],
+        "creation_date": 1736157856,
+        "question_id": 79332695,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332695/sorting-the-order-of-legend-and-stacked-column-in-the-same-order-in-power-bi"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "css"
+        ],
+        "creation_date": 1736157935,
+        "question_id": 79332700,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332700/how-to-change-css-object-position-y-value-dynamically"
+      },
+      {
+        "tags": [
+          "node.js",
+          "automation",
+          "puppeteer",
+          "cloudflare",
+          "puppeteer-extra-plugin-stealth"
+        ],
+        "creation_date": 1736157964,
+        "question_id": 79332702,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332702/puppeteer-js-stuck-on-infinite-cloudflare-human-captcha"
+      },
+      {
+        "tags": [
+          "html",
+          "css-tables"
+        ],
+        "creation_date": 1736157968,
+        "question_id": 79332703,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332703/how-to-do-table-style-something-that-will-affect-the-tds-purely-inline"
+      },
+      {
+        "tags": [
+          "c++",
+          "functor",
+          "calling-convention",
+          "this-pointer",
+          "callcontext"
+        ],
+        "creation_date": 1736158326,
+        "question_id": 79332719,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332719/is-it-possible-to-emulate-a-member-function-call-context-for-a-functor-scope-acr"
+      },
+      {
+        "tags": [
+          "delphi",
+          "eurekalog"
+        ],
+        "creation_date": 1736158506,
+        "question_id": 79332724,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332724/assert-raise-no-exception"
+      },
+      {
+        "tags": [
+          "laravel-11",
+          "sanctum"
+        ],
+        "creation_date": 1736158674,
+        "question_id": 79332728,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332728/token-cookie-based-authentication-with-laravel-and-sanctum-returns-unauthenticat"
+      },
+      {
+        "tags": [
+          "kotlin",
+          "gradle",
+          "obfuscation",
+          "yguard"
+        ],
+        "creation_date": 1736158812,
+        "question_id": 79332732,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332732/yguard-configuration-in-gradle-kotlin-dsl-does-miss-elements"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 296
+  }
+}

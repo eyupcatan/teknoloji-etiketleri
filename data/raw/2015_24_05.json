@@ -1,0 +1,1127 @@
+{
+  "retrieved_at": "2026-10-26T19:08:38.214704+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420588800&todate=1420610399&sort=creation&order=asc&pagesize=100&page=5&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420588800,
+    "todate": 1420610399,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 5,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "java",
+          "classpath"
+        ],
+        "creation_date": 1420598030,
+        "question_id": 27810608,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810608/unable-to-locate-main-class"
+      },
+      {
+        "tags": [
+          "powershell",
+          "azure"
+        ],
+        "creation_date": 1420598069,
+        "question_id": 27810613,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810613/cant-set-a-tag-on-an-azure-sql-database-using-powershell"
+      },
+      {
+        "tags": [
+          "oracle-database",
+          "variables",
+          "oracle11g",
+          "ref-cursor"
+        ],
+        "creation_date": 1420598133,
+        "question_id": 27810620,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810620/error-printing-refcursor-variable-as-out-parameter-in-procedure-in-oracle-11g"
+      },
+      {
+        "tags": [
+          "php",
+          "validation",
+          "laravel",
+          "laravel-4"
+        ],
+        "creation_date": 1420598145,
+        "question_id": 27810621,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810621/custom-validation-messages-to-specific-field-in-laravel"
+      },
+      {
+        "tags": [
+          "ruby",
+          "environment-variables",
+          "shebang"
+        ],
+        "creation_date": 1420598163,
+        "question_id": 27810625,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810625/ruby-script-shebang-with-absolute-path-to-ruby-not-working"
+      },
+      {
+        "tags": [
+          "netlogo"
+        ],
+        "creation_date": 1420598174,
+        "question_id": 27810627,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810627/what-would-i-need-for-this-code-to-make-turtles-spawn-slower-but-not-have-to-ho"
+      },
+      {
+        "tags": [
+          "java",
+          "reflection"
+        ],
+        "creation_date": 1420598279,
+        "question_id": 27810634,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810634/how-can-i-check-a-class-has-no-arguments-constructor"
+      },
+      {
+        "tags": [
+          "ruby",
+          "xpath",
+          "watir"
+        ],
+        "creation_date": 1420598280,
+        "question_id": 27810635,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810635/xpath-for-select-list-for-date-dropdowns-without-unique-class-names-or-ids"
+      },
+      {
+        "tags": [
+          "python",
+          "cpu",
+          "consumption"
+        ],
+        "creation_date": 1420598282,
+        "question_id": 27810636,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810636/python-the-cpu-consumption-not-down-when-sleep"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "google-maps",
+          "google-maps-api-3"
+        ],
+        "creation_date": 1420598307,
+        "question_id": 27810639,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810639/getting-the-properties-of-a-geojson-data-layer-in-google-maps-v3"
+      },
+      {
+        "tags": [
+          "javascript",
+          "coffeescript",
+          "generator",
+          "ecmascript-6"
+        ],
+        "creation_date": 1420598323,
+        "question_id": 27810643,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810643/does-coffeescript-support-generator-function-in-es6"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf",
+          "datagrid"
+        ],
+        "creation_date": 1420598325,
+        "question_id": 27810644,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810644/filtering-a-wpf-datagrid-with-a-textbox"
+      },
+      {
+        "tags": [
+          "function",
+          "postgresql",
+          "plpgsql",
+          "dynamic-sql"
+        ],
+        "creation_date": 1420598333,
+        "question_id": 27810647,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810647/use-an-eval-function-to-return-table"
+      },
+      {
+        "tags": [
+          "php",
+          "variables"
+        ],
+        "creation_date": 1420598440,
+        "question_id": 27810657,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810657/scope-of-define-variable-in-php"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "oracle-database"
+        ],
+        "creation_date": 1420598473,
+        "question_id": 27810665,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810665/dynamically-display-the-records-of-database-in-window-forms"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "linux-kernel",
+          "driver"
+        ],
+        "creation_date": 1420598480,
+        "question_id": 27810666,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810666/linux-kernel-not-passing-complete-structure-to-sysfs-callback"
+      },
+      {
+        "tags": [
+          "linux",
+          "unix",
+          "awk",
+          "sed"
+        ],
+        "creation_date": 1420598486,
+        "question_id": 27810667,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810667/need-oneliner-to-insert-character-after-nth-occurrence-of-delimiter-on-2nd-line"
+      },
+      {
+        "tags": [
+          "jquery"
+        ],
+        "creation_date": 1420598502,
+        "question_id": 27810670,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810670/jquery-reposition-element"
+      },
+      {
+        "tags": [
+          "vba",
+          "excel",
+          "recursion",
+          "directory"
+        ],
+        "creation_date": 1420598502,
+        "question_id": 27810671,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27810671/vba-recursive-folder-function-is-missing-particular-subfolders"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css",
+          "responsive-slides"
+        ],
+        "creation_date": 1420598512,
+        "question_id": 27810672,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810672/responsiveslides-how-do-i-make-the-width-of-the-images-occupy-entire-page"
+      },
+      {
+        "tags": [
+          "kibana"
+        ],
+        "creation_date": 1420598519,
+        "question_id": 27810673,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810673/how-to-display-the-total-hard-disk-space-in-kibana"
+      },
+      {
+        "tags": [
+          "internet-explorer",
+          "web-applications",
+          "telerik",
+          "reporting"
+        ],
+        "creation_date": 1420598540,
+        "question_id": 27810677,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810677/reports-are-not-working-in-ie"
+      },
+      {
+        "tags": [
+          "git",
+          "mercurial",
+          "docker",
+          "dockerfile"
+        ],
+        "creation_date": 1420598545,
+        "question_id": 27810678,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810678/is-it-possible-to-use-a-private-github-repo-in-dockerfile-add"
+      },
+      {
+        "tags": [
+          "c++",
+          "pointers",
+          "matrix"
+        ],
+        "creation_date": 1420598575,
+        "question_id": 27810680,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810680/transposing-a-matrix-using-c"
+      },
+      {
+        "tags": [
+          "scala",
+          "playframework",
+          "guice",
+          "scalatest"
+        ],
+        "creation_date": 1420598603,
+        "question_id": 27810684,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810684/how-to-setup-my-mock-dao-classes-when-using-guice"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "database",
+          "codeigniter"
+        ],
+        "creation_date": 1420598646,
+        "question_id": 27810689,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810689/how-to-insert-a-value-to-a-foreign-key-using-session-without-overriding-the-othe"
+      },
+      {
+        "tags": [
+          "php",
+          "prestashop",
+          "prestashop-1.6"
+        ],
+        "creation_date": 1420598678,
+        "question_id": 27810695,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810695/how-to-display-product-quantity-in-prestashop"
+      },
+      {
+        "tags": [
+          "java",
+          "hibernate",
+          "hibernate-criteria"
+        ],
+        "creation_date": 1420598708,
+        "question_id": 27810698,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810698/hibernate-criteria-to-query-more-than-one-class-or-restrict-by-a-list-of-subcla"
+      },
+      {
+        "tags": [
+          "video",
+          "ffmpeg",
+          "gstreamer",
+          "libav"
+        ],
+        "creation_date": 1420598716,
+        "question_id": 27810700,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810700/using-libav-instead-of-ffmpeg"
+      },
+      {
+        "tags": [
+          "parallel-processing",
+          "raspberry-pi",
+          "benchmarking"
+        ],
+        "creation_date": 1420598736,
+        "question_id": 27810703,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810703/raspberry-pi-benchmark"
+      },
+      {
+        "tags": [
+          "dart",
+          "polymer",
+          "dart-polymer"
+        ],
+        "creation_date": 1420598738,
+        "question_id": 27810704,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810704/polymer-dart-custom-element-not-executing"
+      },
+      {
+        "tags": [
+          "vim"
+        ],
+        "creation_date": 1420598749,
+        "question_id": 27810706,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810706/how-to-sort-in-vim-starting-from-some-column-character"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7"
+        ],
+        "creation_date": 1420598793,
+        "question_id": 27810710,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810710/uninstalling-python-do-i-loose-my-installed-packages-and-code"
+      },
+      {
+        "tags": [
+          "haskell",
+          "llvm",
+          "ghc",
+          "cabal",
+          "cabal-install"
+        ],
+        "creation_date": 1420598821,
+        "question_id": 27810715,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810715/compiling-a-cabal-project-with-llvm-on-ghc-7-10-rc1"
+      },
+      {
+        "tags": [
+          "javascript",
+          "ios",
+          "objective-c",
+          "uiwebview"
+        ],
+        "creation_date": 1420598829,
+        "question_id": 27810716,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810716/how-can-i-attach-additional-text-into-a-uiwebview"
+      },
+      {
+        "tags": [
+          "javascript",
+          "scope",
+          "event-listener"
+        ],
+        "creation_date": 1420598835,
+        "question_id": 27810717,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810717/passing-parameters-to-a-event-listener-function-in-javascript"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "multithreading"
+        ],
+        "creation_date": 1420598843,
+        "question_id": 27810719,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810719/vb-net-system-threading-thread-ask-the-thread-to-cleanup-and-stop"
+      },
+      {
+        "tags": [
+          "twitter",
+          "meteor",
+          "meteor-accounts"
+        ],
+        "creation_date": 1420598888,
+        "question_id": 27810723,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810723/how-do-i-set-api-keys-for-twitter-in-meteor-without-using-the-gui"
+      },
+      {
+        "tags": [
+          "hyperlink",
+          "meteor"
+        ],
+        "creation_date": 1420598911,
+        "question_id": 27810727,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810727/add-event-to-database-on-user-click-in-meteor"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "forms"
+        ],
+        "creation_date": 1420598947,
+        "question_id": 27810731,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810731/form-for-renders-get-rather-than-post-using-rails"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "node.js",
+          "dependencies",
+          "gulp",
+          "dependency-management"
+        ],
+        "creation_date": 1420598984,
+        "question_id": 27810734,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810734/adding-angular-animate-to-pre-existing-stack"
+      },
+      {
+        "tags": [
+          "cordova"
+        ],
+        "creation_date": 1420599044,
+        "question_id": 27810736,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810736/visual-studio-2015-apache-cordova-apps-how-to-deploy-directly-to-ios-local-devi"
+      },
+      {
+        "tags": [
+          "iis",
+          "network-programming",
+          "dns",
+          "web",
+          "ip"
+        ],
+        "creation_date": 1420599134,
+        "question_id": 27810753,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810753/i-cannot-hit-my-website-hosted-in-iis-8-on-internal-network-via-mobile-device-u"
+      },
+      {
+        "tags": [
+          "scala",
+          "generics",
+          "traits"
+        ],
+        "creation_date": 1420599136,
+        "question_id": 27810754,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810754/generic-traits-with-companion-object"
+      },
+      {
+        "tags": [
+          "windows",
+          "git"
+        ],
+        "creation_date": 1420599184,
+        "question_id": 27810758,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810758/how-to-replace-crlf-with-lf-in-a-single-file"
+      },
+      {
+        "tags": [
+          "java",
+          "arrays"
+        ],
+        "creation_date": 1420599217,
+        "question_id": 27810762,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810762/how-to-add-fruit-to-array-java"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "java.util.concurrent"
+        ],
+        "creation_date": 1420599233,
+        "question_id": 27810765,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810765/executors-newfixedthreadpool-issue"
+      },
+      {
+        "tags": [
+          "c++",
+          "debugging",
+          "visual-c++",
+          "visual-studio-2013"
+        ],
+        "creation_date": 1420599236,
+        "question_id": 27810766,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810766/vs2013-is-having-trouble-with-base-class-being-in-unnamed-namespace"
+      },
+      {
+        "tags": [
+          "mono",
+          "centos6",
+          "embedding"
+        ],
+        "creation_date": 1420599245,
+        "question_id": 27810767,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810767/embedding-mono-sample-error-while-loading-shared-libraries-libmonoboehm-2-0-so"
+      },
+      {
+        "tags": [
+          "java",
+          "generics",
+          "methods",
+          "overloading",
+          "method-signature"
+        ],
+        "creation_date": 1420599266,
+        "question_id": 27810768,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810768/is-there-any-difference-between-void-fclass-c-and-void-fclass-c-in-java"
+      },
+      {
+        "tags": [
+          "vba",
+          "button",
+          "html"
+        ],
+        "creation_date": 1420599289,
+        "question_id": 27810771,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810771/cannot-press-button-with-vba"
+      },
+      {
+        "tags": [
+          "sql",
+          "oracle-database"
+        ],
+        "creation_date": 1420599290,
+        "question_id": 27810772,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810772/oracle-distinct-ignoring-primary-key-index-causing-performance-issue"
+      },
+      {
+        "tags": [
+          "operating-system",
+          "virtual-machine",
+          "google-kubernetes-engine"
+        ],
+        "creation_date": 1420599293,
+        "question_id": 27810773,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810773/what-image-does-google-container-engine-gke-use"
+      },
+      {
+        "tags": [
+          "python",
+          "multithreading",
+          "selenium",
+          "multiprocessing",
+          "threadpool"
+        ],
+        "creation_date": 1420599304,
+        "question_id": 27810774,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810774/multiprocessing-and-selenium-running-multiple-browsers-in-parallel"
+      },
+      {
+        "tags": [
+          "jquery",
+          "css"
+        ],
+        "creation_date": 1420599334,
+        "question_id": 27810777,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810777/jquery-add-class-display-block-and-none"
+      },
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "httpurlconnection",
+          "connectexception"
+        ],
+        "creation_date": 1420599433,
+        "question_id": 27810784,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810784/exception-in-connection-time-out-for-httpurlconnection-in-java-programming"
+      },
+      {
+        "tags": [
+          "html",
+          "symfony",
+          "controller",
+          "twig"
+        ],
+        "creation_date": 1420599435,
+        "question_id": 27810785,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810785/having-more-than-one-controller-in-one-view-in-symfony"
+      },
+      {
+        "tags": [
+          ".net",
+          "wpf",
+          "vb.net",
+          "drawingvisual"
+        ],
+        "creation_date": 1420599438,
+        "question_id": 27810786,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810786/drawing-lines-in-wpf-drawingvisual-performance-issue"
+      },
+      {
+        "tags": [
+          "javascript",
+          "arrays"
+        ],
+        "creation_date": 1420599459,
+        "question_id": 27810789,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810789/how-to-randomize-sentence-length-from-array"
+      },
+      {
+        "tags": [
+          "c++",
+          "openssl"
+        ],
+        "creation_date": 1420599518,
+        "question_id": 27810795,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810795/how-to-fix-openssl-incorrect-data-transferring"
+      },
+      {
+        "tags": [
+          "scala",
+          "reflection",
+          "scala-reflect"
+        ],
+        "creation_date": 1420599529,
+        "question_id": 27810797,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810797/possible-to-find-parameter-type-methods-return-type-in-scala-where-parameter-is"
+      },
+      {
+        "tags": [
+          "python",
+          "string",
+          "python-3.x"
+        ],
+        "creation_date": 1420599536,
+        "question_id": 27810798,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810798/change-a-list-to-a-string-with-specific-formatting"
+      },
+      {
+        "tags": [
+          "php",
+          "zend-framework2",
+          "one-to-many",
+          "datamapper",
+          "laminas-api-tools"
+        ],
+        "creation_date": 1420599564,
+        "question_id": 27810799,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810799/how-to-build-nested-responses-in-an-apigility-driven-application-with-a-zfcbase"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420599583,
+        "question_id": 27810802,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810802/is-there-any-way-to-reduce-the-length-of-static-variable-from-another-class"
+      },
+      {
+        "tags": [
+          "python",
+          "python-2.7",
+          "pandas",
+          "indexing"
+        ],
+        "creation_date": 1420599616,
+        "question_id": 27810808,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810808/how-to-parse-pandas-excelfile-sheets-with-generic-headers"
+      },
+      {
+        "tags": [
+          "c++",
+          "crash",
+          "dynamic-cast"
+        ],
+        "creation_date": 1420599650,
+        "question_id": 27810812,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810812/dynamic-cast-crashes-my-program"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "geocode"
+        ],
+        "creation_date": 1420599766,
+        "question_id": 27810820,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810820/geocoding-multiple-addresses"
+      },
+      {
+        "tags": [
+          "azure",
+          "mobile",
+          "asp.net-mvc-5",
+          "azure-sql-database",
+          "azure-mobile-services"
+        ],
+        "creation_date": 1420599769,
+        "question_id": 27810822,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810822/windows-azure-and-mvc5-how-to-use-same-database-schema-for-desktop-and-mobile"
+      },
+      {
+        "tags": [
+          "python",
+          "xml",
+          "python-2.7",
+          "xml-parsing"
+        ],
+        "creation_date": 1420599842,
+        "question_id": 27810825,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810825/find-all-nodes-by-attribute-in-xml-using-python-2"
+      },
+      {
+        "tags": [
+          "meteor"
+        ],
+        "creation_date": 1420599861,
+        "question_id": 27810827,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810827/how-can-i-trigger-autocomplete-with-multiple-rules"
+      },
+      {
+        "tags": [
+          "python",
+          "csv",
+          "tuples"
+        ],
+        "creation_date": 1420599885,
+        "question_id": 27810829,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810829/tuple-and-csv-reader-in-python"
+      },
+      {
+        "tags": [
+          "python",
+          "shell",
+          "python-3.x",
+          "terminal",
+          "virtualenv"
+        ],
+        "creation_date": 1420599886,
+        "question_id": 27810830,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810830/how-to-use-python-to-do-a-series-of-commands-in-terminal"
+      },
+      {
+        "tags": [
+          "java",
+          "sockets"
+        ],
+        "creation_date": 1420599916,
+        "question_id": 27810835,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810835/objects-dont-deserializing-when-i-use-socket-in-java"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "visual-c++",
+          "uml"
+        ],
+        "creation_date": 1420599926,
+        "question_id": 27810837,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810837/diagrams-for-overview"
+      },
+      {
+        "tags": [
+          "django",
+          "django-models",
+          "django-testing"
+        ],
+        "creation_date": 1420599980,
+        "question_id": 27810840,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810840/why-isnt-django-creating-blank-a-database-during-test"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1420599992,
+        "question_id": 27810841,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810841/selecting-most-recent-record-for-each-group-with-a-sum-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "arrays",
+          "knockout.js"
+        ],
+        "creation_date": 1420600014,
+        "question_id": 27810843,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810843/knockout-js-and-chunking-utility"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420600019,
+        "question_id": 27810844,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810844/simple-line-translation"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420600068,
+        "question_id": 27810849,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810849/quintus-getting-first-sprite-displayed-very-simple"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420600104,
+        "question_id": 27810851,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810851/how-can-i-use-one-variable-from-a-class-in-another"
+      },
+      {
+        "tags": [
+          "python-2.7",
+          "machine-learning",
+          "parameter-passing",
+          "scikit-learn",
+          "cross-validation"
+        ],
+        "creation_date": 1420600126,
+        "question_id": 27810855,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810855/python-sklearn-how-to-pass-parameters-to-the-customize-modeltransformer-clas"
+      },
+      {
+        "tags": [
+          "android",
+          "broadcastreceiver",
+          "android-wifi",
+          "wifi-direct"
+        ],
+        "creation_date": 1420600169,
+        "question_id": 27810860,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810860/android-how-to-cancel-default-system-behaviours-events"
+      },
+      {
+        "tags": [
+          "python",
+          "openoffice.org",
+          "ods"
+        ],
+        "creation_date": 1420600184,
+        "question_id": 27810862,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810862/programmatically-deleting-a-worksheet-in-an-ods-file-preferably-in-python"
+      },
+      {
+        "tags": [
+          "php",
+          "json"
+        ],
+        "creation_date": 1420600217,
+        "question_id": 27810866,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810866/php-json-decode-my-file-but-always-returning-null"
+      },
+      {
+        "tags": [
+          "sas",
+          "proc"
+        ],
+        "creation_date": 1420600262,
+        "question_id": 27810875,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810875/sas-rotate-table-90-degree-then-output-to-pdf"
+      },
+      {
+        "tags": [
+          "c++",
+          "jna"
+        ],
+        "creation_date": 1420600289,
+        "question_id": 27810881,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810881/how-to-get-byte-array-as-return-from-c-byte-pointer-in-jna"
+      },
+      {
+        "tags": [
+          "android",
+          "version",
+          "keystore"
+        ],
+        "creation_date": 1420600298,
+        "question_id": 27810882,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810882/change-a-signed-apk-version-code"
+      },
+      {
+        "tags": [
+          "loops",
+          "lua",
+          "logic",
+          "lua-table"
+        ],
+        "creation_date": 1420600300,
+        "question_id": 27810883,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810883/trouble-manipulating-lua-tables"
+      },
+      {
+        "tags": [
+          "python",
+          "regex"
+        ],
+        "creation_date": 1420600312,
+        "question_id": 27810884,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810884/python-how-do-i-separate-punctuation-from-words-by-white-space-leaving-only-on"
+      },
+      {
+        "tags": [
+          "python",
+          "user-defined-functions",
+          "nameerror",
+          "function"
+        ],
+        "creation_date": 1420600318,
+        "question_id": 27810885,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810885/python-nameerror-name-ftax-is-not-defined"
+      },
+      {
+        "tags": [
+          "c++",
+          "qt",
+          "vtk",
+          "qvtkwidget"
+        ],
+        "creation_date": 1420600333,
+        "question_id": 27810886,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810886/segmentation-fault-when-using-graph-function-vtk-6-1-qt5-3-ubuntu"
+      },
+      {
+        "tags": [
+          "terminal"
+        ],
+        "creation_date": 1420600364,
+        "question_id": 27810888,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810888/how-to-change-terminal-commands-heading-to-a-default"
+      },
+      {
+        "tags": [
+          "c#",
+          "linq"
+        ],
+        "creation_date": 1420600385,
+        "question_id": 27810895,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810895/centralizing-or-consolidating-linq-select"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "cocoa",
+          "nstimer",
+          "ibaction"
+        ],
+        "creation_date": 1420600393,
+        "question_id": 27810897,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810897/how-to-have-make-a-button-disable-a-action-cocoa"
+      },
+      {
+        "tags": [
+          "python",
+          "oauth",
+          "google-api",
+          "gmail",
+          "gmail-api"
+        ],
+        "creation_date": 1420600397,
+        "question_id": 27810898,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810898/does-the-gmail-api-support-using-oauth-service-accounts"
+      },
+      {
+        "tags": [
+          "c++",
+          "operator-overloading",
+          "smart-pointers",
+          "member"
+        ],
+        "creation_date": 1420600402,
+        "question_id": 27810899,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810899/c-smart-reference-member-access"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420600470,
+        "question_id": 27810905,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810905/align-div-at-the-bottom-of-another-wrapper-div-using-css-for-social-share-graph"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-asynctask"
+        ],
+        "creation_date": 1420600481,
+        "question_id": 27810908,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27810908/retrieving-more-than-one-string-with-an-asynctask"
+      },
+      {
+        "tags": [
+          "c#",
+          "function",
+          "macros",
+          "key",
+          "simulate"
+        ],
+        "creation_date": 1420600493,
+        "question_id": 27810909,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810909/is-there-a-way-to-catch-or-simulate-a-custom-key-press-in-c"
+      },
+      {
+        "tags": [
+          "android",
+          "layout"
+        ],
+        "creation_date": 1420600525,
+        "question_id": 27810912,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27810912/no-resource-found-that-matches-the-given-name-for-layout-to-left-of"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 204
+  }
+}

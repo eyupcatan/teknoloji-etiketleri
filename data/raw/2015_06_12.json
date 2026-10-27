@@ -1,0 +1,1138 @@
+{
+  "retrieved_at": "2026-10-26T19:05:12.406209+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420524000&todate=1420545599&sort=creation&order=asc&pagesize=100&page=12&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420524000,
+    "todate": 1420545599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 12,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "php",
+          "image-processing",
+          "imagemagick",
+          "imagemagick-convert"
+        ],
+        "creation_date": 1420539835,
+        "question_id": 27796585,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796585/imagemagick-strange-fragments-around-text-in-image"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420539842,
+        "question_id": 27796588,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796588/append-div-on-click-not-working"
+      },
+      {
+        "tags": [
+          "asp.net-mvc",
+          "signalr"
+        ],
+        "creation_date": 1420539847,
+        "question_id": 27796590,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27796590/is-it-possible-to-invoke-signalr-from-actionresut-which-returns-a-default-view"
+      },
+      {
+        "tags": [
+          "hadoop",
+          "hbase"
+        ],
+        "creation_date": 1420539850,
+        "question_id": 27796591,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796591/should-the-hbase-region-server-and-hadoop-data-node-on-the-same-machine"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server-2012",
+          "sql-server-2000"
+        ],
+        "creation_date": 1420539859,
+        "question_id": 27796594,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796594/sql-query-integer-column-in-specific-format"
+      },
+      {
+        "tags": [
+          "php",
+          "composer-php",
+          "autoload"
+        ],
+        "creation_date": 1420539868,
+        "question_id": 27796598,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796598/how-can-i-autoload-classes-with-composer-where-the-filenames-are-suffixed-with"
+      },
+      {
+        "tags": [
+          "php",
+          "forms",
+          "email",
+          "send",
+          "image-uploading"
+        ],
+        "creation_date": 1420539868,
+        "question_id": 27796596,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796596/email-form-sends-multiple-mails-depending-on-attachments"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "angularjs"
+        ],
+        "creation_date": 1420539870,
+        "question_id": 27796599,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796599/how-to-call-server-action-in-angular-service"
+      },
+      {
+        "tags": [
+          "c#",
+          "kernel32"
+        ],
+        "creation_date": 1420539930,
+        "question_id": 27796618,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796618/allocconsole-error-access-denied-on-alternate-run"
+      },
+      {
+        "tags": [
+          "javascript",
+          "imacros"
+        ],
+        "creation_date": 1420539932,
+        "question_id": 27796620,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796620/imacros-javascript-function-loop-not-working"
+      },
+      {
+        "tags": [
+          "android",
+          "android-layout",
+          "gridview",
+          "border"
+        ],
+        "creation_date": 1420539936,
+        "question_id": 27796622,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27796622/centered-square-chessboard-using-gridview"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "json",
+          "encoding"
+        ],
+        "creation_date": 1420539938,
+        "question_id": 27796623,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796623/rails-rendering-json-response-with-utf-8"
+      },
+      {
+        "tags": [
+          "scala",
+          "intellij-idea",
+          "compilation",
+          "playframework-2.0",
+          "typesafe-activator"
+        ],
+        "creation_date": 1420539943,
+        "question_id": 27796624,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796624/scala-play-2-3-intelij-14-community-edition-is-it-possible-to-run-project-wit"
+      },
+      {
+        "tags": [
+          ".net",
+          "vb.net",
+          "linq",
+          "visual-studio-2010"
+        ],
+        "creation_date": 1420539944,
+        "question_id": 27796626,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796626/optimized-version-given-linq-query"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "geolocation",
+          "mongoid",
+          "geospatial"
+        ],
+        "creation_date": 1420539950,
+        "question_id": 27796628,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796628/how-to-write-mongodb-near-query-in-mongoid-dsl"
+      },
+      {
+        "tags": [
+          "jquery",
+          "file-upload",
+          "upload"
+        ],
+        "creation_date": 1420539952,
+        "question_id": 27796630,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796630/get-file-count-in-jquery-file-upload"
+      },
+      {
+        "tags": [
+          "python",
+          "nosetests",
+          "unit-testing"
+        ],
+        "creation_date": 1420540003,
+        "question_id": 27796643,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796643/nosetest-initialisation-error"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420540019,
+        "question_id": 27796649,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27796649/counting-card-hand-values-in-java-with-aces-being-both-high-and-low"
+      },
+      {
+        "tags": [
+          "apache",
+          "security",
+          "proxy",
+          "server",
+          "tunnel"
+        ],
+        "creation_date": 1420540021,
+        "question_id": 27796650,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796650/what-is-proxy-server-and-how-it-helps-in-server-architecture"
+      },
+      {
+        "tags": [
+          "html"
+        ],
+        "creation_date": 1420540058,
+        "question_id": 27796659,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796659/understanding-html-form-submittion"
+      },
+      {
+        "tags": [
+          "c++",
+          "cocos2d-x",
+          "cocos2d-x-3.0"
+        ],
+        "creation_date": 1420540065,
+        "question_id": 27796660,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796660/how-to-convert-ccsprite-to-ccimage-cocos2dx"
+      },
+      {
+        "tags": [
+          "windows",
+          "variables",
+          "batch-file",
+          "cmd"
+        ],
+        "creation_date": 1420540068,
+        "question_id": 27796661,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796661/batch-binary-with-for"
+      },
+      {
+        "tags": [
+          "javascript",
+          "typescript"
+        ],
+        "creation_date": 1420540073,
+        "question_id": 27796664,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796664/how-can-one-include-external-libraries-in-typescript"
+      },
+      {
+        "tags": [
+          "c#",
+          "list",
+          "random"
+        ],
+        "creation_date": 1420540076,
+        "question_id": 27796667,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796667/creating-a-list-of-numbers-c"
+      },
+      {
+        "tags": [
+          "android",
+          "android-alertdialog",
+          "styling"
+        ],
+        "creation_date": 1420540120,
+        "question_id": 27796677,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796677/styling-dialog-boxes-in-android"
+      },
+      {
+        "tags": [
+          "javascript",
+          "regex",
+          "url"
+        ],
+        "creation_date": 1420540145,
+        "question_id": 27796681,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796681/how-to-remove-com-org-co-uk-co-us-using-regular-expression-in-javascript"
+      },
+      {
+        "tags": [
+          "jakarta-ee",
+          "sql-server-2005",
+          "transactions"
+        ],
+        "creation_date": 1420540152,
+        "question_id": 27796684,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796684/count-mismatch-in-sql-browser-and-java-jdbc-due-to-high-transaction"
+      },
+      {
+        "tags": [
+          "sql"
+        ],
+        "creation_date": 1420540195,
+        "question_id": 27796687,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796687/how-do-i-put-two-tables-together-in-sql"
+      },
+      {
+        "tags": [
+          "regex",
+          "banking"
+        ],
+        "creation_date": 1420540198,
+        "question_id": 27796688,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796688/regular-expression-for-all-bank-card-numbers"
+      },
+      {
+        "tags": [
+          "windows",
+          "network-programming",
+          "vagrant",
+          "samba",
+          "vagrantfile"
+        ],
+        "creation_date": 1420540207,
+        "question_id": 27796692,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796692/vagrant-on-windows-and-access-to-shared-folders"
+      },
+      {
+        "tags": [
+          "java",
+          "3d",
+          "java-3d",
+          "wavefront",
+          "stl-format"
+        ],
+        "creation_date": 1420540208,
+        "question_id": 27796694,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796694/centre-of-mass-of-a-random-3d-polygon-obj-file-or-stl-file"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "linq",
+          "dynamic"
+        ],
+        "creation_date": 1420540209,
+        "question_id": 27796696,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796696/get-value-from-dynamic-field-with-linq"
+      },
+      {
+        "tags": [
+          "c#",
+          "c#-4.0",
+          "xls",
+          "exceldatareader"
+        ],
+        "creation_date": 1420540225,
+        "question_id": 27796700,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796700/exceldatareader-not-reading-the-xls-file-in-some-cases"
+      },
+      {
+        "tags": [
+          "c#",
+          "visual-studio-2010",
+          "visual-studio",
+          "exchangewebservices"
+        ],
+        "creation_date": 1420540230,
+        "question_id": 27796702,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796702/ews-service-xmldeserializatin-exception-was-unhandles"
+      },
+      {
+        "tags": [
+          "sql",
+          "jsp",
+          "jstl"
+        ],
+        "creation_date": 1420540239,
+        "question_id": 27796706,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796706/sql-query-on-jsp-file-using-text-box-search-and-button"
+      },
+      {
+        "tags": [
+          "java",
+          "javascript",
+          "servlets",
+          "logging"
+        ],
+        "creation_date": 1420540240,
+        "question_id": 27796707,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796707/how-to-log-html-link-clicks-to-a-text-file"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420540248,
+        "question_id": 27796710,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796710/change-form-inputs-based-on-selected-values"
+      },
+      {
+        "tags": [
+          "c#",
+          "ninject"
+        ],
+        "creation_date": 1420540284,
+        "question_id": 27796718,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796718/manually-resolving-dependencies-bound-by-attribute-constraints"
+      },
+      {
+        "tags": [
+          "javascript",
+          "regex",
+          "ember.js"
+        ],
+        "creation_date": 1420540292,
+        "question_id": 27796719,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796719/regex-max-length-ignore-specific-word-combination"
+      },
+      {
+        "tags": [
+          "android",
+          "progress-bar",
+          "android-canvas",
+          "android-custom-view"
+        ],
+        "creation_date": 1420540298,
+        "question_id": 27796721,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796721/semi-circular-progress-bar-android-drawing-semi-circle"
+      },
+      {
+        "tags": [
+          "apache",
+          "google-chrome",
+          "laravel",
+          "http-headers",
+          "http-status-code-403"
+        ],
+        "creation_date": 1420540328,
+        "question_id": 27796724,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796724/apache-laravel-403-forbidden-header-not-allowed"
+      },
+      {
+        "tags": [
+          "android",
+          "wear-os",
+          "wakelock",
+          "android-wake-lock",
+          "watch-face-api"
+        ],
+        "creation_date": 1420540335,
+        "question_id": 27796728,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796728/android-wear-watchface-and-the-wakelock"
+      },
+      {
+        "tags": [
+          "java",
+          "lucene",
+          "uima"
+        ],
+        "creation_date": 1420540345,
+        "question_id": 27796730,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796730/data-extraction-by-tagging-using-java"
+      },
+      {
+        "tags": [
+          "ios",
+          "iphone",
+          "swift"
+        ],
+        "creation_date": 1420540372,
+        "question_id": 27796738,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796738/submitting-app-to-apple-store-validation-issue"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "uiview",
+          "xamarin.ios",
+          "xamarin"
+        ],
+        "creation_date": 1420540374,
+        "question_id": 27796741,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796741/ios-drag-and-drop-within-parent-bounds"
+      },
+      {
+        "tags": [
+          "javascript",
+          "c#"
+        ],
+        "creation_date": 1420540384,
+        "question_id": 27796743,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796743/how-to-send-a-message-from-signalr-selfhost-server-to-javascript-client"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery"
+        ],
+        "creation_date": 1420540395,
+        "question_id": 27796747,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796747/execute-javascript-before-submit"
+      },
+      {
+        "tags": [
+          "c#",
+          "cassandra",
+          "bloom-filter"
+        ],
+        "creation_date": 1420540401,
+        "question_id": 27796749,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796749/apache-cassandra-iops-due-to-bloom-filter-1-iops-of-1-byte-per-every-insert"
+      },
+      {
+        "tags": [
+          "javascript",
+          "node.js",
+          "recursion",
+          "callback",
+          "traversal"
+        ],
+        "creation_date": 1420540412,
+        "question_id": 27796754,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796754/node-traversing-directories-in-a-recursion"
+      },
+      {
+        "tags": [
+          "css"
+        ],
+        "creation_date": 1420540427,
+        "question_id": 27796757,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796757/link-color-not-working"
+      },
+      {
+        "tags": [
+          "cakephp",
+          "cakephp-3.0",
+          "subquery"
+        ],
+        "creation_date": 1420540445,
+        "question_id": 27796763,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796763/cakephp-creating-subquery"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css",
+          "ember.js"
+        ],
+        "creation_date": 1420540475,
+        "question_id": 27796773,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796773/ember-cli-toggle-sidebar-implementing-the-jquery-part"
+      },
+      {
+        "tags": [
+          "mysql"
+        ],
+        "creation_date": 1420540513,
+        "question_id": 27796778,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796778/mysql-update-with-multiple-where"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "threadpool",
+          "executorservice",
+          "executor"
+        ],
+        "creation_date": 1420540515,
+        "question_id": 27796779,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796779/removing-all-queued-tasks-of-an-threadpoolexecutor-in-my-program"
+      },
+      {
+        "tags": [
+          "c++",
+          "math",
+          "shapes",
+          "coordinate-systems"
+        ],
+        "creation_date": 1420540521,
+        "question_id": 27796783,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796783/efficient-way-to-find-if-points-form-a-square-calculation-c"
+      },
+      {
+        "tags": [
+          "java",
+          "performance",
+          "jvm"
+        ],
+        "creation_date": 1420540539,
+        "question_id": 27796790,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796790/how-does-jvm-manages-heap-memory-with-system-memory"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1420540544,
+        "question_id": 27796795,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796795/remove-a-sublist-from-a-list-in-which-the-numbers-alreadys-exist-in-another-subl"
+      },
+      {
+        "tags": [
+          "c++",
+          "function",
+          "forward-declaration"
+        ],
+        "creation_date": 1420540593,
+        "question_id": 27796804,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796804/how-do-these-two-functions-defined-in-the-same-class-manage-to-call-each-other-w"
+      },
+      {
+        "tags": [
+          "c#",
+          "excel",
+          "file",
+          "types"
+        ],
+        "creation_date": 1420540596,
+        "question_id": 27796805,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796805/how-to-get-type-of-data-reading-from-excel-file-in-c"
+      },
+      {
+        "tags": [
+          "netbeans",
+          "vagrant",
+          "sftp",
+          "netbeans-8"
+        ],
+        "creation_date": 1420540602,
+        "question_id": 27796806,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796806/use-a-vagrant-machine-as-sftp-connection-in-netbeans"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql"
+        ],
+        "creation_date": 1420540611,
+        "question_id": 27796808,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796808/php-login-system-for-different-users"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1420540613,
+        "question_id": 27796809,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796809/sql-multiple-rows-data-keep-in-a-col"
+      },
+      {
+        "tags": [
+          "python",
+          "freebsd",
+          "rc.d"
+        ],
+        "creation_date": 1420540654,
+        "question_id": 27796824,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796824/freebsd-rc-script-with-output-to-file"
+      },
+      {
+        "tags": [
+          "c#",
+          "ms-access"
+        ],
+        "creation_date": 1420540659,
+        "question_id": 27796827,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796827/what-would-be-the-query-in-ms-access-for-my-following-requirement"
+      },
+      {
+        "tags": [
+          "while-loop",
+          "stack",
+          "switch-statement"
+        ],
+        "creation_date": 1420540670,
+        "question_id": 27796831,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796831/iterating-and-using-switch-case-with-this-program"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "angularjs",
+          "angularjs-directive"
+        ],
+        "creation_date": 1420540672,
+        "question_id": 27796832,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796832/mange-time-format-between-angularjs-php-mysql"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "angularjs-directive",
+          "ng-view"
+        ],
+        "creation_date": 1420540679,
+        "question_id": 27796835,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796835/angular-js-how-to-create-views-without-adding-ng-view-directive-in-the-html-fi"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "generics",
+          "intellij-idea"
+        ],
+        "creation_date": 1420540686,
+        "question_id": 27796839,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796839/casting-to-t-raises-unchecked-lint"
+      },
+      {
+        "tags": [
+          "php",
+          "wordpress"
+        ],
+        "creation_date": 1420540698,
+        "question_id": 27796846,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796846/automatically-fill-in-field-value-when-user-sign-up-wordpress"
+      },
+      {
+        "tags": [
+          "java",
+          "spring"
+        ],
+        "creation_date": 1420540724,
+        "question_id": 27796850,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796850/how-populate-utilproperties-in-spel"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "ruby-on-rails-4",
+          "rspec"
+        ],
+        "creation_date": 1420540725,
+        "question_id": 27796851,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796851/integration-testing-rails-api-model-using-rspec-and-fixtures"
+      },
+      {
+        "tags": [
+          "hibernate",
+          "postgresql",
+          "jpa"
+        ],
+        "creation_date": 1420540728,
+        "question_id": 27796853,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796853/auto-create-entity-strange-name-of-unique"
+      },
+      {
+        "tags": [
+          "php",
+          "curl",
+          "urlencode",
+          "opayo"
+        ],
+        "creation_date": 1420540769,
+        "question_id": 27796865,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27796865/sagepay-character-27-urlencode-issues"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "twitter-bootstrap",
+          "angularjs-directive"
+        ],
+        "creation_date": 1420540771,
+        "question_id": 27796866,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27796866/how-to-use-collapse-in-a-directive"
+      },
+      {
+        "tags": [
+          "android",
+          "android-listview",
+          "android-gridview"
+        ],
+        "creation_date": 1420540802,
+        "question_id": 27796873,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796873/add-gridview-as-the-footer-of-listview"
+      },
+      {
+        "tags": [
+          "c#",
+          "mysql"
+        ],
+        "creation_date": 1420540805,
+        "question_id": 27796874,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796874/how-to-get-list-of-mysql-servers-in-c-net"
+      },
+      {
+        "tags": [
+          "java",
+          "file",
+          "sum"
+        ],
+        "creation_date": 1420540808,
+        "question_id": 27796875,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796875/taking-from-a-file-then-summing-the-integers-but-getting-0-as-answer"
+      },
+      {
+        "tags": [
+          "php",
+          "macos",
+          "bash",
+          "pipe",
+          "gawk"
+        ],
+        "creation_date": 1420540810,
+        "question_id": 27796877,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796877/calling-ansi2html-sh-from-php-exec-gives-gawk-error-on-osx"
+      },
+      {
+        "tags": [
+          "php",
+          "post",
+          "yii2"
+        ],
+        "creation_date": 1420540815,
+        "question_id": 27796879,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796879/send-post-data-via-menu-yii2-admin"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "xml",
+          "xml-parsing",
+          "xmlpullparser"
+        ],
+        "creation_date": 1420540831,
+        "question_id": 27796883,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796883/nested-xml-pull-parser-issue-cannot-get-child-elements"
+      },
+      {
+        "tags": [
+          "php",
+          "xml",
+          "xpath",
+          "simplexml"
+        ],
+        "creation_date": 1420540838,
+        "question_id": 27796885,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796885/updating-xml-node-value-with-simplexml-api"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420540850,
+        "question_id": 27796890,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796890/jquery-animation-breaks-at-different-screen-resolution"
+      },
+      {
+        "tags": [
+          "java",
+          "elasticsearch",
+          "elasticsearch-plugin"
+        ],
+        "creation_date": 1420540874,
+        "question_id": 27796895,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796895/elastic-search-tokenizer-filter-for-split-the-given-data"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sensors",
+          "wireless"
+        ],
+        "creation_date": 1420540916,
+        "question_id": 27796903,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796903/how-to-integrate-temperature-pressure-humidity-sensors-into-a-single-table-in"
+      },
+      {
+        "tags": [
+          "jquery",
+          "blockui"
+        ],
+        "creation_date": 1420540916,
+        "question_id": 27796902,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796902/block-ui-real-time-message"
+      },
+      {
+        "tags": [
+          "python",
+          "xml",
+          "curl"
+        ],
+        "creation_date": 1420540929,
+        "question_id": 27796905,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796905/curl-command-using-python-and-xml"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "border"
+        ],
+        "creation_date": 1420540932,
+        "question_id": 27796908,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796908/h1-element-distance-to-border-differs-at-top-and-bottom"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "ios6"
+        ],
+        "creation_date": 1420540948,
+        "question_id": 27796910,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796910/xcode-terminates-when-clicking-on-xib-file"
+      },
+      {
+        "tags": [
+          "java",
+          "jax-rs"
+        ],
+        "creation_date": 1420540967,
+        "question_id": 27796914,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796914/jersey-url-invalid-encrypt"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "database",
+          "sql-server-2008",
+          "select",
+          "stored-procedures"
+        ],
+        "creation_date": 1420540974,
+        "question_id": 27796916,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796916/how-to-retrieve-dropped-stored-procedure-function-table-in-sql-server-2008"
+      },
+      {
+        "tags": [
+          "typo3",
+          "fluid",
+          "typo3-6.2.x"
+        ],
+        "creation_date": 1420540983,
+        "question_id": 27796918,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796918/fluid-page-templates-backend-layout-doesnt-change"
+      },
+      {
+        "tags": [
+          "javascript",
+          "canvas",
+          "raphael"
+        ],
+        "creation_date": 1420540986,
+        "question_id": 27796920,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796920/canvas-arcto-in-raphael"
+      },
+      {
+        "tags": [
+          "android",
+          "android-image",
+          "image-compression"
+        ],
+        "creation_date": 1420540987,
+        "question_id": 27796922,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796922/android-image-compression-without-res-change"
+      },
+      {
+        "tags": [
+          "excel",
+          "batch-file",
+          "vbscript"
+        ],
+        "creation_date": 1420541005,
+        "question_id": 27796928,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796928/compare-two-excel-sheet-in-batch"
+      },
+      {
+        "tags": [
+          "java",
+          "dictionary"
+        ],
+        "creation_date": 1420541026,
+        "question_id": 27796932,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796932/extremely-slow-even-with-tlongobjecthashmap"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net",
+          "events"
+        ],
+        "creation_date": 1420541047,
+        "question_id": 27796935,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796935/all-events-on-a-page-have-stopped-firing"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420541050,
+        "question_id": 27796938,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796938/combining-bootstrap-col-and-row-classes-on-single-element"
+      },
+      {
+        "tags": [
+          "php",
+          "codeigniter"
+        ],
+        "creation_date": 1420541055,
+        "question_id": 27796943,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796943/check-if-password-hash-exist"
+      },
+      {
+        "tags": [
+          "makefile",
+          "gnu-make"
+        ],
+        "creation_date": 1420541060,
+        "question_id": 27796944,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796944/make-file-empty-dependency"
+      },
+      {
+        "tags": [
+          "wordpress",
+          ".htaccess",
+          "cookies",
+          "multiple-domains"
+        ],
+        "creation_date": 1420541070,
+        "question_id": 27796946,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27796946/wordpress-one-site-multiple-domains"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 250
+  }
+}

@@ -1,0 +1,1146 @@
+{
+  "retrieved_at": "2026-10-26T19:03:59.574242+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736316000&todate=1736337599&sort=creation&order=asc&pagesize=100&page=1&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736316000,
+    "todate": 1736337599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 1,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "react-native",
+          "expo"
+        ],
+        "creation_date": 1736316147,
+        "question_id": 79338094,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338094/production-build-apk-not-calling-backend-apis-only-static-content-is-displayed"
+      },
+      {
+        "tags": [
+          "javascript",
+          "regex",
+          "string",
+          "octal"
+        ],
+        "creation_date": 1736316255,
+        "question_id": 79338096,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338096/octal-escape-sequences-are-not-allowed"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "iphone",
+          "background-task",
+          "background-fetch"
+        ],
+        "creation_date": 1736316520,
+        "question_id": 79338099,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338099/bgtaskschedulererrorcodeunavailable-error-not-thrown-when-background-app-refresh"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "maven",
+          "ebean"
+        ],
+        "creation_date": 1736316567,
+        "question_id": 79338101,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338101/maven-how-to-create-a-module-using-source-code"
+      },
+      {
+        "tags": [
+          "apache-kafka",
+          "kafka-consumer-api",
+          "apache-kafka-streams"
+        ],
+        "creation_date": 1736316606,
+        "question_id": 79338104,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338104/how-do-extract-messages-from-a-specific-producer-in-kafka"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-boot",
+          "spring-boot-testcontainers"
+        ],
+        "creation_date": 1736316651,
+        "question_id": 79338107,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338107/how-do-i-replace-dynamicpropertyregistry-as-a-bean-method-parameter"
+      },
+      {
+        "tags": [
+          "node.js",
+          "docker",
+          "nuxt.js",
+          "nuxt3.js",
+          "amazon-ecr"
+        ],
+        "creation_date": 1736316840,
+        "question_id": 79338113,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338113/failed-to-construct-url-invalid-url-when-displaying-the-top-page-in-nuxt3"
+      },
+      {
+        "tags": [
+          "numpy",
+          "deep-learning",
+          "conv-neural-network",
+          "data-analysis"
+        ],
+        "creation_date": 1736316862,
+        "question_id": 79338114,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338114/runtimeerror-numpy-is-not-available-when-using-inverse-transform"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "authentication"
+        ],
+        "creation_date": 1736317149,
+        "question_id": 79338122,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338122/loading-external-google-scripts-in-react"
+      },
+      {
+        "tags": [
+          "git",
+          "github"
+        ],
+        "creation_date": 1736317207,
+        "question_id": 79338124,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338124/imitating-git-clone-depth-1"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart",
+          "gradle",
+          "ladybug"
+        ],
+        "creation_date": 1736317290,
+        "question_id": 79338127,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338127/not-able-to-run-the-android-app-in-flutter-project-after-android-studio-update"
+      },
+      {
+        "tags": [
+          "angular",
+          "flexbox",
+          "chart.js",
+          "ng2-charts"
+        ],
+        "creation_date": 1736317423,
+        "question_id": 79338132,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338132/chartjs-ng2-charts-charts-does-not-work-properly-in-display-flex"
+      },
+      {
+        "tags": [
+          "lua",
+          "openresty",
+          "lua-resty-openidc"
+        ],
+        "creation_date": 1736317556,
+        "question_id": 79338135,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338135/when-authorize-should-state-check-in-session"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "next.js"
+        ],
+        "creation_date": 1736317681,
+        "question_id": 79338137,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338137/onclick-button-doesnt-work-in-my-project-with-next-js-15-1-3-version"
+      },
+      {
+        "tags": [
+          "vmware",
+          "vcenter"
+        ],
+        "creation_date": 1736317761,
+        "question_id": 79338139,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338139/how-do-i-find-unattached-disks-in-vcenter"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart",
+          "unity-game-engine",
+          "window",
+          "exe"
+        ],
+        "creation_date": 1736317865,
+        "question_id": 79338141,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338141/how-to-open-exe-in-same-window-in-flutter"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1736317998,
+        "question_id": 79338146,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338146/how-to-center-the-value-of-a-tdbefore-in-css"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "cocoapods",
+          "singleton"
+        ],
+        "creation_date": 1736318194,
+        "question_id": 79338152,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338152/why-does-the-singleton-class-in-ios-when-combined-with-multiple-dynamic-framewo"
+      },
+      {
+        "tags": [
+          "flutter",
+          "routes",
+          "widget",
+          "screen"
+        ],
+        "creation_date": 1736318285,
+        "question_id": 79338154,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338154/flutter-making-screen-related-api-calls-when-screen-opened-real-time-api-calls"
+      },
+      {
+        "tags": [
+          "plugins",
+          "ckeditor",
+          "ckeditor5",
+          "ckeditor5-react",
+          "ckeditor-plugin"
+        ],
+        "creation_date": 1736318558,
+        "question_id": 79338161,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338161/ckeditor-event-triggered-when-cursor-gets-in-out-of-an-anchor-tag"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css",
+          "reactjs",
+          "sass",
+          "responsive-design"
+        ],
+        "creation_date": 1736318763,
+        "question_id": 79338164,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338164/how-to-implement-dual-hover-for-desktop-and-tap-feedback-for-touch-devices-in-a"
+      },
+      {
+        "tags": [
+          "jira"
+        ],
+        "creation_date": 1736318808,
+        "question_id": 79338169,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338169/send-filtered-search-results-as-csv-attachment-in-email-subscription"
+      },
+      {
+        "tags": [
+          "hql",
+          "signed"
+        ],
+        "creation_date": 1736319097,
+        "question_id": 79338185,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338185/hql-cast-to-signed-is-not-known-symbol"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "sandcastle",
+          "shfb"
+        ],
+        "creation_date": 1736319266,
+        "question_id": 79338190,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338190/unresolved-assembly-reference-not-beign-ignored"
+      },
+      {
+        "tags": [
+          "archer",
+          "rsa-archer-grc"
+        ],
+        "creation_date": 1736319269,
+        "question_id": 79338191,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338191/archer-api-to-create-and-update-values-along-with-status-values"
+      },
+      {
+        "tags": [
+          "javascript",
+          "http-redirect",
+          "spotify"
+        ],
+        "creation_date": 1736319300,
+        "question_id": 79338192,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338192/why-is-my-spotify-redirect-uri-query-parameter-changing"
+      },
+      {
+        "tags": [
+          "c#",
+          "postgresql",
+          "dapper",
+          "npgsql"
+        ],
+        "creation_date": 1736319319,
+        "question_id": 79338193,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338193/create-a-stored-procedure-using-plain-query-text-via-npgsqlconnectionexecuteas"
+      },
+      {
+        "tags": [
+          "gnuplot"
+        ],
+        "creation_date": 1736319372,
+        "question_id": 79338194,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338194/gnuplot-font-size-bug"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "chart.js"
+        ],
+        "creation_date": 1736319641,
+        "question_id": 79338204,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338204/react-chartjs-2-chartref-update-doesnt-work"
+      },
+      {
+        "tags": [
+          "outlook",
+          "caldav"
+        ],
+        "creation_date": 1736319687,
+        "question_id": 79338206,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338206/caldav-calendars-in-new-outlook"
+      },
+      {
+        "tags": [
+          "mgcv"
+        ],
+        "creation_date": 1736319973,
+        "question_id": 79338211,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338211/mgcvgam-does-not-correctly-decompose-the-linear-component-from-the-smooth"
+      },
+      {
+        "tags": [
+          "wordpress",
+          "plugins",
+          "download"
+        ],
+        "creation_date": 1736320265,
+        "question_id": 79338218,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338218/need-help-adjusting-featured-image-sizes-in-easy-digital-downloads-plugin"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas",
+          "dataframe"
+        ],
+        "creation_date": 1736320271,
+        "question_id": 79338219,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338219/panda-iterate-rows-and-multiply-nth-row-values-to-nextn1-row-value"
+      },
+      {
+        "tags": [
+          "python",
+          "streamlit",
+          "folium"
+        ],
+        "creation_date": 1736320475,
+        "question_id": 79338226,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338226/why-is-my-streamlit-slow-and-why-is-it-reloading-everytime-i-click-anywhere-on-t"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "flutter",
+          "flutter-dependencies",
+          "carplay"
+        ],
+        "creation_date": 1736320490,
+        "question_id": 79338228,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338228/how-can-i-get-the-latitude-and-longitude-bounds-of-the-carplay-poi-template-map"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "node.js",
+          "codemirror",
+          "react-codemirror",
+          "codemirror-6"
+        ],
+        "creation_date": 1736320651,
+        "question_id": 79338237,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338237/codemirror-vim-extension-clear-command-search-history"
+      },
+      {
+        "tags": [
+          "azure-synapse",
+          "livy"
+        ],
+        "creation_date": 1736320986,
+        "question_id": 79338247,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338247/invalidhttprequesttolivy-submission-failed-due-to-error-content-requirement"
+      },
+      {
+        "tags": [
+          "android",
+          "maui",
+          "azure-ad-b2c",
+          "azure-ad-msal"
+        ],
+        "creation_date": 1736321685,
+        "question_id": 79338275,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338275/msal-login-getting-stuck-in-net-maui-app"
+      },
+      {
+        "tags": [
+          "ios",
+          "tags",
+          "uitextview",
+          "nsattributedstring"
+        ],
+        "creation_date": 1736321774,
+        "question_id": 79338281,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338281/ios-uitextview-rich-text-with-tags"
+      },
+      {
+        "tags": [
+          "yfinance"
+        ],
+        "creation_date": 1736321849,
+        "question_id": 79338283,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338283/yfinance-how-to-obtain-the-adj-close-price"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "set",
+          "java-stream"
+        ],
+        "creation_date": 1736321864,
+        "question_id": 79338284,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338284/how-many-data-structures-are-created-when-collecting-with-java-parallel-stream"
+      },
+      {
+        "tags": [
+          "c"
+        ],
+        "creation_date": 1736321998,
+        "question_id": 79338291,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338291/use-the-scanfor-alternative-function-without-disrupting-the-flow-of-pattern-in"
+      },
+      {
+        "tags": [
+          "excel"
+        ],
+        "creation_date": 1736322460,
+        "question_id": 79338307,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338307/excel-put-formula-in-next-row-after-header-text-like-in-google-sheets"
+      },
+      {
+        "tags": [
+          "rust",
+          "rust-cargo",
+          "rust-axum"
+        ],
+        "creation_date": 1736322510,
+        "question_id": 79338309,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338309/why-does-cargo-install-axum-0-8-1-even-when-0-7-9-is-specified-as-dependency"
+      },
+      {
+        "tags": [
+          "forms",
+          "next.js",
+          "typeerror",
+          "bind"
+        ],
+        "creation_date": 1736322727,
+        "question_id": 79338312,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338312/nextjs-15-type-error-when-calling-a-server-action-from-a-form-with-a-bind"
+      },
+      {
+        "tags": [
+          "java",
+          "data-structures",
+          "prefix-tree"
+        ],
+        "creation_date": 1736322779,
+        "question_id": 79338313,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338313/how-does-the-next-function-work-in-the-tries-data-structure"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "swiper.js"
+        ],
+        "creation_date": 1736322846,
+        "question_id": 79338315,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338315/swiper-bundle-min-slider-menu-save-active-class-on-item-after-click-on-it"
+      },
+      {
+        "tags": [
+          "python",
+          "c++",
+          "jetbrains-ide",
+          "pybind11"
+        ],
+        "creation_date": 1736323019,
+        "question_id": 79338321,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338321/python-modulenotfounderror-no-module-named-binding-py"
+      },
+      {
+        "tags": [
+          "ansible",
+          "yaml"
+        ],
+        "creation_date": 1736323032,
+        "question_id": 79338324,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338324/ansible-module-lineinfile-how-to-pass-a-registered-value-as-parameter"
+      },
+      {
+        "tags": [
+          "c",
+          "winapi",
+          "printing",
+          "printers"
+        ],
+        "creation_date": 1736323149,
+        "question_id": 79338329,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338329/cant-delete-a-printer-queue-on-windows-10-and-windows-11-using-win32-apis-somet"
+      },
+      {
+        "tags": [
+          "angular",
+          "highcharts",
+          "customization",
+          "angular-highcharts"
+        ],
+        "creation_date": 1736323173,
+        "question_id": 79338332,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338332/how-to-trigger-stock-tools-buttons-function-on-my-custom-button-click-in-highc"
+      },
+      {
+        "tags": [
+          "json",
+          "apache-nifi",
+          "jolt"
+        ],
+        "creation_date": 1736323350,
+        "question_id": 79338338,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338338/flat-the-complicated-nested-json-with-multiple-combinations-of-input-json"
+      },
+      {
+        "tags": [
+          "javascript",
+          "vue.js",
+          "performance",
+          "iframe"
+        ],
+        "creation_date": 1736323416,
+        "question_id": 79338344,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338344/how-to-update-dom-in-iframe-html-element-efficiently-use-srcdoc"
+      },
+      {
+        "tags": [
+          "bash",
+          "gnu-parallel",
+          "genome",
+          "xdgutils"
+        ],
+        "creation_date": 1736323612,
+        "question_id": 79338351,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338351/parallel-error-xdg-cache-home-can-only-contain-a-z0-9"
+      },
+      {
+        "tags": [
+          "angular",
+          "browser",
+          "build",
+          "angular18"
+        ],
+        "creation_date": 1736323676,
+        "question_id": 79338355,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338355/angular-18-app-build-showing-access-denied-for-routes"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "inversion-of-control"
+        ],
+        "creation_date": 1736323741,
+        "question_id": 79338357,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338357/autowire-by-name-ambiguous-argument-values-for-parameter-of-type"
+      },
+      {
+        "tags": [
+          "javascript",
+          "text-to-speech",
+          "webspeech-api"
+        ],
+        "creation_date": 1736323942,
+        "question_id": 79338368,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338368/how-to-highlight-the-spoken-word-in-js"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-waf"
+        ],
+        "creation_date": 1736323943,
+        "question_id": 79338369,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338369/azure-waf-exclusion-whats-the-difference-between-requestargnames-and-requestar"
+      },
+      {
+        "tags": [
+          "javascript",
+          "react-native",
+          "expo",
+          "navigation",
+          "expo-router"
+        ],
+        "creation_date": 1736323976,
+        "question_id": 79338370,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338370/expo-router-shared-routes-with-array-syntax"
+      },
+      {
+        "tags": [
+          "go",
+          "security",
+          "google-cloud-firestore"
+        ],
+        "creation_date": 1736324269,
+        "question_id": 79338384,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338384/protect-firebase-credential-file-golang-exe"
+      },
+      {
+        "tags": [
+          "c#",
+          "serial-port"
+        ],
+        "creation_date": 1736324611,
+        "question_id": 79338393,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338393/serialport-datareceived-event-and-thread-safe"
+      },
+      {
+        "tags": [
+          "r",
+          "machine-learning",
+          "cross-validation",
+          "hyperparameters",
+          "tidymodels"
+        ],
+        "creation_date": 1736324635,
+        "question_id": 79338394,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338394/how-to-get-the-training-error-from-fit-resamples-and-hyperparameter-tuning"
+      },
+      {
+        "tags": [
+          "ssh",
+          "bitbucket"
+        ],
+        "creation_date": 1736324636,
+        "question_id": 79338395,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338395/ssh-1-key-type-depreciated-on-bitbucket-pipeline-and-do-droplet-combo"
+      },
+      {
+        "tags": [
+          "android",
+          "voice-recognition",
+          "android-tv",
+          "remote-control",
+          "google-voice-actions"
+        ],
+        "creation_date": 1736324764,
+        "question_id": 79338399,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338399/how-to-implement-voice-assistant-in-an-android-tv-remote-control-app"
+      },
+      {
+        "tags": [
+          "components",
+          "vaadin",
+          "renderer",
+          "vaadin-grid"
+        ],
+        "creation_date": 1736324884,
+        "question_id": 79338405,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338405/constructing-componentrenderer-in-vaadin-24"
+      },
+      {
+        "tags": [
+          "css",
+          "node.js",
+          "angular",
+          "sass",
+          "angular-material"
+        ],
+        "creation_date": 1736325122,
+        "question_id": 79338412,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338412/angular-material-icons-not-showing"
+      },
+      {
+        "tags": [
+          "sql",
+          "postgresql",
+          "window-functions"
+        ],
+        "creation_date": 1736325185,
+        "question_id": 79338415,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338415/how-to-rank-rows-considering-ties"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "url-rewriting",
+          "middleware",
+          "response-headers"
+        ],
+        "creation_date": 1736325298,
+        "question_id": 79338418,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338418/removing-server-header-not-working-in-asp-net-core-8-does-not-work-with-middle"
+      },
+      {
+        "tags": [
+          "android",
+          "flutter",
+          "stream-builder",
+          "flutter-streambuilder"
+        ],
+        "creation_date": 1736325468,
+        "question_id": 79338426,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338426/bad-state-stream-has-already-been-listened-to-compression-progress-listener"
+      },
+      {
+        "tags": [
+          "python",
+          "oop",
+          "tkinter",
+          "customtkinter"
+        ],
+        "creation_date": 1736325517,
+        "question_id": 79338427,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338427/creating-a-custom-class-of-label-and-passing-arguments-from-the-main-window-with"
+      },
+      {
+        "tags": [
+          "vba",
+          "ms-word"
+        ],
+        "creation_date": 1736325539,
+        "question_id": 79338428,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338428/how-to-inverse-name-and-surname-in-vba"
+      },
+      {
+        "tags": [
+          "css",
+          "ckeditor",
+          "ckeditor5",
+          "ckeditor5-react"
+        ],
+        "creation_date": 1736325546,
+        "question_id": 79338429,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338429/ckeditor-autocomplete-dropdown-list-flows-out-of-the-parent-div-of-ckeditor"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba"
+        ],
+        "creation_date": 1736325644,
+        "question_id": 79338433,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338433/the-vba-code-slows-down-the-worksheet-needs-to-be-faster"
+      },
+      {
+        "tags": [
+          "flutter",
+          "azure",
+          "flutter-dependencies",
+          "multi-factor-authentication"
+        ],
+        "creation_date": 1736325738,
+        "question_id": 79338441,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338441/how-to-implement-conditional-navigation-based-on-email-input-with-microsoft-mfa"
+      },
+      {
+        "tags": [
+          "r",
+          "httr",
+          "deepseek"
+        ],
+        "creation_date": 1736325757,
+        "question_id": 79338442,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338442/a-call-to-deepseek-api-in-r-returns-401-error-despite-correct-api-key"
+      },
+      {
+        "tags": [
+          "javascript",
+          "three.js"
+        ],
+        "creation_date": 1736325772,
+        "question_id": 79338443,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338443/canvastexture-is-blurry-meanwhile-the-origin-canvas-is-not"
+      },
+      {
+        "tags": [
+          "c",
+          "reverse-engineering",
+          "binaryfiles",
+          "angr"
+        ],
+        "creation_date": 1736325922,
+        "question_id": 79338446,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338446/crafting-input-for-buffer-overflow-to-print-flag-and-using-angr-for-symbolic-exe"
+      },
+      {
+        "tags": [
+          "flutter",
+          "widget",
+          "textfield"
+        ],
+        "creation_date": 1736326023,
+        "question_id": 79338449,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338449/scroll-multi-line-textfield-content-to-cursor-position-when-assigning-textfield"
+      },
+      {
+        "tags": [
+          "sas"
+        ],
+        "creation_date": 1736326036,
+        "question_id": 79338450,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338450/set-the-value-of-a-variable-based-on-the-previous-value-of-another-variable"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "google-cloud-platform",
+          "google-app-engine"
+        ],
+        "creation_date": 1736326130,
+        "question_id": 79338455,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338455/blank-screen-after-deploying-react-app-on-g-cloud"
+      },
+      {
+        "tags": [
+          "node.js",
+          "eslint",
+          "storybook"
+        ],
+        "creation_date": 1736326155,
+        "question_id": 79338457,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338457/eslint-import-extension-error-when-i-use-node-subpath-imports"
+      },
+      {
+        "tags": [
+          "cookies",
+          "next.js13"
+        ],
+        "creation_date": 1736326157,
+        "question_id": 79338458,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338458/set-cookie-in-server-action-doesnt-work-with-path-auth"
+      },
+      {
+        "tags": [
+          "javascript",
+          "json",
+          "xml",
+          "fast-xml-parser"
+        ],
+        "creation_date": 1736326202,
+        "question_id": 79338462,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338462/issue-converting-json-to-xml-using-fast-xml-parser-v4-5-1"
+      },
+      {
+        "tags": [
+          "typescript"
+        ],
+        "creation_date": 1736326363,
+        "question_id": 79338471,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338471/can-type-predicates-work-with-generic-conditional-type"
+      },
+      {
+        "tags": [
+          "python",
+          "algorithm",
+          "memory-management",
+          "dynamic-programming"
+        ],
+        "creation_date": 1736326400,
+        "question_id": 79338473,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338473/how-to-optimize-the-performance-of-nested-loops-with-dynamic-data-structure-upda"
+      },
+      {
+        "tags": [
+          ".net",
+          "vue.js",
+          "csrf",
+          "antiforgerytoken",
+          "csrf-token"
+        ],
+        "creation_date": 1736326480,
+        "question_id": 79338478,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338478/antiforgery-token-for-dotnet-backend-web-api-interacting-with-vue-frontend"
+      },
+      {
+        "tags": [
+          "node.js",
+          "mongodb",
+          "recursion",
+          "mongodb-query"
+        ],
+        "creation_date": 1736326774,
+        "question_id": 79338494,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338494/mongodb-recursively-get-documents-using-multipe-fields"
+      },
+      {
+        "tags": [
+          "asdf",
+          "rtx",
+          "mise"
+        ],
+        "creation_date": 1736326915,
+        "question_id": 79338497,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338497/change-the-default-installation-path-from-mise-en-place-rtx"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "node.js",
+          "next.js",
+          "server-side-rendering"
+        ],
+        "creation_date": 1736326963,
+        "question_id": 79338498,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338498/page-rendering-multiple-times-in-next-js-v14-0-1"
+      },
+      {
+        "tags": [
+          "json",
+          "specifications",
+          "jolt"
+        ],
+        "creation_date": 1736326991,
+        "question_id": 79338501,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338501/spec-array-transformation-using-jolt"
+      },
+      {
+        "tags": [
+          "c++",
+          "logic",
+          "operator-overloading",
+          "return-value",
+          "theory"
+        ],
+        "creation_date": 1736327085,
+        "question_id": 79338503,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338503/in-c-is-the-overloading-of-the-arrow-operator-an-exceptional-case-or-does-it"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-camerax"
+        ],
+        "creation_date": 1736327160,
+        "question_id": 79338506,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338506/i-want-to-use-camerax-api-on-pixel8a-to-take-images-of-the-same-quality-as-the-s"
+      },
+      {
+        "tags": [
+          "odata",
+          "dynamics-business-central",
+          "businesscentral"
+        ],
+        "creation_date": 1736327181,
+        "question_id": 79338507,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338507/using-odata4-to-pass-a-variable-by-reference-when-calling-a-code-unit-in-micro"
+      },
+      {
+        "tags": [
+          "proxy",
+          "traefik",
+          "http-proxy"
+        ],
+        "creation_date": 1736327207,
+        "question_id": 79338510,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338510/traefik-as-proxy-always-returns-404"
+      },
+      {
+        "tags": [
+          "rust",
+          "benchmarking",
+          "conditional-compilation"
+        ],
+        "creation_date": 1736327244,
+        "question_id": 79338512,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338512/rust-conditional-flag-set-by-cargo-bench"
+      },
+      {
+        "tags": [
+          "webhooks",
+          "freshworks",
+          "freshservice-api"
+        ],
+        "creation_date": 1736327413,
+        "question_id": 79338522,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338522/ticket-automator-webhook-for-post-in-changes-returning-errors-400-403-404"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "amazon-s3",
+          "amazon-sqs",
+          "aws-event-bridge"
+        ],
+        "creation_date": 1736327542,
+        "question_id": 79338528,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338528/delay-in-aws-event-notification-in-lifecycle-event"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "c#-ziparchive"
+        ],
+        "creation_date": 1736327568,
+        "question_id": 79338529,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338529/unauthorizedaccessexception-when-trying-to-extract-from-a-ziparchive"
+      },
+      {
+        "tags": [
+          "symfony",
+          "api-platform.com"
+        ],
+        "creation_date": 1736327740,
+        "question_id": 79338536,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338536/how-to-disable-file-versioning-for-api-platform-swagger-docu-bundle-assets-file"
+      },
+      {
+        "tags": [
+          "git",
+          "version-control",
+          "phpstorm",
+          "jetbrains-ide"
+        ],
+        "creation_date": 1736327765,
+        "question_id": 79338537,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79338537/how-to-show-changes-in-branch-like-uncommitted-changes-in-phpstorm"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 280
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "retrieved_at": "2026-10-26T19:06:15.097471+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420545600&todate=1420567199&sort=creation&order=asc&pagesize=100&page=20&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420545600,
+    "todate": 1420567199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 20,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "f#"
+        ],
+        "creation_date": 1420567005,
+        "question_id": 27804367,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804367/constructing-and-deconstructing-records"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "arrays",
+          "split"
+        ],
+        "creation_date": 1420567005,
+        "question_id": 27804365,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804365/split-string-into-two-variables-getting-undefined-is-not-a-function"
+      },
+      {
+        "tags": [
+          "jquery",
+          "css",
+          "wordpress",
+          "datepicker",
+          "wordpress-theming"
+        ],
+        "creation_date": 1420567012,
+        "question_id": 27804369,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27804369/datepicker-works-on-widgets-options-page-but-not-on-customizer"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "eclipse",
+          "google-maps",
+          "android-intent"
+        ],
+        "creation_date": 1420567021,
+        "question_id": 27804372,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804372/null-pointer-exceptions-in-android-code"
+      },
+      {
+        "tags": [
+          "ios",
+          "uicollectionview",
+          "uicollectionviewcell"
+        ],
+        "creation_date": 1420567030,
+        "question_id": 27804375,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804375/collectionviewindexpathforpoint-returns-nil-at-cell-breaks"
+      },
+      {
+        "tags": [
+          "excel",
+          "date",
+          "excel-formula"
+        ],
+        "creation_date": 1420567051,
+        "question_id": 27804381,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804381/convert-date-from-text-format-to-custom-format-in-excel"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs"
+        ],
+        "creation_date": 1420567058,
+        "question_id": 27804384,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804384/ngbindhtml-ignores-text"
+      },
+      {
+        "tags": [
+          "android",
+          "xml",
+          "parsing",
+          "dom"
+        ],
+        "creation_date": 1420567068,
+        "question_id": 27804389,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804389/xml-parse-with-dom-api"
+      },
+      {
+        "tags": [
+          "android",
+          "layout",
+          "view"
+        ],
+        "creation_date": 1420567081,
+        "question_id": 27804391,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804391/position-textviews-on-the-screen"
+      },
+      {
+        "tags": [
+          "cassandra",
+          "backup"
+        ],
+        "creation_date": 1420567151,
+        "question_id": 27804401,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804401/best-practices-for-cleaning-up-cassandra-incremental-backup-folders"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "math",
+          "matrix",
+          "svg"
+        ],
+        "creation_date": 1420567160,
+        "question_id": 27804403,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804403/using-matrix-class-from-system-drawing-drawing2d-to-flatten-svg-transformation"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "ruby-on-rails",
+          "ruby-on-rails-4",
+          "link-to"
+        ],
+        "creation_date": 1420567167,
+        "question_id": 27804405,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804405/link-to-method-and-confirm-not-working"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "flash",
+          "canvas",
+          "easeljs"
+        ],
+        "creation_date": 1420567168,
+        "question_id": 27804407,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804407/flash-cc-html5-canvas-slideshow-navigation"
+      },
+      {
+        "tags": [
+          "ravendb",
+          "msdtc"
+        ],
+        "creation_date": 1420567184,
+        "question_id": 27804411,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804411/disable-dtc-tracking-in-ravendb-with-voron-storage"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420567193,
+        "question_id": 27804415,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804415/questions-re-caching-a-jquery-object-when-passing-to-a-function"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 225
+  }
+}

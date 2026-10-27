@@ -1,0 +1,1017 @@
+{
+  "retrieved_at": "2026-10-26T19:03:24.722949+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736208000&todate=1736229599&sort=creation&order=asc&pagesize=100&page=1&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736208000,
+    "todate": 1736229599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 1,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "powershell",
+          "registry",
+          "windows-11"
+        ],
+        "creation_date": 1736208261,
+        "question_id": 79334624,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334624/powershell-script-to-create-a-registry-key-with-logging-not-working"
+      },
+      {
+        "tags": [
+          "python",
+          "django",
+          "playwright"
+        ],
+        "creation_date": 1736208261,
+        "question_id": 79334625,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334625/playwright-with-django-502-bad-gateway-error"
+      },
+      {
+        "tags": [
+          "google-sheets",
+          "google-apps-script",
+          "google-sheets-api"
+        ],
+        "creation_date": 1736208408,
+        "question_id": 79334629,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334629/is-there-a-way-to-create-a-sheets-table-from-apps-script"
+      },
+      {
+        "tags": [
+          "sql",
+          "presto"
+        ],
+        "creation_date": 1736208496,
+        "question_id": 79334632,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334632/extract-keys-values-from-a-nested-json-object-stored-as-string-in-presto"
+      },
+      {
+        "tags": [
+          "primeng",
+          "primeng-calendar"
+        ],
+        "creation_date": 1736208689,
+        "question_id": 79334638,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334638/primeng-calendar-dateformat-not-respecting-format-specified"
+      },
+      {
+        "tags": [
+          "java",
+          "3d",
+          "libgdx",
+          "game-development",
+          "blender"
+        ],
+        "creation_date": 1736208916,
+        "question_id": 79334639,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334639/glitched-blender-model-on-libgdx-game"
+      },
+      {
+        "tags": [
+          "haskell",
+          "haskell-lens"
+        ],
+        "creation_date": 1736209077,
+        "question_id": 79334644,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334644/lens-produce-maybe-with-over"
+      },
+      {
+        "tags": [
+          "vuejs3"
+        ],
+        "creation_date": 1736209118,
+        "question_id": 79334646,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334646/vue3-fetch-json-with-jquery"
+      },
+      {
+        "tags": [
+          "c",
+          "debugging",
+          "gdb",
+          "trace"
+        ],
+        "creation_date": 1736209573,
+        "question_id": 79334653,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334653/all-collected-data-shows-unavailable-in-gdb-trace"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-data-factory"
+        ],
+        "creation_date": 1736209909,
+        "question_id": 79334658,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334658/copying-azure-data-factory-sftp-data-to-adls"
+      },
+      {
+        "tags": [
+          "symfony",
+          "doctrine-orm"
+        ],
+        "creation_date": 1736209927,
+        "question_id": 79334659,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334659/zenstruck-foundy-doesnt-set-the-foreign-key-when-loading-the-fixtures"
+      },
+      {
+        "tags": [
+          "rust",
+          "vector"
+        ],
+        "creation_date": 1736210156,
+        "question_id": 79334662,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334662/mapping-vect-to-veck-without-new-heap-allocation-where-sizet-sizek"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "modal-dialog",
+          "mdi"
+        ],
+        "creation_date": 1736210213,
+        "question_id": 79334663,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334663/problem-displaying-folderbrowsedialog-modally-when-main-form-is-mdi-parent"
+      },
+      {
+        "tags": [
+          "javascript",
+          "random",
+          "page-title"
+        ],
+        "creation_date": 1736210272,
+        "question_id": 79334664,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334664/is-there-a-way-to-load-a-random-title-into-a-page-using-an-array-called-from-ano"
+      },
+      {
+        "tags": [
+          "delphi",
+          "pdf",
+          "jpeg",
+          "ghostscript"
+        ],
+        "creation_date": 1736210522,
+        "question_id": 79334667,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334667/how-to-convert-jpg-to-pdf-using-ghostscript-in-delphi"
+      },
+      {
+        "tags": [
+          "django",
+          "okta",
+          "python-social-auth",
+          "social-auth-app-django"
+        ],
+        "creation_date": 1736210580,
+        "question_id": 79334669,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334669/page-not-found-error-when-using-python-social-auth-login-for-okta"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf",
+          "visual-studio",
+          "nuget-package"
+        ],
+        "creation_date": 1736210617,
+        "question_id": 79334671,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334671/wpf-toolkit-controls-not-appearing-in-visual-studio-2022"
+      },
+      {
+        "tags": [
+          "typo3",
+          "typo3-11.x",
+          "femanager"
+        ],
+        "creation_date": 1736210676,
+        "question_id": 79334672,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334672/how-to-enable-select-options-in-country-field-using-femanager-in-typo3-backend"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "amazon-web-services",
+          "amazon-rds",
+          "dms"
+        ],
+        "creation_date": 1736211041,
+        "question_id": 79334676,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334676/aws-rds-sql-server-restore-retain-cdc-tables"
+      },
+      {
+        "tags": [
+          "docker",
+          "kubernetes"
+        ],
+        "creation_date": 1736211090,
+        "question_id": 79334677,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334677/diagnosing-a-build-error-in-docker-from-an-example-in-a-book"
+      },
+      {
+        "tags": [
+          "macos",
+          "kubernetes",
+          "vmware",
+          "minikube",
+          "vmware-fusion"
+        ],
+        "creation_date": 1736211156,
+        "question_id": 79334680,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334680/unable-to-access-minikube-service-ports-when-using-tunnel"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "pip",
+          "llama",
+          "termios"
+        ],
+        "creation_date": 1736211260,
+        "question_id": 79334683,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334683/while-executing-llama-model-list-in-my-python-environment-i-was-getting-mod"
+      },
+      {
+        "tags": [
+          "react-native",
+          "gradle",
+          "react-native-modules",
+          "settings.gradle"
+        ],
+        "creation_date": 1736211378,
+        "question_id": 79334688,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334688/could-not-read-script-native-modules-gradle-in-settings-gradle"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "calculated-columns",
+          "datediff",
+          "computed-field"
+        ],
+        "creation_date": 1736211398,
+        "question_id": 79334689,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334689/computed-field-fails-because-ansi-warnings-off"
+      },
+      {
+        "tags": [
+          "git",
+          "ssh",
+          "gitea"
+        ],
+        "creation_date": 1736211544,
+        "question_id": 79334691,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334691/accessing-a-git-repo-via-ssh-does-not-appear-to-be-a-git-repository"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "spring-integration",
+          "spring-integration-sftp"
+        ],
+        "creation_date": 1736211614,
+        "question_id": 79334692,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334692/how-to-properly-ingest-files-from-a-sftp-server-with-spring-integration-sftp-whe"
+      },
+      {
+        "tags": [
+          "azure-devops",
+          "azure-pipelines",
+          "azure-repos"
+        ],
+        "creation_date": 1736211660,
+        "question_id": 79334693,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334693/approvals-and-checks-at-repository-level-in-azure-devops"
+      },
+      {
+        "tags": [
+          "c++",
+          "libpng"
+        ],
+        "creation_date": 1736211685,
+        "question_id": 79334694,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334694/how-to-convert-indexed-8-bit-png-image-to-8-bit-rgba-with-libpng"
+      },
+      {
+        "tags": [
+          "python",
+          "matplotlib",
+          "colorbar",
+          "colormap",
+          "metpy"
+        ],
+        "creation_date": 1736211710,
+        "question_id": 79334695,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334695/metpy-plotting-snowfall-analysis-but-issue-with-colormap"
+      },
+      {
+        "tags": [
+          "numpy",
+          "wms"
+        ],
+        "creation_date": 1736211762,
+        "question_id": 79334699,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334699/downloaded-tiff-file-from-wms-server-using-python-shows-values-that-differ-from"
+      },
+      {
+        "tags": [
+          "nginx",
+          "vps"
+        ],
+        "creation_date": 1736211781,
+        "question_id": 79334700,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334700/how-to-configure-nginx-for-react-frontend-and-net-backend-using-docker"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "azure-web-app-service"
+        ],
+        "creation_date": 1736211890,
+        "question_id": 79334701,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334701/extend-shutdown-timeout-for-azure-app-service-when-using-ihostedservice-in-asp-n"
+      },
+      {
+        "tags": [
+          "python",
+          "pip"
+        ],
+        "creation_date": 1736212740,
+        "question_id": 79334716,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334716/pip-install-failing-to-install-backend-dependencies"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-intent"
+        ],
+        "creation_date": 1736212837,
+        "question_id": 79334720,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334720/confuse-between-intent-and-getintent-in-onactivityresult-android-java"
+      },
+      {
+        "tags": [
+          ".net",
+          "multithreading",
+          "f#",
+          "thread-safety"
+        ],
+        "creation_date": 1736212873,
+        "question_id": 79334721,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334721/thread-safe-enumerator-is-not-thread-safe"
+      },
+      {
+        "tags": [
+          "r",
+          "dplyr",
+          "tidyverse",
+          "tidyr"
+        ],
+        "creation_date": 1736213528,
+        "question_id": 79334725,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334725/recode-factor-if-level-is-available"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "autocomplete",
+          "blazor",
+          ".net-8.0"
+        ],
+        "creation_date": 1736213723,
+        "question_id": 79334730,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334730/using-autocomplete-to-fill-a-blazor-form-doesnt-update-the-variables"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "uikit",
+          "scrollview"
+        ],
+        "creation_date": 1736213888,
+        "question_id": 79334733,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334733/layout-in-a-scrollview"
+      },
+      {
+        "tags": [
+          "excel",
+          "powershell"
+        ],
+        "creation_date": 1736214066,
+        "question_id": 79334734,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334734/existing-data-cell-not-being-cleared-from-excel-sheet"
+      },
+      {
+        "tags": [
+          "laravel-11",
+          "laravel-gate"
+        ],
+        "creation_date": 1736214127,
+        "question_id": 79334735,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334735/using-gates-in-laravel-11-for-view-functionality"
+      },
+      {
+        "tags": [
+          "java",
+          "maven",
+          "intellij-idea"
+        ],
+        "creation_date": 1736214487,
+        "question_id": 79334740,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334740/maven-dependencies-not-recognized-by-intellij-after-they-are-downloaded-with-suc"
+      },
+      {
+        "tags": [
+          "sas",
+          "sas-macro"
+        ],
+        "creation_date": 1736215083,
+        "question_id": 79334748,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334748/remove-trailing-spaces-inside-sas-macro"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "typescript",
+          "browser-extension",
+          "webauthn",
+          "passkey"
+        ],
+        "creation_date": 1736216798,
+        "question_id": 79334773,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334773/leftover-bytes-detected-while-parsing-authenticator-data"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "spring-boot",
+          "cors"
+        ],
+        "creation_date": 1736216950,
+        "question_id": 79334777,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334777/getting-cors-error-response-to-preflight-request-doesnt-pass-access-control-ch"
+      },
+      {
+        "tags": [
+          "upload",
+          "autodesk"
+        ],
+        "creation_date": 1736217238,
+        "question_id": 79334783,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334783/autodesk-upload-file-403"
+      },
+      {
+        "tags": [
+          "c#",
+          "selenium-webdriver",
+          "alert"
+        ],
+        "creation_date": 1736217296,
+        "question_id": 79334784,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334784/timeout-on-alert-accept-method"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy"
+        ],
+        "creation_date": 1736218101,
+        "question_id": 79334798,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334798/how-to-convert-a-numpy-3d-array-into-a-meshgrid-stl"
+      },
+      {
+        "tags": [
+          "microsoft-teams",
+          "sharepoint-online"
+        ],
+        "creation_date": 1736218730,
+        "question_id": 79334810,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334810/teams-sharepoint-list-all-files"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba"
+        ],
+        "creation_date": 1736218805,
+        "question_id": 79334812,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334812/evalutestring-returns-value-the-same-string-works-in-worksheet"
+      },
+      {
+        "tags": [
+          "node.js",
+          "deployment",
+          "azure-functions",
+          "timer-trigger"
+        ],
+        "creation_date": 1736219776,
+        "question_id": 79334826,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334826/azure-function-timer-trigger-never-triggered"
+      },
+      {
+        "tags": [
+          "terraform",
+          "packer",
+          "terraform-provider-vsphere"
+        ],
+        "creation_date": 1736220234,
+        "question_id": 79334835,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334835/terraform-deployment-of-vm-from-template-but-need-to-wait-for-first-boot"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "mongoose",
+          "database-administration",
+          "sharding",
+          "mongodb-atlas"
+        ],
+        "creation_date": 1736220246,
+        "question_id": 79334836,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334836/best-approach-to-handle-unsharded-collections-in-a-mongodb-global-write-cluster"
+      },
+      {
+        "tags": [
+          "android",
+          "kotlin",
+          "android-jetpack-compose",
+          "dagger-hilt"
+        ],
+        "creation_date": 1736220491,
+        "question_id": 79334839,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334839/hilt-dependancy-issue-expected-androidentrypoint-to-have-a-value-did-you-forg"
+      },
+      {
+        "tags": [
+          "vega-lite",
+          "vega"
+        ],
+        "creation_date": 1736220588,
+        "question_id": 79334840,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334840/how-to-draw-diagonal-rule-in-vega-lite"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "spring-boot"
+        ],
+        "creation_date": 1736220722,
+        "question_id": 79334842,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334842/sql-request-in-spring-boot-with-query"
+      },
+      {
+        "tags": [
+          "spring",
+          "spring-boot",
+          "spring-data-jpa",
+          "psql"
+        ],
+        "creation_date": 1736220787,
+        "question_id": 79334844,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334844/spring-boot-native-query-for-postgressql-json-function-operators"
+      },
+      {
+        "tags": [
+          "xcode",
+          "swiftui"
+        ],
+        "creation_date": 1736221027,
+        "question_id": 79334853,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334853/xcode-content-preview-iphone"
+      },
+      {
+        "tags": [
+          "etl",
+          "data-migration",
+          "datastage",
+          "data-integration",
+          "ibm-infosphere"
+        ],
+        "creation_date": 1736221257,
+        "question_id": 79334858,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334858/default-extension-for-sequential-files-in-ibm-datastage-when-not-specified"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "gitlab-ci",
+          "amazon-lightsail"
+        ],
+        "creation_date": 1736221588,
+        "question_id": 79334861,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334861/aws-lightsail-automatically-clear-container-images"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "node.js",
+          "azure"
+        ],
+        "creation_date": 1736221589,
+        "question_id": 79334862,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334862/azure-issue-unresponsive-pings-on-port-8080"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas",
+          "dataframe",
+          "rename"
+        ],
+        "creation_date": 1736221711,
+        "question_id": 79334864,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334864/python-pandas-df-rename-columns-based-on-condition"
+      },
+      {
+        "tags": [
+          "ssh",
+          "vscode-remote"
+        ],
+        "creation_date": 1736221851,
+        "question_id": 79334866,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334866/failed-to-connect-remote-server-using-vscode-ssh"
+      },
+      {
+        "tags": [
+          "robotframework"
+        ],
+        "creation_date": 1736221978,
+        "question_id": 79334868,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334868/how-to-dynamically-set-tags-in-robot-framework"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "typescript",
+          "next.js",
+          "react-typescript"
+        ],
+        "creation_date": 1736222135,
+        "question_id": 79334871,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334871/is-it-better-to-use-a-server-or-a-client-component-for-components-that-must-refr"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "wordpress",
+          "popup",
+          "onmouseover"
+        ],
+        "creation_date": 1736222172,
+        "question_id": 79334872,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334872/wordpress-interfering-with-javascript-modal-popup"
+      },
+      {
+        "tags": [
+          "java",
+          "swing"
+        ],
+        "creation_date": 1736223036,
+        "question_id": 79334888,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334888/i-want-to-be-able-to-make-collisions-for-drag-components-in-java-swing"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-jdbc"
+        ],
+        "creation_date": 1736223145,
+        "question_id": 79334891,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334891/pass-values-to-a-prepared-statement-where-there-are-2-values-to-insert-in-6-plac"
+      },
+      {
+        "tags": [
+          "r",
+          "modelsummary",
+          "glmmtmb"
+        ],
+        "creation_date": 1736223152,
+        "question_id": 79334892,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334892/print-glmmtmb-conditional-and-zero-inflated-model-side-by-side-with-modelsummary"
+      },
+      {
+        "tags": [
+          "vs-code",
+          "notepad++"
+        ],
+        "creation_date": 1736224406,
+        "question_id": 79334906,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334906/can-i-select-blocks-like-notepad-in-visual-studio-code"
+      },
+      {
+        "tags": [
+          "asp.net-core",
+          "blazor-webassembly",
+          "blazor-editform"
+        ],
+        "creation_date": 1736224742,
+        "question_id": 79334908,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334908/security-issues-in-net-8-blazor-pages-editform-two-way-binding"
+      },
+      {
+        "tags": [
+          "php",
+          "regex"
+        ],
+        "creation_date": 1736224907,
+        "question_id": 79334912,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334912/pattern-without-spaces-followed-by-same-pattern-with"
+      },
+      {
+        "tags": [
+          "bootstrap-4",
+          "col"
+        ],
+        "creation_date": 1736225515,
+        "question_id": 79334920,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334920/bootstrap-css-col-and-col-md"
+      },
+      {
+        "tags": [
+          "ssl-certificate"
+        ],
+        "creation_date": 1736225701,
+        "question_id": 79334921,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334921/cannot-create-app-service-managed-certificate"
+      },
+      {
+        "tags": [
+          "android",
+          "android-jetpack-compose",
+          "android-jetpack-compose-material3"
+        ],
+        "creation_date": 1736225828,
+        "question_id": 79334922,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334922/how-to-solve-fatal-signal-11-sigsegv-code-1-segv-maperr-fault-addr-0x20-i"
+      },
+      {
+        "tags": [
+          "c++",
+          "multithreading",
+          "ubuntu",
+          "pointers"
+        ],
+        "creation_date": 1736226063,
+        "question_id": 79334924,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334924/stdthread-constructor-doesnt-seem-to-accept-pointers"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "next.js",
+          "backend",
+          "react-dom",
+          "react-email"
+        ],
+        "creation_date": 1736226752,
+        "question_id": 79334930,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334930/next-js-import-error-with-react-email-rendertoreadablestream-not-exported"
+      },
+      {
+        "tags": [
+          "microsoft-entra-id",
+          "aws-load-balancer-controller"
+        ],
+        "creation_date": 1736226895,
+        "question_id": 79334934,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334934/aws-alb-returning-401-error-despite-successful-token-retrieval-from-azure-ad"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1736226971,
+        "question_id": 79334935,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334935/i-am-doing-media-query-on-mysite-i-want-to-set-first-image-and-the-my-text-and"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba",
+          "row",
+          "hide"
+        ],
+        "creation_date": 1736227545,
+        "question_id": 79334945,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334945/excel-vba-to-hide-rows-if-more-than-10-blanks"
+      },
+      {
+        "tags": [
+          "python",
+          "google-drive-api",
+          "filesystems",
+          "google-colaboratory"
+        ],
+        "creation_date": 1736227625,
+        "question_id": 79334949,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334949/why-does-google-colab-treat-my-drive-and-mydrive-google-drive-path-interchan"
+      },
+      {
+        "tags": [
+          "google-apps-script"
+        ],
+        "creation_date": 1736227690,
+        "question_id": 79334952,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334952/how-to-add-a-watermark-or-logo-to-an-image-using-google-apps-script-automation"
+      },
+      {
+        "tags": [
+          "android",
+          "adb",
+          "oculusquest"
+        ],
+        "creation_date": 1736227748,
+        "question_id": 79334954,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334954/adb-freezes-after-any-command"
+      },
+      {
+        "tags": [
+          "python",
+          "selenium-webdriver",
+          "pdf",
+          "web-scraping",
+          "http-status-code-403"
+        ],
+        "creation_date": 1736227771,
+        "question_id": 79334958,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334958/python-web-scraping-bulk-downloading-linked-files-from-the-sec-aaer-site-403"
+      },
+      {
+        "tags": [
+          "javascript",
+          "tailwind-css"
+        ],
+        "creation_date": 1736228128,
+        "question_id": 79334966,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334966/issues-playing-audio-in-website-on-ios-devices"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-devops",
+          "oauth",
+          "azure-devops-rest-api",
+          "azure-app-registration"
+        ],
+        "creation_date": 1736228296,
+        "question_id": 79334974,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334974/how-microsoft-entra-id-oauth-works-for-azure-devops"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "aop",
+          "aspectj",
+          "spring-aspects"
+        ],
+        "creation_date": 1736228330,
+        "question_id": 79334975,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334975/spring-boot-upgrade-from-3-2-x-to-3-3-x-causing-nosuchmethodexception-in-aspectj"
+      },
+      {
+        "tags": [
+          "c++",
+          "sorting",
+          "lambda"
+        ],
+        "creation_date": 1736228596,
+        "question_id": 79334981,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334981/why-does-sorting-strings-by-length-give-incorrect-results"
+      },
+      {
+        "tags": [
+          "javascript",
+          "grails",
+          "facebook-sdk-4.0"
+        ],
+        "creation_date": 1736228886,
+        "question_id": 79334990,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334990/how-to-know-if-facebook-share-was-successful"
+      },
+      {
+        "tags": [
+          "r",
+          "dplyr"
+        ],
+        "creation_date": 1736229008,
+        "question_id": 79334995,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334995/how-to-group-by-single-column-and-create-python-style-list-strings-from-multiple"
+      },
+      {
+        "tags": [
+          "argocd",
+          "argo-workflows",
+          "argo"
+        ],
+        "creation_date": 1736229226,
+        "question_id": 79335006,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79335006/argo-workflows-install-and-run-in-specific-namespace"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 289
+  }
+}

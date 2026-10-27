@@ -1,0 +1,1131 @@
+{
+  "retrieved_at": "2026-10-26T19:10:27.119432+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420653600&todate=1420675199&sort=creation&order=asc&pagesize=100&page=6&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420653600,
+    "todate": 1420675199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 6,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "windows",
+          "delphi",
+          "focus",
+          "setforegroundwindow"
+        ],
+        "creation_date": 1420659287,
+        "question_id": 27827239,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827239/get-flashing-window-in-delphi-window-that-needs-focus-and-windows-wont-set-it"
+      },
+      {
+        "tags": [
+          "database",
+          "codeception"
+        ],
+        "creation_date": 1420659287,
+        "question_id": 27827240,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827240/how-to-reset-the-database-to-a-known-state-at-the-beginning-of-a-class-of-codece"
+      },
+      {
+        "tags": [
+          "c#",
+          "jquery",
+          "asp.net-mvc"
+        ],
+        "creation_date": 1420659291,
+        "question_id": 27827242,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827242/disable-numeric-validation-on-client-side-jquery-validate"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "uiviewcontroller",
+          "first-responder"
+        ],
+        "creation_date": 1420659305,
+        "question_id": 27827245,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827245/how-do-use-first-responder-to-call-another-uiviewcontrollers-method"
+      },
+      {
+        "tags": [
+          "couchdb",
+          "promise"
+        ],
+        "creation_date": 1420659306,
+        "question_id": 27827246,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827246/httpinvoke-and-pouchdb-promise-stalling"
+      },
+      {
+        "tags": [
+          "julia"
+        ],
+        "creation_date": 1420659326,
+        "question_id": 27827249,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827249/julia-concatenate-string-and-integer"
+      },
+      {
+        "tags": [
+          "c#",
+          "escaping",
+          "quotes",
+          "verbatim-string"
+        ],
+        "creation_date": 1420659331,
+        "question_id": 27827251,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827251/why-does-attempting-to-verbatimize-this-string-fail"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "gridfs"
+        ],
+        "creation_date": 1420659345,
+        "question_id": 27827254,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827254/what-is-the-aliases-array-in-fs-files-for"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "angularjs-scope"
+        ],
+        "creation_date": 1420659351,
+        "question_id": 27827255,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827255/controller-functions-are-not-executing-angular"
+      },
+      {
+        "tags": [
+          "java",
+          "file",
+          "sockets",
+          "callback",
+          "server"
+        ],
+        "creation_date": 1420659385,
+        "question_id": 27827264,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827264/sending-multiple-files-in-java-callback"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "apache",
+          "nginx",
+          "passenger"
+        ],
+        "creation_date": 1420659390,
+        "question_id": 27827267,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827267/how-does-rails-phusion-passengerpumaunicornthin-nginxapache-work-tog"
+      },
+      {
+        "tags": [
+          "pentaho",
+          "kettle",
+          "pdi"
+        ],
+        "creation_date": 1420659403,
+        "question_id": 27827272,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827272/pdi-kettle-how-to-normalize-advanced-structure"
+      },
+      {
+        "tags": [
+          "git",
+          "github"
+        ],
+        "creation_date": 1420659413,
+        "question_id": 27827275,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827275/delete-a-folder-from-github"
+      },
+      {
+        "tags": [
+          "jquery",
+          "asp.net-mvc-4",
+          "asp.net-mvc-2",
+          "migration",
+          "url.action"
+        ],
+        "creation_date": 1420659434,
+        "question_id": 27827281,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827281/migrating-mvc4-problems-in-url-action-with-jquery-params"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420659446,
+        "question_id": 27827282,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827282/need-help-modifying-chart-js-mouse-over-tooltip"
+      },
+      {
+        "tags": [
+          "debugging",
+          "sybase",
+          "sap-ase",
+          "truncation",
+          "isql"
+        ],
+        "creation_date": 1420659454,
+        "question_id": 27827286,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827286/ase-isql-sybase-how-to-debug-truncation-error-which-field-causes-it"
+      },
+      {
+        "tags": [
+          "html",
+          "ios",
+          "css",
+          "mobile",
+          "mobile-safari"
+        ],
+        "creation_date": 1420659463,
+        "question_id": 27827290,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827290/ios-displaying-wrong-text-size"
+      },
+      {
+        "tags": [
+          "c++",
+          "cocos2d-x"
+        ],
+        "creation_date": 1420659475,
+        "question_id": 27827292,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827292/how-can-i-remove-a-physic-node-safely-in-cocos2d-x"
+      },
+      {
+        "tags": [
+          "python",
+          "casting",
+          "xlrd"
+        ],
+        "creation_date": 1420659477,
+        "question_id": 27827293,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827293/convert-float-to-integer-during-xcel-to-tab-delimited-file-conversion"
+      },
+      {
+        "tags": [
+          "css",
+          "pug"
+        ],
+        "creation_date": 1420659482,
+        "question_id": 27827294,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827294/inline-css-not-working-using-jade"
+      },
+      {
+        "tags": [
+          "android",
+          "android-mediaplayer"
+        ],
+        "creation_date": 1420659487,
+        "question_id": 27827297,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827297/mediaplayer-returns-error-1-2147483648-after-several-app-re-runs"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420659490,
+        "question_id": 27827298,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827298/isset-returns-true-from-a-string-variable-accessed-as-an-array-with-any-key"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-mvc",
+          "sql-server-2008"
+        ],
+        "creation_date": 1420659493,
+        "question_id": 27827299,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27827299/transaction-error-for-transaction-on-multiple-databases-on-server"
+      },
+      {
+        "tags": [
+          "rendering",
+          "pixi.js"
+        ],
+        "creation_date": 1420659494,
+        "question_id": 27827301,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827301/pixi-js-rendering-not-working"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql",
+          "indexing"
+        ],
+        "creation_date": 1420659509,
+        "question_id": 27827304,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827304/should-i-create-a-composite-index-for-every-possible-column-combination"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql"
+        ],
+        "creation_date": 1420659512,
+        "question_id": 27827305,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827305/how-can-i-do-this-sql-query-aggregate-group-by-and-where-in-clause"
+      },
+      {
+        "tags": [
+          "c++",
+          "unit-testing",
+          "netbeans",
+          "mingw",
+          "cppunit"
+        ],
+        "creation_date": 1420659514,
+        "question_id": 27827307,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827307/cppunit-with-windowsmingw"
+      },
+      {
+        "tags": [
+          "php",
+          "mongodb",
+          "laravel"
+        ],
+        "creation_date": 1420659541,
+        "question_id": 27827310,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827310/laravel-mongodb-or-statement"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420659547,
+        "question_id": 27827312,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827312/how-to-fix-array-values-expects-parameter-1-to-be-array-string-given-in-php"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "autoplay"
+        ],
+        "creation_date": 1420659551,
+        "question_id": 27827313,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827313/html5-music-player-external-play-button"
+      },
+      {
+        "tags": [
+          "ios",
+          "uitableview",
+          "interface-builder"
+        ],
+        "creation_date": 1420659553,
+        "question_id": 27827315,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827315/empty-white-space-above-uitableview-inside-a-uiview"
+      },
+      {
+        "tags": [
+          "tizen",
+          "tizen-sdb"
+        ],
+        "creation_date": 1420659589,
+        "question_id": 27827323,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827323/tizen-mac-osx-installation-failure-sdb"
+      },
+      {
+        "tags": [
+          "javascript",
+          "performance",
+          "polymer",
+          "web-component"
+        ],
+        "creation_date": 1420659593,
+        "question_id": 27827325,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827325/polymer-core-and-paper-elements-performance-with-large-lists"
+      },
+      {
+        "tags": [
+          "c#",
+          "linq",
+          "list"
+        ],
+        "creation_date": 1420659614,
+        "question_id": 27827332,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827332/passing-a-list-of-strings-to-a-where-clause-in-a-linq-query"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "node.js",
+          "express"
+        ],
+        "creation_date": 1420659633,
+        "question_id": 27827337,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827337/node-js-how-can-i-output-a-variable-directly-to-index-html"
+      },
+      {
+        "tags": [
+          "r",
+          "shiny"
+        ],
+        "creation_date": 1420659637,
+        "question_id": 27827338,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827338/using-shiny-inputs-to-create-new-variables-in-the-dataset"
+      },
+      {
+        "tags": [
+          "ios",
+          "asynchronous",
+          "exc-bad-access"
+        ],
+        "creation_date": 1420659685,
+        "question_id": 27827345,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827345/getting-error-in-async-calls-if-the-view-controller-is-no-longer-exists"
+      },
+      {
+        "tags": [
+          "wordpress",
+          "woocommerce",
+          "product"
+        ],
+        "creation_date": 1420659697,
+        "question_id": 27827346,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827346/woocommerce-help-selling-fonts-multiple-options-downloadable-products"
+      },
+      {
+        "tags": [
+          "solr"
+        ],
+        "creation_date": 1420659701,
+        "question_id": 27827347,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827347/plus-sign-in-solr-query-is-not-correctly-treated"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql"
+        ],
+        "creation_date": 1420659716,
+        "question_id": 27827352,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827352/get-newest-record-out-of-mysql-database-multiple-tables"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "wordpress"
+        ],
+        "creation_date": 1420659717,
+        "question_id": 27827353,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827353/how-to-replace-html-text-with-php"
+      },
+      {
+        "tags": [
+          "actionscript-3"
+        ],
+        "creation_date": 1420659719,
+        "question_id": 27827354,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827354/array-and-swap-function"
+      },
+      {
+        "tags": [
+          "html",
+          "sql",
+          "asp-classic"
+        ],
+        "creation_date": 1420659724,
+        "question_id": 27827356,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827356/password-recovery-asp"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "oauth.io"
+        ],
+        "creation_date": 1420659741,
+        "question_id": 27827359,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827359/getting-a-refresh-token-from-oauth-io-through-rest-api"
+      },
+      {
+        "tags": [
+          "java",
+          "pdf",
+          "itext",
+          "watermark",
+          "xfa"
+        ],
+        "creation_date": 1420659744,
+        "question_id": 27827360,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827360/transparent-images-are-showing-up-as-black-boxes-after-xfa-fillxfaform-are-tran"
+      },
+      {
+        "tags": [
+          "performance",
+          "algorithm",
+          "matlab",
+          "bigdata",
+          "parfor"
+        ],
+        "creation_date": 1420659768,
+        "question_id": 27827365,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827365/how-to-optimally-add-multiply-and-average-very-large-data-sets-in-matlab-using"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "matrix"
+        ],
+        "creation_date": 1420659771,
+        "question_id": 27827366,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827366/a-matrix-with-mysql-and-php"
+      },
+      {
+        "tags": [
+          "mysql",
+          "ruby-on-rails",
+          "associations",
+          "rails-activerecord",
+          "has-and-belongs-to-many"
+        ],
+        "creation_date": 1420659782,
+        "question_id": 27827371,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827371/has-and-belongs-to-many-association-loads-incomplete-results"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql",
+          "sql-server-2008",
+          "postgresql"
+        ],
+        "creation_date": 1420659801,
+        "question_id": 27827376,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827376/sql-count-number-of-words-in-field"
+      },
+      {
+        "tags": [
+          "c++",
+          "c",
+          "linux",
+          "gcc",
+          "valgrind"
+        ],
+        "creation_date": 1420659817,
+        "question_id": 27827379,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827379/valgrind-fails-to-start-a-program-that-needs-to-attach-to-shared-memory-on-start"
+      },
+      {
+        "tags": [
+          "mysql",
+          "join",
+          "query-optimization"
+        ],
+        "creation_date": 1420659822,
+        "question_id": 27827382,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827382/left-join-multiple-tables-if-foreign-key-is-not-null-mysql-optimization"
+      },
+      {
+        "tags": [
+          "vba",
+          "excel"
+        ],
+        "creation_date": 1420659827,
+        "question_id": 27827384,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827384/why-is-cell-a1-being-used-in-this-getvalue-function-in-vba"
+      },
+      {
+        "tags": [
+          "ruby"
+        ],
+        "creation_date": 1420659839,
+        "question_id": 27827385,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827385/extending-initialize"
+      },
+      {
+        "tags": [
+          "twitter-bootstrap"
+        ],
+        "creation_date": 1420659845,
+        "question_id": 27827388,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827388/disable-navigation-in-bootstrap-header"
+      },
+      {
+        "tags": [
+          "linux",
+          "sockets",
+          "ip"
+        ],
+        "creation_date": 1420659850,
+        "question_id": 27827390,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827390/binding-ipv4-and-ipv6-socket-failure"
+      },
+      {
+        "tags": [
+          "c++",
+          "boost"
+        ],
+        "creation_date": 1420659880,
+        "question_id": 27827391,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827391/why-does-boost-require-vector0"
+      },
+      {
+        "tags": [
+          "javascript",
+          "dom-events",
+          "event-bubbling"
+        ],
+        "creation_date": 1420659886,
+        "question_id": 27827393,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27827393/dispatching-an-event-that-starts-bubbling-from-the-same-event-handler"
+      },
+      {
+        "tags": [
+          "c",
+          "arrays",
+          "struct",
+          "typedef"
+        ],
+        "creation_date": 1420659890,
+        "question_id": 27827394,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827394/how-to-assign-a-value-to-a-struct-array"
+      },
+      {
+        "tags": [
+          "javascript",
+          "regex",
+          "google-apps-script",
+          "google-docs-api"
+        ],
+        "creation_date": 1420659891,
+        "question_id": 27827395,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827395/google-docs-api-text-replacetext-regex-issues"
+      },
+      {
+        "tags": [
+          "powershell",
+          "powershell-2.0",
+          "exchange-server",
+          "exchange-server-2010"
+        ],
+        "creation_date": 1420659901,
+        "question_id": 27827398,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827398/sort-object-by-greatest-numerical-value-value-from-import-csv"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "uiwebview",
+          "ios8",
+          "uialertview",
+          "uialertcontroller"
+        ],
+        "creation_date": 1420659907,
+        "question_id": 27827400,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827400/uialertview-in-ios8-appearing-off-center-mis-placed-only-portion-of-the-screen"
+      },
+      {
+        "tags": [
+          "vb.net"
+        ],
+        "creation_date": 1420659912,
+        "question_id": 27827404,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827404/display-from-text-file"
+      },
+      {
+        "tags": [
+          "php",
+          "zend-framework2",
+          "zend-framework-mvc",
+          "zend-framework-modules"
+        ],
+        "creation_date": 1420659913,
+        "question_id": 27827406,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27827406/dynamically-loading-zf2-modules"
+      },
+      {
+        "tags": [
+          "javascript",
+          "escaping"
+        ],
+        "creation_date": 1420659921,
+        "question_id": 27827410,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827410/cant-pass-a-variable-as-an-argument-in-a-onclick-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "json",
+          "angularjs",
+          "gruntjs",
+          "yeoman"
+        ],
+        "creation_date": 1420659926,
+        "question_id": 27827412,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827412/yeoman-angularjs-grunt-breaks-modules"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-mvc"
+        ],
+        "creation_date": 1420659984,
+        "question_id": 27827422,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827422/formselect-does-not-work-in-edit-mode-if-there-multiple-select-in-spring-mvc-pr"
+      },
+      {
+        "tags": [
+          "sql",
+          "loops",
+          "while-loop",
+          "sql-server-2008-r2"
+        ],
+        "creation_date": 1420659991,
+        "question_id": 27827424,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827424/is-there-a-way-to-avoid-this-loop-in-sql-server-2008-r2"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "html"
+        ],
+        "creation_date": 1420660001,
+        "question_id": 27827427,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827427/set-value-of-input-field-inside-an-external-iframe"
+      },
+      {
+        "tags": [
+          "android",
+          "android-fragments"
+        ],
+        "creation_date": 1420660015,
+        "question_id": 27827433,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827433/calling-fragment-method-from-activity-findfragmentbyid-returns-null"
+      },
+      {
+        "tags": [
+          "java",
+          "generics",
+          "observer-pattern",
+          "unchecked"
+        ],
+        "creation_date": 1420660027,
+        "question_id": 27827435,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827435/eventsource-with-mapclass-extends-event-listeventlistener-extends-event"
+      },
+      {
+        "tags": [
+          "sql-server-2008",
+          "powershell"
+        ],
+        "creation_date": 1420660029,
+        "question_id": 27827436,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827436/how-to-get-a-datetime-from-invoke-sqlcmd-on-powershell"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "xcode",
+          "swift"
+        ],
+        "creation_date": 1420660034,
+        "question_id": 27827440,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827440/how-can-i-identify-calling-view-controller-in-viewdidload"
+      },
+      {
+        "tags": [
+          "java",
+          "mysql",
+          "hibernate",
+          "jpa",
+          "auto-increment"
+        ],
+        "creation_date": 1420660069,
+        "question_id": 27827446,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827446/create-an-automatically-incremented-database-field-in-hibernate"
+      },
+      {
+        "tags": [
+          "php",
+          "arrays",
+          "sum"
+        ],
+        "creation_date": 1420660071,
+        "question_id": 27827447,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827447/count-keys-in-array"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "wcf"
+        ],
+        "creation_date": 1420660073,
+        "question_id": 27827449,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827449/is-it-possible-to-return-a-dataset-as-a-string-from-a-wcf-to-a-windows-form"
+      },
+      {
+        "tags": [
+          "javascript",
+          "json",
+          "rest",
+          "ember.js"
+        ],
+        "creation_date": 1420660076,
+        "question_id": 27827451,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827451/ember-assertion-failed-the-response-from-a-findquery-must-be-an-array-not-unde"
+      },
+      {
+        "tags": [
+          "php",
+          "interface",
+          "abstract-class",
+          "factory-pattern",
+          "abstraction"
+        ],
+        "creation_date": 1420660111,
+        "question_id": 27827460,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827460/php-use-abstract-class-or-interface"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-mvc",
+          "asp.net-mvc-4"
+        ],
+        "creation_date": 1420660115,
+        "question_id": 27827461,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27827461/how-do-i-get-the-model-validation-decorations-output-to-my-view"
+      },
+      {
+        "tags": [
+          "r",
+          "plot",
+          "time-series"
+        ],
+        "creation_date": 1420660128,
+        "question_id": 27827464,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827464/simple-r-time-series-function-plotting"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "transition"
+        ],
+        "creation_date": 1420660140,
+        "question_id": 27827467,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827467/fading-the-opacity-of-a-background-when-carousel-changes"
+      },
+      {
+        "tags": [
+          "entity-framework"
+        ],
+        "creation_date": 1420660141,
+        "question_id": 27827468,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827468/multiple-overlapping-indexes-in-codefirst-using-migrations"
+      },
+      {
+        "tags": [
+          "matlab",
+          "degrees",
+          "radians"
+        ],
+        "creation_date": 1420660172,
+        "question_id": 27827477,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827477/radians-to-degrees-matlab"
+      },
+      {
+        "tags": [
+          "javascript",
+          "django",
+          "sorting",
+          "tablesorter"
+        ],
+        "creation_date": 1420660197,
+        "question_id": 27827481,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827481/jquery-tablesorter-sorting-formatted-currency"
+      },
+      {
+        "tags": [
+          "parsing",
+          "haskell",
+          "ghc"
+        ],
+        "creation_date": 1420660204,
+        "question_id": 27827483,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827483/parse-error-incorrect-indentation-or-misplaced-bracket"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "ajax",
+          "forms"
+        ],
+        "creation_date": 1420660214,
+        "question_id": 27827489,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827489/forms-with-ajax-send-with-multi-parameter-and-a-href"
+      },
+      {
+        "tags": [
+          ".htaccess",
+          "yii2",
+          "yii-url-manager"
+        ],
+        "creation_date": 1420660233,
+        "question_id": 27827494,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827494/yii2-urlmanager-enableprettyurl-not-working"
+      },
+      {
+        "tags": [
+          "java",
+          "windows",
+          "ant",
+          "jboss"
+        ],
+        "creation_date": 1420660239,
+        "question_id": 27827497,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827497/ant-error-running-javac-exe-compiler"
+      },
+      {
+        "tags": [
+          "onedrive"
+        ],
+        "creation_date": 1420660243,
+        "question_id": 27827499,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827499/what-content-type-is-needed-for-deleteing-a-file-on-onedrive"
+      },
+      {
+        "tags": [
+          "pointers",
+          "interface",
+          "go"
+        ],
+        "creation_date": 1420660255,
+        "question_id": 27827500,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827500/in-what-sense-can-gos-interface-be-considered-a-pointer"
+      },
+      {
+        "tags": [
+          "python",
+          "macos",
+          "terminal"
+        ],
+        "creation_date": 1420660260,
+        "question_id": 27827503,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827503/getting-different-logged-in-user-on-mac"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "ckeditor"
+        ],
+        "creation_date": 1420660283,
+        "question_id": 27827509,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827509/ckeditor-paste-from-word-issue-with-background-color-of-table"
+      },
+      {
+        "tags": [
+          "java",
+          "mysql",
+          "jpql"
+        ],
+        "creation_date": 1420660291,
+        "question_id": 27827511,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827511/jpql-get-count-from-custom-new-object"
+      },
+      {
+        "tags": [
+          "regex",
+          "rest",
+          "api-design"
+        ],
+        "creation_date": 1420660297,
+        "question_id": 27827513,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827513/restful-api-conventions-how-to-represent-a-regular-expression-search"
+      },
+      {
+        "tags": [
+          "visual-studio",
+          "visual-studio-2013",
+          "biztalk",
+          "biztalk-2013r2"
+        ],
+        "creation_date": 1420660299,
+        "question_id": 27827514,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827514/visual-studio-2013-missing-the-installed-templates"
+      },
+      {
+        "tags": [
+          "encoding",
+          "dart",
+          "ascii",
+          "asciiencoding"
+        ],
+        "creation_date": 1420660303,
+        "question_id": 27827516,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827516/ascii-8-bit-encoding-for-dart"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420660306,
+        "question_id": 27827517,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827517/delayed-closing-of-a-javascript-window"
+      },
+      {
+        "tags": [
+          "php",
+          "image",
+          "canvas",
+          "png",
+          "pixel"
+        ],
+        "creation_date": 1420660317,
+        "question_id": 27827518,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827518/imagestring-get-the-size-of-the-string-lengh-in-pixels"
+      },
+      {
+        "tags": [
+          "hbase",
+          "one-to-many"
+        ],
+        "creation_date": 1420660337,
+        "question_id": 27827525,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827525/hbase-one-to-many-table-load-process"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-mvc",
+          "linq",
+          "linq-to-sql"
+        ],
+        "creation_date": 1420660351,
+        "question_id": 27827527,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827527/filtering-an-mvc-selectlist-from-db"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "angularjs",
+          "angularjs-filter",
+          "angularjs-ng-options"
+        ],
+        "creation_date": 1420660365,
+        "question_id": 27827529,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27827529/alphabetize-options-from-object-preserving-key-value-associations-in-angularjs"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 154
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "retrieved_at": "2026-10-26T19:03:15.035972+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736164800&todate=1736186399&sort=creation&order=asc&pagesize=100&page=3&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736164800,
+    "todate": 1736186399,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 3,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1736185426,
+        "question_id": 79333887,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333887/im-trying-to-simulate-the-monty-hall-problem-in-python-and-im-having-trouble"
+      },
+      {
+        "tags": [
+          "xlsxwriter"
+        ],
+        "creation_date": 1736185647,
+        "question_id": 79333891,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333891/python-xlsxwriter-overrides-previous-output"
+      },
+      {
+        "tags": [
+          "google-apps-script",
+          "web-applications",
+          "google-workspace"
+        ],
+        "creation_date": 1736185944,
+        "question_id": 79333903,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333903/dopost-function-in-google-apps-script-not-executing-as-expected"
+      },
+      {
+        "tags": [
+          "yocto",
+          "bitbake",
+          "openembedded"
+        ],
+        "creation_date": 1736185991,
+        "question_id": 79333906,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333906/random-build-failures-during-yocto-poky-build"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "spring-kafka"
+        ],
+        "creation_date": 1736186204,
+        "question_id": 79333914,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79333914/is-spring-boot-kafka-consumer-asynchronous-and-if-not-how-do-we-make-it"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 292
+  }
+}

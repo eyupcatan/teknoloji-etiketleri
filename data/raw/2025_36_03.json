@@ -1,0 +1,392 @@
+{
+  "retrieved_at": "2026-10-26T19:03:45.062827+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736251200&todate=1736272799&sort=creation&order=asc&pagesize=100&page=3&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736251200,
+    "todate": 1736272799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 3,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "pandas"
+        ],
+        "creation_date": 1736270157,
+        "question_id": 79336815,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336815/merge-two-dataframes-together-dependent-on-one-column-containing-the-values-of-a"
+      },
+      {
+        "tags": [
+          "java",
+          "single-sign-on"
+        ],
+        "creation_date": 1736270202,
+        "question_id": 79336818,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336818/integrate-multiple-sso-in-java-application"
+      },
+      {
+        "tags": [
+          "python",
+          "performance"
+        ],
+        "creation_date": 1736270265,
+        "question_id": 79336820,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336820/understanding-branch-prediction-optimizations-in-python"
+      },
+      {
+        "tags": [
+          "opensearch",
+          "amazon-opensearch"
+        ],
+        "creation_date": 1736270460,
+        "question_id": 79336826,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336826/how-to-dynamic-template-a-mapping-for-a-dictionary-object-with-strict-allow-temp"
+      },
+      {
+        "tags": [
+          "c++",
+          "unit-testing",
+          "googletest"
+        ],
+        "creation_date": 1736270482,
+        "question_id": 79336827,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336827/google-test-class-method-cant-access-private-member-of-user-class-the-class-un"
+      },
+      {
+        "tags": [
+          "azure",
+          "templates",
+          "error-handling",
+          "azure-resource-manager"
+        ],
+        "creation_date": 1736270506,
+        "question_id": 79336829,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336829/error-in-arm-template-cannot-read-properties-of-undefined-reading-foreach"
+      },
+      {
+        "tags": [
+          "google-cloud-platform",
+          "google-cloud-data-fusion"
+        ],
+        "creation_date": 1736270542,
+        "question_id": 79336833,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336833/is-there-a-way-to-get-a-variable-from-a-bigquery-query-and-pass-it-to-an-import"
+      },
+      {
+        "tags": [
+          "android",
+          "react-native"
+        ],
+        "creation_date": 1736270588,
+        "question_id": 79336835,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336835/a-module-failed-to-load-due-to-an-error-and-appregistry-registercomponent-wasn"
+      },
+      {
+        "tags": [
+          "php",
+          "wordpress"
+        ],
+        "creation_date": 1736270595,
+        "question_id": 79336836,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336836/generating-a-link-to-a-wordpress-posts-categories-in-the-layout"
+      },
+      {
+        "tags": [
+          "c++",
+          "header",
+          "compile-time"
+        ],
+        "creation_date": 1736270618,
+        "question_id": 79336837,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336837/is-there-a-way-to-prevent-a-header-file-without-header-guards-from-being-include"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-boot",
+          "spring6"
+        ],
+        "creation_date": 1736270696,
+        "question_id": 79336840,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336840/upgrading-from-spring-5-to-spring-6-can-i-use-the-same-xml-configuration-or-do"
+      },
+      {
+        "tags": [
+          "swift",
+          "swiftui",
+          "scrollview",
+          "gesture"
+        ],
+        "creation_date": 1736270889,
+        "question_id": 79336848,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336848/simultaneous-gestures-not-working-on-ios-17"
+      },
+      {
+        "tags": [
+          "oracle-database",
+          "stored-procedures",
+          "privileges",
+          "materialized-views",
+          "sql-grant"
+        ],
+        "creation_date": 1736271154,
+        "question_id": 79336856,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336856/no-privileges-when-executing-oracle-stored-procedure"
+      },
+      {
+        "tags": [
+          "sql",
+          "postgresql",
+          "plpgsql"
+        ],
+        "creation_date": 1736271162,
+        "question_id": 79336857,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336857/using-select-into-and-select-statements-in-a-block-in-postresql"
+      },
+      {
+        "tags": [
+          "typescript",
+          "next.js",
+          "playwright",
+          "playwright-test",
+          "playwright-typescript"
+        ],
+        "creation_date": 1736271231,
+        "question_id": 79336860,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336860/how-to-simulate-map-box-rotation-bearing-in-playwright-e2e-test"
+      },
+      {
+        "tags": [
+          "haskell",
+          "happy",
+          "alex"
+        ],
+        "creation_date": 1736271312,
+        "question_id": 79336862,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336862/happy-alex-how-to-parse-into-keyword-or-identifier-based-on-the-context"
+      },
+      {
+        "tags": [
+          "arrays",
+          "c",
+          "pointers",
+          "data-structures"
+        ],
+        "creation_date": 1736271335,
+        "question_id": 79336865,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336865/getting-address-of-one-struct-within-an-array-in-c"
+      },
+      {
+        "tags": [
+          "python",
+          "floating-point",
+          "ctypes"
+        ],
+        "creation_date": 1736271388,
+        "question_id": 79336866,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336866/half-precision-in-ctypes"
+      },
+      {
+        "tags": [
+          "aws-cdk"
+        ],
+        "creation_date": 1736271401,
+        "question_id": 79336867,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336867/aws-cdk-verifying-template"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "javafx",
+          "task"
+        ],
+        "creation_date": 1736271411,
+        "question_id": 79336868,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336868/anticapte-filechooser-closing-to-abort-a-the-runing-task"
+      },
+      {
+        "tags": [
+          "typescript",
+          "jwt",
+          "nestjs"
+        ],
+        "creation_date": 1736271414,
+        "question_id": 79336869,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336869/nestjs-global-authguard-not-called-on-every-endpoint"
+      },
+      {
+        "tags": [
+          "looker-studio"
+        ],
+        "creation_date": 1736271505,
+        "question_id": 79336870,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336870/how-to-inverse-heatmap-column-colors-in-looker-studio-chart-widget"
+      },
+      {
+        "tags": [
+          "git",
+          "github",
+          "git-push",
+          "git-checkout",
+          "git-fetch"
+        ],
+        "creation_date": 1736271534,
+        "question_id": 79336872,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336872/your-branch-is-ahead-of-origin-main-by-x-commits-even-after-git-push"
+      },
+      {
+        "tags": [
+          "c#",
+          "unity-game-engine"
+        ],
+        "creation_date": 1736271590,
+        "question_id": 79336875,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336875/why-is-raycasting-not-detecting-collisions-in-unity-scene"
+      },
+      {
+        "tags": [
+          "c#",
+          "x509certificate2",
+          "abp-framework",
+          "azure-appservice",
+          "openiddict"
+        ],
+        "creation_date": 1736271591,
+        "question_id": 79336876,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336876/use-pfx-certificate-in-azure-app-service-fail"
+      },
+      {
+        "tags": [
+          "python",
+          "autocad",
+          "dxf",
+          "ezdxf"
+        ],
+        "creation_date": 1736271688,
+        "question_id": 79336883,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336883/how-to-add-a-prefix-to-layer-names-in-autocad-using-ezdxf"
+      },
+      {
+        "tags": [
+          "ios",
+          "build",
+          "app-store-connect",
+          "archive"
+        ],
+        "creation_date": 1736271764,
+        "question_id": 79336892,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336892/failed-registering-bundle-identifier"
+      },
+      {
+        "tags": [
+          "xslt",
+          "xslt-3.0",
+          "xslt-grouping"
+        ],
+        "creation_date": 1736272098,
+        "question_id": 79336903,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336903/xslt-convert-date-and-time-from-pst-to-utc"
+      },
+      {
+        "tags": [
+          "docker",
+          "cron",
+          "raspberry-pi",
+          "nextcloud"
+        ],
+        "creation_date": 1736272184,
+        "question_id": 79336905,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336905/nextcloud-system-cron-not-working-php-network-getaddresses-name-or-service-n"
+      },
+      {
+        "tags": [
+          "javascript",
+          "next.js",
+          "server-action"
+        ],
+        "creation_date": 1736272212,
+        "question_id": 79336908,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336908/how-to-pass-additional-arguments-to-next-js-server-actions"
+      },
+      {
+        "tags": [
+          "java",
+          "ubuntu",
+          "network-programming",
+          "apache-kafka"
+        ],
+        "creation_date": 1736272419,
+        "question_id": 79336917,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336917/connection-error-to-kafka-broker-when-publishing-a-message-through-java-app"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "firebase",
+          "webcam",
+          "firebase-hosting"
+        ],
+        "creation_date": 1736272457,
+        "question_id": 79336919,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336919/react-webcam-doesn-t-work-when-using-firebase-hosting"
+      },
+      {
+        "tags": [
+          "python-sphinx",
+          "figure",
+          "restructuredtext",
+          "figcaption"
+        ],
+        "creation_date": 1736272705,
+        "question_id": 79336925,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79336925/in-restructuredtext-how-would-you-have-automatic-numbering-of-figures-without-a"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 284
+  }
+}

@@ -1,0 +1,1128 @@
+{
+  "retrieved_at": "2026-10-26T19:12:57.300647+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420740000&todate=1420761599&sort=creation&order=asc&pagesize=100&page=12&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420740000,
+    "todate": 1420761599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 12,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "ios",
+          "uitableview",
+          "autolayout",
+          "nib",
+          "autoresizingmask"
+        ],
+        "creation_date": 1420753666,
+        "question_id": 27850083,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850083/autoresize-uitableviewcell-while-uitableview-uses-autolayout"
+      },
+      {
+        "tags": [
+          "ios",
+          "iphone",
+          "xcode"
+        ],
+        "creation_date": 1420753669,
+        "question_id": 27850085,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850085/issue-with-increase-memory-usage-when-looping-uiviewcontrollers-using-uinavigati"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf"
+        ],
+        "creation_date": 1420753675,
+        "question_id": 27850088,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850088/wpf-usercontrol-that-is-a-tab-in-a-tabcontrol-how-to-detect-if-it-is-closing"
+      },
+      {
+        "tags": [
+          "matlab",
+          "matrix"
+        ],
+        "creation_date": 1420753685,
+        "question_id": 27850090,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850090/matlab-coding-for-circulant-matrix"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "google-chrome",
+          "google-chrome-extension"
+        ],
+        "creation_date": 1420753707,
+        "question_id": 27850092,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850092/chrome-tabs-oncreated-and-executescript-for-chrome-extensions-not-working"
+      },
+      {
+        "tags": [
+          "php",
+          "jquery",
+          "html",
+          "drop-down-menu",
+          "mysqli"
+        ],
+        "creation_date": 1420753747,
+        "question_id": 27850101,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850101/how-can-i-show-column-data-from-my-databasel-in-a-drop-down-menu-as-selections"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1420753754,
+        "question_id": 27850104,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850104/incorrect-syntax-near-using-a-script-from-loginuserrolepermission-zip"
+      },
+      {
+        "tags": [
+          "perl",
+          "catalyst",
+          "dbix-class",
+          "moosex-types"
+        ],
+        "creation_date": 1420753764,
+        "question_id": 27850108,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850108/cant-call-method-model-on-an-undefined-value-at"
+      },
+      {
+        "tags": [
+          "vba",
+          "excel"
+        ],
+        "creation_date": 1420753772,
+        "question_id": 27850112,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850112/how-to-find-location-of-link-in-excel-workbook"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x"
+        ],
+        "creation_date": 1420753773,
+        "question_id": 27850113,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850113/python-cant-find-file"
+      },
+      {
+        "tags": [
+          "java",
+          "algorithm",
+          "if-statement"
+        ],
+        "creation_date": 1420753790,
+        "question_id": 27850116,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850116/smallest-and-largest-integers-using-if-else-only"
+      },
+      {
+        "tags": [
+          "ubuntu",
+          "apt"
+        ],
+        "creation_date": 1420753795,
+        "question_id": 27850118,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850118/ubuntu-find-apt-get-install-scsitools-script"
+      },
+      {
+        "tags": [
+          "r",
+          "ggplot2"
+        ],
+        "creation_date": 1420753818,
+        "question_id": 27850123,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850123/ggplot2-have-shorter-tick-marks-for-tick-marks-without-labels"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html"
+        ],
+        "creation_date": 1420753840,
+        "question_id": 27850127,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850127/jquery-find-child-based-on-class-selector-matching-parents"
+      },
+      {
+        "tags": [
+          "xml",
+          "json",
+          "perl",
+          "malformed"
+        ],
+        "creation_date": 1420753873,
+        "question_id": 27850134,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850134/malformed-json-string-in-perl"
+      },
+      {
+        "tags": [
+          "php",
+          "arrays",
+          "reference"
+        ],
+        "creation_date": 1420753896,
+        "question_id": 27850138,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850138/can-you-explicitly-copy-a-php-array-containing-referenced-elements-by-value"
+      },
+      {
+        "tags": [
+          "javascript",
+          "promise",
+          "callstack"
+        ],
+        "creation_date": 1420753897,
+        "question_id": 27850139,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850139/promises-vs-function-calls-settimeout"
+      },
+      {
+        "tags": [
+          "algorithm",
+          "bin-packing"
+        ],
+        "creation_date": 1420753900,
+        "question_id": 27850142,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850142/loose-bin-packing-algorithm"
+      },
+      {
+        "tags": [
+          "javascript",
+          "parse-platform",
+          "polymer"
+        ],
+        "creation_date": 1420753904,
+        "question_id": 27850143,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850143/using-parse-com-with-polymer"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420753932,
+        "question_id": 27850149,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850149/entire-html-document-with-binding-value"
+      },
+      {
+        "tags": [
+          "javascript",
+          "json",
+          "variables"
+        ],
+        "creation_date": 1420753951,
+        "question_id": 27850153,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850153/javascript-beginner-global-variable-isnt-working"
+      },
+      {
+        "tags": [
+          "c#",
+          "chromium-embedded",
+          "cefsharp"
+        ],
+        "creation_date": 1420753961,
+        "question_id": 27850154,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850154/getting-video-to-loop-in-cefsharp"
+      },
+      {
+        "tags": [
+          "php",
+          "arrays",
+          "twig"
+        ],
+        "creation_date": 1420753961,
+        "question_id": 27850155,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850155/format-an-array-of-php-objects-in-twig"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "continuous-integration",
+          "osx-server"
+        ],
+        "creation_date": 1420753966,
+        "question_id": 27850157,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850157/os-x-server-archive-but-no-ipa"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "python-2.x"
+        ],
+        "creation_date": 1420753980,
+        "question_id": 27850161,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850161/what-should-i-use-instead-of-getslice"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "animation"
+        ],
+        "creation_date": 1420754019,
+        "question_id": 27850169,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850169/delay-doesnt-appear-to-delay-after-a-stoptrue-true-on-an-element"
+      },
+      {
+        "tags": [
+          "django",
+          "django-models",
+          "django-forms"
+        ],
+        "creation_date": 1420754025,
+        "question_id": 27850171,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850171/django-using-is-valid-on-a-field-where-null-true"
+      },
+      {
+        "tags": [
+          "c++",
+          "operator-precedence"
+        ],
+        "creation_date": 1420754026,
+        "question_id": 27850172,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850172/c-operator-priority-and"
+      },
+      {
+        "tags": [
+          "c#",
+          "xna",
+          "draw"
+        ],
+        "creation_date": 1420754027,
+        "question_id": 27850173,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850173/xna-object-not-drawn-on-screen"
+      },
+      {
+        "tags": [
+          "google-maps",
+          "markers"
+        ],
+        "creation_date": 1420754042,
+        "question_id": 27850175,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850175/google-map-api-display-only-markers-located-on-a-street"
+      },
+      {
+        "tags": [
+          "c++",
+          "c++11",
+          "gcc",
+          "linker"
+        ],
+        "creation_date": 1420754074,
+        "question_id": 27850184,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850184/g-gcc-compiler-is-giving-undefined-reference-error-when-optiomzation-is-turned"
+      },
+      {
+        "tags": [
+          "python-2.7"
+        ],
+        "creation_date": 1420754079,
+        "question_id": 27850187,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850187/basic-issue-on-python"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420754092,
+        "question_id": 27850191,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850191/how-to-change-background-color-for-multiple-html-documents-with-javascript"
+      },
+      {
+        "tags": [
+          "c#",
+          "xml",
+          "vb.net"
+        ],
+        "creation_date": 1420754093,
+        "question_id": 27850192,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850192/404-error-when-loading-xml-file"
+      },
+      {
+        "tags": [
+          "ios",
+          "xamarin.ios",
+          "xamarin",
+          "quicklook",
+          "qlpreviewcontroller"
+        ],
+        "creation_date": 1420754108,
+        "question_id": 27850198,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850198/how-to-manage-memory-within-a-qlpreviewcontroller"
+      },
+      {
+        "tags": [
+          ".net",
+          "wix",
+          "x86",
+          "64-bit",
+          "32bit-64bit"
+        ],
+        "creation_date": 1420754135,
+        "question_id": 27850206,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850206/wix-32-bit-and-64-bit-msis-not-uninstalling-each-other"
+      },
+      {
+        "tags": [
+          "java",
+          "input",
+          "load",
+          "output"
+        ],
+        "creation_date": 1420754142,
+        "question_id": 27850207,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850207/java-error-on-read-text-file-exception-in-thread-main-java-lang-error"
+      },
+      {
+        "tags": [
+          "ajax",
+          "session",
+          "http-redirect",
+          "laravel"
+        ],
+        "creation_date": 1420754146,
+        "question_id": 27850208,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850208/laravel-ajax-redirect-after-login"
+      },
+      {
+        "tags": [
+          "java",
+          "arrays",
+          "copy"
+        ],
+        "creation_date": 1420754160,
+        "question_id": 27850212,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850212/cannot-explain-behaviour-of-copyofrangeint-a-int-from-int-to-function"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "content-security-policy"
+        ],
+        "creation_date": 1420754179,
+        "question_id": 27850216,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850216/accessing-content-security-policy-violation-reports-posted-to-asp-net"
+      },
+      {
+        "tags": [
+          "ios",
+          "delphi",
+          "delphi-xe7"
+        ],
+        "creation_date": 1420754188,
+        "question_id": 27850218,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850218/radstudio-xe7-unable-to-sync-to-ios-device"
+      },
+      {
+        "tags": [
+          "c",
+          "arrays",
+          "pointers",
+          "segmentation-fault"
+        ],
+        "creation_date": 1420754194,
+        "question_id": 27850221,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850221/why-dont-i-get-sigsegv"
+      },
+      {
+        "tags": [
+          "git",
+          "gitignore"
+        ],
+        "creation_date": 1420754202,
+        "question_id": 27850222,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850222/what-is-gitignore"
+      },
+      {
+        "tags": [
+          "matlab"
+        ],
+        "creation_date": 1420754235,
+        "question_id": 27850230,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850230/apply-strsplit-to-column-of-strings-cellstr"
+      },
+      {
+        "tags": [
+          "linux",
+          "node.js",
+          "express",
+          "npm",
+          "linux-mint"
+        ],
+        "creation_date": 1420754239,
+        "question_id": 27850234,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850234/npm-install-error-npm-optimist-0-3-7-linux-mint"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "t-sql"
+        ],
+        "creation_date": 1420754243,
+        "question_id": 27850236,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850236/select-person-with-the-highest-salary-in-every-city"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy"
+        ],
+        "creation_date": 1420754250,
+        "question_id": 27850237,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850237/ipython-variable-assignment"
+      },
+      {
+        "tags": [
+          "c#",
+          "mysql",
+          "sql-server",
+          "datagridview",
+          "visual-studio-2013"
+        ],
+        "creation_date": 1420754257,
+        "question_id": 27850238,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850238/retrieving-data-from-database-in-visual-c"
+      },
+      {
+        "tags": [
+          "python",
+          "django",
+          "csv"
+        ],
+        "creation_date": 1420754276,
+        "question_id": 27850246,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850246/django-validate-csv"
+      },
+      {
+        "tags": [
+          "bamboo"
+        ],
+        "creation_date": 1420754278,
+        "question_id": 27850247,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850247/issues-trying-to-perform-a-bamboo-build-via-a-http-request"
+      },
+      {
+        "tags": [
+          "javascript",
+          "string",
+          "object",
+          "key"
+        ],
+        "creation_date": 1420754291,
+        "question_id": 27850252,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850252/javascript-use-string-as-parameter-for-an-object-key"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "asp.net-mvc"
+        ],
+        "creation_date": 1420754294,
+        "question_id": 27850253,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850253/jquery-javascript-does-not-work-on-partial-view"
+      },
+      {
+        "tags": [
+          "firebase",
+          "browserify"
+        ],
+        "creation_date": 1420754326,
+        "question_id": 27850261,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850261/firebase-createuser-is-undefined"
+      },
+      {
+        "tags": [
+          "animation",
+          "unity-game-engine",
+          "unityscript"
+        ],
+        "creation_date": 1420754348,
+        "question_id": 27850266,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850266/loading-an-animation-in-unity-2d-at-runtime"
+      },
+      {
+        "tags": [
+          "php",
+          "symfony",
+          "session",
+          "cookies"
+        ],
+        "creation_date": 1420754361,
+        "question_id": 27850272,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850272/remember-me-not-working"
+      },
+      {
+        "tags": [
+          "android",
+          "android-studio"
+        ],
+        "creation_date": 1420754363,
+        "question_id": 27850273,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850273/how-do-i-get-rid-of-the-choose-external-documentation-root-dialog"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "function",
+          "resize"
+        ],
+        "creation_date": 1420754364,
+        "question_id": 27850274,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850274/click-function-with-window-height-variable-on-load-and-resize"
+      },
+      {
+        "tags": [
+          "c#",
+          "arrays",
+          "string",
+          "numbers",
+          "decimal"
+        ],
+        "creation_date": 1420754372,
+        "question_id": 27850275,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850275/saving-string-decimal-number-to-one-element-in-string-array"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420754375,
+        "question_id": 27850276,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850276/dynamically-load-external-js-file"
+      },
+      {
+        "tags": [
+          "sql",
+          "join"
+        ],
+        "creation_date": 1420754396,
+        "question_id": 27850285,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850285/sql-joining-a-table-with-repeated-keys"
+      },
+      {
+        "tags": [
+          "java",
+          "swing",
+          "actionlistener"
+        ],
+        "creation_date": 1420754417,
+        "question_id": 27850288,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850288/add-listener-to-jpanel-that-will-be-only-called-onload"
+      },
+      {
+        "tags": [
+          "list",
+          "list-comprehension",
+          "tiles",
+          "cells"
+        ],
+        "creation_date": 1420754451,
+        "question_id": 27850296,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850296/why-does-a-list-comprehension-work-this-way-if-statements"
+      },
+      {
+        "tags": [
+          "node.js",
+          "loopbackjs"
+        ],
+        "creation_date": 1420754455,
+        "question_id": 27850297,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850297/loopback-splitting-model-config-json"
+      },
+      {
+        "tags": [
+          "jquery",
+          "forms",
+          "radio-button",
+          "toggle",
+          "show-hide"
+        ],
+        "creation_date": 1420754457,
+        "question_id": 27850298,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850298/two-radio-buttons-one-div-conditionally-toggling-one-div-via-two-radio-butto"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420754471,
+        "question_id": 27850303,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850303/making-an-object-that-can-be-called-as-a-function"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "module",
+          "include",
+          "mixins"
+        ],
+        "creation_date": 1420754482,
+        "question_id": 27850307,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850307/conditionally-include-a-module-based-on-the-instance-of-a-model-ruby-on-rails"
+      },
+      {
+        "tags": [
+          "swift",
+          "ios-simulator",
+          "signals",
+          "sigterm"
+        ],
+        "creation_date": 1420754506,
+        "question_id": 27850311,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850311/thread1-signal-sigterm-in-swift-when-changing-hardware-in-ios-simulator"
+      },
+      {
+        "tags": [
+          "javascript",
+          "forms",
+          "element"
+        ],
+        "creation_date": 1420754515,
+        "question_id": 27850314,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850314/how-do-i-get-this-script-to-focus-an-element-on-keydown-keypress"
+      },
+      {
+        "tags": [
+          "google-compute-engine",
+          "google-cloud-platform"
+        ],
+        "creation_date": 1420754524,
+        "question_id": 27850316,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850316/gce-snapshots-via-commandline"
+      },
+      {
+        "tags": [
+          "android",
+          "android-studio",
+          "android-styles"
+        ],
+        "creation_date": 1420754532,
+        "question_id": 27850317,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850317/android-studio-1-0-2-missing-styles"
+      },
+      {
+        "tags": [
+          "c#",
+          "selenium",
+          "xpath"
+        ],
+        "creation_date": 1420754547,
+        "question_id": 27850320,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850320/unable-to-locate-an-element-in-selenium"
+      },
+      {
+        "tags": [
+          "r",
+          "na",
+          "missing-data"
+        ],
+        "creation_date": 1420754550,
+        "question_id": 27850344,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850344/coalesce-two-string-columns-with-alternating-missing-values-to-one"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "xcode6"
+        ],
+        "creation_date": 1420754562,
+        "question_id": 27850324,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850324/use-storyboard-from-framework-in-xcode-6-ios-8"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "twitter-bootstrap-3"
+        ],
+        "creation_date": 1420754593,
+        "question_id": 27850331,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850331/bootstrap-newbie-issues"
+      },
+      {
+        "tags": [
+          "regex",
+          "powershell"
+        ],
+        "creation_date": 1420754594,
+        "question_id": 27850332,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850332/read-semi-structured-text-file"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net",
+          "ajax",
+          "asp.net-mvc-4",
+          "asp.net-web-api"
+        ],
+        "creation_date": 1420754600,
+        "question_id": 27850334,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850334/web-api-asp-net-ajax-request-for-bearer-token-login-work-in-fiddler-but-does-not"
+      },
+      {
+        "tags": [
+          "c",
+          "linux",
+          "debugging",
+          "assembly",
+          "gdb"
+        ],
+        "creation_date": 1420754604,
+        "question_id": 27850335,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850335/gdb-no-such-file-or-directory"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "visual-studio",
+          "azure",
+          "bacpac"
+        ],
+        "creation_date": 1420754607,
+        "question_id": 27850337,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850337/how-to-import-azure-sql-backup-bacpac-to-localdb-using-visual-studio"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "security",
+          "securestring"
+        ],
+        "creation_date": 1420754619,
+        "question_id": 27850342,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850342/using-securestring-with-logonuser"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "jquery-plugins"
+        ],
+        "creation_date": 1420754662,
+        "question_id": 27850349,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850349/site-components-each-include-jquery-only-1-works"
+      },
+      {
+        "tags": [
+          "c#",
+          "naudio"
+        ],
+        "creation_date": 1420754673,
+        "question_id": 27850350,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850350/reusing-a-mixed-channel-with-naudio"
+      },
+      {
+        "tags": [
+          "regex",
+          "awk",
+          "sed",
+          "hive"
+        ],
+        "creation_date": 1420754678,
+        "question_id": 27850351,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850351/need-help-reformatting-date-format-in-a-csv"
+      },
+      {
+        "tags": [
+          "node.js",
+          "selenium",
+          "selenium-webdriver",
+          "webdriver"
+        ],
+        "creation_date": 1420754679,
+        "question_id": 27850352,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850352/headless-firefox-with-selenium-webdriver-manager-and-se-interpreter"
+      },
+      {
+        "tags": [
+          "javascript",
+          "regex"
+        ],
+        "creation_date": 1420754689,
+        "question_id": 27850355,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850355/how-do-i-match-parentheses-arguments-with-regex"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420754699,
+        "question_id": 27850357,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850357/php-how-to-pass-an-object-property-or-single-value-from-an-array-to-anonymous-f"
+      },
+      {
+        "tags": [
+          "java",
+          "dictionary",
+          "hashmap",
+          "bufferedreader",
+          "filereader"
+        ],
+        "creation_date": 1420754705,
+        "question_id": 27850360,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850360/how-parse-string-into-map-the-string-read-from-a-file-location-using-java"
+      },
+      {
+        "tags": [
+          "lua",
+          "lua-table"
+        ],
+        "creation_date": 1420754725,
+        "question_id": 27850362,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850362/how-do-i-get-first-table-value-in-lua"
+      },
+      {
+        "tags": [
+          "haskell",
+          "concurrency",
+          "squad"
+        ],
+        "creation_date": 1420754732,
+        "question_id": 27850363,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850363/implementing-channels-in-haskell-tackling-the-awkward-squad"
+      },
+      {
+        "tags": [
+          "sql",
+          "t-sql",
+          "sql-server-2008-r2",
+          "aggregate-functions",
+          "percentile"
+        ],
+        "creation_date": 1420754735,
+        "question_id": 27850364,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850364/percentile-aggregate-for-sql-server-2008-r2"
+      },
+      {
+        "tags": [
+          "c#",
+          "generics",
+          "anonymous-types"
+        ],
+        "creation_date": 1420754746,
+        "question_id": 27850368,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850368/cannot-pass-anonymous-type-to-generic-constructor"
+      },
+      {
+        "tags": [
+          "android",
+          "cordova"
+        ],
+        "creation_date": 1420754753,
+        "question_id": 27850370,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850370/how-to-install-phonegap-for-visual-studio-2013"
+      },
+      {
+        "tags": [
+          "excel",
+          "powershell",
+          "pivot-table"
+        ],
+        "creation_date": 1420754757,
+        "question_id": 27850371,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850371/powershell-script-to-create-excel-pivot-table"
+      },
+      {
+        "tags": [
+          "java",
+          "javascript",
+          "php",
+          "nginx"
+        ],
+        "creation_date": 1420754803,
+        "question_id": 27850382,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850382/video-source-link-grabbing"
+      },
+      {
+        "tags": [
+          "php",
+          "search",
+          "mysqli"
+        ],
+        "creation_date": 1420754808,
+        "question_id": 27850383,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850383/php-searching-multiple-rows-in-database"
+      },
+      {
+        "tags": [
+          "logging",
+          "ubuntu-14.04",
+          "beanstalkd"
+        ],
+        "creation_date": 1420754808,
+        "question_id": 27850384,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850384/beanstalkd-doesnt-write-logs"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "countdowntimer"
+        ],
+        "creation_date": 1420754810,
+        "question_id": 27850386,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850386/top-hour-countdown-timer-android"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "twitter-bootstrap",
+          "html-table",
+          "nested-table"
+        ],
+        "creation_date": 1420754822,
+        "question_id": 27850387,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27850387/nested-bootstrap-tables-not-filling-parent-cell-height"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "telerik",
+          "donut-chart"
+        ],
+        "creation_date": 1420754825,
+        "question_id": 27850388,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850388/telerik-donut-chart-customization-label"
+      },
+      {
+        "tags": [
+          "node.js",
+          "passport.js",
+          "passport-facebook"
+        ],
+        "creation_date": 1420754850,
+        "question_id": 27850395,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850395/using-2-instances-of-passport-facebook-strategy"
+      },
+      {
+        "tags": [
+          "git"
+        ],
+        "creation_date": 1420754890,
+        "question_id": 27850405,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27850405/git-combine-or-merge-two-files-in-the-same-branch-and-same-repository"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 81
+  }
+}

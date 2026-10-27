@@ -1,0 +1,897 @@
+{
+  "retrieved_at": "2026-10-26T19:02:49.600752+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736121600&todate=1736143199&sort=creation&order=asc&pagesize=100&page=1&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736121600,
+    "todate": 1736143199,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 1,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "pandas",
+          "dataframe",
+          "matrix",
+          "iteration",
+          "combinations"
+        ],
+        "creation_date": 1736121620,
+        "question_id": 79331776,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331776/using-one-dataframe-to-find-matching-combinations-in-fixed-sets"
+      },
+      {
+        "tags": [
+          "angular",
+          "typescript",
+          "duration",
+          "luxon"
+        ],
+        "creation_date": 1736121848,
+        "question_id": 79331780,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331780/how-do-i-format-a-luxon-duration-of-seconds-tohuman-showing-both-minutes-and-s"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "go",
+          "cloudinary"
+        ],
+        "creation_date": 1736122638,
+        "question_id": 79331796,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331796/remove-co-black-e-colorize70-from-cloudinary"
+      },
+      {
+        "tags": [
+          "c#",
+          "reflection"
+        ],
+        "creation_date": 1736122968,
+        "question_id": 79331805,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331805/how-to-find-public-enum-and-public-static-methods-defined-in-class-through-refle"
+      },
+      {
+        "tags": [
+          "r",
+          "ggplot2",
+          "boxplot"
+        ],
+        "creation_date": 1736123087,
+        "question_id": 79331808,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331808/adding-compact-letter-display-to-a-geom-boxplot"
+      },
+      {
+        "tags": [
+          "google-sheets",
+          "google-sheets-formula",
+          "google-query-language"
+        ],
+        "creation_date": 1736123143,
+        "question_id": 79331810,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331810/odd-query-result-in-google-sheets"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css",
+          "firefox"
+        ],
+        "creation_date": 1736123624,
+        "question_id": 79331817,
+        "link": "https://stackoverflow.com/questions/79331817/is-there-a-firefox-compatible-way-to-modify-properties-using-javascript"
+      },
+      {
+        "tags": [
+          "nestjs",
+          "throttling"
+        ],
+        "creation_date": 1736123770,
+        "question_id": 79331820,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331820/how-to-apply-throttle-only-to-successful-request"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net-core",
+          "azure-functions",
+          "azure-functions-runtime",
+          "azure-functions-isolated"
+        ],
+        "creation_date": 1736123880,
+        "question_id": 79331823,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331823/how-do-you-modify-the-serialization-options-for-azure-functions-v4-isolated"
+      },
+      {
+        "tags": [
+          "facebook",
+          "facebook-opengraph"
+        ],
+        "creation_date": 1736123880,
+        "question_id": 79331824,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331824/how-to-send-comments-from-user-to-fan-page-via-java-using-graph-api"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "docker",
+          "prisma"
+        ],
+        "creation_date": 1736123903,
+        "question_id": 79331825,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331825/nextjs-prisma-postgres-docker-wont-show-layout-tsx-children-pages"
+      },
+      {
+        "tags": [
+          "servlets",
+          "java-websocket"
+        ],
+        "creation_date": 1736124226,
+        "question_id": 79331830,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331830/websocket-always-closed-using-tomcat-10-1"
+      },
+      {
+        "tags": [
+          "django",
+          "django-rest-framework",
+          "django-serializer"
+        ],
+        "creation_date": 1736124476,
+        "question_id": 79331838,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331838/getting-the-choice-names-from-an-array-of-values-in-django-rest-framework"
+      },
+      {
+        "tags": [
+          "vs-code"
+        ],
+        "creation_date": 1736125001,
+        "question_id": 79331847,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331847/assign-keyboard-shortcut-to-cut"
+      },
+      {
+        "tags": [
+          "code-signing",
+          "electron-builder"
+        ],
+        "creation_date": 1736125307,
+        "question_id": 79331850,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331850/unable-to-sign-mac-electron-app-with-electron-builder"
+      },
+      {
+        "tags": [
+          "r"
+        ],
+        "creation_date": 1736126599,
+        "question_id": 79331885,
+        "link": "https://stackoverflow.com/questions/79331885/using-rep-results-in-vector-shorter-than-times-argument"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-core",
+          "webauthn",
+          "fido",
+          ".net-9.0"
+        ],
+        "creation_date": 1736126991,
+        "question_id": 79331868,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331868/fido2-challenge-not-matching-original-challenge"
+      },
+      {
+        "tags": [
+          "tensorflow",
+          "machine-learning",
+          "keras",
+          "deep-learning",
+          "tensorflow2.0"
+        ],
+        "creation_date": 1736127322,
+        "question_id": 79331871,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331871/graph-disconnected-error-when-loading-model-in-tensorflow"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1736127385,
+        "question_id": 79331873,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331873/last-element-of-a-loop-not-getting-acted-as-desired-for-no-apparent-reason"
+      },
+      {
+        "tags": [
+          "xamarin-forms-4"
+        ],
+        "creation_date": 1736127478,
+        "question_id": 79331876,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331876/how-to-set-width-of-grid-column-the-same-as-the-width-of-header-in-xamarin-forms"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "fastapi",
+          "pyenv"
+        ],
+        "creation_date": 1736127537,
+        "question_id": 79331878,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331878/trying-to-install-python-3-12-1-or-3-13-0"
+      },
+      {
+        "tags": [
+          "c",
+          "static-libraries",
+          "vulkan",
+          "glfw"
+        ],
+        "creation_date": 1736127672,
+        "question_id": 79331879,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331879/issues-displaying-glfw-window-when-linking-with-static-library"
+      },
+      {
+        "tags": [
+          "vs-code"
+        ],
+        "creation_date": 1736127951,
+        "question_id": 79331882,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331882/vscode-cannot-find-strlen-and-stdstrlen"
+      },
+      {
+        "tags": [
+          "malloc",
+          "heap-memory",
+          "free",
+          "sbrk"
+        ],
+        "creation_date": 1736127968,
+        "question_id": 79331883,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331883/not-able-to-merge-free-blocks-together-in-my-simple-custom-memory-allocator"
+      },
+      {
+        "tags": [
+          "swiftui",
+          "compiler-errors",
+          "for-in-loop"
+        ],
+        "creation_date": 1736128107,
+        "question_id": 79331887,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331887/error-trailing-closure-passed-to-parameter-of-type-bindingmapfeature-th"
+      },
+      {
+        "tags": [
+          "swift",
+          "angular",
+          "objective-c",
+          "ionic-framework"
+        ],
+        "creation_date": 1736128191,
+        "question_id": 79331889,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331889/ionic-angular-camera-preview-plugin-how-to-keep-avcapturedevicetypebuiltintripl"
+      },
+      {
+        "tags": [
+          "youtube-iframe-api",
+          "react-player"
+        ],
+        "creation_date": 1736128239,
+        "question_id": 79331891,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331891/why-am-i-hearing-future-audio-despite-pausing-early-in-react-video-player"
+      },
+      {
+        "tags": [
+          "dataframe",
+          "rust",
+          "rust-polars",
+          "polars"
+        ],
+        "creation_date": 1736128317,
+        "question_id": 79331893,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331893/printing-polars-dataframe-in-rust"
+      },
+      {
+        "tags": [
+          "angular",
+          "jwt",
+          "angular-httpclient",
+          "request-headers"
+        ],
+        "creation_date": 1736128509,
+        "question_id": 79331899,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331899/angular-httpclient-failled-to-set-any-header-in-an-http-request"
+      },
+      {
+        "tags": [
+          "python",
+          "tensorflow",
+          "keras",
+          "importerror"
+        ],
+        "creation_date": 1736128692,
+        "question_id": 79331904,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331904/running-into-issue-cannot-import-name-version-from-tensorflow-python-ker"
+      },
+      {
+        "tags": [
+          "docker",
+          "docker-compose",
+          "nvidia",
+          "nixos",
+          "jellyfin"
+        ],
+        "creation_date": 1736128703,
+        "question_id": 79331905,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331905/docker-compose-restartalways-not-working-when-using-devices"
+      },
+      {
+        "tags": [
+          "c#",
+          "angular",
+          ".net-6.0",
+          "server-side-rendering"
+        ],
+        "creation_date": 1736129053,
+        "question_id": 79331912,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331912/how-do-i-get-angular-19-ssr-to-work-with-net-6"
+      },
+      {
+        "tags": [
+          "python",
+          "user-interface",
+          "tkinter",
+          "ttkbootstrap"
+        ],
+        "creation_date": 1736129069,
+        "question_id": 79331913,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331913/combobox-throwing-error-even-though-the-mainwindow-exists"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "express",
+          "agora",
+          "rtm"
+        ],
+        "creation_date": 1736129207,
+        "question_id": 79331915,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331915/i-cant-login-to-agora-service-rtm-even-though-i-generate-token-in-the-backend"
+      },
+      {
+        "tags": [
+          "vs-code",
+          "bazel",
+          "vscode-debugger",
+          "bazel-python",
+          "debugpy"
+        ],
+        "creation_date": 1736129247,
+        "question_id": 79331920,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331920/how-to-integrate-vscode-debugger-for-python-bazel-projects-without-altering-sour"
+      },
+      {
+        "tags": [
+          "file",
+          "amazon-s3",
+          "multipartfile"
+        ],
+        "creation_date": 1736129780,
+        "question_id": 79331928,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331928/a-way-to-implement-files-upload-session"
+      },
+      {
+        "tags": [
+          "python",
+          "algorithmic-trading",
+          "metatrader5",
+          "technical-indicator",
+          "pandas-ta"
+        ],
+        "creation_date": 1736130313,
+        "question_id": 79331942,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331942/how-to-get-the-adx-with-pandas-ta-library-in-python-without-smoothing"
+      },
+      {
+        "tags": [
+          "react-native",
+          "expo"
+        ],
+        "creation_date": 1736130327,
+        "question_id": 79331943,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331943/expo-unable-to-resolve-expo-modules-core-from-node-modules-expo-src-expo-ts"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "google-apps-script",
+          "logging",
+          "web-applications"
+        ],
+        "creation_date": 1736131301,
+        "question_id": 79331957,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331957/sendfiletoemail-not-being-called-via-google-script-run"
+      },
+      {
+        "tags": [
+          "android",
+          "android-studio",
+          "android-emulator",
+          "android-xr"
+        ],
+        "creation_date": 1736131464,
+        "question_id": 79331959,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331959/android-xr-emulator-what-is-the-shortcut-key-for-hand-gestures-in-android-xr-e"
+      },
+      {
+        "tags": [
+          "soap",
+          "karate"
+        ],
+        "creation_date": 1736131511,
+        "question_id": 79331961,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331961/how-to-automate-soap-api-testing-with-dynamic-inputs-in-karate-xplorer"
+      },
+      {
+        "tags": [
+          "docker",
+          "proxy",
+          "docker-cli"
+        ],
+        "creation_date": 1736131517,
+        "question_id": 79331962,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331962/which-docker-cli-command-uses-the-proxy-setting-in-docker-daemon-json"
+      },
+      {
+        "tags": [
+          "android",
+          "ios",
+          "swift",
+          "google-calendar-api",
+          "android-calendar"
+        ],
+        "creation_date": 1736131541,
+        "question_id": 79331965,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331965/google-calendar-api-opaque-key-string-vs-native-event-id-long"
+      },
+      {
+        "tags": [
+          "html",
+          "vs-code",
+          "prettier"
+        ],
+        "creation_date": 1736132061,
+        "question_id": 79331970,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331970/vs-code-indention-and-prettier"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "amazon-web-services",
+          "spring-boot",
+          "aws-sdk"
+        ],
+        "creation_date": 1736132313,
+        "question_id": 79331973,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331973/credentials-to-the-aws-sdk-1-12-780-for-java"
+      },
+      {
+        "tags": [
+          "google-play-services",
+          "android-location",
+          "android-fusedlocation"
+        ],
+        "creation_date": 1736133295,
+        "question_id": 79331982,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331982/how-to-display-to-continue-instead-of-for-a-better-experience-when-requestin"
+      },
+      {
+        "tags": [
+          "tree",
+          "traversal"
+        ],
+        "creation_date": 1736133403,
+        "question_id": 79331984,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331984/select-elements-between-two-elements-in-html-at-different-levels"
+      },
+      {
+        "tags": [
+          "azure",
+          "azure-web-app-service",
+          "azure-blob-storage",
+          "azure-appservice"
+        ],
+        "creation_date": 1736133742,
+        "question_id": 79331988,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331988/azure-app-service-doesnt-give-me-the-option-to-save-to-blob"
+      },
+      {
+        "tags": [
+          "python",
+          "python-polars"
+        ],
+        "creation_date": 1736133842,
+        "question_id": 79331990,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79331990/how-to-speed-up-the-operation-of-repeating-take-first-n-rows-for-each-group-afte"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1736135277,
+        "question_id": 79332009,
+        "link": "https://stackoverflow.com/questions/79332009/why-do-he-return-me-this-answer-typeerror-str-object-cannot-be-interpreted-a"
+      },
+      {
+        "tags": [
+          "c++",
+          "winapi",
+          "windows-shell",
+          "windows-property-system"
+        ],
+        "creation_date": 1736135885,
+        "question_id": 79332023,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332023/how-can-i-get-file-properties-in-different-languages"
+      },
+      {
+        "tags": [
+          "android",
+          "augmented-reality",
+          "object-detection",
+          "arcore",
+          "android-augmented-reality"
+        ],
+        "creation_date": 1736135920,
+        "question_id": 79332024,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332024/how-to-integrate-object-detection-model-with-augmented-reality-ar-in-android"
+      },
+      {
+        "tags": [
+          "excel",
+          "excel-formula",
+          "range",
+          "cell",
+          "conditional-formatting"
+        ],
+        "creation_date": 1736136116,
+        "question_id": 79332028,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332028/how-to-use-use-a-formula-to-determine-which-cells-to-format-to-format-a-range-of"
+      },
+      {
+        "tags": [
+          "python",
+          "adafruit-circuitpython"
+        ],
+        "creation_date": 1736136575,
+        "question_id": 79332036,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332036/how-to-do-something-like-if-this-for-3-seconds-then-that"
+      },
+      {
+        "tags": [
+          "keycloak",
+          "openid-connect",
+          "custom-authentication",
+          "password-less"
+        ],
+        "creation_date": 1736136690,
+        "question_id": 79332039,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332039/custom-passwordless-authentication-via-mobile-app-in-keycloak"
+      },
+      {
+        "tags": [
+          "turtle-graphics",
+          "python-turtle"
+        ],
+        "creation_date": 1736137484,
+        "question_id": 79332057,
+        "link": "https://stackoverflow.com/questions/79332057/is-there-any-practical-use-for-the-turtle-module-in-python"
+      },
+      {
+        "tags": [
+          "next.js",
+          "environment-variables",
+          "private",
+          "public",
+          "secrets"
+        ],
+        "creation_date": 1736137546,
+        "question_id": 79332059,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332059/ensure-private-key-environment-variables-nextjs-are-private-next-config-js"
+      },
+      {
+        "tags": [
+          "python",
+          "decorator",
+          "python-typing",
+          "mypy"
+        ],
+        "creation_date": 1736138032,
+        "question_id": 79332066,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332066/how-to-teach-typecheckers-that-the-decorator-extends-functions-argument-types"
+      },
+      {
+        "tags": [
+          "c#",
+          "nhibernate",
+          "nhibernate-caches"
+        ],
+        "creation_date": 1736138570,
+        "question_id": 79332076,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332076/nhibernate-why-session-cache-and-query-results-mismatch"
+      },
+      {
+        "tags": [
+          "php",
+          "codeigniter",
+          "http-status-code-404",
+          "codeigniter-3",
+          "php-8.3"
+        ],
+        "creation_date": 1736138720,
+        "question_id": 79332080,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332080/why-does-my-codeigniter-3-setup-keep-showing-404-error"
+      },
+      {
+        "tags": [
+          "swiftui"
+        ],
+        "creation_date": 1736138765,
+        "question_id": 79332082,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332082/swift-array-append-not-adding-element"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "storybook",
+          "storybook-addon"
+        ],
+        "creation_date": 1736138895,
+        "question_id": 79332083,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332083/storybook-build-using-vite-referenceerror-require-is-not-defined"
+      },
+      {
+        "tags": [
+          "python",
+          "docker",
+          "flask",
+          "sqlalchemy"
+        ],
+        "creation_date": 1736138905,
+        "question_id": 79332084,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332084/access-denied-for-user-flask-container"
+      },
+      {
+        "tags": [
+          "javascript",
+          "google-chrome",
+          "google-chrome-extension",
+          "browser-extension"
+        ],
+        "creation_date": 1736139037,
+        "question_id": 79332086,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332086/chrome-extension-is-failing-to-sendmessasge-from-chrome-storage-onchange-handl"
+      },
+      {
+        "tags": [
+          "android",
+          "yaml",
+          "azure-pipelines"
+        ],
+        "creation_date": 1736139072,
+        "question_id": 79332088,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332088/getting-variable-from-gradle-properties-to-azure-devops-pipeline-yml"
+      },
+      {
+        "tags": [
+          "reactjs"
+        ],
+        "creation_date": 1736139132,
+        "question_id": 79332090,
+        "link": "https://stackoverflow.com/questions/79332090/how-to-center-a-picture-in-tailwindcss-from-react"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "hibernate"
+        ],
+        "creation_date": 1736139796,
+        "question_id": 79332100,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332100/setresulttransformer-being-deprecate-in-hibernate-6"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "winforms",
+          "datagridview"
+        ],
+        "creation_date": 1736140403,
+        "question_id": 79332111,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332111/why-the-row-size-results-are-not-the-same-in-datagridview2-using-the-datagridvie"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "twine"
+        ],
+        "creation_date": 1736140460,
+        "question_id": 79332113,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332113/unable-to-upload-python-module-using-twine"
+      },
+      {
+        "tags": [
+          "typescript",
+          "lit"
+        ],
+        "creation_date": 1736140530,
+        "question_id": 79332116,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332116/property-not-being-recognized-in-lit"
+      },
+      {
+        "tags": [
+          "unity-game-engine"
+        ],
+        "creation_date": 1736140537,
+        "question_id": 79332117,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332117/how-do-i-calculate-a-vector-on-the-edge-of-a-circle-in-unity-for-a-charactercont"
+      },
+      {
+        "tags": [
+          ".net",
+          "wpf",
+          "ribbon"
+        ],
+        "creation_date": 1736141132,
+        "question_id": 79332132,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332132/can-i-use-a-ribbon-in-wpf-application-vs-2022-and-net-9"
+      },
+      {
+        "tags": [
+          "c#",
+          "unity-game-engine"
+        ],
+        "creation_date": 1736141280,
+        "question_id": 79332136,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332136/how-to-toggle-flip-green-channel-value-of-a-texture-2d-component-through-c"
+      },
+      {
+        "tags": [
+          "sql",
+          "postgresql"
+        ],
+        "creation_date": 1736141297,
+        "question_id": 79332137,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332137/how-to-design-a-table-which-is-referenced-by-two-other-tables-in-postgres"
+      },
+      {
+        "tags": [
+          "r",
+          "spatial",
+          "intersection",
+          "r-sf"
+        ],
+        "creation_date": 1736141321,
+        "question_id": 79332138,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332138/how-to-identify-intersections-of-hollow-geometries-while-ignoring-others"
+      },
+      {
+        "tags": [
+          "javascript",
+          "next.js",
+          "firebase-hosting"
+        ],
+        "creation_date": 1736141734,
+        "question_id": 79332159,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332159/nextjs-middleware-is-not-able-to-read-cookies-when-deployed-on-firebase-hosting"
+      },
+      {
+        "tags": [
+          "react-router",
+          "react-router-dom"
+        ],
+        "creation_date": 1736141737,
+        "question_id": 79332161,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332161/referenceerror-textencoder-is-not-defined-after-react-router-dom-upgrade-to-7"
+      },
+      {
+        "tags": [
+          "swiftui"
+        ],
+        "creation_date": 1736142066,
+        "question_id": 79332171,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332171/wrong-dark-mode-color-accent"
+      },
+      {
+        "tags": [
+          "kotlin",
+          "lambda"
+        ],
+        "creation_date": 1736142723,
+        "question_id": 79332184,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79332184/capturing-a-local-variable"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 297
+  }
+}

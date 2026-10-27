@@ -1,0 +1,651 @@
+{
+  "retrieved_at": "2026-10-26T19:10:14.436405+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420632000&todate=1420653599&sort=creation&order=asc&pagesize=100&page=21&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420632000,
+    "todate": 1420653599,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 21,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "javascript",
+          "mathematical-optimization"
+        ],
+        "creation_date": 1420652933,
+        "question_id": 27825493,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825493/need-javascript-mathematical-expression-or-formula-to-place-number-range-in-grou"
+      },
+      {
+        "tags": [
+          "node.js",
+          "orm",
+          "sequelize.js",
+          "object-relational-model"
+        ],
+        "creation_date": 1420652952,
+        "question_id": 27825498,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825498/how-to-define-sequelize-relationship-without-actual-foreign-key"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "facebook"
+        ],
+        "creation_date": 1420652953,
+        "question_id": 27825500,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825500/constructing-a-facebook-login-app-for-android"
+      },
+      {
+        "tags": [
+          "flash",
+          "actionscript-2",
+          "fla"
+        ],
+        "creation_date": 1420652963,
+        "question_id": 27825503,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825503/mask-externally-loaded-html-text-in-flash"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "http-redirect"
+        ],
+        "creation_date": 1420652972,
+        "question_id": 27825506,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825506/not-sure-if-document-referrer-is-working"
+      },
+      {
+        "tags": [
+          "android",
+          "android-fragments",
+          "navigation",
+          "drawer"
+        ],
+        "creation_date": 1420653003,
+        "question_id": 27825515,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825515/fragment-in-navigation-drawer-not-loading-and-makes-the-app-crash-what-can-i-do"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "maven",
+          "dex"
+        ],
+        "creation_date": 1420653005,
+        "question_id": 27825516,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825516/android-dex-issue-nested-class-final-boolean-com-android-dex-util-exception"
+      },
+      {
+        "tags": [
+          "c++",
+          "class",
+          "linked-list",
+          "private-members"
+        ],
+        "creation_date": 1420653014,
+        "question_id": 27825519,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825519/accessing-linked-list-private-variable-from-outside-class"
+      },
+      {
+        "tags": [
+          "java",
+          "freemarker"
+        ],
+        "creation_date": 1420653039,
+        "question_id": 27825524,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825524/prepend-macros-to-existing-template-before-processing"
+      },
+      {
+        "tags": [
+          "php",
+          "laravel",
+          "eloquent",
+          "laravel-blade"
+        ],
+        "creation_date": 1420653055,
+        "question_id": 27825529,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825529/laravel-form-routing-with-multiple-variables"
+      },
+      {
+        "tags": [
+          "matlab",
+          "csv",
+          "file-io",
+          "octave"
+        ],
+        "creation_date": 1420653062,
+        "question_id": 27825530,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825530/octave-matlab-import-lines-from-a-csv-file-according-to-whether-column-matches"
+      },
+      {
+        "tags": [
+          "c#-4.0"
+        ],
+        "creation_date": 1420653068,
+        "question_id": 27825534,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825534/read-date-only-to-text-from-datetime-in-asp-net-with-c"
+      },
+      {
+        "tags": [
+          "scala",
+          "partial-functions"
+        ],
+        "creation_date": 1420653071,
+        "question_id": 27825536,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825536/scala-partial-function-composition-performance"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "contextmenu"
+        ],
+        "creation_date": 1420653080,
+        "question_id": 27825538,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825538/js-file-loading-selectively"
+      },
+      {
+        "tags": [
+          "php",
+          "sql",
+          "zend-framework"
+        ],
+        "creation_date": 1420653091,
+        "question_id": 27825543,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825543/how-to-get-a-count-of-users-based-on-level-id"
+      },
+      {
+        "tags": [
+          "c#",
+          "autocad",
+          "autocad-plugin"
+        ],
+        "creation_date": 1420653116,
+        "question_id": 27825550,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825550/is-there-a-way-to-get-all-polylines-in-autocad-dwg-using-c"
+      },
+      {
+        "tags": [
+          "cordova"
+        ],
+        "creation_date": 1420653116,
+        "question_id": 27825551,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825551/apache-cordova-find-someone-with-the-same-app-installed-and-send-informations"
+      },
+      {
+        "tags": [
+          "highcharts"
+        ],
+        "creation_date": 1420653123,
+        "question_id": 27825553,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825553/in-highchartss-stacked-bar-chart-how-can-i-remove-the-white-space-between-diff"
+      },
+      {
+        "tags": [
+          "android",
+          "android-studio"
+        ],
+        "creation_date": 1420653135,
+        "question_id": 27825557,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825557/how-to-compile-unifiedemail-in-androidstudio"
+      },
+      {
+        "tags": [
+          "c++",
+          "function",
+          "c++11"
+        ],
+        "creation_date": 1420653141,
+        "question_id": 27825559,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825559/why-is-there-no-stdmake-function"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql"
+        ],
+        "creation_date": 1420653153,
+        "question_id": 27825562,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27825562/use-of-cases-with-where-clause-in-mysql-query"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "spring-mvc",
+          "java-8",
+          "freemarker"
+        ],
+        "creation_date": 1420653155,
+        "question_id": 27825563,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825563/freemarker-issues-with-java-8"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420653184,
+        "question_id": 27825568,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825568/inflate-a-layout-on-a-viewpager-fragment"
+      },
+      {
+        "tags": [
+          "java",
+          "android"
+        ],
+        "creation_date": 1420653185,
+        "question_id": 27825569,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825569/how-to-make-an-app-that-cannot-be-exited"
+      },
+      {
+        "tags": [
+          "c#",
+          "mono"
+        ],
+        "creation_date": 1420653210,
+        "question_id": 27825575,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825575/get-invoked-methods-parent-object-type"
+      },
+      {
+        "tags": [
+          "python",
+          "list",
+          "csv",
+          "for-loop"
+        ],
+        "creation_date": 1420653214,
+        "question_id": 27825576,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825576/edit-an-element-in-a-list-python"
+      },
+      {
+        "tags": [
+          "python",
+          "sympy"
+        ],
+        "creation_date": 1420653231,
+        "question_id": 27825581,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825581/sympy-simplify-relational-inequality-expression"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "node.js",
+          "express"
+        ],
+        "creation_date": 1420653245,
+        "question_id": 27825584,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825584/nodejs-not-returning-external-api-call-to-originator-caller"
+      },
+      {
+        "tags": [
+          "android",
+          "zxing"
+        ],
+        "creation_date": 1420653270,
+        "question_id": 27825592,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825592/onactivityresult-listener-is-not-called"
+      },
+      {
+        "tags": [
+          "c++",
+          "arrays",
+          "string",
+          "reference"
+        ],
+        "creation_date": 1420653285,
+        "question_id": 27825598,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825598/how-to-reference-an-array-position-with-a-variable-name"
+      },
+      {
+        "tags": [
+          "unity-game-engine",
+          "multiplayer",
+          "photon"
+        ],
+        "creation_date": 1420653287,
+        "question_id": 27825600,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825600/how-to-design-an-offline-multiplayer-game-using-photon-unity-networking"
+      },
+      {
+        "tags": [
+          "google-maps"
+        ],
+        "creation_date": 1420653291,
+        "question_id": 27825601,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825601/google-maps-geolocation-api"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "angularjs",
+          "templates",
+          "angular-ui-grid"
+        ],
+        "creation_date": 1420653298,
+        "question_id": 27825603,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825603/escaped-quotations-in-angular-ui-ui-grid-when-using-ajax"
+      },
+      {
+        "tags": [
+          "c#",
+          "datetime"
+        ],
+        "creation_date": 1420653329,
+        "question_id": 27825610,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825610/month-difference-between-2-dates"
+      },
+      {
+        "tags": [
+          "jquery",
+          "python",
+          "tornado"
+        ],
+        "creation_date": 1420653336,
+        "question_id": 27825612,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825612/retrieve-start-time-and-end-time-in-jquery-week-calendar-to-store-in-database"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "windows"
+        ],
+        "creation_date": 1420653344,
+        "question_id": 27825615,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825615/c-windows-forms-freezing-and-number-output"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420653365,
+        "question_id": 27825618,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825618/wrapping-text-around-an-image-in-html-and-css"
+      },
+      {
+        "tags": [
+          "android",
+          "eclipse",
+          "3g"
+        ],
+        "creation_date": 1420653368,
+        "question_id": 27825619,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825619/turn-3g-on-off-android-4-4-or-above"
+      },
+      {
+        "tags": [
+          "android",
+          "sqlite",
+          "sqliteopenhelper"
+        ],
+        "creation_date": 1420653372,
+        "question_id": 27825621,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825621/trouble-with-sqlite-journal-files-file-is-encrypted-or-is-not-a-database"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "web",
+          "timer"
+        ],
+        "creation_date": 1420653373,
+        "question_id": 27825622,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825622/how-to-retrieve-data-from-a-table-on-website"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "iphone",
+          "swift",
+          "uisearchbar"
+        ],
+        "creation_date": 1420653386,
+        "question_id": 27825625,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825625/uisearchbar-changing-status-bar-color-to-white"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql",
+          "view",
+          "group-by"
+        ],
+        "creation_date": 1420653389,
+        "question_id": 27825627,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825627/sql-group-by-not-working"
+      },
+      {
+        "tags": [
+          "google-cloud-dataflow"
+        ],
+        "creation_date": 1420653392,
+        "question_id": 27825629,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825629/how-many-jvms-are-instantiated-in-each-gce-instance-in-google-cloud-dataflow"
+      },
+      {
+        "tags": [
+          "network-programming",
+          "routes",
+          "ip"
+        ],
+        "creation_date": 1420653399,
+        "question_id": 27825632,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825632/why-no-access-before-ip-address-set"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "dom",
+          "webkit"
+        ],
+        "creation_date": 1420653403,
+        "question_id": 27825634,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825634/create-a-dom-documentfragment-from-range-with-css-styles-applied"
+      },
+      {
+        "tags": [
+          "marklogic"
+        ],
+        "creation_date": 1420653431,
+        "question_id": 27825637,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825637/which-directory-does-marklogic-deploys-the-application-created-with-appbuilder"
+      },
+      {
+        "tags": [
+          "python",
+          "list"
+        ],
+        "creation_date": 1420653438,
+        "question_id": 27825639,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825639/how-to-merge-two-sublists-sharing-any-number-in-common"
+      },
+      {
+        "tags": [
+          "java",
+          "sockets",
+          "proxy",
+          "packet"
+        ],
+        "creation_date": 1420653480,
+        "question_id": 27825652,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825652/how-to-read-find-length-of-packets-in-bytes"
+      },
+      {
+        "tags": [
+          "c",
+          "fork"
+        ],
+        "creation_date": 1420653487,
+        "question_id": 27825655,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825655/binary-search-with-fork"
+      },
+      {
+        "tags": [
+          "java",
+          "ios",
+          "swift"
+        ],
+        "creation_date": 1420653491,
+        "question_id": 27825659,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27825659/is-there-a-way-to-get-apples-swift-language-interacting-with-java"
+      },
+      {
+        "tags": [
+          "ember.js"
+        ],
+        "creation_date": 1420653495,
+        "question_id": 27825660,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825660/nested-router-going-back-to-parent"
+      },
+      {
+        "tags": [
+          "javascript",
+          "python",
+          "angularjs",
+          "flask"
+        ],
+        "creation_date": 1420653500,
+        "question_id": 27825661,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825661/flask-and-angular-web-application-routing"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "google-chrome"
+        ],
+        "creation_date": 1420653504,
+        "question_id": 27825662,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825662/background-images-dont-show-in-chrome"
+      },
+      {
+        "tags": [
+          "php",
+          "request",
+          "httpclient",
+          "guzzle"
+        ],
+        "creation_date": 1420653522,
+        "question_id": 27825667,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27825667/php-guzzlehttp-how-to-make-a-post-request-with-params"
+      },
+      {
+        "tags": [
+          "spring",
+          "spring-integration"
+        ],
+        "creation_date": 1420653571,
+        "question_id": 27825680,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825680/spring-integration-change-outbound-reply-channel-using-annotations-in-case-of-er"
+      },
+      {
+        "tags": [
+          "java",
+          "logging",
+          "groovy",
+          "java.util.logging"
+        ],
+        "creation_date": 1420653579,
+        "question_id": 27825682,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825682/flushing-streamhandlers-during-debugging-using-java-util-logging-autoflush"
+      },
+      {
+        "tags": [
+          "cakephp",
+          "plugins",
+          "controller",
+          "routes",
+          "naming"
+        ],
+        "creation_date": 1420653584,
+        "question_id": 27825685,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825685/plugin-route-to-a-prefixed-controller"
+      },
+      {
+        "tags": [
+          "python",
+          "usb-drive"
+        ],
+        "creation_date": 1420653597,
+        "question_id": 27825688,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27825688/write-a-script-to-automatically-write-files-to-usb-drive-on-plugin"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 160
+  }
+}

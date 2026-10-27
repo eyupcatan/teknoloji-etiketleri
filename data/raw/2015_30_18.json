@@ -1,0 +1,511 @@
+{
+  "retrieved_at": "2026-10-26T19:09:30.483567+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420610400&todate=1420631999&sort=creation&order=asc&pagesize=100&page=18&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420610400,
+    "todate": 1420631999,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 18,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "spring-mvc",
+          "forms",
+          "url-pattern"
+        ],
+        "creation_date": 1420631469,
+        "question_id": 27818896,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818896/how-does-form-action-works"
+      },
+      {
+        "tags": [
+          "c#",
+          "xaml",
+          "windows-store-apps"
+        ],
+        "creation_date": 1420631472,
+        "question_id": 27818898,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818898/storyboard-animation-using-plane-projection-not-working"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css",
+          "slideshow"
+        ],
+        "creation_date": 1420631474,
+        "question_id": 27818900,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818900/create-an-autoscroll-slider"
+      },
+      {
+        "tags": [
+          "jquery",
+          "ajax",
+          "razor",
+          "asp.net-mvc-5"
+        ],
+        "creation_date": 1420631477,
+        "question_id": 27818901,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818901/edit-form-with-a-popup"
+      },
+      {
+        "tags": [
+          "c++",
+          "windows",
+          "cmd"
+        ],
+        "creation_date": 1420631484,
+        "question_id": 27818902,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818902/how-do-you-enable-european-letters-in-c-application-console"
+      },
+      {
+        "tags": [
+          "xsltforms"
+        ],
+        "creation_date": 1420631493,
+        "question_id": 27818907,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818907/avoiding-xsltforms-main-form-data-model-replacement"
+      },
+      {
+        "tags": [
+          "eclipse",
+          "debugging",
+          "gdb",
+          "arm",
+          "breakpoints"
+        ],
+        "creation_date": 1420631532,
+        "question_id": 27818914,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818914/eclipse-cannot-set-a-breakpoint-while-debbuging-arm"
+      },
+      {
+        "tags": [
+          "android",
+          "android-edittext"
+        ],
+        "creation_date": 1420631533,
+        "question_id": 27818916,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27818916/programmatically-added-edittext-missing-style"
+      },
+      {
+        "tags": [
+          "c++",
+          "fltk"
+        ],
+        "creation_date": 1420631540,
+        "question_id": 27818917,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818917/fltk-how-to-enable-scrollbar-in-deactivated-fl-text-editor"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1420631542,
+        "question_id": 27818922,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818922/why-sql-changes-the-exact-datetime-by-one-tick"
+      },
+      {
+        "tags": [
+          "ios",
+          "ios8",
+          "touch-event"
+        ],
+        "creation_date": 1420631548,
+        "question_id": 27818925,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818925/how-to-detect-when-all-fingers-have-left-the-screen"
+      },
+      {
+        "tags": [
+          "jakarta-ee",
+          "transactions",
+          "ejb",
+          "interceptor",
+          "weblogic12c"
+        ],
+        "creation_date": 1420631557,
+        "question_id": 27818930,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818930/how-to-check-in-ejb-interceptor-if-the-intercepted-method-got-a-rollbackexceptio"
+      },
+      {
+        "tags": [
+          "php",
+          "cakephp",
+          "cakephp-2.0",
+          "composer-php"
+        ],
+        "creation_date": 1420631564,
+        "question_id": 27818931,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818931/bundled-composer-json-in-cakephp-2-x"
+      },
+      {
+        "tags": [
+          "c++",
+          "cmake"
+        ],
+        "creation_date": 1420631576,
+        "question_id": 27818933,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818933/reading-variables-into-cmake-from-another-cmakelists-txt"
+      },
+      {
+        "tags": [
+          "php",
+          "jquery",
+          "mysql",
+          "get",
+          "anchor"
+        ],
+        "creation_date": 1420631577,
+        "question_id": 27818934,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818934/generating-a-page-with-data-without-reloading-the-page"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css",
+          "svg",
+          "d3.js",
+          "nvd3.js"
+        ],
+        "creation_date": 1420631581,
+        "question_id": 27818936,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818936/nvd3-chart-fails-to-calculate-legend-text-length-in-chrome-since-window-getcomp"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420631596,
+        "question_id": 27818941,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818941/multiple-function-in-one-ready-function"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "css"
+        ],
+        "creation_date": 1420631608,
+        "question_id": 27818943,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818943/resizable-jquery-ui-tools-not-working"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html"
+        ],
+        "creation_date": 1420631621,
+        "question_id": 27818947,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818947/how-do-i-use-javascript-for-html"
+      },
+      {
+        "tags": [
+          "r",
+          "polygon",
+          "heatmap",
+          "fill",
+          "pheatmap"
+        ],
+        "creation_date": 1420631630,
+        "question_id": 27818951,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818951/r-extract-pheatmap-colors-to-use-in-polygon-fill"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby-on-rails-4",
+          "routes"
+        ],
+        "creation_date": 1420631642,
+        "question_id": 27818954,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818954/rails-routes-programmatically-extract-params-from-a-url"
+      },
+      {
+        "tags": [
+          "powershell"
+        ],
+        "creation_date": 1420631645,
+        "question_id": 27818955,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818955/ctrla-to-select-all-in-listview-powershell"
+      },
+      {
+        "tags": [
+          "pygame"
+        ],
+        "creation_date": 1420631648,
+        "question_id": 27818956,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818956/pygame-not-responding-when-opening-the-window"
+      },
+      {
+        "tags": [
+          "apache",
+          ".htaccess",
+          "nginx",
+          "ip",
+          "referrer-spam"
+        ],
+        "creation_date": 1420631667,
+        "question_id": 27818958,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818958/how-to-corectly-block-referrer-spam-ips"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "sorting",
+          "datetime",
+          "sql-server-2008-r2"
+        ],
+        "creation_date": 1420631668,
+        "question_id": 27818959,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818959/sort-datagridviewcolumn-as-datetime-rather-than-as-string"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas"
+        ],
+        "creation_date": 1420631717,
+        "question_id": 27818968,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818968/adding-a-pandas-column-based-on-grouped-counts-of-another-column"
+      },
+      {
+        "tags": [
+          "highcharts"
+        ],
+        "creation_date": 1420631748,
+        "question_id": 27818975,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818975/in-highcharts-how-can-i-align-legend-symbol-and-legend-text"
+      },
+      {
+        "tags": [
+          "typo3",
+          "extbase",
+          "typo3-6.2.x"
+        ],
+        "creation_date": 1420631755,
+        "question_id": 27818978,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818978/extbase-repository-findall-returns-nothing"
+      },
+      {
+        "tags": [
+          "css"
+        ],
+        "creation_date": 1420631756,
+        "question_id": 27818979,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818979/getting-a-div-out-of-another-div"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "yii",
+          "navigation"
+        ],
+        "creation_date": 1420631791,
+        "question_id": 27818991,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818991/how-to-change-css-class-from-javascript"
+      },
+      {
+        "tags": [
+          "android",
+          "sdk",
+          "socketscan"
+        ],
+        "creation_date": 1420631803,
+        "question_id": 27818993,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818993/while-integrating-socket-mobile-bluetooth-scanner-sdk-not-able-connectpair"
+      },
+      {
+        "tags": [
+          "json",
+          "scala",
+          "playframework",
+          "playframework-2.0"
+        ],
+        "creation_date": 1420631812,
+        "question_id": 27818995,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27818995/how-to-convert-case-class-to-json-in-play-framework-2-3-x-scala"
+      },
+      {
+        "tags": [
+          "java",
+          "google-app-engine",
+          "maven",
+          "jar"
+        ],
+        "creation_date": 1420631827,
+        "question_id": 27818999,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27818999/maven-build-corrupting-jar-files-in-web-inf-lib-folder"
+      },
+      {
+        "tags": [
+          "c++",
+          "c++14",
+          "c++17"
+        ],
+        "creation_date": 1420631836,
+        "question_id": 27819004,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819004/what-is-the-status-of-abbreviated-functions-in-c"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "sql-server-2008"
+        ],
+        "creation_date": 1420631859,
+        "question_id": 27819014,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819014/isnull-giving-wrong-value-in-sql-server-2008"
+      },
+      {
+        "tags": [
+          "python",
+          "matplotlib",
+          "scale",
+          "histogram",
+          "logarithm"
+        ],
+        "creation_date": 1420631890,
+        "question_id": 27819021,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819021/distinct-0-and-1-on-histogram-with-logscale"
+      },
+      {
+        "tags": [
+          "android",
+          "robolectric"
+        ],
+        "creation_date": 1420631890,
+        "question_id": 27819022,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819022/how-to-test-property-androidautolink-in-testview"
+      },
+      {
+        "tags": [
+          "rest",
+          "tomcat",
+          "jax-rs",
+          "jersey-2.0"
+        ],
+        "creation_date": 1420631916,
+        "question_id": 27819029,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819029/404-error-in-jaxrs-service-using-jersey-and-tomcat"
+      },
+      {
+        "tags": [
+          "java",
+          "jmx",
+          "jolokia"
+        ],
+        "creation_date": 1420631924,
+        "question_id": 27819031,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819031/processing-time-for-a-request-using-jolokia"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420631945,
+        "question_id": 27819037,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819037/error-authentication-is-required"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "highcharts",
+          "google-visualization"
+        ],
+        "creation_date": 1420631946,
+        "question_id": 27819039,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819039/time-date-and-event-chart-or-graph-in-highchart"
+      },
+      {
+        "tags": [
+          "list",
+          "constructor",
+          "initializing"
+        ],
+        "creation_date": 1420631947,
+        "question_id": 27819040,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819040/object-reference-not-set-to-an-instance-of-an-object-noob"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server-2008",
+          "group-by",
+          "sql-order-by",
+          "union-all"
+        ],
+        "creation_date": 1420631975,
+        "question_id": 27819047,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819047/group-by-and-order-by-with-union-all"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "mongoose"
+        ],
+        "creation_date": 1420631994,
+        "question_id": 27819050,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27819050/mongoose-schema-of-nested-objects"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 181
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "slide": 1,
+    "title": "1225 ortak etiket iki dönemi birbirine bağlıyor",
+    "seconds": 35,
+    "body": "2015 ve 2025’te sorulmuş, bugün erişilebilen soruların etiketleri.<br/><br/>Araştırma sorusu: Topluluklar nasıl yeniden şekillendi ve hangi etiketler köprü oldu?<br/><br/>İki eşit pencere: 6–9 Ocak UTC.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 2,
+    "title": "İki tam pencere 20,992 gerçek soru içeriyor",
+    "seconds": 40,
+    "body": "2015: 18,922 soru, 7,693 etiket.<br/>2025: 2,070 soru, 2,478 etiket.<br/><br/>Düğüm: etiket. Kenar: aynı soru.<br/>Ağırlık: ortak soru sayısı.<br/><br/>Tekrarsız çiftler, aynı eşik, tam sayfalama.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 3,
+    "title": "2025 penceresinde 2,478 etiket gözlendi",
+    "seconds": 40,
+    "body": "2015’te 37,771, 2025’te 6,815 kenar var.<br/><br/>Yoğunluk: 0,0013 / 0,0022.<br/>EBB ortalama yol: 3,082 / 3,591.<br/><br/>Soru hacmi farklı. Pencere sonuçları yıllık büyüme tahmini değildir.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 4,
+    "title": "2025 derece lideri python oldu",
+    "seconds": 40,
+    "body": "Derece farklı komşu çeşitliliğini ölçer.<br/><br/>2015 derece lideri: java.<br/>2025 betweenness lideri: python.<br/><br/>Log-log şekil tek başına güç yasasını kanıtlamaz. Lognormal ve üstel karşılaştırmaları raporda.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 5,
+    "title": "Leiden’in 2025 tohum benzerliği 0,930 NMI",
+    "seconds": 40,
+    "body": "Louvain ve Leiden, ağırlıklı modülerlik, γ=1.<br/><br/>Her algoritma ve yıl için 10 sabit tohum. Her grupta 45 NMI çifti.<br/><br/>Topluluk adları güçlü etiketlerin teknoloji ailesini özetler.<br/>İki yıldaki aynı ad, aynı üyelik demek değildir.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 6,
+    "title": "2015 kümelenmesi null ortalamasından 246,3 SS uzakta",
+    "seconds": 45,
+    "body": "Her yıl 100 derece koruyan rastgele ağ.<br/>Öz döngü ve çoklu kenar yok.<br/><br/>z=(gözlenen−null ortalaması)/SS.<br/><br/>Null model soru-etiket projeksiyonunun zorunlu üçgenlerini korumaz. Farkı tek başına sosyal nedene bağlayamayız.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 7,
+    "title": "Ortak etiket bölümlemelerinin NMI değeri 0,298",
+    "seconds": 45,
+    "body": "Jaccard ile örtüşme, Hungarian ile en iyi birebir eşleştirme.<br/>Kabul eşiği: J≥0,10.<br/><br/>Sankey akışı = ortak etiket sayısı.<br/>Yeni: 1253. 2025 penceresinde yok: 6468.<br/><br/>Bölünme ve birleşmeler için çoklu örtüşmeler ayrıca incelendi.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 8,
+    "title": "http 2025’te köprü adayı olarak öne çıktı",
+    "seconds": 45,
+    "body": "P=0,850, derece=19, güç=20.0.<br/><br/>P=1−Σc(sᵢc/sᵢ)²<br/>Ağırlıklar farklı topluluklara yayılıyorsa P artar.<br/><br/>Derece≥10 ve güç≥20 filtresi.<br/>2015 lideri: performance.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  },
+  {
+    "slide": 9,
+    "title": "1225 ortak etiket değişimi gösteriyor, nedenini açıklamıyor",
+    "seconds": 30,
+    "body": "Gözlenen etiket birliktelikleri ve topluluklar değişti.<br/><br/>72 saat yıllık temsil sağlamaz. Güncel etiketler geçmiş sürümleri yeniden kurmaz. Silinen sorular kapsam dışı.<br/><br/>Canlı gösterim: 2025 → http ara → derece, güç ve P’yi birlikte yorumla.<br/><br/>Tam tablolar, kod ve veri teslim paketinde.",
+    "source": "results/*.csv; data/processed/checkpoint.csv"
+  }
+]

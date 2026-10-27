@@ -1,0 +1,1139 @@
+{
+  "retrieved_at": "2026-10-26T19:08:19.399133+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420567200&todate=1420588799&sort=creation&order=asc&pagesize=100&page=12&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420567200,
+    "todate": 1420588799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 12,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "r",
+          "dataframe",
+          "data.table",
+          "dplyr"
+        ],
+        "creation_date": 1420581478,
+        "question_id": 27807909,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807909/r-new-column-summarizing-count-of-groups-of-columns"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "unit-testing",
+          "jasmine"
+        ],
+        "creation_date": 1420581503,
+        "question_id": 27807914,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807914/how-do-you-mock-an-angularjs-resource-factory"
+      },
+      {
+        "tags": [
+          "c++",
+          "ios",
+          "xcode",
+          "64-bit",
+          "static-libraries"
+        ],
+        "creation_date": 1420581522,
+        "question_id": 27807918,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807918/xcode-compile-64bit-app-with-32bit-library"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420581534,
+        "question_id": 27807922,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807922/sidebar-keeps-disappearing-when-i-add-content"
+      },
+      {
+        "tags": [
+          "swift",
+          "colors",
+          "command",
+          "command-line-interface",
+          "ansi-escape"
+        ],
+        "creation_date": 1420581546,
+        "question_id": 27807925,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27807925/color-ouput-with-swift-command-line-tool"
+      },
+      {
+        "tags": [
+          "algorithm",
+          "math",
+          "time-complexity"
+        ],
+        "creation_date": 1420581547,
+        "question_id": 27807926,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807926/count-the-sequence-that-has-the-max-sum-in-array-on"
+      },
+      {
+        "tags": [
+          "c++",
+          "project"
+        ],
+        "creation_date": 1420581557,
+        "question_id": 27807929,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807929/what-do-i-need-to-do-to-compile-a-c-program-with-embarcado-xe7"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "drop-down-menu",
+          "conflict"
+        ],
+        "creation_date": 1420581562,
+        "question_id": 27807931,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807931/jquery-confliction-with-the-menu"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "node.js",
+          "npm"
+        ],
+        "creation_date": 1420581568,
+        "question_id": 27807933,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807933/npm-install-explained"
+      },
+      {
+        "tags": [
+          "php",
+          "phpstorm",
+          "laravel-blade"
+        ],
+        "creation_date": 1420581575,
+        "question_id": 27807934,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807934/php-syntax-highlighting-in-blade-files"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "ajax",
+          "html"
+        ],
+        "creation_date": 1420581593,
+        "question_id": 27807939,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807939/use-a-default-php-script-for-all-sub-directories-of-a-domain"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "combobox"
+        ],
+        "creation_date": 1420581609,
+        "question_id": 27807942,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807942/winforms-combobox-how-to-stop-it-from-dropping-down-when-getting-focus"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "json"
+        ],
+        "creation_date": 1420581611,
+        "question_id": 27807944,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807944/get-second-object-from-json-after-countdown"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "xcode",
+          "interface-builder",
+          "uistoryboard"
+        ],
+        "creation_date": 1420581665,
+        "question_id": 27807951,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807951/how-to-embed-a-custom-view-xib-in-a-storyboard-scene"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "html",
+          "mongodb",
+          "mongoose"
+        ],
+        "creation_date": 1420581667,
+        "question_id": 27807952,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807952/angularjs-with-mongodb-data-is-pulled-from-database-but-cannot-display-with-ng"
+      },
+      {
+        "tags": [
+          "c",
+          "pointers",
+          "memory",
+          "free"
+        ],
+        "creation_date": 1420581679,
+        "question_id": 27807956,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807956/freeing-2d-array-of-pointers-from-a-function-in-c"
+      },
+      {
+        "tags": [
+          "python",
+          "user-interface",
+          "syntax-error",
+          "calculator"
+        ],
+        "creation_date": 1420581699,
+        "question_id": 27807957,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807957/why-doesnt-my-calculator-calculate-the-answer"
+      },
+      {
+        "tags": [
+          "c++",
+          "search",
+          "intervals",
+          "stdmap"
+        ],
+        "creation_date": 1420581705,
+        "question_id": 27807960,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807960/stdpair-as-key-in-map"
+      },
+      {
+        "tags": [
+          "javascript",
+          "rotation",
+          "three.js",
+          "quaternions"
+        ],
+        "creation_date": 1420581737,
+        "question_id": 27807968,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807968/control-object-around-sphere-using-quaternions"
+      },
+      {
+        "tags": [
+          "rest",
+          "paypal"
+        ],
+        "creation_date": 1420581738,
+        "question_id": 27807969,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807969/error-500-when-calling-payment-creation-via-rest-api"
+      },
+      {
+        "tags": [
+          "php",
+          "ssl",
+          "ssl-certificate",
+          "osx-yosemite",
+          "apache2.4"
+        ],
+        "creation_date": 1420581749,
+        "question_id": 27807974,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807974/apache-2-4-9-fails-after-enabling-ssl-module-and-setting-up-ssl-certificate"
+      },
+      {
+        "tags": [
+          "node.js",
+          "bash",
+          "shell",
+          "gruntjs"
+        ],
+        "creation_date": 1420581772,
+        "question_id": 27807982,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807982/prompt-for-input-in-using-the-grunt-shell-plugin"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1420581773,
+        "question_id": 27807983,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807983/trying-to-avoid-creating-numerous-variables-in-python"
+      },
+      {
+        "tags": [
+          "r",
+          "excel",
+          "xlconnect"
+        ],
+        "creation_date": 1420581777,
+        "question_id": 27807984,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807984/using-xlconnect-to-write-data-to-excel-template-gives-empty-cell-error"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420581806,
+        "question_id": 27807990,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807990/moving-option-value-on-top-of-dropdown-list-using-jquery"
+      },
+      {
+        "tags": [
+          "java",
+          "swing",
+          "jtextarea",
+          "jlist"
+        ],
+        "creation_date": 1420581810,
+        "question_id": 27807992,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807992/java-jtextarea-into-jlist-does-not-show-the-wanted-text"
+      },
+      {
+        "tags": [
+          "gruntjs",
+          "browser-sync"
+        ],
+        "creation_date": 1420581810,
+        "question_id": 27807993,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807993/browser-sync-slow-to-reload"
+      },
+      {
+        "tags": [
+          "sql",
+          "ms-access",
+          "ms-access-2010",
+          "ddl"
+        ],
+        "creation_date": 1420581834,
+        "question_id": 27807997,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807997/syntax-error-in-create-table-statement-access-2010"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "sprite-kit",
+          "iad"
+        ],
+        "creation_date": 1420581834,
+        "question_id": 27807998,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27807998/how-to-display-iad-banner-in-different-spritekit-scenes"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420581874,
+        "question_id": 27808005,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808005/javascript-access-objects-in-an-array"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "macos",
+          "applescript",
+          "core-foundation",
+          "sips"
+        ],
+        "creation_date": 1420581946,
+        "question_id": 27808025,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808025/how-to-programmatically-make-mac-os-x-icns-with-10-different-images-using-sips-o"
+      },
+      {
+        "tags": [
+          "java",
+          "boolean",
+          "super"
+        ],
+        "creation_date": 1420581947,
+        "question_id": 27808026,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808026/incorrect-boolean-field-output-in-java"
+      },
+      {
+        "tags": [
+          "php",
+          "twig",
+          "slim"
+        ],
+        "creation_date": 1420581952,
+        "question_id": 27808027,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808027/outputting-old-form-data-with-twig"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "web-services",
+          "rest",
+          "ssl"
+        ],
+        "creation_date": 1420581980,
+        "question_id": 27808033,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808033/how-to-modify-existing-rest-web-service-to-work-with-ssl"
+      },
+      {
+        "tags": [
+          "unity-game-engine",
+          "unityscript"
+        ],
+        "creation_date": 1420581992,
+        "question_id": 27808034,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808034/respawn-prefab-after-5-seconds-error"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "rest",
+          "jpa",
+          "crud"
+        ],
+        "creation_date": 1420582001,
+        "question_id": 27808040,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808040/crud-restful-api-get-delete-doesnt-work"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "angularjs"
+        ],
+        "creation_date": 1420582025,
+        "question_id": 27808046,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808046/how-do-i-remove-the-charcter-from-angular-sql"
+      },
+      {
+        "tags": [
+          "r",
+          "lines",
+          "nearest-neighbor"
+        ],
+        "creation_date": 1420582034,
+        "question_id": 27808049,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808049/connect-nearest-neighbor-point"
+      },
+      {
+        "tags": [
+          "android",
+          "sqlite",
+          "group-by"
+        ],
+        "creation_date": 1420582062,
+        "question_id": 27808053,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808053/android-sqlite-android-database-sqlite-sqliteexception-aggregate-functions-are"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420582105,
+        "question_id": 27808066,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808066/center-images-inside-a-div"
+      },
+      {
+        "tags": [
+          "php",
+          "pdo"
+        ],
+        "creation_date": 1420582114,
+        "question_id": 27808069,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808069/pdo-set-a-custom-key-to-each-item-in-fetch-assocc-result"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "segue",
+          "uibarbuttonitem",
+          "viewdidload"
+        ],
+        "creation_date": 1420582118,
+        "question_id": 27808071,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808071/viewdidend-method-possible-in-swift"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420582135,
+        "question_id": 27808075,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808075/position-image-at-bottom-of-a-tag"
+      },
+      {
+        "tags": [
+          "ios",
+          "macos",
+          "swift"
+        ],
+        "creation_date": 1420582143,
+        "question_id": 27808078,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808078/having-trouble-compiling-yaml-swift-for-ios-builds-fine-for-osx"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "select",
+          "selectedindex",
+          "angularjs-ng-options"
+        ],
+        "creation_date": 1420582159,
+        "question_id": 27808082,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808082/angularjs-select-with-no-selection"
+      },
+      {
+        "tags": [
+          "usb",
+          "protocols",
+          "transfer",
+          "data-transfer"
+        ],
+        "creation_date": 1420582166,
+        "question_id": 27808088,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808088/usb-doubts-about-protocol"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html",
+          "twitter-bootstrap-3"
+        ],
+        "creation_date": 1420582189,
+        "question_id": 27808094,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808094/swap-out-table-rows"
+      },
+      {
+        "tags": [
+          "c#",
+          "export",
+          "interop",
+          "powerpoint",
+          "slide"
+        ],
+        "creation_date": 1420582225,
+        "question_id": 27808098,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808098/save-a-file-in-memory-instead-of-a-physical-path"
+      },
+      {
+        "tags": [
+          "python",
+          "session",
+          "flask"
+        ],
+        "creation_date": 1420582229,
+        "question_id": 27808101,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808101/python-flask-not-storing-session"
+      },
+      {
+        "tags": [
+          "c",
+          "eclipse",
+          "console",
+          "eclipse-cdt"
+        ],
+        "creation_date": 1420582272,
+        "question_id": 27808105,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808105/program-output-in-wrong-order"
+      },
+      {
+        "tags": [
+          "css",
+          "templates",
+          "xhtml"
+        ],
+        "creation_date": 1420582289,
+        "question_id": 27808106,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808106/css-xhtml-what-does-the-overlay-png-do-in-this-template"
+      },
+      {
+        "tags": [
+          "javascript",
+          "frameworks",
+          "chart.js"
+        ],
+        "creation_date": 1420582298,
+        "question_id": 27808110,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808110/trying-to-create-something-from-chart-js"
+      },
+      {
+        "tags": [
+          "java",
+          "math"
+        ],
+        "creation_date": 1420582308,
+        "question_id": 27808112,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808112/java-splitting-with-math-expression"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "sockets",
+          "nsnotificationcenter"
+        ],
+        "creation_date": 1420582339,
+        "question_id": 27808119,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808119/nsnotification-object-being-sent-is-null"
+      },
+      {
+        "tags": [
+          "regex"
+        ],
+        "creation_date": 1420582373,
+        "question_id": 27808128,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808128/matching-numbers-greater-than-40"
+      },
+      {
+        "tags": [
+          "python",
+          "parsing",
+          "web-scraping",
+          "lxml",
+          "lxml.html"
+        ],
+        "creation_date": 1420582411,
+        "question_id": 27808131,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808131/parsing-forum-posts-using-lxml-python"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c",
+          "core-graphics"
+        ],
+        "creation_date": 1420582421,
+        "question_id": 27808133,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808133/how-do-you-re-stroke-a-path-to-another-color-with-exact-same-result"
+      },
+      {
+        "tags": [
+          "javascript",
+          "function",
+          "load",
+          "save"
+        ],
+        "creation_date": 1420582450,
+        "question_id": 27808138,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808138/saving-and-loading-in-javascript-not-working"
+      },
+      {
+        "tags": [
+          "c++",
+          "xcode",
+          "macos",
+          "nsopenpanel"
+        ],
+        "creation_date": 1420582465,
+        "question_id": 27808146,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808146/getting-loads-of-error-when-using-nsopenpanel"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "google-maps"
+        ],
+        "creation_date": 1420582472,
+        "question_id": 27808148,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808148/scraping-data-from-google-maps"
+      },
+      {
+        "tags": [
+          "multithreading",
+          "dynamics-crm-2011",
+          "crm"
+        ],
+        "creation_date": 1420582497,
+        "question_id": 27808153,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808153/crm-2011-multithreading-the-inserts-using-an-organization-service-proxy-per-thre"
+      },
+      {
+        "tags": [
+          "php",
+          "symfony",
+          "doctrine-orm"
+        ],
+        "creation_date": 1420582547,
+        "question_id": 27808163,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808163/how-display-result-by-random-order-doctrine2-querybuilder"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "report"
+        ],
+        "creation_date": 1420582547,
+        "question_id": 27808164,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808164/sql-query-date-into-new-columns-with-unique-id"
+      },
+      {
+        "tags": [
+          "css",
+          "r"
+        ],
+        "creation_date": 1420582560,
+        "question_id": 27808165,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808165/add-horizontal-error-bars-on-a-single-point-on-a-graph-r"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs",
+          "node-webkit"
+        ],
+        "creation_date": 1420582588,
+        "question_id": 27808171,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808171/crash-dumps-missing-nodewebkit"
+      },
+      {
+        "tags": [
+          "bash",
+          "command-line",
+          "command-line-arguments",
+          "gulp",
+          "bower"
+        ],
+        "creation_date": 1420582616,
+        "question_id": 27808176,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27808176/command-not-found-after"
+      },
+      {
+        "tags": [
+          "binding",
+          "jaxb"
+        ],
+        "creation_date": 1420582688,
+        "question_id": 27808187,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808187/jaxb-bindings-for-nested-element-with-same-name"
+      },
+      {
+        "tags": [
+          "ember.js"
+        ],
+        "creation_date": 1420582690,
+        "question_id": 27808188,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808188/how-to-add-dynamic-dropdown-to-template-without-changing-model"
+      },
+      {
+        "tags": [
+          "java",
+          "hibernate",
+          "c3p0"
+        ],
+        "creation_date": 1420582706,
+        "question_id": 27808193,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808193/issues-with-hibernate-and-c3p0-pool"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "selenium-webdriver",
+          "protractor"
+        ],
+        "creation_date": 1420582711,
+        "question_id": 27808195,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808195/can-protractor-select-an-element-using-two-by-statements"
+      },
+      {
+        "tags": [
+          "opencv"
+        ],
+        "creation_date": 1420582716,
+        "question_id": 27808196,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808196/unhandled-exception-at-0x0fd98ef2-opencv-imgproc248d-dll-in-learningmachine-ex"
+      },
+      {
+        "tags": [
+          "haskell",
+          "swift",
+          "functional-programming"
+        ],
+        "creation_date": 1420582719,
+        "question_id": 27808198,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808198/functional-thinking-in-swift"
+      },
+      {
+        "tags": [
+          "ios",
+          "xcode",
+          "uitoolbar"
+        ],
+        "creation_date": 1420582720,
+        "question_id": 27808199,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808199/uibutton-width-not-filling-toolbar-when-run-on-simulator"
+      },
+      {
+        "tags": [
+          "c",
+          "switch-statement",
+          "syntax-error",
+          "program-entry-point"
+        ],
+        "creation_date": 1420582742,
+        "question_id": 27808202,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808202/expected-declaration-or-statement-at-end-of-input-i-counted-the-correct-amount"
+      },
+      {
+        "tags": [
+          "javafx"
+        ],
+        "creation_date": 1420582784,
+        "question_id": 27808210,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808210/java-fx-splitpane"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1420582821,
+        "question_id": 27808215,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808215/simple-python-program-wont-compile"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "creation_date": 1420582822,
+        "question_id": 27808216,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808216/finding-the-thread-which-is-keeping-the-application-from-closing"
+      },
+      {
+        "tags": [
+          "android",
+          "android-intent",
+          "android-activity"
+        ],
+        "creation_date": 1420582829,
+        "question_id": 27808219,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808219/how-do-i-send-a-local-instance-of-a-class-as-a-parameter-when-starting-a-new-act"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "jquery",
+          "css"
+        ],
+        "creation_date": 1420582833,
+        "question_id": 27808220,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27808220/web-site-scroll-down-effect-in-gogoro"
+      },
+      {
+        "tags": [
+          "c#",
+          "entity-framework",
+          "wcf"
+        ],
+        "creation_date": 1420582837,
+        "question_id": 27808222,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808222/reduce-wcf-boiler-plate"
+      },
+      {
+        "tags": [
+          "sprite-kit",
+          "collision-detection"
+        ],
+        "creation_date": 1420582855,
+        "question_id": 27808227,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808227/ios-spritekit-colision-detection-resetting-position-of-nsmutable-array-of-objec"
+      },
+      {
+        "tags": [
+          "visual-studio-2013",
+          "xamarin.ios",
+          "xamarin",
+          "xamarin.forms"
+        ],
+        "creation_date": 1420582856,
+        "question_id": 27808229,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808229/executable-name-and-the-app-name-are-different"
+      },
+      {
+        "tags": [
+          "php",
+          "mysql",
+          "mysqli"
+        ],
+        "creation_date": 1420582862,
+        "question_id": 27808230,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808230/mysqli-result-set-chaning-when-running-the-same-query"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "datatables"
+        ],
+        "creation_date": 1420582862,
+        "question_id": 27808231,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808231/angular-datatables-error-undefined-is-not-a-function"
+      },
+      {
+        "tags": [
+          "json.net",
+          "docusignapi"
+        ],
+        "creation_date": 1420582874,
+        "question_id": 27808233,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808233/line-break-in-property-escaping-issue"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "css"
+        ],
+        "creation_date": 1420582892,
+        "question_id": 27808235,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808235/animate-the-width-of-a-block-element-as-it-changes-with-jquery"
+      },
+      {
+        "tags": [
+          "rest",
+          "permissions",
+          "authorization"
+        ],
+        "creation_date": 1420582955,
+        "question_id": 27808247,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808247/access-control-within-rest-api-cxf"
+      },
+      {
+        "tags": [
+          "java",
+          "maven",
+          "freetts"
+        ],
+        "creation_date": 1420582962,
+        "question_id": 27808248,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808248/java-freetts-missing-voice"
+      },
+      {
+        "tags": [
+          "ios",
+          "ssl",
+          "afnetworking",
+          "afnetworking-2"
+        ],
+        "creation_date": 1420582962,
+        "question_id": 27808249,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808249/problems-with-ssl-pinning-and-afnetworking-2-5-0-nsurlerrordomain-error-1012"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "mdi",
+          "mdichild",
+          "mdiparent"
+        ],
+        "creation_date": 1420582962,
+        "question_id": 27808250,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808250/resizing-issue-with-mdi-parents"
+      },
+      {
+        "tags": [
+          "android",
+          "listview",
+          "styles"
+        ],
+        "creation_date": 1420582978,
+        "question_id": 27808252,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808252/listview-drawableleft-of-header-view-changes-position"
+      },
+      {
+        "tags": [
+          "jdbc",
+          "neo4j"
+        ],
+        "creation_date": 1420583008,
+        "question_id": 27808257,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808257/where-can-i-find-neo4j-jdbc-driver"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "trim",
+          "directive"
+        ],
+        "creation_date": 1420583029,
+        "question_id": 27808261,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808261/code-snippet-after-angularjs-directive-is-trimmed"
+      },
+      {
+        "tags": [
+          "c++",
+          "class"
+        ],
+        "creation_date": 1420583046,
+        "question_id": 27808265,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808265/class-changing-data-members-of-other-class"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift"
+        ],
+        "creation_date": 1420583053,
+        "question_id": 27808266,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808266/how-do-you-loop-avplayer-in-swift"
+      },
+      {
+        "tags": [
+          "installation",
+          "nsis",
+          "appdata"
+        ],
+        "creation_date": 1420583058,
+        "question_id": 27808270,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808270/nsis-retrieve-and-copy-file-from-appdata"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql",
+          "database"
+        ],
+        "creation_date": 1420583085,
+        "question_id": 27808276,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808276/sql-update-or-insert-by-checking-two-columns"
+      },
+      {
+        "tags": [
+          "r",
+          "function",
+          "scope"
+        ],
+        "creation_date": 1420583092,
+        "question_id": 27808278,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808278/scope-error-with-update-and-glm"
+      },
+      {
+        "tags": [
+          "asp.net-mvc",
+          "ssl",
+          "asp.net-web-api",
+          "oauth-2.0",
+          "asp.net-web-api2"
+        ],
+        "creation_date": 1420583095,
+        "question_id": 27808279,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808279/login-from-javascript-http-website-to-a-https-api-server"
+      },
+      {
+        "tags": [
+          "google-sheets",
+          "normalization",
+          "reshape",
+          "tableau-api",
+          "data-manipulation"
+        ],
+        "creation_date": 1420583117,
+        "question_id": 27808282,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27808282/normalize-reformat-cross-tab-data-for-tableau-without-using-excel"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 213
+  }
+}

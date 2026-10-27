@@ -1,0 +1,1116 @@
+{
+  "retrieved_at": "2026-10-26T19:06:19.301462+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420567200&todate=1420588799&sort=creation&order=asc&pagesize=100&page=2&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420567200,
+    "todate": 1420588799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 2,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "java",
+          "nullpointerexception",
+          "guice",
+          "nullable"
+        ],
+        "creation_date": 1420568654,
+        "question_id": 27804760,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804760/is-there-a-way-i-can-make-null-variables-automatically-fail-fast-in-my-code-base"
+      },
+      {
+        "tags": [
+          "matlab",
+          "if-statement",
+          "for-loop",
+          "conditional-statements"
+        ],
+        "creation_date": 1420568674,
+        "question_id": 27804767,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804767/excute-a-for-loop-after-the-completion-of-a-previous-loop"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "active-directory",
+          "authorization"
+        ],
+        "creation_date": 1420568681,
+        "question_id": 27804770,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804770/asp-net-role-authorization-inheritance-with-ad-groups"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "exception",
+          "null"
+        ],
+        "creation_date": 1420568688,
+        "question_id": 27804771,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804771/android-java-nullpointerexception"
+      },
+      {
+        "tags": [
+          "ios",
+          "objective-c"
+        ],
+        "creation_date": 1420568689,
+        "question_id": 27804772,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804772/ios-volume-buttons-controller-app-button"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "csv",
+          "grails",
+          "import",
+          "gridfs"
+        ],
+        "creation_date": 1420568695,
+        "question_id": 27804774,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804774/import-into-mongodb-gridfs"
+      },
+      {
+        "tags": [
+          "php",
+          "variables",
+          "concatenation"
+        ],
+        "creation_date": 1420568702,
+        "question_id": 27804778,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804778/losing-value-of-var-when-array-is-used"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html"
+        ],
+        "creation_date": 1420568702,
+        "question_id": 27804779,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804779/hide-div-after-clicking-button-in-that-div"
+      },
+      {
+        "tags": [
+          "android",
+          "android-layout"
+        ],
+        "creation_date": 1420568713,
+        "question_id": 27804786,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804786/square-layout-with-relatively-placed-buttons-android"
+      },
+      {
+        "tags": [
+          "python",
+          "logging",
+          "cherrypy"
+        ],
+        "creation_date": 1420568767,
+        "question_id": 27804798,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804798/logging-separate-from-cherrypy-logger"
+      },
+      {
+        "tags": [
+          "c#",
+          "io",
+          "directory"
+        ],
+        "creation_date": 1420568776,
+        "question_id": 27804800,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804800/c-directory-enumeratefiles-wrong-ordering"
+      },
+      {
+        "tags": [
+          "ios",
+          "performance",
+          "swift",
+          "sprite-kit",
+          "frame-rate"
+        ],
+        "creation_date": 1420568792,
+        "question_id": 27804804,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804804/fps-drops-and-game-slows-down-sprite-kit-and-swift"
+      },
+      {
+        "tags": [
+          "tkinter",
+          "pypi",
+          "qpython"
+        ],
+        "creation_date": 1420568810,
+        "question_id": 27804805,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804805/qpython-on-android-doesnt-get-imported"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "ruby-on-rails-3"
+        ],
+        "creation_date": 1420568813,
+        "question_id": 27804806,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804806/activerecordstatementinvalid-in-accountscontrollernew"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "typescript"
+        ],
+        "creation_date": 1420568824,
+        "question_id": 27804807,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804807/why-does-a-string-index-based-array-appear-sorted-in-angularjs-ng-repeat"
+      },
+      {
+        "tags": [
+          "php",
+          "symfony",
+          "entity"
+        ],
+        "creation_date": 1420568852,
+        "question_id": 27804811,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804811/symony2-access-form-in-entity-prepersist"
+      },
+      {
+        "tags": [
+          "javascript",
+          "parse-platform",
+          "parse-cloud-code"
+        ],
+        "creation_date": 1420568871,
+        "question_id": 27804821,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804821/scheduling-and-configuring-parse-jobs-for-users"
+      },
+      {
+        "tags": [
+          "mysql",
+          "phpmyadmin",
+          "config"
+        ],
+        "creation_date": 1420568872,
+        "question_id": 27804822,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27804822/upgrading-phpmyadmin-to-4-3-4"
+      },
+      {
+        "tags": [
+          "javascript",
+          "ajax"
+        ],
+        "creation_date": 1420568897,
+        "question_id": 27804827,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804827/correctly-measure-download-speed-javascript"
+      },
+      {
+        "tags": [
+          "php",
+          "laravel"
+        ],
+        "creation_date": 1420568898,
+        "question_id": 27804828,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804828/laravel-frozennode-administrator-get-current-admin-users-id-and-pass-it-as-a-def"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420568917,
+        "question_id": 27804833,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804833/appending-items-to-a-list-using-jquery-but-use-index-if-items-are-the-same-using"
+      },
+      {
+        "tags": [
+          "matlab",
+          "matrix"
+        ],
+        "creation_date": 1420568941,
+        "question_id": 27804842,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804842/matlab-replace-value-in-a-matrix-with-specific-conditions"
+      },
+      {
+        "tags": [
+          "android",
+          "sms",
+          "message",
+          "voice"
+        ],
+        "creation_date": 1420568966,
+        "question_id": 27804848,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804848/how-to-activate-and-save-voice-mails-to-internal-memory-from-android-app"
+      },
+      {
+        "tags": [
+          "magento"
+        ],
+        "creation_date": 1420568971,
+        "question_id": 27804849,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804849/when-i-move-files-to-sub-folder-magento-shows-404-error"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "synchronization"
+        ],
+        "creation_date": 1420568971,
+        "question_id": 27804850,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27804850/java-calling-other-methods-in-synchronized-block"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "objectdisposedexception"
+        ],
+        "creation_date": 1420568973,
+        "question_id": 27804851,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804851/how-to-reopen-a-previously-closed-windows-form-cannot-access-a-disposed-object"
+      },
+      {
+        "tags": [
+          "assembly",
+          "x86"
+        ],
+        "creation_date": 1420568977,
+        "question_id": 27804852,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27804852/assembly-rep-movs-mechanism"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "hibernate",
+          "jsp",
+          "spring-mvc"
+        ],
+        "creation_date": 1420568988,
+        "question_id": 27804854,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804854/cant-display-blob-image-in-jsp-in-spring-mvc-app"
+      },
+      {
+        "tags": [
+          "excel",
+          "loops",
+          "if-statement",
+          "for-loop"
+        ],
+        "creation_date": 1420568989,
+        "question_id": 27804855,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804855/looping-through-a-range-setting-values-if-condition-is-met"
+      },
+      {
+        "tags": [
+          "elixir"
+        ],
+        "creation_date": 1420568992,
+        "question_id": 27804857,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804857/best-way-to-implement-outer-inner-loop-in-elixir"
+      },
+      {
+        "tags": [
+          "maven",
+          "maven-plugin",
+          "exec-maven-plugin"
+        ],
+        "creation_date": 1420569008,
+        "question_id": 27804862,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804862/is-it-possible-to-run-multiple-maven-exec-plugin-executions-in-parallel"
+      },
+      {
+        "tags": [
+          "grails",
+          "grails-2.0",
+          "server-push"
+        ],
+        "creation_date": 1420569009,
+        "question_id": 27804863,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804863/server-push-using-grails"
+      },
+      {
+        "tags": [
+          "c++",
+          "sdl",
+          "sdl-2"
+        ],
+        "creation_date": 1420569050,
+        "question_id": 27804872,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804872/sdl-code-compiles-but-the-window-doesnt-show-up"
+      },
+      {
+        "tags": [
+          "c"
+        ],
+        "creation_date": 1420569055,
+        "question_id": 27804875,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/27804875/how-to-remove-warnings-in-c"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420569059,
+        "question_id": 27804876,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804876/how-we-compare-two-strings-and-get-the-difference-between-them-in-java"
+      },
+      {
+        "tags": [
+          "python",
+          "sql",
+          "peewee"
+        ],
+        "creation_date": 1420569068,
+        "question_id": 27804878,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804878/how-to-do-an-in-operator-in-peewee"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "sql-server-2012"
+        ],
+        "creation_date": 1420569072,
+        "question_id": 27804880,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804880/move-subset-of-data-between-sql-databases"
+      },
+      {
+        "tags": [
+          "winapi",
+          "mfc",
+          "keyboard-shortcuts"
+        ],
+        "creation_date": 1420569073,
+        "question_id": 27804881,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804881/how-to-disable-ctrlf6-ctrltab-and-ctrlf4-in-an-mdi-program"
+      },
+      {
+        "tags": [
+          "c++",
+          "opencv",
+          "image-processing",
+          "nan",
+          "mat"
+        ],
+        "creation_date": 1420569075,
+        "question_id": 27804882,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804882/declare-a-cvmat-of-nan"
+      },
+      {
+        "tags": [
+          "jquery",
+          "angularjs",
+          "angularjs-directive"
+        ],
+        "creation_date": 1420569077,
+        "question_id": 27804883,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804883/how-to-set-previous-value-when-cancelling-a-drop-down-list-with-angular-directiv"
+      },
+      {
+        "tags": [
+          "c#",
+          "postgresql",
+          "fluent-nhibernate",
+          "ironpython",
+          "kitchenpc"
+        ],
+        "creation_date": 1420569088,
+        "question_id": 27804885,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804885/kitchenpc-and-ironpython"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "vb.net",
+          "web-services",
+          "soap"
+        ],
+        "creation_date": 1420569097,
+        "question_id": 27804887,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804887/web-service-contingency-plan-vb-net"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420569112,
+        "question_id": 27804890,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804890/inserting-data-into-preformed-dom-elements-with-javascript"
+      },
+      {
+        "tags": [
+          "java",
+          "multithreading",
+          "animation",
+          "javafx",
+          "path-finding"
+        ],
+        "creation_date": 1420569132,
+        "question_id": 27804893,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804893/java-threads-on-javafx-animation-and-a-path-finding"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420569150,
+        "question_id": 27804898,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804898/detecting-if-the-button-onclick-event-is-attached"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "asp.net-mvc",
+          "angularjs",
+          "asp.net-web-api",
+          "authorization"
+        ],
+        "creation_date": 1420569157,
+        "question_id": 27804900,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804900/asp-net-mvc-web-api2-angularjs-authorization-and-authentication"
+      },
+      {
+        "tags": [
+          "java",
+          "user-interface",
+          "netbeans",
+          "jframe",
+          "netbeans-8"
+        ],
+        "creation_date": 1420569171,
+        "question_id": 27804901,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804901/accessing-a-jpanel-on-the-jframe-from-an-opened-jdialog"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "ajax",
+          "json"
+        ],
+        "creation_date": 1420569177,
+        "question_id": 27804902,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804902/best-or-correct-way-for-accessing-json-object"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420569182,
+        "question_id": 27804903,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804903/new-to-android-understanding-abstract-class-and-listactivity"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "arrays",
+          "comparison"
+        ],
+        "creation_date": 1420569207,
+        "question_id": 27804907,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804907/comparing-two-arrays-for-the-same-values-and-non-matching-values"
+      },
+      {
+        "tags": [
+          "redis",
+          "phpredis"
+        ],
+        "creation_date": 1420569207,
+        "question_id": 27804908,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804908/mainting-the-order-in-redis-with-zet-and-set"
+      },
+      {
+        "tags": [
+          "visual-studio",
+          "visual-studio-2013"
+        ],
+        "creation_date": 1420569209,
+        "question_id": 27804909,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804909/visual-studio-2013-cant-select-separate-project-in-project-explorer"
+      },
+      {
+        "tags": [
+          "opencv",
+          "svm",
+          "object-detection",
+          "svmlight"
+        ],
+        "creation_date": 1420569226,
+        "question_id": 27804913,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804913/opencv-bad-trained-hog-svm"
+      },
+      {
+        "tags": [
+          "javascript",
+          "python",
+          "selenium",
+          "download"
+        ],
+        "creation_date": 1420569239,
+        "question_id": 27804915,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804915/can-i-detect-the-start-of-a-download-with-selenium"
+      },
+      {
+        "tags": [
+          "excel",
+          "excel-formula",
+          "excel-2010",
+          "offset",
+          "datetimeoffset"
+        ],
+        "creation_date": 1420569242,
+        "question_id": 27804916,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804916/find-the-values-with-criteria-when-condition-matches"
+      },
+      {
+        "tags": [
+          "javascript",
+          "arrays",
+          "for-loop",
+          "types"
+        ],
+        "creation_date": 1420569268,
+        "question_id": 27804922,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804922/trouble-with-types-in-arrays-and-attempting-to-sort-things-into-tables"
+      },
+      {
+        "tags": [
+          "ios",
+          "tap",
+          "long-press"
+        ],
+        "creation_date": 1420569268,
+        "question_id": 27804923,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804923/longpressgesture-and-tapgesture-at-same-time"
+      },
+      {
+        "tags": [
+          "matlab",
+          "intersection",
+          "plane"
+        ],
+        "creation_date": 1420569274,
+        "question_id": 27804924,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804924/draw-planes-in-matlab"
+      },
+      {
+        "tags": [
+          "java",
+          "casting"
+        ],
+        "creation_date": 1420569275,
+        "question_id": 27804925,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804925/how-to-cast-listmap-into-listmapstring-string"
+      },
+      {
+        "tags": [
+          "r",
+          "cluster-analysis"
+        ],
+        "creation_date": 1420569279,
+        "question_id": 27804926,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804926/in-r-is-there-an-algorithm-to-create-approximately-equal-sized-clusters"
+      },
+      {
+        "tags": [
+          "c#",
+          "model-binding",
+          "asp.net-web-api2"
+        ],
+        "creation_date": 1420569303,
+        "question_id": 27804937,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804937/modelsate-isvalid-returns-true-when-posting-to-web-api-action-and-resulting-mode"
+      },
+      {
+        "tags": [
+          "monitor",
+          "openwrt",
+          "uci"
+        ],
+        "creation_date": 1420569307,
+        "question_id": 27804939,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804939/create-monitor-interface-via-openwrt-configuration-files"
+      },
+      {
+        "tags": [
+          "html",
+          "url"
+        ],
+        "creation_date": 1420569314,
+        "question_id": 27804941,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804941/changing-html-website-urls"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "rest",
+          "tomcat",
+          "jersey"
+        ],
+        "creation_date": 1420569321,
+        "question_id": 27804942,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804942/spring-jersey-rest-api-with-multiple-resource-class-returns-404"
+      },
+      {
+        "tags": [
+          "rest",
+          "uri",
+          "restful-architecture"
+        ],
+        "creation_date": 1420569345,
+        "question_id": 27804946,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804946/restful-resource-associations"
+      },
+      {
+        "tags": [
+          "java",
+          "json",
+          "jackson"
+        ],
+        "creation_date": 1420569347,
+        "question_id": 27804947,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804947/convert-two-type-of-json-to-the-same-object"
+      },
+      {
+        "tags": [
+          "javascript",
+          "angularjs"
+        ],
+        "creation_date": 1420569356,
+        "question_id": 27804949,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804949/ng-focus-firing-twice-and-ng-blur-never-fires"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "ctype"
+        ],
+        "creation_date": 1420569362,
+        "question_id": 27804952,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804952/c-equivalent-of-visual-basic-code-with-ctype"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1420569363,
+        "question_id": 27804954,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804954/center-image-vertically-inside-div-is-not-working"
+      },
+      {
+        "tags": [
+          "php",
+          "wordpress",
+          "security"
+        ],
+        "creation_date": 1420569372,
+        "question_id": 27804958,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804958/wordpress-website-hacked-what-does-this-code-do"
+      },
+      {
+        "tags": [
+          "google-dfp",
+          "brightcove"
+        ],
+        "creation_date": 1420569388,
+        "question_id": 27804959,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804959/targgeting-dfp-ads-to-brightcove-player"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "xml",
+          "xquery-sql"
+        ],
+        "creation_date": 1420569417,
+        "question_id": 27804965,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804965/using-xquery-to-match-existing-records-and-then-delete-said-record-if-found"
+      },
+      {
+        "tags": [
+          "regex",
+          "preg-match",
+          "preg-match-all"
+        ],
+        "creation_date": 1420569453,
+        "question_id": 27804974,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804974/pregmatch-all-multiple-line-with-newline"
+      },
+      {
+        "tags": [
+          "c#",
+          "aop",
+          "postsharp",
+          "aspect",
+          "aspects"
+        ],
+        "creation_date": 1420569462,
+        "question_id": 27804977,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804977/how-to-apply-a-postsharp-aspect-to-just-methods-defined-in-child-classes-of-a-gi"
+      },
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "methods",
+          "move"
+        ],
+        "creation_date": 1420569466,
+        "question_id": 27804979,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804979/how-to-move-methods-to-a-second-file-to-call-from-first-java-eclipse"
+      },
+      {
+        "tags": [
+          "java",
+          "maven",
+          "web.xml"
+        ],
+        "creation_date": 1420569470,
+        "question_id": 27804980,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804980/how-to-generate-web-xml-flle-on-maven-project"
+      },
+      {
+        "tags": [
+          "magento",
+          "attributes",
+          "frontend"
+        ],
+        "creation_date": 1420569478,
+        "question_id": 27804982,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804982/magento-display-custom-attribute-using-addattribtuetofilter"
+      },
+      {
+        "tags": [
+          "android"
+        ],
+        "creation_date": 1420569487,
+        "question_id": 27804984,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804984/blur-only-blurs-images-not-text-ore-something-else"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "exception"
+        ],
+        "creation_date": 1420569511,
+        "question_id": 27804986,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804986/better-way-to-debug-angularjs"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery"
+        ],
+        "creation_date": 1420569520,
+        "question_id": 27804988,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804988/how-to-hook-up-to-click-change-event-on-tzcheckbox"
+      },
+      {
+        "tags": [
+          "mongodb",
+          "robo3t"
+        ],
+        "creation_date": 1420569525,
+        "question_id": 27804990,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804990/mongodb-remote-connection-via-robomongo"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "loops",
+          "plugins",
+          "facebook-php-sdk"
+        ],
+        "creation_date": 1420569531,
+        "question_id": 27804992,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804992/facebook-comment-plugin"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "postgresql",
+          "rails-migrations"
+        ],
+        "creation_date": 1420569550,
+        "question_id": 27804995,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804995/restore-auto-increment-id-on-rails-4-with-postgresql"
+      },
+      {
+        "tags": [
+          "android",
+          "searchview"
+        ],
+        "creation_date": 1420569552,
+        "question_id": 27804996,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804996/searchview-is-null-android"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby",
+          "rake",
+          "rakefile"
+        ],
+        "creation_date": 1420569556,
+        "question_id": 27804997,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804997/rake-task-outside-of-namespace"
+      },
+      {
+        "tags": [
+          "rest",
+          "concurrency",
+          "jersey",
+          "atomic"
+        ],
+        "creation_date": 1420569557,
+        "question_id": 27804998,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27804998/rest-apis-atomic"
+      },
+      {
+        "tags": [
+          "asp.net",
+          "json",
+          "visual-studio",
+          "razor",
+          "visual-studio-2013"
+        ],
+        "creation_date": 1420569559,
+        "question_id": 27805000,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805000/change-syntax-coloring-for-a-file-extension-in-visual-studio-2013"
+      },
+      {
+        "tags": [
+          "performance",
+          "d"
+        ],
+        "creation_date": 1420569563,
+        "question_id": 27805001,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805001/why-is-this-d-code-slower-than-a-similar-c-implementation"
+      },
+      {
+        "tags": [
+          "c#",
+          "wpf",
+          "validation",
+          "icommand"
+        ],
+        "creation_date": 1420569574,
+        "question_id": 27805003,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805003/how-do-i-run-idataerrorinfo-validation-code-when-my-ivalueconverter-throws-an-ex"
+      },
+      {
+        "tags": [
+          "xml"
+        ],
+        "creation_date": 1420569583,
+        "question_id": 27805006,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805006/quotation-marks-changes-from-simply-to-twice-in-c"
+      },
+      {
+        "tags": [
+          "php"
+        ],
+        "creation_date": 1420569622,
+        "question_id": 27805013,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805013/accessing-a-changing-offset"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "jquery",
+          "mysql",
+          "ajax"
+        ],
+        "creation_date": 1420569627,
+        "question_id": 27805015,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805015/dynamic-ajax-mysql-list-with-clickthrough"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "html"
+        ],
+        "creation_date": 1420569644,
+        "question_id": 27805018,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805018/spans-not-being-appended-to-parent-div"
+      },
+      {
+        "tags": [
+          "mysql",
+          "sql",
+          "count",
+          "group-by"
+        ],
+        "creation_date": 1420569647,
+        "question_id": 27805019,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805019/mysql-include-columns-w-a-count-of-0"
+      },
+      {
+        "tags": [
+          "php",
+          "cakephp",
+          "routes"
+        ],
+        "creation_date": 1420569647,
+        "question_id": 27805020,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805020/cakephp-catch-all-route"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "ruby"
+        ],
+        "creation_date": 1420569652,
+        "question_id": 27805022,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805022/changing-a-objects-attribute-after-a-certain-period-of-time-rails"
+      },
+      {
+        "tags": [
+          "ember.js"
+        ],
+        "creation_date": 1420569656,
+        "question_id": 27805023,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805023/emberjs-internet-explorer-not-showing-changes-to-model-unless-page-is-refreshed"
+      },
+      {
+        "tags": [
+          "sql",
+          "ruby-on-rails",
+          "ruby-on-rails-3"
+        ],
+        "creation_date": 1420569660,
+        "question_id": 27805026,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805026/rails-query-hstore-where-key-is-not-something-or-does-not-exist"
+      },
+      {
+        "tags": [
+          "javascript"
+        ],
+        "creation_date": 1420569665,
+        "question_id": 27805029,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805029/pass-function-with-parameters-when-submitting-a-form"
+      },
+      {
+        "tags": [
+          "visual-studio",
+          "visual-studio-2013"
+        ],
+        "creation_date": 1420569668,
+        "question_id": 27805031,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27805031/how-can-i-change-the-test-explorers-duration-timer-to-be-more-useful-for-long"
+      }
+    ],
+    "has_more": true,
+    "quota_remaining": 223
+  }
+}

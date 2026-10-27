@@ -1,0 +1,928 @@
+{
+  "retrieved_at": "2026-10-26T19:03:21.681820+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1736186400&todate=1736207999&sort=creation&order=asc&pagesize=100&page=2&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1736186400,
+    "todate": 1736207999,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 2,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "python",
+          "inheritance",
+          "mocking",
+          "python-unittest"
+        ],
+        "creation_date": 1736196786,
+        "question_id": 79334310,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334310/how-to-mock-in-python-an-inherited-attribute-that-contains-the-reference-to-an-o"
+      },
+      {
+        "tags": [
+          "python",
+          "optimization",
+          "vectorization"
+        ],
+        "creation_date": 1736196967,
+        "question_id": 79334315,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334315/python-minimize-function-in-respect-to-i-th-variable"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift"
+        ],
+        "creation_date": 1736197179,
+        "question_id": 79334324,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334324/how-to-change-button-image-size-with-button-configuration"
+      },
+      {
+        "tags": [
+          "javafx",
+          "javafx-css"
+        ],
+        "creation_date": 1736197179,
+        "question_id": 79334325,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334325/styling-javafx-components-without-css"
+      },
+      {
+        "tags": [
+          "function",
+          "batch-file",
+          "pass-by-reference",
+          "pass-by-value"
+        ],
+        "creation_date": 1736197230,
+        "question_id": 79334328,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334328/batch-function-get-the-value-of-variable-pass-by-reference"
+      },
+      {
+        "tags": [
+          "java",
+          "spring-boot",
+          "mustache",
+          "openapi-generator-maven-plugin",
+          "openapi-generator-cli"
+        ],
+        "creation_date": 1736197265,
+        "question_id": 79334330,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334330/springdoc-openapi-generator-template-customization"
+      },
+      {
+        "tags": [
+          "macos",
+          "swiftui"
+        ],
+        "creation_date": 1736197424,
+        "question_id": 79334334,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334334/how-to-properly-align-a-label-in-a-swiftui-form"
+      },
+      {
+        "tags": [
+          ".net",
+          "xunit"
+        ],
+        "creation_date": 1736197473,
+        "question_id": 79334336,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334336/xunit-version-3-xunit-v3-skipwhen-and-skipunless"
+      },
+      {
+        "tags": [
+          "python",
+          "gtk4",
+          "ubuntu-24.04"
+        ],
+        "creation_date": 1736197576,
+        "question_id": 79334340,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334340/folder-color-extension-for-nemo"
+      },
+      {
+        "tags": [
+          "c",
+          "windows"
+        ],
+        "creation_date": 1736197599,
+        "question_id": 79334341,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334341/reverse-shell-stops-responding-after-adding-reconnection-logic"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas"
+        ],
+        "creation_date": 1736197903,
+        "question_id": 79334351,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334351/how-to-convert-unix-time-to-datetime-when-using-pandas-dataframe-from-dict"
+      },
+      {
+        "tags": [
+          "objective-c",
+          "xcode",
+          "cocoa",
+          "appkit"
+        ],
+        "creation_date": 1736198184,
+        "question_id": 79334360,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334360/cocoa-appkit-how-do-i-set-a-custom-size-for-an-nsprogressindicator"
+      },
+      {
+        "tags": [
+          "c#",
+          ".net",
+          "coverity"
+        ],
+        "creation_date": 1736198332,
+        "question_id": 79334366,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334366/adding-coverity-attributes-in-net"
+      },
+      {
+        "tags": [
+          "google-sheets",
+          "google-sheets-formula"
+        ],
+        "creation_date": 1736198654,
+        "question_id": 79334373,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334373/replace-indirect-in-a-countifs-formula-in-google-sheet"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "next.js",
+          "anti-patterns"
+        ],
+        "creation_date": 1736198746,
+        "question_id": 79334381,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334381/is-manually-tracking-the-first-render-and-acting-on-it-an-anti-pattern-or-bad-co"
+      },
+      {
+        "tags": [
+          "android",
+          "openssl",
+          "ktor",
+          "go-gin"
+        ],
+        "creation_date": 1736198791,
+        "question_id": 79334383,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334383/android-client-with-a-go-server-secure-connection"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "debugging",
+          "visual-studio-2022"
+        ],
+        "creation_date": 1736199012,
+        "question_id": 79334397,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334397/main-method-in-the-program-cs-class-is-not-reached-in-a-previously-working-a"
+      },
+      {
+        "tags": [
+          "image",
+          "xaml",
+          "zooming",
+          "winui-3",
+          "winui"
+        ],
+        "creation_date": 1736199049,
+        "question_id": 79334398,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334398/how-to-zoom-and-center-on-double-click-in-image-in-winui-3"
+      },
+      {
+        "tags": [
+          "java",
+          "java-stream"
+        ],
+        "creation_date": 1736199052,
+        "question_id": 79334399,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334399/filter-a-list-based-on-dynamic-criteria-using-java-streams"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "firebase",
+          "firebase-authentication"
+        ],
+        "creation_date": 1736199147,
+        "question_id": 79334404,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334404/firebaseauth-phone-authentication-error-auth-invalid-app-credential-reactjs"
+      },
+      {
+        "tags": [
+          "flutter",
+          "dart"
+        ],
+        "creation_date": 1736199236,
+        "question_id": 79334409,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334409/flutter-web-marker-image-fails-to-load-on-map-unexpected-null-value"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "next.js",
+          "vercel",
+          "supabase",
+          "swr"
+        ],
+        "creation_date": 1736199322,
+        "question_id": 79334411,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334411/uncaught-exception-error-connection-terminated-unexpectedly-with-next-and-ve"
+      },
+      {
+        "tags": [
+          "spring-boot",
+          "open-telemetry",
+          "otel"
+        ],
+        "creation_date": 1736199379,
+        "question_id": 79334412,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334412/how-to-get-spring-boot-3-otel-opentelemetry-collector-work"
+      },
+      {
+        "tags": [
+          "python",
+          "opencv",
+          "image-processing",
+          "computer-vision",
+          "braille"
+        ],
+        "creation_date": 1736199593,
+        "question_id": 79334415,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334415/finding-protrusion-and-depression-in-a-braille-page-using-image-processing"
+      },
+      {
+        "tags": [
+          "sql",
+          "amazon-s3",
+          "lambda",
+          "snowflake-cloud-data-platform"
+        ],
+        "creation_date": 1736199825,
+        "question_id": 79334419,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334419/read-query-a-file-in-a-compressed-folder-in-snowflake-stage"
+      },
+      {
+        "tags": [
+          "python",
+          "tensorflow",
+          "tensorflow-datasets"
+        ],
+        "creation_date": 1736199846,
+        "question_id": 79334421,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334421/tensorflow-dataset-splitted-sizing-parameter-problem-local-rendezvous-is-aborti"
+      },
+      {
+        "tags": [
+          "react-native",
+          "watermelondb"
+        ],
+        "creation_date": 1736200013,
+        "question_id": 79334427,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334427/is-watermelondb-0-27-1-compatible-with-react-native-0-76-5"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "typescript",
+          "rich-text-editor",
+          "slate.js"
+        ],
+        "creation_date": 1736200153,
+        "question_id": 79334430,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334430/is-there-a-better-way-to-rerender-slatejs-editor-on-prop-change"
+      },
+      {
+        "tags": [
+          "css"
+        ],
+        "creation_date": 1736200206,
+        "question_id": 79334431,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334431/change-default-activation-state-of-a-button-using-css"
+      },
+      {
+        "tags": [
+          "visual-studio",
+          "vs-code",
+          "ide",
+          "code-analysis"
+        ],
+        "creation_date": 1736200345,
+        "question_id": 79334434,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334434/i-need-to-count-the-lines-of-code-in-the-functions-call-tree"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "mechanize-python"
+        ],
+        "creation_date": 1736200350,
+        "question_id": 79334435,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334435/how-do-i-post-directly-to-a-specific-url-with-python-mechanize"
+      },
+      {
+        "tags": [
+          "python",
+          "numpy",
+          "matplotlib",
+          "plot",
+          "3d"
+        ],
+        "creation_date": 1736200448,
+        "question_id": 79334437,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334437/i-cannot-get-matplotlib-to-plot-a-3d-surface-map-with-more-than-50x50-grid"
+      },
+      {
+        "tags": [
+          "excel",
+          "conditional-formatting"
+        ],
+        "creation_date": 1736200452,
+        "question_id": 79334438,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334438/copying-conditionally-formatted-cell-colors-from-one-sheet-to-another"
+      },
+      {
+        "tags": [
+          "angular",
+          "typescript",
+          "angular-signals"
+        ],
+        "creation_date": 1736200461,
+        "question_id": 79334439,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334439/angular-signals-how-to-destructure-model"
+      },
+      {
+        "tags": [
+          "html",
+          "svg",
+          "web-component",
+          "font-size",
+          "native-web-component"
+        ],
+        "creation_date": 1736200512,
+        "question_id": 79334441,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334441/why-does-font-size-0-add-extra-height-to-web-component-aka-html-custom-element"
+      },
+      {
+        "tags": [
+          "r",
+          "bayesian"
+        ],
+        "creation_date": 1736200622,
+        "question_id": 79334444,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334444/prior-distribution-for-zero-inflated-poisson-mcmcglmm"
+      },
+      {
+        "tags": [
+          "angular",
+          "spring",
+          "auth0",
+          "astrojs"
+        ],
+        "creation_date": 1736200726,
+        "question_id": 79334449,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334449/astro-to-spring-bff-to-auth0-to-spring-bff-to-angular-how-to-prevent-browser-b"
+      },
+      {
+        "tags": [
+          "error-handling",
+          "jetty",
+          "jetty-12"
+        ],
+        "creation_date": 1736200802,
+        "question_id": 79334450,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334450/jetty-12-forward-to-error-page-on-invalid-urls"
+      },
+      {
+        "tags": [
+          "java",
+          "appium-android",
+          "android-uiautomator"
+        ],
+        "creation_date": 1736200871,
+        "question_id": 79334452,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334452/how-to-i-set-uiscrollable-scrollintoview-to-default-swipe-bottom-to-top-instead"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "amazon-sqs",
+          "terraform-provider-aws",
+          "aws-event-bridge",
+          "sqslistener"
+        ],
+        "creation_date": 1736200877,
+        "question_id": 79334453,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334453/how-to-make-multiple-consumers-receive-the-same-message-from-a-single-aws-sqs-qu"
+      },
+      {
+        "tags": [
+          "c++",
+          "function-pointers",
+          "function-reference"
+        ],
+        "creation_date": 1736200931,
+        "question_id": 79334455,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334455/cniche-syntax-function-reference-type-declaration-const-reference"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "creation_date": 1736201488,
+        "question_id": 79334472,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334472/css-isnt-styling-my-html-file-even-when-its-linked-properly"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "recursive-query",
+          "pedigree"
+        ],
+        "creation_date": 1736201493,
+        "question_id": 79334474,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334474/update-postgres-pedigree-process-to-prefix-child-decendents-with-character"
+      },
+      {
+        "tags": [
+          "python",
+          "c++",
+          "cython"
+        ],
+        "creation_date": 1736201528,
+        "question_id": 79334475,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334475/writing-cython-class-with-template"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "typescript",
+          "azure-openai"
+        ],
+        "creation_date": 1736201621,
+        "question_id": 79334478,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334478/unable-to-create-title-based-on-user-input-using-azure-openai"
+      },
+      {
+        "tags": [
+          "excel",
+          "excel-formula"
+        ],
+        "creation_date": 1736202039,
+        "question_id": 79334487,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334487/trying-to-keep-last-9-of-various-strings"
+      },
+      {
+        "tags": [
+          "c#",
+          "unity-game-engine",
+          "game-development"
+        ],
+        "creation_date": 1736202078,
+        "question_id": 79334490,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334490/bool-changes-but-if-doesnt-work-correctly"
+      },
+      {
+        "tags": [
+          "python",
+          "flask",
+          "sqlalchemy",
+          "flask-sqlalchemy"
+        ],
+        "creation_date": 1736202181,
+        "question_id": 79334492,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334492/accessing-sqlalchemy-query-filter-results"
+      },
+      {
+        "tags": [
+          "rust"
+        ],
+        "creation_date": 1736202256,
+        "question_id": 79334495,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334495/packing-dependent-crates-without-publishng"
+      },
+      {
+        "tags": [
+          "javascript",
+          "php",
+          "html",
+          "jquery"
+        ],
+        "creation_date": 1736202340,
+        "question_id": 79334496,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334496/stop-localstorage-overlap"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "typescript",
+          "supabase",
+          "supabase-js"
+        ],
+        "creation_date": 1736202396,
+        "question_id": 79334498,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334498/react-supabase-response-types-for-complex-queries-not-working-with-filter"
+      },
+      {
+        "tags": [
+          "powerbi",
+          "vega-lite",
+          "vega",
+          "deneb"
+        ],
+        "creation_date": 1736202567,
+        "question_id": 79334502,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334502/how-to-display-the-absolute-difference-between-two-values-on-a-dumbbell-plot"
+      },
+      {
+        "tags": [
+          "android",
+          "kotlin",
+          "android-jetpack-compose"
+        ],
+        "creation_date": 1736202605,
+        "question_id": 79334504,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334504/how-to-capture-backbutton-press-and-gesture-before-navigationhost-does"
+      },
+      {
+        "tags": [
+          "sql",
+          "mysql",
+          "stored-procedures",
+          "parameters"
+        ],
+        "creation_date": 1736202637,
+        "question_id": 79334506,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334506/need-mysql-shorthand-to-match-param-to-column-specsm"
+      },
+      {
+        "tags": [
+          "postgresql",
+          "powershell",
+          "shell",
+          "quoting",
+          "azure-cloud-shell"
+        ],
+        "creation_date": 1736203039,
+        "question_id": 79334513,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334513/connect-to-postgres-flexible-server-via-az-postgress-from-ps1-script-when-pass"
+      },
+      {
+        "tags": [
+          "docker",
+          "docker-compose",
+          "redis",
+          "fastapi",
+          "redis-om"
+        ],
+        "creation_date": 1736203198,
+        "question_id": 79334517,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334517/redis-error-111-connection-refused-in-docker-compose-with-fastapi"
+      },
+      {
+        "tags": [
+          "python",
+          "opencv",
+          "computer-vision",
+          "rotation",
+          "angle"
+        ],
+        "creation_date": 1736203294,
+        "question_id": 79334520,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334520/how-to-calc-the-correct-angle-in-opencv-and-rotate-image-based-on-coordinates"
+      },
+      {
+        "tags": [
+          "c",
+          "multithreading",
+          "pthreads",
+          "send",
+          "recv"
+        ],
+        "creation_date": 1736203412,
+        "question_id": 79334524,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334524/tcp-clients-not-receiving-messages-in-multi-threaded-c-application"
+      },
+      {
+        "tags": [
+          "typescript",
+          "typescript-generics"
+        ],
+        "creation_date": 1736203571,
+        "question_id": 79334526,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334526/augment-replace-union-type-from-typescript-library"
+      },
+      {
+        "tags": [
+          "html",
+          "css",
+          "safari",
+          "mobile-safari"
+        ],
+        "creation_date": 1736203840,
+        "question_id": 79334531,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334531/rendering-inconsistencies-between-safari-ios-safari-macos-and-chrome"
+      },
+      {
+        "tags": [
+          "angular",
+          "frontend",
+          "internationalization"
+        ],
+        "creation_date": 1736203975,
+        "question_id": 79334533,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334533/how-i-can-implement-internationalization-in-an-angular-v11-project-by-separating"
+      },
+      {
+        "tags": [
+          "vue.js",
+          "vuejs3",
+          "nuxt.js",
+          "nuxt3.js"
+        ],
+        "creation_date": 1736204165,
+        "question_id": 79334535,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334535/my-slot-command-in-deafult-vue-in-layouts-folder-is-not-being-recognised-when-wo"
+      },
+      {
+        "tags": [
+          "reactjs",
+          "next.js",
+          "react-hook-form"
+        ],
+        "creation_date": 1736204270,
+        "question_id": 79334538,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334538/update-usefieldarray-fields-when-index-changes"
+      },
+      {
+        "tags": [
+          "java",
+          "mapstruct"
+        ],
+        "creation_date": 1736204475,
+        "question_id": 79334542,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334542/how-do-you-set-an-attribute-to-the-current-offsetdatetime-now-using-mapstruct"
+      },
+      {
+        "tags": [
+          "neovim"
+        ],
+        "creation_date": 1736204647,
+        "question_id": 79334545,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334545/how-do-i-set-my-cwd-to-relative-to-the-open-file-folder"
+      },
+      {
+        "tags": [
+          "c#",
+          "maui",
+          "maui-community-toolkit"
+        ],
+        "creation_date": 1736204697,
+        "question_id": 79334547,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334547/net-maui-slim-bindings-native-library-interop"
+      },
+      {
+        "tags": [
+          "three.js"
+        ],
+        "creation_date": 1736205068,
+        "question_id": 79334558,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334558/specify-three-js-graph-size"
+      },
+      {
+        "tags": [
+          "next.js"
+        ],
+        "creation_date": 1736205136,
+        "question_id": 79334560,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334560/stray-semicolon-in-next-js"
+      },
+      {
+        "tags": [
+          "python"
+        ],
+        "creation_date": 1736205834,
+        "question_id": 79334568,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334568/how-to-use-subprocess-run-when-the-subprocess-requires-an-enter-to-complete"
+      },
+      {
+        "tags": [
+          "powerbi",
+          "vega",
+          "deneb"
+        ],
+        "creation_date": 1736205938,
+        "question_id": 79334570,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334570/deneb-gantt-2-0-add-quarters-button"
+      },
+      {
+        "tags": [
+          "java",
+          "maven"
+        ],
+        "creation_date": 1736206045,
+        "question_id": 79334574,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334574/maven-pkix-path-building-failed"
+      },
+      {
+        "tags": [
+          "parallel-processing",
+          "julia",
+          "ode"
+        ],
+        "creation_date": 1736206099,
+        "question_id": 79334575,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334575/is-there-a-way-to-improve-the-parallel-process-described-below-to-solve-an-ode-e"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css",
+          "responsive-design",
+          "frontend",
+          "tailwind-css"
+        ],
+        "creation_date": 1736206470,
+        "question_id": 79334579,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334579/how-to-make-2-colour-diagonal-background-flexible-without-distorting-the-angle"
+      },
+      {
+        "tags": [
+          "intellij-idea"
+        ],
+        "creation_date": 1736206473,
+        "question_id": 79334580,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334580/intellij-does-not-list-errors-in-project-errors"
+      },
+      {
+        "tags": [
+          "git",
+          "rebase"
+        ],
+        "creation_date": 1736206933,
+        "question_id": 79334588,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334588/keep-branch-structure-during-git-rebase"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "paypal"
+        ],
+        "creation_date": 1736207029,
+        "question_id": 79334590,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334590/using-the-paypal-donate-sdk-with-my-own-html-button"
+      },
+      {
+        "tags": [
+          "react-native"
+        ],
+        "creation_date": 1736207054,
+        "question_id": 79334592,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334592/how-to-remove-bar-at-the-top-of-the-screen"
+      },
+      {
+        "tags": [
+          "echarts",
+          "apache-echarts"
+        ],
+        "creation_date": 1736207066,
+        "question_id": 79334593,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334593/set-markline-to-be-on-the-righthand-index-boundary-instead-of-in-the-middle-of-t"
+      },
+      {
+        "tags": [
+          "r",
+          "parallel-processing",
+          "openxlsx"
+        ],
+        "creation_date": 1736207124,
+        "question_id": 79334595,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334595/openxlsx-and-writedata-in-parallel"
+      },
+      {
+        "tags": [
+          "r",
+          "ggplot2",
+          "marquee"
+        ],
+        "creation_date": 1736207261,
+        "question_id": 79334600,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334600/vectorize-text-input-to-axis-legend-labels-possibly-using-marquee"
+      },
+      {
+        "tags": [
+          "powershell",
+          "exchange-online",
+          "sort-object"
+        ],
+        "creation_date": 1736207699,
+        "question_id": 79334607,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334607/sort-lastlogontime-descending-gives-identity-error"
+      },
+      {
+        "tags": [
+          "databricks",
+          "azure-databricks",
+          "delta-lake"
+        ],
+        "creation_date": 1736207774,
+        "question_id": 79334609,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79334609/delta-lake-multiple-logical-files-referencing-the-same-data-file-path"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 290
+  }
+}

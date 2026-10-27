@@ -1,0 +1,273 @@
+{
+  "retrieved_at": "2026-10-26T19:08:26.954099+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420567200&todate=1420588799&sort=creation&order=asc&pagesize=100&page=16&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420567200,
+    "todate": 1420588799,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 16,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "haskell",
+          "swift",
+          "functional-programming"
+        ],
+        "creation_date": 1420588365,
+        "question_id": 27809298,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809298/sequencetype-of-functions"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "creation_date": 1420588433,
+        "question_id": 27809306,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809306/saving-contents-of-listview-as-a-csv-file-in-c"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server"
+        ],
+        "creation_date": 1420588434,
+        "question_id": 27809307,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809307/find-records-that-belong-to-the-same-identifier-check-for-multiple-occurences-o"
+      },
+      {
+        "tags": [
+          "css",
+          "ruby-on-rails-4",
+          "sass",
+          "css-sprites",
+          "compass"
+        ],
+        "creation_date": 1420588436,
+        "question_id": 27809308,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809308/rake-assetsprecompile-bug-with-rails-and-compass-and"
+      },
+      {
+        "tags": [
+          "actionscript-3"
+        ],
+        "creation_date": 1420588464,
+        "question_id": 27809313,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809313/problems-with-an-object-appearing-on-a-frame-i-dont-want-it-to-appear-on-as3"
+      },
+      {
+        "tags": [
+          "editor",
+          "enthought",
+          "traitsui"
+        ],
+        "creation_date": 1420588514,
+        "question_id": 27809317,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809317/tabularadapter-editor-issue"
+      },
+      {
+        "tags": [
+          "actionscript-3",
+          "flash",
+          "animation",
+          "actionscript",
+          "timeline"
+        ],
+        "creation_date": 1420588529,
+        "question_id": 27809319,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809319/animation-does-not-start-in-actionscript-3-0-flash-cc"
+      },
+      {
+        "tags": [
+          "mysql"
+        ],
+        "creation_date": 1420588576,
+        "question_id": 27809327,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809327/counting-distinct-answer-values-from-an-in-function"
+      },
+      {
+        "tags": [
+          "r",
+          "compare",
+          "alphanumeric"
+        ],
+        "creation_date": 1420588581,
+        "question_id": 27809328,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809328/comparing-alphanumeric-character-strings-in-r"
+      },
+      {
+        "tags": [
+          "django",
+          "python-2.7",
+          "django-forms",
+          "django-templates",
+          "django-admin"
+        ],
+        "creation_date": 1420588585,
+        "question_id": 27809329,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809329/django-admin-add-dynamic-row-in-admin-like-inline-admin-that-is-not-foreign-key"
+      },
+      {
+        "tags": [
+          "javascript",
+          "android",
+          "jquery",
+          "listview",
+          "jquery-mobile"
+        ],
+        "creation_date": 1420588595,
+        "question_id": 27809330,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809330/how-to-turn-off-active-state-on-listview-item-while-scrolling"
+      },
+      {
+        "tags": [
+          "sdk",
+          "rally"
+        ],
+        "creation_date": 1420588602,
+        "question_id": 27809331,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809331/rally-sdk-2-0-multi-type-artifact-filtering"
+      },
+      {
+        "tags": [
+          "java",
+          "fonts"
+        ],
+        "creation_date": 1420588618,
+        "question_id": 27809337,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809337/java-fonts-not-displaying-properly"
+      },
+      {
+        "tags": [
+          "android",
+          "android-canvas",
+          "android-image"
+        ],
+        "creation_date": 1420588653,
+        "question_id": 27809339,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809339/merging-overlays-and-camera-pictures-to-create-high-quality-images-in-android"
+      },
+      {
+        "tags": [
+          "ruby-on-rails",
+          "rails-migrations"
+        ],
+        "creation_date": 1420588668,
+        "question_id": 27809342,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809342/rails-migration-add-reference-to-table-but-different-column-name-for-foreign-ke"
+      },
+      {
+        "tags": [
+          "asp.net-mvc-4",
+          "routes"
+        ],
+        "creation_date": 1420588678,
+        "question_id": 27809343,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809343/how-can-i-add-conditional-query-string-to-the-url-in-mvc-4"
+      },
+      {
+        "tags": [
+          "java",
+          "variables",
+          "object",
+          "instance"
+        ],
+        "creation_date": 1420588691,
+        "question_id": 27809346,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809346/java-edit-instance-variables-without-a-method"
+      },
+      {
+        "tags": [
+          "javascript",
+          "arrays",
+          "node.js"
+        ],
+        "creation_date": 1420588694,
+        "question_id": 27809347,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809347/how-to-get-an-output-from-an-array-in-javascript"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css"
+        ],
+        "creation_date": 1420588696,
+        "question_id": 27809348,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809348/assign-class-to-first-image"
+      },
+      {
+        "tags": [
+          "javascript",
+          "backbone.js",
+          "event-handling"
+        ],
+        "creation_date": 1420588708,
+        "question_id": 27809350,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809350/backbone-events-disable-capture-phase"
+      },
+      {
+        "tags": [
+          "ruby-on-rails-3",
+          "routes"
+        ],
+        "creation_date": 1420588713,
+        "question_id": 27809351,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809351/ruby-route-with-dynamic-data-mixed-in-with-constant-routing-hints"
+      },
+      {
+        "tags": [
+          "c++",
+          "ios",
+          "qt",
+          "app-store",
+          "dylib"
+        ],
+        "creation_date": 1420588714,
+        "question_id": 27809352,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809352/are-ios-8-apps-with-embedded-dylibs-allowed-on-the-app-store"
+      },
+      {
+        "tags": [
+          "c#",
+          "linq-to-xml",
+          "compact-framework",
+          "xmldocument",
+          "xmlnodelist"
+        ],
+        "creation_date": 1420588794,
+        "question_id": 27809359,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27809359/how-can-xml-be-parsed-into-custom-classes"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 209
+  }
+}

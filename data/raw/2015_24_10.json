@@ -1,0 +1,294 @@
+{
+  "retrieved_at": "2026-10-26T19:08:51.703259+00:00",
+  "url": "https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=1420588800&todate=1420610399&sort=creation&order=asc&pagesize=100&page=10&filter=%21-r3UL..u.Sx0DXPeZc_u%298Iu",
+  "params": {
+    "site": "stackoverflow",
+    "fromdate": 1420588800,
+    "todate": 1420610399,
+    "sort": "creation",
+    "order": "asc",
+    "pagesize": 100,
+    "page": 10,
+    "filter": "!-r3UL..u.Sx0DXPeZc_u)8Iu"
+  },
+  "response": {
+    "items": [
+      {
+        "tags": [
+          "angularjs",
+          "angular-strap"
+        ],
+        "creation_date": 1420609897,
+        "question_id": 27813199,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813199/angularstrap-hide-popover"
+      },
+      {
+        "tags": [
+          "unity-game-engine",
+          "bluetooth",
+          "in-app-purchase",
+          "server",
+          "multiplayer"
+        ],
+        "creation_date": 1420609931,
+        "question_id": 27813202,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813202/offline-multiplayer-for-games-in-unity-and-in-app-purchase"
+      },
+      {
+        "tags": [
+          "mysql",
+          "select",
+          "duplicates"
+        ],
+        "creation_date": 1420609953,
+        "question_id": 27813206,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813206/mysql-return-duplicates-of-certain-field-with-full-row"
+      },
+      {
+        "tags": [
+          "python",
+          "intellij-idea"
+        ],
+        "creation_date": 1420609974,
+        "question_id": 27813209,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813209/intellij-update-classes-in-classpath-for-python-plug-in"
+      },
+      {
+        "tags": [
+          "javascript",
+          "cmusphinx",
+          "pocketsphinx"
+        ],
+        "creation_date": 1420610012,
+        "question_id": 27813216,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813216/how-to-get-languagemodel-js-file"
+      },
+      {
+        "tags": [
+          "c#",
+          "jquery",
+          "html",
+          "asp.net",
+          "ajax"
+        ],
+        "creation_date": 1420610013,
+        "question_id": 27813217,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813217/modalpopupextender-close-itself"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "angularjs-ng-repeat"
+        ],
+        "creation_date": 1420610021,
+        "question_id": 27813221,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813221/to-update-in-ng-rpeat-angularjs"
+      },
+      {
+        "tags": [
+          "vb.net",
+          "date",
+          "datetime",
+          "time"
+        ],
+        "creation_date": 1420610024,
+        "question_id": 27813223,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813223/setting-your-own-date-and-time-in-vbnet-without-relying-to-your-pcs-time-and-da"
+      },
+      {
+        "tags": [
+          "c++",
+          "algorithm",
+          "math",
+          "data-structures"
+        ],
+        "creation_date": 1420610050,
+        "question_id": 27813227,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813227/reach-a-target-number-only-using-other-two-numbers"
+      },
+      {
+        "tags": [
+          "actionscript-3",
+          "flash"
+        ],
+        "creation_date": 1420610070,
+        "question_id": 27813228,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813228/is-date-spinner-available-in-flash"
+      },
+      {
+        "tags": [
+          "sql",
+          "sql-server",
+          "sql-server-2008",
+          "ms-access"
+        ],
+        "creation_date": 1420610088,
+        "question_id": 27813230,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813230/access-query-vs-sql-server-2008-query"
+      },
+      {
+        "tags": [
+          "excel",
+          "vba"
+        ],
+        "creation_date": 1420610100,
+        "question_id": 27813233,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813233/copy-specific-cell-contents-into-clipboard-in-excel"
+      },
+      {
+        "tags": [
+          "node.js",
+          "module",
+          "debian",
+          "npm"
+        ],
+        "creation_date": 1420610106,
+        "question_id": 27813234,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813234/npm-module-installation-constantly-aborting"
+      },
+      {
+        "tags": [
+          "bash",
+          "shell",
+          "unix",
+          "command-line"
+        ],
+        "creation_date": 1420610125,
+        "question_id": 27813237,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813237/is-it-possible-to-split-a-huge-text-file-based-on-number-of-lines-unpacking-a"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "creation_date": 1420610158,
+        "question_id": 27813245,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813245/does-inheritance-turn-a-class-into-an-object"
+      },
+      {
+        "tags": [
+          "c",
+          "type-conversion"
+        ],
+        "creation_date": 1420610175,
+        "question_id": 27813248,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813248/why-is-it-printing-255"
+      },
+      {
+        "tags": [
+          "angularjs",
+          "internet-explorer",
+          "requirejs",
+          "wamp"
+        ],
+        "creation_date": 1420610189,
+        "question_id": 27813250,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813250/angular-is-undefined-on-ie10"
+      },
+      {
+        "tags": [
+          "javascript",
+          "python",
+          "selenium",
+          "web-scraping",
+          "scrapy"
+        ],
+        "creation_date": 1420610194,
+        "question_id": 27813251,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813251/web-scraping-automating-button-click"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "xml",
+          "string",
+          "android-edittext"
+        ],
+        "creation_date": 1420610196,
+        "question_id": 27813252,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813252/how-to-get-and-set-text-android"
+      },
+      {
+        "tags": [
+          "java",
+          "static",
+          "nullreferenceexception"
+        ],
+        "creation_date": 1420610237,
+        "question_id": 27813258,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813258/how-is-it-possible-to-access-static-variables-from-a-null-reference"
+      },
+      {
+        "tags": [
+          "c#",
+          "winforms",
+          "timer",
+          "picturebox"
+        ],
+        "creation_date": 1420610257,
+        "question_id": 27813261,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813261/how-to-limit-picturebox-movement-to-screen"
+      },
+      {
+        "tags": [
+          "forms",
+          "haskell",
+          "yesod"
+        ],
+        "creation_date": 1420610295,
+        "question_id": 27813267,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813267/parametrized-forms-in-yesod"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "listview",
+          "android-listview"
+        ],
+        "creation_date": 1420610349,
+        "question_id": 27813277,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813277/listview-and-array-adapters-in-android"
+      },
+      {
+        "tags": [
+          "hide",
+          "show-hide",
+          "clickable",
+          "mousedown",
+          "mouseup"
+        ],
+        "creation_date": 1420610395,
+        "question_id": 27813285,
+        "content_license": "CC BY-SA 3.0",
+        "link": "https://stackoverflow.com/questions/27813285/animation-appear-on-mousedown-and-disappear-on-mouse-up"
+      }
+    ],
+    "has_more": false,
+    "quota_remaining": 199
+  }
+}
