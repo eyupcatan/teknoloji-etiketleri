@@ -59,7 +59,7 @@ Gömme örneği (GERCEK_YAYIN_URL yerine doğrulanmış ve ziyaretçi erişimine
 
 Depo: https://github.com/eyupcatan/teknoloji-etiketleri
 
-Herkese açık etkileşimli ağ adresi: **TODO: yayımlanınca buraya yazılacak.** Önceki özel Sites adresi yalnızca sahibine açıktır ve teslim için kullanılmaz.
+Herkese açık etkileşimli ağ adresi: https://eyupcatan.github.io/teknoloji-etiketleri/ Önceki özel Sites adresi yalnızca sahibine açıktır ve teslim için kullanılmaz.
 
 ## Yöntemler
 
